@@ -1,11 +1,13 @@
 # Do Fossil Footprints Falsify Flood Geology?
 
-## A response to “Outpaced by the Evidence: How Fossil Footprints Shoot Flood Geology in the Foot”
+## A response to [“Outpaced by the Evidence: How Fossil Footprints Shoot Flood Geology in the Foot”](https://theevidenceisplain.blogspot.com/2026/03/outpaced-by-evidence-how-fossil.html)
 
 **J. D. Longmire**  
 **11 September 2026**
 
-A recent article at *The Evidence Is Plain* argues that fossil footprints expose a fatal contradiction in Flood geology. The argument deserves a careful answer because it identifies a real constraint that any catastrophic model must explain.
+This response engages a March 2026 article published by my fellow blogger at *The Evidence Is Plain*. Readers should consult the [original article](https://theevidenceisplain.blogspot.com/2026/03/outpaced-by-evidence-how-fossil.html) directly so that its argument can be evaluated in its own words and context.
+
+The article argues that fossil footprints expose a fatal contradiction in Flood geology. The argument deserves a careful answer because it identifies a real constraint that any catastrophic model must explain.
 
 The basic observation is straightforward. Fossil trackways require a substrate that an animal could traverse, impressions that survived long enough to remain recognizable, and subsequent burial sufficient to preserve them. A model that required uninterrupted, high-energy erosion at the same location throughout the entire Flood could not easily account for such surfaces.
 
@@ -125,7 +127,7 @@ Noffke, N., Hagadorn, J.W. and Bartlett, S. (2019) ‘Microbial structures and d
 
 Noffke, N. (2026) ‘Microbial mats in dinosaur ichnocoenoses’, *Sedimentology*. doi:10.1111/sed.70037.
 
-The Evidence Is Plain (2026) ‘Outpaced by the Evidence: How Fossil Footprints Shoot Flood Geology in the Foot’, March 2026. Available at: https://theevidenceisplain.blogspot.com/2026/03/outpaced-by-evidence-how-fossil.html (Accessed: 11 September 2026).
+The Evidence Is Plain (2026) [‘Outpaced by the Evidence: How Fossil Footprints Shoot Flood Geology in the Foot’](https://theevidenceisplain.blogspot.com/2026/03/outpaced-by-evidence-how-fossil.html), March 2026. (Accessed: 11 September 2026).
 
 Utah Geological Survey (n.d.) ‘The Case for Fishing Dinosaurs at the St. George Dinosaur Discovery Site at Johnson Farm’.
 
