@@ -58,7 +58,10 @@
 <a class="current" href="{{ '.' | url }}" aria-current="page">Home</a><a href="#explore">Explore</a><a href="{{ 'evidence/' | url }}">Evidence</a><a href="{{ 'objections/' | url }}">Objections</a><a href="{{ 'research-programmes/' | url }}">Research</a>
 <button class="search-link" type="button" aria-label="Search the site" data-search-open>{{ icon('search') }}</button>
 <a class="nav-discuss" href="{{ 'community/' | url }}">{{ icon('chat') }} Discuss</a>
-</nav></div></header>
+<a class="oddxian-badge oddxian-badge--nav" href="https://oddxian.com" target="_blank" rel="noopener noreferrer" aria-label="Part of the oddXian portfolio — opens oddxian.com in a new tab"><img src="{{ 'assets/oddxian-badge.png' | url }}" alt="" width="32" height="32" loading="lazy"></a>
+</nav>
+<a class="oddxian-badge oddxian-badge--mobile" href="https://oddxian.com" target="_blank" rel="noopener noreferrer" aria-label="Part of the oddXian portfolio — opens oddxian.com in a new tab"><img src="{{ 'assets/oddxian-badge.png' | url }}" alt="" width="32" height="32" loading="lazy"></a>
+</div></header>
 <dialog class="search-dialog" aria-labelledby="search-title"><button type="button" class="search-close" aria-label="Close search">×</button><h2 id="search-title">Search the WorldModel</h2><form action="{{ 'sources/' | url }}" method="get"><label for="landing-search">What would you like to explore?</label><div><input id="landing-search" name="q" type="search" placeholder="Try observation, Scripture, or foundations" required><button class="button primary" type="submit">Search →</button></div></form></dialog><main id="main">
 <section class="hero" aria-labelledby="hero-title">
 <img class="hero-landscape" src="{{ 'graphics/hero/hero-desktop.png' | url }}" alt="" width="1025" height="255" fetchpriority="high">
