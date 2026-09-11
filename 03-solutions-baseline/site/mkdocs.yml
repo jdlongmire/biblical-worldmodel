@@ -1,0 +1,55 @@
+site_name: The Biblical WorldModel
+site_description: Scripture, observation, reason. Explore a unified view of reality
+  with intellectual honesty and humility.
+site_url: https://jdlongmire.github.io/biblical-worldmodel/
+repo_url: https://github.com/jdlongmire/biblical-worldmodel
+repo_name: biblical-worldmodel
+edit_uri: edit/main/03-solutions-baseline/site/docs/
+theme:
+  name: material
+  custom_dir: overrides
+  font: false
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+  features:
+  - navigation.footer
+  - navigation.top
+  - search.highlight
+  - search.suggest
+nav:
+- Home: index.md
+- Start Here: start-here.md
+- Scripture: scripture.md
+- Evidence: evidence.md
+- Methodology: methodology.md
+- The WorldModel: worldmodel.md
+- Creation: creation.md
+- Earth History: earth-history.md
+- Cosmology: cosmology.md
+- Biology: biology.md
+- Foundations: foundations.md
+- Compare Frameworks: compare.md
+- Objections: objections.md
+- Open Problems: open-problems.md
+- Research Programmes: research-programmes.md
+- Media: media.md
+- Community & Contact: community.md
+- Sources & Glossary: sources.md
+plugins:
+- search
+markdown_extensions:
+- admonition
+- attr_list
+- md_in_html
+- pymdownx.arithmatex:
+    generic: true
+extra_css:
+- styles/site.css
+extra_javascript:
+- javascripts/mathjax.js
+- https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+copyright: "\xA9 2026 J. D. Longmire \xB7 Human-Curated, AI-Enabled (HCAE)"
+hooks:
+- scripts/assets.py

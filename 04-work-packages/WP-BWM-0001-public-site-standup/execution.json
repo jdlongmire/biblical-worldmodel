@@ -5,6 +5,9 @@
     "04-work-packages/WP-BWM-0001-public-site-standup/**",
     "03-solutions-baseline/site/**",
     ".github/workflows/**",
-    "06-operations/runbooks/site/**"
+    "06-operations/runbooks/site/**",
+    "README.md",
+    "04-work-packages/README.md",
+    "05-mxm-construct/memory/meta-context/current/ACTIVE-FOCUS.md"
   ]
 }

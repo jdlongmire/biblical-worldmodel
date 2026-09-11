@@ -1,6 +1,6 @@
 id: WP-BWM-0001
 title: Biblical WorldModel public site stand-up
-status: proposed
+status: in_progress
 scope_class: repository-local
 supported_workers: []
 worker_conformance: {}
@@ -17,7 +17,9 @@ authority_boundary: JD authorized public repository creation from template and t
   of associated work packages on 2026-09-11. That foundation slice is WP-BWM-0004.
   Site implementation remains pending and cannot change Home resources. This authorization
   does not extend to unspecified paid providers, private-contact destinations or shared
-  media-service changes.
+  media-service changes. JD explicitly authorized standing up GitHub Pages and building
+  the landing page on 2026-09-11. Product-only workflow configuration, publication
+  and verification are in scope.
 constraints:
 - Separate product Git repository, dedicated package branch/worktree and product-local
   dependency environment.
