@@ -52,6 +52,7 @@ markdown_extensions:
     generic: true
 extra_css:
 - styles/site.css
+- styles/link-contrast.css
 extra_javascript:
 - javascripts/mathjax.js
 - https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
