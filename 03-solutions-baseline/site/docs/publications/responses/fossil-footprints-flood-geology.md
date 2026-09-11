@@ -35,6 +35,8 @@ This matters because evidence for elapsed time does not test every stage of the 
 
 I will call that **phase assignment**: determining where an observed geological feature belongs within the proposed historical sequence.
 
+<figure><img src="../assets/fossil-footprints-biblical-geology-mobile.png" alt="Conceptual DFM/CHFM timeline in four stages — original creation, the Fall and pre-Flood world, the global Flood, and the post-Flood world — showing two pathways by which fossil footprints can form and be preserved (ordinary pre-Flood sedimentation, or Flood-event burial), plus a four-step footprint-to-fossil sequence (traversal, rapid burial, lithification, later exposure)." width="512" height="768"><figcaption>A conceptual orientation graphic for the DFM/CHFM framework described above. It illustrates the model's structure, not its evidential argument — it does not stand in for this article's qualifications concerning Dinosaur Ridge, stacked track horizons, phase assignment, or the falsification criteria stated below.</figcaption></figure>
+
 ## What the footprints actually establish
 
 The basic observation is straightforward. Fossil trackways require a substrate that an animal could traverse, impressions that survived long enough to remain recognizable, and subsequent burial sufficient to preserve them. A model that required uninterrupted, high-energy erosion at the same location throughout the entire Flood could not easily account for such surfaces.
