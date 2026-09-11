@@ -4,7 +4,7 @@ import argparse
 from pathlib import Path
 import re
 
-ROOT_DIRS = {'.git', '.github', '.claude', *(f'{n:02}-{name}' for n, name in enumerate((
+ROOT_DIRS = {'.git', '.github', '.claude', 'graphics-library', *(f'{n:02}-{name}' for n, name in enumerate((
     'meta-model', 'strategic-baseline', 'systems-baseline', 'solutions-baseline',
     'work-packages', 'mxm-construct', 'operations')))}
 ROOT_FILES = {'.git', '.gitignore', 'AGENTS.md', 'CLAUDE.md', 'MXM.md', 'MEMORY.md', 'README.md'}

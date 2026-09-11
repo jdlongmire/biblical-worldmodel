@@ -3,7 +3,12 @@
   "owner": "thinx",
   "path_authority": [
     "04-work-packages/WP-BWM-0002-visual-assets/**",
-    "03-solutions-baseline/site/**"
+    "03-solutions-baseline/site/**",
+    "graphics-library/**",
+    "00-meta-model/verify-repository-layout.py",
+    "00-meta-model/test_verify_repository_layout.py",
+    "00-meta-model/decisions/ADR-BWM-0002-graphics-library.md",
+    "README.md"
   ],
-  "state": "planned; no lease acquired"
+  "state": "active bounded extraction slice"
 }

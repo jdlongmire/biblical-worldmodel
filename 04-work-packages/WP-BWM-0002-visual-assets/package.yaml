@@ -1,6 +1,6 @@
 id: WP-BWM-0002
 title: Responsive visual assets
-status: proposed
+status: in_progress
 scope_class: repository-local
 supported_workers: []
 worker_conformance: {}
@@ -12,7 +12,10 @@ scope: Produce and integrate hero desktop/mobile substrates, four audience cards
 authority_boundary: JD authorized repository creation and transfer of these work packages
   on 2026-09-11. This records remaining work; it does not activate services, create
   external provider accounts or authorize private correspondence publication. ThinxHome
-  transition isolation is mandatory.
+  transition isolation is mandatory. JD directed decomposition of the supplied graphic
+  sheets into graphics-library/ on 2026-09-11. This authorizes deterministic extraction,
+  source retention and manifest creation; it does not approve technical claims, create
+  SVG originals, or complete site integration.
 dependencies:
 - WP-BWM-0001 asset conventions
 actions:
@@ -48,5 +51,12 @@ acceptance_criteria:
     portions must be tested during implementation.
   evidence:
     status: pending
-disposition: Transferred from bridge; implementation pending.
+disposition: Graphics decomposition slice implemented; 24 extracted draft PNGs, original
+  reference sheets, manifest and catalog retained. Remaining production assets, approvals
+  and deployed integration are pending.
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/2
+completed_slices:
+- name: Supplied sheet decomposition
+  date: '2026-09-11'
+  status: verified
+  evidence: extraction-evidence.md

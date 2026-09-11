@@ -28,6 +28,10 @@ class LayoutTests(unittest.TestCase):
         p.write_text(p.read_text().replace('| Repository-class | General Work / Publication |', '| Repository-class | Meta-Harness |'))
         self.assertTrue(any('Publication profile' in e for e in layout.verify(self.root)))
 
+    def test_graphics_library_is_allowed(self):
+        (self.root / 'graphics-library').mkdir()
+        self.assertEqual(layout.verify(self.root), [])
+
     def test_extra_root_directory(self):
         (self.root/'decisions').mkdir()
         self.assertTrue(any('Unexpected root' in e for e in layout.verify(self.root)))

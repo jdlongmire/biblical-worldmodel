@@ -1,0 +1,540 @@
+{
+  "schema_version": 1,
+  "operation": "Lossless native-pixel extraction from supplied composite PNG",
+  "date": "2026-09-11",
+  "sources": [
+    {
+      "path": "references/graphics-asset-sheet.png",
+      "sha256": "04c4d680a624fb962ac96a44f392e5f028d7fc43093f301fc9d04c6c68bf1afb",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "REFERENCE_DO_NOT_DEPLOY_AS_PAGE"
+    },
+    {
+      "path": "references/desktop-mobile-mockup.png",
+      "sha256": "a08b94d09cafd091da111c4abd44489324a54f7ad631492bfbc524bdd5317d20",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "REFERENCE_DO_NOT_DEPLOY_AS_PAGE"
+    }
+  ],
+  "assets": [
+    {
+      "id": "BWM-HERO-DESKTOP",
+      "path": "hero/hero-desktop.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        20,
+        55,
+        1045,
+        310
+      ],
+      "width": 1025,
+      "height": 255,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "9a4ffd776b854cf3c4bfd7de45a931597ad57d4527ec0c4472e77969052d7beb",
+      "alt": "Sunrise over a mountain lake and forest, wide composition.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-HERO-MOBILE",
+      "path": "hero/hero-mobile-source.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        1065,
+        55,
+        1517,
+        310
+      ],
+      "width": 452,
+      "height": 255,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "455d7bd320b09e6319223d603ddbfb4675c85419e03ea98735174565394ad842",
+      "alt": "Sunrise over a mountain lake, as shown in the mobile-labelled panel.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. The sheet labels this mobile but contains a landscape image; a production portrait composition remains pending.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-AUD-SEEKER",
+      "path": "audiences/seeker.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        20,
+        400,
+        386,
+        593
+      ],
+      "width": 366,
+      "height": 193,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "514b09d322bce219702ae9c487a9c067667edd94dd4c4a63cf37c9ba865e7e41",
+      "alt": "Sunlit woodland path.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-AUD-CURIOUS",
+      "path": "audiences/curious-mind.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        397,
+        400,
+        762,
+        593
+      ],
+      "width": 365,
+      "height": 193,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "a5ef514599eeaee7129c58d497ee9627556be7305065519e28396989ac964a27",
+      "alt": "Milky Way above mountains and a lake.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-AUD-DEEP",
+      "path": "audiences/deep-thinker.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        775,
+        400,
+        1139,
+        593
+      ],
+      "width": 364,
+      "height": 193,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "ff699fcc4121612f6bbb9ca4a009985db95c9370b45683e5f16ff11d8e44c1a0",
+      "alt": "Mountain ridges beneath a golden sky.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-AUD-SKEPTIC",
+      "path": "audiences/skeptic-reviewer.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        1151,
+        400,
+        1517,
+        593
+      ],
+      "width": 366,
+      "height": 193,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "4d52ab5fcf8e539d1e0ff582b638076771c27a5def93327e17c66eb19887e963",
+      "alt": "Snowy mountain range reflected in a lake.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-CONCEPT-LAYERS",
+      "path": "concepts/worldmodel-layers-labelled.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        23,
+        685,
+        443,
+        984
+      ],
+      "width": 420,
+      "height": 299,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "dc07feeca9087081afd571aef6c2805e0b28d4c4732cf507198bd96b5cd81461",
+      "alt": "Layered conceptual illustration labelled Foundations of Reality, Cosmology, Earth History, Biology and Human Origins, and Scripture and Worldview.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Intrinsic labels and white background retained; not a transparent 1200px source. Conceptual relationships require source review before publication.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-SUPPORT-FOOTER",
+      "path": "support/footer-landscape.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        981,
+        687,
+        1517,
+        869
+      ],
+      "width": 536,
+      "height": 182,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "33d1a2469453b8f29b5856a82e8ecc534bb3e59a39d1421bb25a83da4d0e2708",
+      "alt": "Layered blue mountain ridges beneath a sunset sky.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-WORDMARK",
+      "path": "branding/wordmark.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        34,
+        9,
+        436,
+        45
+      ],
+      "width": 402,
+      "height": 36,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "2fc5f90c114dceebf0fc0398b16735c0e32b4bfc15b55ec1a16c7e6b22303d19",
+      "alt": "The Biblical WorldModel wordmark.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-SCRIPTURE",
+      "path": "icons/scripture.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        479,
+        687,
+        539,
+        746
+      ],
+      "width": 60,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "d31a85f46fc410fc1b1407063567f1743bfa5ddd2f520e307f4911324977948e",
+      "alt": "Scripture icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-EVIDENCE",
+      "path": "icons/evidence.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        573,
+        687,
+        634,
+        746
+      ],
+      "width": 61,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "9f941f3c84f16bd680568fb2af6b3d843d478b5ddcc559d858f3fbabe47b9e11",
+      "alt": "Evidence icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-FRAMEWORK",
+      "path": "icons/framework.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        670,
+        687,
+        731,
+        746
+      ],
+      "width": 61,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "57b62df8d3ef2f1b0f6c25bebd30b4baf0bfcde97ae2472db3d3fb4ce514189c",
+      "alt": "Framework icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-DISCUSSION",
+      "path": "icons/discussion.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        771,
+        687,
+        833,
+        746
+      ],
+      "width": 62,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "4c2977c9b2398196d6261d86a9386bcb455005bf1fedde0d8a6832e68e043a94",
+      "alt": "Discussion icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-COMMUNITY",
+      "path": "icons/community.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        868,
+        687,
+        932,
+        746
+      ],
+      "width": 64,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "447d4e9e1dabd0405d6fb997fe0978b789e26833903defd2c64750af75d08c21",
+      "alt": "Community icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-OBJECTION",
+      "path": "icons/objection.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        479,
+        781,
+        539,
+        840
+      ],
+      "width": 60,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "8640dd8f47124c1ed379e965c42b25dfd71d8862e4f9b39a11405f123010c46c",
+      "alt": "Objection icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-UNCERTAINTY",
+      "path": "icons/uncertainty.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        573,
+        781,
+        634,
+        840
+      ],
+      "width": 61,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "827b6704e1592fcd6a9663af2a45d51b1617c76105924db1f6e1aeeff272a8ca",
+      "alt": "Uncertainty icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-REPORT-ERROR",
+      "path": "icons/report-error.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        670,
+        781,
+        731,
+        840
+      ],
+      "width": 61,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "571838de003c91b3a6540d88cf6f3ec806bcfa7bc66f64633da340bfaa7af174",
+      "alt": "Report error icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-CONTACT",
+      "path": "icons/contact.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        771,
+        781,
+        833,
+        840
+      ],
+      "width": 62,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "fd6e064bb9757df5dde465b39b8689217918075b27a57a29706a1c5c8594b687",
+      "alt": "Contact icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-EXPLORE",
+      "path": "icons/explore.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        868,
+        781,
+        932,
+        840
+      ],
+      "width": 64,
+      "height": 59,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "161d6d8029e8b40990c3c980f6f2726278413d74f55819a75bdcd25a2df3dc08",
+      "alt": "Explore icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-JOURNEY",
+      "path": "icons/journey.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        479,
+        881,
+        539,
+        943
+      ],
+      "width": 60,
+      "height": 62,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "8827ee4d2e3ab519347421a6c37148868734fa1538709305b444cd2a1f9b0c94",
+      "alt": "Journey icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-COMPARE",
+      "path": "icons/compare.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        573,
+        881,
+        634,
+        943
+      ],
+      "width": 61,
+      "height": 62,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "ac2987b939c6221a87580e39c6dcca07dee726a8eaea211b3121d178e22467bd",
+      "alt": "Compare icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-RESEARCH",
+      "path": "icons/research.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        670,
+        881,
+        731,
+        943
+      ],
+      "width": 61,
+      "height": 62,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "54983d9b655ce19627c8d573c4ea6d5507afa42f51ef46c56671e32d2387f618",
+      "alt": "Research icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-WATCH",
+      "path": "icons/watch.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        771,
+        881,
+        833,
+        943
+      ],
+      "width": 62,
+      "height": 62,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "8ee9ea522c364bd68d118ff63ae73fd0bc05b441cd91f44ee680e77fc0011cc6",
+      "alt": "Watch icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-ICON-ASK",
+      "path": "icons/ask.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "references/graphics-asset-sheet.png",
+      "crop_xyxy": [
+        868,
+        881,
+        932,
+        943
+      ],
+      "width": 64,
+      "height": 62,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "a1309f05a0cf00c6aa59f47cccac014e658a6b409a945f0fbb5957426cbed85a",
+      "alt": "Ask icon.",
+      "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
+      "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    }
+  ],
+  "missing_from_supplied_sheet": [
+    "Independent SVG originals",
+    "True alpha-transparent diagram and icons",
+    "Advertised full-resolution individual assets",
+    "Portrait mobile hero",
+    "Observation/inference/history diagram",
+    "Programme relationship diagram",
+    "Falsification/status diagram"
+  ]
+}
