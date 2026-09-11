@@ -1,3 +1,6 @@
+---
+description: A table of the canonical research repositories — DFM, CHFM, TRT, and LRT — this site explains and routes readers to for current technical status.
+---
 # Research programmes and canonical sources
 
 This site is a public explanation and navigation layer. It does not replace the repositories that own technical programme claims.

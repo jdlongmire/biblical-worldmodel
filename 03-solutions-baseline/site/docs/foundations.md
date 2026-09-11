@@ -1,3 +1,6 @@
+---
+description: An orientation to foundational questions of logic, information, action, and actuality, pointing to the Triadic Reality Theory and Logic Realism Theory repositories.
+---
 # Foundations of reality
 
 Questions about logic, information, action, and actuality sit beneath many of the explanations we use.

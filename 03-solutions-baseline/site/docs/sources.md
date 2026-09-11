@@ -1,3 +1,6 @@
+---
+description: Source discipline for the site and a working glossary of terms — observation, inference, historical reconstruction, auxiliary hypothesis, and falsifier.
+---
 # Sources and glossary
 
 ## Source discipline

@@ -1,3 +1,6 @@
+---
+description: A framework and question set for fairly comparing Biblical WorldModel proposals with deep-time, old-earth, progressive-creation, evolutionary-creation, and young-earth accounts.
+---
 # Compare frameworks
 
 Fair comparison starts by understanding each framework on its own terms. This section will compare Biblical WorldModel proposals with conventional deep-time reconstruction, old-earth creationism, progressive creation, evolutionary creation, and conventional young-earth frameworks.

@@ -22,7 +22,32 @@
 <title>The Biblical WorldModel — Scripture, Observation, Reason</title>
 <meta name="description" content="Explore a unified understanding of reality in light of Scripture and what we observe. Four reader journeys, evidence, objections, and canonical research.">
 <link rel="canonical" href="{{ config.site_url }}"><meta name="theme-color" content="#082e46">
-<meta property="og:title" content="The Biblical WorldModel"><meta property="og:description" content="One Creator. One world. A coherent story."><meta property="og:type" content="website"><meta property="og:url" content="{{ config.site_url }}"><meta property="og:image" content="{{ config.site_url }}graphics/hero/hero-desktop.png">
+<link rel="icon" href="{{ 'assets/favicon.png' | url }}"><link rel="apple-touch-icon" href="{{ 'assets/apple-touch-icon.png' | url }}">
+<meta property="og:type" content="website"><meta property="og:site_name" content="{{ config.site_name }}"><meta property="og:title" content="The Biblical WorldModel"><meta property="og:description" content="One Creator. One world. A coherent story."><meta property="og:url" content="{{ config.site_url }}"><meta property="og:image" content="{{ config.site_url }}graphics/hero/hero-desktop.png"><meta property="og:image:width" content="1025"><meta property="og:image:height" content="255">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="The Biblical WorldModel"><meta name="twitter:description" content="One Creator. One world. A coherent story."><meta name="twitter:image" content="{{ config.site_url }}graphics/hero/hero-desktop.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ config.site_url }}#website",
+      "url": "{{ config.site_url }}",
+      "name": "{{ config.site_name }}",
+      "description": "{{ config.site_description }}",
+      "inLanguage": "en",
+      "author": { "@id": "{{ config.site_url }}#person" },
+      "publisher": { "@id": "{{ config.site_url }}#person" }
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ config.site_url }}#person",
+      "name": "J. D. Longmire",
+      "url": "https://github.com/jdlongmire"
+    }
+  ]
+}
+</script>
 <link rel="stylesheet" href="{{ 'styles/site.css' | url }}">
 </head><body class="landing">
 <a class="skip" href="#main">Skip to content</a>

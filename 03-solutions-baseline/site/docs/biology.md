@@ -1,3 +1,6 @@
+---
+description: An orientation to biology and human origins, distinguishing theological, empirical, and proposed-explanation claims; full content is in preparation.
+---
 # Biology and human origins
 
 This section is reserved for careful treatments of life, humanity, and the relationship between observations and historical explanations.
