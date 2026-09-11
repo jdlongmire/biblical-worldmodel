@@ -1,0 +1,19 @@
+.md-typeset a:not(.md-button){
+  color:#075b86;
+  text-decoration:underline;
+  text-decoration-color:#8bb3c7;
+  text-decoration-thickness:1px;
+  text-underline-offset:0.14em;
+}
+
+.md-typeset a:not(.md-button):hover,
+.md-typeset a:not(.md-button):focus-visible{
+  color:#043f61;
+  text-decoration-color:currentColor;
+}
+
+.md-typeset h1 a,
+.md-typeset h2 a,
+.md-typeset h3 a{
+  color:#075b86;
+}
