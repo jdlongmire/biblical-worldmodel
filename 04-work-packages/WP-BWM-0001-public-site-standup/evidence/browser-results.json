@@ -1,0 +1,17 @@
+{
+  "url": "https://jdlongmire.github.io/biblical-worldmodel/",
+  "viewports": [
+    1440,
+    768,
+    390,
+    320
+  ],
+  "responsive_overflow": "none",
+  "all_landing_images": "loaded",
+  "mobile_menu": "passed",
+  "search": "real observation results returned",
+  "mathematics": "rendered MathJax elements present",
+  "reader_routes": "4 passed",
+  "javascript_errors": [],
+  "http_errors": []
+}

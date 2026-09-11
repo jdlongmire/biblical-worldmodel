@@ -1,0 +1,16 @@
+{
+  "site": "https://jdlongmire.github.io/biblical-worldmodel/",
+  "deployed_source_sha": "8b666356aca1b2750268218637fdc26fc47bb725",
+  "successful_run": "https://github.com/jdlongmire/biblical-worldmodel/actions/runs/34600015810",
+  "negative_control_run": "https://github.com/jdlongmire/biblical-worldmodel/actions/runs/34600082664",
+  "negative_control_build": "failure (deliberate)",
+  "negative_control_deploy": "skipped",
+  "live_home_after_negative_control": "HTTP 200; byte-identical to verified local artifact",
+  "home_sha256": "3ab1a17fb1aee084e64704b1172adff2cbcc5f3fc5bca5cbbd12814f2d6fc2e7",
+  "framework": {
+    "mkdocs": "1.6.1",
+    "mkdocs-material": "9.7.7",
+    "MathJax": "3.2.2"
+  },
+  "human_acceptance": "pending"
+}

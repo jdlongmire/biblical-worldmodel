@@ -2,7 +2,7 @@
 
 | ID | Scope | Status | Dependency |
 |---|---|---|---|
-| [WP-BWM-0001](WP-BWM-0001-public-site-standup/README.md) | Public site and media conventions | Proposed | Foundation |
+| [WP-BWM-0001](WP-BWM-0001-public-site-standup/README.md) | Public site and media conventions | Deployed and verified; acceptance pending | Foundation |
 | [WP-BWM-0002](WP-BWM-0002-visual-assets/README.md) | Responsive visual asset backlog | Proposed | Site asset conventions |
 | [WP-BWM-0003](WP-BWM-0003-community-contact/README.md) | Community, objections and private contact | Proposed | Public site |
 | [WP-BWM-0004](WP-BWM-0004-repository-foundation/README.md) | Template foundation and source transfer | Verified; acceptance pending | None |

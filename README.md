@@ -2,7 +2,7 @@
 
 A public home for exploring Scripture, observations, historical interpretation, and the research programmes informing the Biblical WorldModel.
 
-**Repository foundation established. The public website is not deployed yet.**
+**[Visit the live website](https://jdlongmire.github.io/biblical-worldmodel/).**
 
 This repository is the public explanation and navigation layer. Technical programme claims remain authoritative in their Atlas-designated research repositories. An accessible explanation, graphic, or narration must preserve its source's status and uncertainty.
 
@@ -23,7 +23,7 @@ Created from `jdlongmire/longmire-repo-template`; the `00`–`06` structure is r
 
 | Package | Work | State |
 |---|---|---|
-| [WP-BWM-0001](04-work-packages/WP-BWM-0001-public-site-standup/README.md) | MkDocs Material site and GitHub Actions → Pages | Planned |
+| [WP-BWM-0001](04-work-packages/WP-BWM-0001-public-site-standup/README.md) | MkDocs Material site and GitHub Actions → Pages | Deployed and verified |
 | [WP-BWM-0002](04-work-packages/WP-BWM-0002-visual-assets/README.md) | Responsive visual assets | Extraction complete; production/integration pending |
 | [WP-BWM-0003](04-work-packages/WP-BWM-0003-community-contact/README.md) | Community interaction and private contact | Planned |
 | [WP-BWM-0004](04-work-packages/WP-BWM-0004-repository-foundation/README.md) | Template foundation and backlog transfer | See package evidence |

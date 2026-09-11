@@ -1,6 +1,6 @@
 id: WP-BWM-0001
 title: Biblical WorldModel public site stand-up
-status: in_progress
+status: verified
 scope_class: repository-local
 supported_workers: []
 worker_conformance: {}
@@ -58,7 +58,12 @@ acceptance_criteria:
   text: Public jdlongmire/biblical-worldmodel exists; a GitHub-hosted Actions run
     builds and deploys a pinned revision to a publicly reachable Pages URL.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   verified_by:
   - scripts/verify-publication.py
 - id: AC-02
@@ -66,28 +71,48 @@ acceptance_criteria:
     mkdocs build --strict; a deliberately broken build cannot reach the deployment
     job.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   verified_by:
   - scripts/verify-build.py
 - id: AC-03
   text: All navigation routes resolve; seeker, serious reader, deep thinker, and skeptic/researcher
     journeys are usable on desktop and mobile.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   model_judged: Link checks are mechanical; meaningful reader journeys and responsive
     usability require recorded visual review.
 - id: AC-04
   text: Browser checks demonstrate rendered mathematics and a successful internal
     search returning a known page on deployed Pages.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   verified_by:
   - scripts/verify-browser.py
 - id: AC-05
   text: DFM, CHFM, and TRT links resolve publicly to Atlas-designated canonical repositories,
     and authority/status language preserves canonical ownership.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   model_judged: HTTP checks cannot establish canonical authority or fidelity; compare
     against Atlas and source revisions.
 - id: AC-06
@@ -95,7 +120,12 @@ acceptance_criteria:
     project-relative paths, and usable mobile layout; replaceable SVG and raster assets
     are supported.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   verified_by:
   - scripts/verify-assets.py
   - scripts/verify-browser.py
@@ -103,7 +133,12 @@ acceptance_criteria:
   text: Document source-revision manifests, captions, transcripts, thumbnails, and
     future video/audio embedding; no narration job is required for this package.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   model_judged: Review that conventions permit actual future production without implying
     a pipeline was exercised.
 - id: AC-08
@@ -111,7 +146,12 @@ acceptance_criteria:
     runners; no Home service, configuration, credential, environment, repository,
     or transition branch is changed by this package.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   model_judged: Review retained commands and diffs against the boundary; concurrent
     Home changes cannot be attributed by timestamp or a global before/after diff.
     No claim of universal enforcement.
@@ -120,7 +160,12 @@ acceptance_criteria:
     URL, Pages URL, commit SHAs, Actions run, framework versions, visual evidence,
     deviations, and unresolved issues for the bridge handoff.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - evidence/publication.json
+    - evidence/browser-results.json
+    retained_at: 04-work-packages/WP-BWM-0001-public-site-standup/evidence.md
   model_judged: Review completeness and usability of retained evidence and operator
     instructions.
 deferred:
@@ -128,8 +173,9 @@ deferred:
 - Full content/graphics backlog
 - Custom domain and DNS
 - Any ThinxHome transition or infrastructure change
-disposition: Planning record and source requirements now homed in the product; repository
-  foundation owned by WP-BWM-0004. Site execution and acceptance pending.
+disposition: Landing and Pages baseline implemented, deployed and verified; JD acceptance
+  pending. Full content development, production asset approval, community/private-contact
+  activation and narration remain separate work.
 requirements_source: requirements.md (full checklist remains in scope; package criteria
   group outcomes without dropping requirements)
 site_root: 03-solutions-baseline/site/
