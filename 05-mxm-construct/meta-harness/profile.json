@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "aide_name": "thinx",
+  "principal_operator": "JD Longmire",
+  "repository_owner": "jdlongmire",
+  "operating_system": null,
+  "codex_interface": null,
+  "github_username": "jdlongmire",
+  "work_priorities": [
+    "Preserve ThinxHome transition",
+    "Establish repository and migrate associated work packages",
+    "Implement the publication site in a later phase"
+  ],
+  "communication_preferences": [],
+  "onboarding_status": "complete",
+  "repository_class": "General Work / Publication",
+  "identity_scope": "Existing external assistant; repository-local project guidance only"
+}

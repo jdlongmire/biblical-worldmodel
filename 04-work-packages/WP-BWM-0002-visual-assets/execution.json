@@ -1,0 +1,9 @@
+{
+  "branch": "wp/bwm-0002",
+  "owner": "thinx",
+  "path_authority": [
+    "04-work-packages/WP-BWM-0002-visual-assets/**",
+    "03-solutions-baseline/site/**"
+  ],
+  "state": "planned; no lease acquired"
+}

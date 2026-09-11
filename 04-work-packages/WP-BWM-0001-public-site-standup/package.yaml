@@ -1,6 +1,6 @@
 id: WP-BWM-0001
 title: Biblical WorldModel public site stand-up
-status: planned
+status: proposed
 scope_class: repository-local
 supported_workers: []
 worker_conformance: {}
@@ -13,12 +13,11 @@ source_handoff:
 scope: Create the public Markdown-first MkDocs Material site, GitHub Pages delivery,
   four reader journeys, responsive asset conventions, and future narrated-media integration.
   Public summaries do not acquire canonical research authority.
-authority_boundary: JD authorized standing up this work package on 2026-09-11 and
-  explicitly required no interruption or clash with the ThinxHome transition. This
-  turn creates the local governed plan only. Public repository creation, workflow
-  activation, publishing, and bridge correspondence remain execution actions, not
-  actions performed or authorized by a staged source document alone. Home retains
-  priority.
+authority_boundary: JD authorized public repository creation from template and transfer
+  of associated work packages on 2026-09-11. That foundation slice is WP-BWM-0004.
+  Site implementation remains pending and cannot change Home resources. This authorization
+  does not extend to unspecified paid providers, private-contact destinations or shared
+  media-service changes.
 constraints:
 - Separate product Git repository, dedicated package branch/worktree and product-local
   dependency environment.
@@ -49,7 +48,9 @@ actions:
   disposition.
 verification: Named scripts are planned deliverables, not existing or passing checks.
   Implement them during execution; retain commands, environment, artifact SHA and
-  results. Model-judged criteria require explicit recorded review.
+  results. Model-judged criteria require explicit recorded review. All planned scripts
+  live under 03-solutions-baseline/site/scripts/; paths in verified_by are relative
+  to the site root.
 acceptance_criteria:
 - id: AC-01
   text: Public jdlongmire/biblical-worldmodel exists; a GitHub-hosted Actions run
@@ -125,5 +126,11 @@ deferred:
 - Full content/graphics backlog
 - Custom domain and DNS
 - Any ThinxHome transition or infrastructure change
-disposition: Work package established locally; implementation and acceptance pending.
-  No remote repository, deployment or bridge message created.
+disposition: Planning record and source requirements now homed in the product; repository
+  foundation owned by WP-BWM-0004. Site execution and acceptance pending.
+requirements_source: requirements.md (full checklist remains in scope; package criteria
+  group outcomes without dropping requirements)
+site_root: 03-solutions-baseline/site/
+dependencies:
+- WP-BWM-0004 repository foundation
+issue: https://github.com/jdlongmire/biblical-worldmodel/issues/1

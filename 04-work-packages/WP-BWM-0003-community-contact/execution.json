@@ -1,0 +1,12 @@
+{
+  "branch": "wp/bwm-0003",
+  "owner": "thinx",
+  "path_authority": [
+    "04-work-packages/WP-BWM-0003-community-contact/**",
+    "03-solutions-baseline/site/**",
+    ".github/ISSUE_TEMPLATE/**",
+    ".github/DISCUSSION_TEMPLATE/**",
+    "06-operations/runbooks/community/**"
+  ],
+  "state": "planned; no lease acquired"
+}

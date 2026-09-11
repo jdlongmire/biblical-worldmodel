@@ -1,0 +1,44 @@
+{
+  "template": {
+    "repository": "jdlongmire/longmire-repo-template",
+    "source_commit": "24feac7bf73e261e841788ebc8fe8678829a26a1"
+  },
+  "transfers": [
+    {
+      "source_repository": "jdlongmire/chatgpt-bridge",
+      "source_commit": "dbe28033690be777aaf0a7f0e5e5bd2fa95b1916",
+      "source_path": "work-packages/active/WP-BRIDGE-0002-biblical-worldmodel-publication.md",
+      "source_sha256": "ed960f6d7291871602a83f719f41221d2113e92a935dcd3459fc06f81b6f8aa7",
+      "target_path": "04-work-packages/WP-BWM-0001-public-site-standup/requirements.md",
+      "target_sha256": "ed960f6d7291871602a83f719f41221d2113e92a935dcd3459fc06f81b6f8aa7",
+      "transformation": "Only relative parent-package links retargeted where necessary; source statuses are inherited requirements, not implementation evidence."
+    },
+    {
+      "source_repository": "jdlongmire/chatgpt-bridge",
+      "source_commit": "dbe28033690be777aaf0a7f0e5e5bd2fa95b1916",
+      "source_path": "work-packages/active/WP-BRIDGE-0002-assets/README.md",
+      "source_sha256": "adfa35b024bb69adbb30bb7d2b6253ab621993ff70ebcf3b0a1275fa59b6d895",
+      "target_path": "04-work-packages/WP-BWM-0002-visual-assets/requirements.md",
+      "target_sha256": "0e82fa168b2aa9e6c052066bc73cd1701ad55ef38159b0fde3b4ad626449666a",
+      "transformation": "Only relative parent-package links retargeted where necessary; source statuses are inherited requirements, not implementation evidence."
+    },
+    {
+      "source_repository": "jdlongmire/chatgpt-bridge",
+      "source_commit": "dbe28033690be777aaf0a7f0e5e5bd2fa95b1916",
+      "source_path": "work-packages/active/WP-BRIDGE-0002-assets/asset-manifest.md",
+      "source_sha256": "79fd2cbbeac388fd9f0edd8fd32c5c410431f60a4d7eb44ab25de4aba38f19ca",
+      "target_path": "04-work-packages/WP-BWM-0002-visual-assets/asset-manifest.md",
+      "target_sha256": "79fd2cbbeac388fd9f0edd8fd32c5c410431f60a4d7eb44ab25de4aba38f19ca",
+      "transformation": "Only relative parent-package links retargeted where necessary; source statuses are inherited requirements, not implementation evidence."
+    },
+    {
+      "source_repository": "jdlongmire/chatgpt-bridge",
+      "source_commit": "dbe28033690be777aaf0a7f0e5e5bd2fa95b1916",
+      "source_path": "work-packages/active/WP-BRIDGE-0002-community-contact-architecture.md",
+      "source_sha256": "867f16835f6111b391aa3619ba70f2fb5017ea1749b228ef680032ddab285463",
+      "target_path": "04-work-packages/WP-BWM-0003-community-contact/requirements.md",
+      "target_sha256": "6d0a5cf18af87577e4c3f5af57ce5c9717502896a810e22061dbf74539548e40",
+      "transformation": "Only relative parent-package links retargeted where necessary; source statuses are inherited requirements, not implementation evidence."
+    }
+  ]
+}

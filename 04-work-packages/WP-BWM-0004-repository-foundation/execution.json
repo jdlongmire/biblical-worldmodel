@@ -1,0 +1,21 @@
+{
+  "branch": "wp/bwm-0001",
+  "owner": "thinx",
+  "path_authority": [
+    "00-meta-model/**",
+    "01-strategic-baseline/**",
+    "02-systems-baseline/**",
+    "03-solutions-baseline/**",
+    "04-work-packages/**",
+    "05-mxm-construct/**",
+    "06-operations/**",
+    "README.md",
+    "MXM.md",
+    "MEMORY.md",
+    "AGENTS.md",
+    "CLAUDE.md",
+    ".gitignore",
+    ".github/README.md"
+  ],
+  "note": "Reuse the existing isolated planning branch for foundation, retaining its published ancestry; branch label does not imply site completion."
+}

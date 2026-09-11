@@ -21,6 +21,8 @@ Media manifests, captions, transcripts and embedding conventions belong in this 
 
 Source: `jdlongmire/chatgpt-bridge`, WP-BRIDGE-0002 and its asset workspace, revision `dbe28033690be777aaf0a7f0e5e5bd2fa95b1916`. `package.yaml` contains scope, nine acceptance criteria, verification methods and evidence requirements; `execution.json` bounds writable paths.
 
-This package has no completed implementation criteria. Planned verification scripts will be created and exercised during implementation. No public repository or site has been created in this planning step. Bridge correspondence is prepared during execution; this local record has not been sent externally.
+The repository foundation and bridge transfer are tracked separately by WP-BWM-0004. [Imported requirements](requirements.md) preserve the complete source scope and checklist. Site implementation belongs under `03-solutions-baseline/site/`, per ADR-BWM-0001.
+
+This package has no completed implementation criteria. Planned verification scripts will be created and exercised during implementation. The public repository is established by WP-BWM-0004; no site is deployed. Repository creation and source transfer do not complete site acceptance.
 
 Human-Curated, AI-Enabled (HCAE)

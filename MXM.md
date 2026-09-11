@@ -1,5 +1,66 @@
-# Repository doorway
+# MXM.md — canonical MxM bootstrap (Biblical WorldModel)
 
-Repository class: General Work / publication product. This repository carries no independent assistant identity. Work packages live in `04-work-packages/`; the directing assistant supplies its MxM governance. Product artifacts belong here; ThinxHome operating changes remain outside this repository and outside this task.
+## Profile
 
-Human-Curated, AI-Enabled (HCAE)
+| Field | Value |
+|---|---|
+| Profile | `biblical-worldmodel-publication`, version `1.0.0` |
+| Repository-class | General Work / Publication |
+| Construct root | `05-mxm-construct/` |
+
+## The six surfaces
+
+| Surface | Answers | File | Loading |
+|---|---|---|---|
+| Mind | How I reason | [Mind](05-mxm-construct/meta-harness/mind.md) | Always-loaded |
+| Morals | What's obligatory | [Morals](05-mxm-construct/meta-harness/morals.md) | Always-loaded |
+| Mission | Identity and purpose | [Mission](05-mxm-construct/meta-harness/mission.md) | Always-loaded |
+| Memory | What persists | [Memory](05-mxm-construct/meta-harness/memory.md) | Pointer-shaped; read on need |
+| Methods | How work is done | [Methods](05-mxm-construct/meta-harness/methods.md) | Pointer-shaped; read on need |
+| Means | What executes | [Means](05-mxm-construct/means/README.md) | Pointer-shaped; read on need |
+
+## Loading rules
+
+Always-loaded is the required session posture. Claude resolves the imports in
+its adapter; Codex must explicitly read the same files before substantive work.
+Reload after compaction. Structural verification cannot prove a model obeyed
+or retained these instructions; fresh-session validation remains necessary.
+Memory, Methods and Means are separate pointer-shaped surfaces read on need.
+
+## Harness adapters
+
+| Harness | Entry | Mechanism |
+|---|---|---|
+| Claude Code | CLAUDE.md | Imports AGENTS.md, then mission.md, mind.md and morals.md |
+| Codex and other CLIs | AGENTS.md | Explicit reads of required posture and MXM.md |
+
+Native harness histories preserve session state. Validated canonical memory
+owns durable semantic claims; no live native-memory adapter is installed here.
+
+## Memory and Means
+
+[Memory contract](05-mxm-construct/meta-harness/memory.md) routes to the durable
+store. [Means](05-mxm-construct/means/README.md) routes to executable tools.
+Start: `python 05-mxm-construct/means/scripts/session-start.py`.
+Wrap: `python 05-mxm-construct/means/scripts/session-wrap.py`.
+Significant work uses a dedicated branch and Git worktree.
+
+## Repository-local routing
+
+This is the publication product repository. It does not instantiate a new aide.
+The acting Principal Assistant is thinx under JD Longmire; its deployment identity
+and runtime remain external. The retained six surfaces are repository-scoped
+working guidance, not a new Meta-Harness identity or a source of host permissions.
+ThinxHome operating work and transition changes remain outside this repository.
+`00`–`04` contain baselines and work packages, `05-mxm-construct/` contains repository
+working guidance, `06-operations/` contains operating guidance. Root MEMORY.md is the
+operational index. Repo decisions and optional profiles live inside 00-meta-model.
+
+## Conformance gate
+
+`python 00-meta-model/verify-repository-layout.py` enforces the closed root,
+required baseline files, canonical surface locations and bootstrap chain.
+ADR-BWM-0001 deliberately specializes the template profile and checker.
+The session verifier invokes it. Tests inject wrong roots, shadow contracts,
+missing operations and broken adapters. This is structural conformance to the
+portable thinx layout, not a claim to ship all thinx runtime enforcement.

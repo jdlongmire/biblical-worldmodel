@@ -3,15 +3,8 @@
   "owner": "thinx",
   "path_authority": [
     "04-work-packages/WP-BWM-0001-public-site-standup/**",
-    "docs/**",
-    "assets/**",
-    "overrides/**",
+    "03-solutions-baseline/site/**",
     ".github/workflows/**",
-    "scripts/**",
-    "mkdocs.yml",
-    "requirements*.txt",
-    "README.md",
-    "MXM.md",
-    ".gitignore"
+    "06-operations/runbooks/site/**"
   ]
 }
