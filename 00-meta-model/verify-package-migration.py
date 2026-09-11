@@ -31,10 +31,7 @@ def verify(root=ROOT, source_root=None):
             if not resolved.is_relative_to(root.resolve()) or not resolved.exists():
                 errors.append(f'Broken or external local link: {target}: {link}')
         if source_root:
-            head = subprocess.check_output(['git', '-C', str(source_root), 'rev-parse', 'HEAD'], text=True).strip()
-            if head != rec['source_commit']:
-                errors.append('Source checkout revision differs from recorded revision')
-            original = (source_root / rec['source_path']).read_bytes()
+            original = subprocess.check_output(['git', '-C', str(source_root), 'show', rec['source_commit'] + ':' + rec['source_path']])
             if hashlib.sha256(original).hexdigest() != rec['source_sha256']:
                 errors.append(f'Source digest mismatch: {rec["source_path"]}')
             expected = original.decode().replace('(../WP-BRIDGE-0002-biblical-worldmodel-publication.md)', '(../WP-BWM-0001-public-site-standup/requirements.md)').replace('(./WP-BRIDGE-0002-biblical-worldmodel-publication.md)', '(../WP-BWM-0001-public-site-standup/requirements.md)')

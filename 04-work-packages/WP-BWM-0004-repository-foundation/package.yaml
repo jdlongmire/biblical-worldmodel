@@ -1,6 +1,6 @@
 id: WP-BWM-0004
 title: Template repository foundation and backlog transfer
-status: in_progress
+status: verified
 scope_class: repository-local
 supported_workers: []
 worker_conformance: {}
@@ -27,30 +27,50 @@ acceptance_criteria:
 - id: AC-01
   text: Public repository generated from declared template with the portable layout
     and explicit publication profile; earlier local planning history retained.
-  verified_by:
-  - 00-meta-model/verify-repository-layout.py
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - publication-evidence.json
+    retained_at: 04-work-packages/WP-BWM-0004-repository-foundation/evidence.md
+  model_judged: Layout is checked mechanically by verify-repository-layout.py; repository
+    template provenance, public visibility and retained ancestries are verified by
+    the API/Git commands recorded in evidence.md. Combined outcome assessed from those
+    retained results.
 - id: AC-02
   text: All four source artifacts mapped to the three active delivery packages with
     source revision, digests, working links, full scope and pending acceptance.
   verified_by:
   - 00-meta-model/verify-package-migration.py
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - publication-evidence.json
+    retained_at: 04-work-packages/WP-BWM-0004-repository-foundation/evidence.md
 - id: AC-03
   text: Published destination revision exists before bridge records forward to it;
     transfer ledger identifies source and immutable destination.
   model_judged: Review retained remote SHA checks and bridge commit diff; local file
     checks alone cannot prove publication sequence.
   evidence:
-    status: pending
+    status: passed
+    sources:
+    - evidence.md
+    - publication-evidence.json
+    retained_at: 04-work-packages/WP-BWM-0004-repository-foundation/evidence.md
 - id: AC-04
   text: No ThinxHome transition files or services changed by this work; future shared
     dependencies remain excluded.
   model_judged: Review this task command/write record and scoped diffs; concurrent
     Home changes cannot be attributed from wall-clock timing.
   evidence:
-    status: pending
-disposition: In progress; verification and publication pending.
+    status: passed
+    sources:
+    - evidence.md
+    - publication-evidence.json
+    retained_at: 04-work-packages/WP-BWM-0004-repository-foundation/evidence.md
+disposition: Repository foundation and source transfer implemented, verified and published.
+  JD acceptance pending; delivery packages WP-BWM-0001 through WP-BWM-0003 remain
+  proposed.
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/4

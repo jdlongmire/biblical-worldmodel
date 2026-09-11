@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-11",
+  "product_repository": "https://github.com/jdlongmire/biblical-worldmodel",
+  "visibility": "public",
+  "template_repository": "jdlongmire/longmire-repo-template",
+  "destination_import_commit": "5ba45e92c0cf73e053b8b5ee125c19b2efe468fc",
+  "bridge_commit": "4274788a6c3eeb8d3a55a7bdc31818db9eac1db5",
+  "bridge_remote_verified": "4274788a6c3eeb8d3a55a7bdc31818db9eac1db5",
+  "bridge_changed_paths": [
+    "work-packages/README.md",
+    "work-packages/active/WP-BRIDGE-0002-assets/README.md",
+    "work-packages/active/WP-BRIDGE-0002-assets/asset-manifest.md",
+    "work-packages/active/WP-BRIDGE-0002-biblical-worldmodel-publication.md",
+    "work-packages/active/WP-BRIDGE-0002-community-contact-architecture.md"
+  ],
+  "original_planning_commit_retained": "52a4e6c",
+  "template_generated_commit_retained": "add54e0",
+  "issues": [
+    "https://github.com/jdlongmire/biblical-worldmodel/issues/1",
+    "https://github.com/jdlongmire/biblical-worldmodel/issues/2",
+    "https://github.com/jdlongmire/biblical-worldmodel/issues/3",
+    "https://github.com/jdlongmire/biblical-worldmodel/issues/4"
+  ],
+  "site_deployed": false,
+  "human_acceptance": "pending"
+}
