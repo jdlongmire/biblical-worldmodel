@@ -30,6 +30,7 @@ with sync_playwright() as p:
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),label
         assert page.locator('h1').count()==1
         assert page.locator('.audience-card').count()==4
+        assert page.locator('img').evaluate_all('(images)=>images.every(i=>i.hasAttribute("alt"))')
         if label in ('desktop','mobile'):page.screenshot(path=str(args.output/(label+'.png')),full_page=True)
         if width<=760:
             page.get_by_role('button',name='Open navigation').click()
@@ -49,6 +50,9 @@ with sync_playwright() as p:
     for route,title in [('start-here/','Start your journey'),('evidence/','Engage with the evidence'),('worldmodel/','Explore the Biblical WorldModel'),('objections/','Show us the strongest objections')]:
         response=page.goto(args.url+route,wait_until="domcontentloaded");assert response.status==200,route
         assert page.locator('h1').inner_text().strip()==title
+        if route=='worldmodel/':
+            assert page.locator('figure img').get_attribute('alt')
+            assert page.locator('figcaption').inner_text().strip()
     assert not errors,errors
     assert not missing,missing
     result={'url':args.url,'viewports':[1440,768,390,320],'responsive_overflow':'none','all_landing_images':'loaded','mobile_menu':'passed','search':'real observation results returned','mathematics':'rendered MathJax elements present','reader_routes':'4 passed','javascript_errors':errors,'http_errors':missing}
