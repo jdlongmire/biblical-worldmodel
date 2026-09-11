@@ -1,3 +1,6 @@
+---
+description: How to ask questions, submit objections, report errors, and propose research collaboration through public GitHub issues, plus the site's participation standards.
+---
 # Join the conversation
 
 Substantive disagreement, skeptical questions, source-based criticism, and corrections are welcome. Moderation should concern conduct and relevance, not agreement.

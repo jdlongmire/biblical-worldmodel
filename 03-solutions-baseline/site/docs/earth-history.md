@@ -1,3 +1,6 @@
+---
+description: An orientation to Earth history and the Flood, pointing to the canonical Catastrophic Hydrotectonic Flood Model repository for its mechanisms, tests, and unresolved problems.
+---
 # Earth history and the Flood
 
 This section will examine geological observations and proposed catastrophic historical reconstructions, distinguishing biblical claims from specific geophysical hypotheses.

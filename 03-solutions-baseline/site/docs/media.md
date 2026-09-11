@@ -1,3 +1,6 @@
+---
+description: Status of narrated explainers and guided visual explanations for the Biblical WorldModel; none are published yet.
+---
 # Narrated explainers
 
 Narrated introductions and guided visual explanations are planned. No overview video has been published on this site yet.

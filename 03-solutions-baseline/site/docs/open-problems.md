@@ -1,3 +1,6 @@
+---
+description: Reading status labels — research proposal, open problem, tested result, revised or retired — for tracking unresolved burdens across the Biblical WorldModel's programmes.
+---
 # Open problems and remaining burdens
 
 An open problem is not a completed explanation. This site will identify unresolved mechanisms, evidential debits, severe tests, and proposed or retired auxiliaries when supported by canonical records.

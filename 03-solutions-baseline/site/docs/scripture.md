@@ -1,3 +1,6 @@
+---
+description: Scripture as the theological starting point of the Biblical WorldModel, and the questions readers should bring to distinguish text, interpretation, and explanatory models.
+---
 # What does Scripture claim?
 
 Scripture is the theological starting point of this project. That commitment does not make every proposed scientific mechanism a biblical claim.

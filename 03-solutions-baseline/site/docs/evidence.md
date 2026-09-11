@@ -1,3 +1,6 @@
+---
+description: A five-step reading checklist for engaging evidence — identifying observations, stating assumptions, comparing explanations, and recording what would count against them.
+---
 # Engage with the evidence
 
 An observation and an account of how it came to be are related, but distinct. A useful explanation must do more than accommodate an observation after the fact.

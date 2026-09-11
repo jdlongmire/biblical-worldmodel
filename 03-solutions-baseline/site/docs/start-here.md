@@ -1,3 +1,6 @@
+---
+description: Four reading paths into the Biblical WorldModel, organized by the question you bring — reconciling Scripture and observation, examining evidence, exploring the full framework, or raising a challenge.
+---
 # Start your journey
 
 You do not need to know the programme names to begin. Start with a question you care about, and follow the evidence and the argument at your own pace.

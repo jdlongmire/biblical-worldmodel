@@ -1,3 +1,6 @@
+---
+description: How to submit and inspect strong objections to the Biblical WorldModel, and why programme-specific challenges are routed to the repository that owns the claim.
+---
 # Show us the strongest objections
 
 A framework worth examining should make its liabilities visible. The aim is to understand the strongest version of a criticism before responding.

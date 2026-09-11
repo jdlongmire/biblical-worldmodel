@@ -25,6 +25,12 @@ The workflow's optional `negative_control=true` dispatch intentionally fails the
 
 The build hook copies selected `graphics-library/` asset folders into the published `/graphics/` directory. Original reference sheets, provenance metadata and the catalog do not ship as page imagery. Images remain source-resolution PNGs; the responsive HTML owns prose, headings, links and controls. Inline SVG interface icons are code-native, not mislabelled raster crops. Keep technical diagrams source-grounded and preserve alt text and captions.
 
+`docs/assets/favicon.png` and `docs/assets/apple-touch-icon.png` are a square navy/cream monogram cropped and recolored directly from the "T" glyph in `graphics-library/branding/wordmark.png` — no new brand artwork was generated.
+
+## SEO and metadata
+
+The Open Graph/Twitter Card tags in `overrides/home.html` and the site-wide `extrahead` block in `overrides/main.html` (extends Material's `base.html` for every reader page) both reuse `site_name`/`site_description` from `mkdocs.yml` and the published hero image at `/graphics/hero/hero-desktop.png`. `overrides/home.html` also carries a `schema.org` `WebSite`/`Person` JSON-LD block (author: J. D. Longmire). `docs/robots.txt` allows crawling and points at the sitemap MkDocs generates automatically from `site_url`. Every page under `docs/` declares its own `description:` front matter, which Material renders as that page's `<meta name="description">` and feeds into its per-page Open Graph/Twitter tags; keep it accurate to the page's existing content when the page changes.
+
 ## Browser verification
 
 Install `playwright==1.62.0` in a separate verification environment and use an available Chromium binary. `scripts/verify-browser.py` currently uses `/usr/bin/chromium` and checks four viewports, navigation, images, search, and mathematical rendering:

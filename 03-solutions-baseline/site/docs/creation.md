@@ -1,3 +1,6 @@
+---
+description: An orientation to creation and functional maturity, pointing to the canonical Designed Functional Maturity repository for the programme's actual claims and status.
+---
 # Creation and functional maturity
 
 This section introduces questions about initial conditions, functional maturity, and the interpretation of apparent history. It is a public orientation to a research programme, not a statement that its proposed mechanisms have been established.

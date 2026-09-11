@@ -1,3 +1,6 @@
+---
+description: An orientation graphic and reader-facing framework connecting Scripture, biology, Earth history, cosmology, and foundations into the Biblical WorldModel.
+---
 # Explore the Biblical WorldModel
 
 This site brings several questions into one reader-facing framework: what Scripture claims, what we observe, how we reconstruct history, and what foundations our explanations require.

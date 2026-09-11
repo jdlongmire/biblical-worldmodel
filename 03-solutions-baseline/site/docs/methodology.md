@@ -1,3 +1,6 @@
+---
+description: Distinguishing observation, inference, and historical reconstruction, with Bayes' theorem as a model for how evidence should update an explanation's probability.
+---
 # Observation, inference, and historical reconstruction
 
 An observation records something about the world. An inference connects observations to an explanation. A historical reconstruction proposes a sequence of past events that could account for the present.

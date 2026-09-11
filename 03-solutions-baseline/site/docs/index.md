@@ -1,6 +1,7 @@
 ---
 template: home.html
 title: Home
+description: A coherent view of God's world — exploring a unified understanding of reality in light of Scripture and what we observe.
 ---
 # A Coherent View of God's World
 
