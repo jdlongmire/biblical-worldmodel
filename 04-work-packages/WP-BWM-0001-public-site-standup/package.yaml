@@ -1,0 +1,129 @@
+id: WP-BWM-0001
+title: Biblical WorldModel public site stand-up
+status: planned
+scope_class: repository-local
+supported_workers: []
+worker_conformance: {}
+worker_exceptions: {}
+source_handoff:
+  repository: jdlongmire/chatgpt-bridge
+  commit: dbe28033690be777aaf0a7f0e5e5bd2fa95b1916
+  package: work-packages/active/WP-BRIDGE-0002-biblical-worldmodel-publication.md
+  assets: work-packages/active/WP-BRIDGE-0002-assets/
+scope: Create the public Markdown-first MkDocs Material site, GitHub Pages delivery,
+  four reader journeys, responsive asset conventions, and future narrated-media integration.
+  Public summaries do not acquire canonical research authority.
+authority_boundary: JD authorized standing up this work package on 2026-09-11 and
+  explicitly required no interruption or clash with the ThinxHome transition. This
+  turn creates the local governed plan only. Public repository creation, workflow
+  activation, publishing, and bridge correspondence remain execution actions, not
+  actions performed or authorized by a staged source document alone. Home retains
+  priority.
+constraints:
+- Separate product Git repository, dedicated package branch/worktree and product-local
+  dependency environment.
+- GitHub-hosted Actions and GitHub Pages only; no Home CI runner or hosted server.
+- No Home console, auth, vault, tunnel, DNS, bot, backup, credentials, shared Python
+  environment, runtime, remotes, hooks, transition worktrees or services changes.
+- No global installs, host changes, narration/GPU jobs or changes to existing media
+  services. If execution needs any of these, stop that dependent step and surface
+  the conflict.
+- Keep Home live checkout and its existing uncommitted changes untouched. Never integrate
+  or clean up transition branches from this package.
+- Generated mockups are references, never full-page raster deployments. HTML owns
+  prose, navigation, CTAs and status labels. No human depictions of Christ.
+- Use placeholders rather than invented programme claims; preserve uncertainty, objections,
+  open problems and canonical source links.
+- No custom domain or DNS change in initial stand-up.
+actions:
+- Confirm repository availability, source handoff revision, and canonical links before
+  implementation.
+- Implement pinned isolated MkDocs baseline with four reader journeys and the handoff
+  navigation.
+- Implement responsive component/asset layout; validate diagram, math, search, and
+  project-base URLs.
+- Document future media conventions without launching narration.
+- Prepare and verify hosted build/deployment controls; activate publication within
+  execution authorization.
+- Retain evidence and prepare bridge handoff; obtain JD acceptance before completed
+  disposition.
+verification: Named scripts are planned deliverables, not existing or passing checks.
+  Implement them during execution; retain commands, environment, artifact SHA and
+  results. Model-judged criteria require explicit recorded review.
+acceptance_criteria:
+- id: AC-01
+  text: Public jdlongmire/biblical-worldmodel exists; a GitHub-hosted Actions run
+    builds and deploys a pinned revision to a publicly reachable Pages URL.
+  evidence:
+    status: pending
+  verified_by:
+  - scripts/verify-publication.py
+- id: AC-02
+  text: A clean checkout with pinned isolated dependencies builds successfully using
+    mkdocs build --strict; a deliberately broken build cannot reach the deployment
+    job.
+  evidence:
+    status: pending
+  verified_by:
+  - scripts/verify-build.py
+- id: AC-03
+  text: All navigation routes resolve; seeker, serious reader, deep thinker, and skeptic/researcher
+    journeys are usable on desktop and mobile.
+  evidence:
+    status: pending
+  model_judged: Link checks are mechanical; meaningful reader journeys and responsive
+    usability require recorded visual review.
+- id: AC-04
+  text: Browser checks demonstrate rendered mathematics and a successful internal
+    search returning a known page on deployed Pages.
+  evidence:
+    status: pending
+  verified_by:
+  - scripts/verify-browser.py
+- id: AC-05
+  text: DFM, CHFM, and TRT links resolve publicly to Atlas-designated canonical repositories,
+    and authority/status language preserves canonical ownership.
+  evidence:
+    status: pending
+  model_judged: HTTP checks cannot establish canonical authority or fidelity; compare
+    against Atlas and source revisions.
+- id: AC-06
+  text: At least one diagram renders on deployed Pages with caption/alt text, valid
+    project-relative paths, and usable mobile layout; replaceable SVG and raster assets
+    are supported.
+  evidence:
+    status: pending
+  verified_by:
+  - scripts/verify-assets.py
+  - scripts/verify-browser.py
+- id: AC-07
+  text: Document source-revision manifests, captions, transcripts, thumbnails, and
+    future video/audio embedding; no narration job is required for this package.
+  evidence:
+    status: pending
+  model_judged: Review that conventions permit actual future production without implying
+    a pipeline was exercised.
+- id: AC-08
+  text: All product writes stay within the declared product workspace; CI uses GitHub-hosted
+    runners; no Home service, configuration, credential, environment, repository,
+    or transition branch is changed by this package.
+  evidence:
+    status: pending
+  model_judged: Review retained commands and diffs against the boundary; concurrent
+    Home changes cannot be attributed by timestamp or a global before/after diff.
+    No claim of universal enforcement.
+- id: AC-09
+  text: README documents build/publication and asset workflows; retain repository
+    URL, Pages URL, commit SHAs, Actions run, framework versions, visual evidence,
+    deviations, and unresolved issues for the bridge handoff.
+  evidence:
+    status: pending
+  model_judged: Review completeness and usability of retained evidence and operator
+    instructions.
+deferred:
+- Narrated video/audio production and GPU rendering
+- Full content/graphics backlog
+- Custom domain and DNS
+- Any ThinxHome transition or infrastructure change
+disposition: Work package established locally; implementation and acceptance pending.
+  No remote repository, deployment or bridge message created.
