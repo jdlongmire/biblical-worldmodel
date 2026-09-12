@@ -337,19 +337,19 @@ The Story must remain understandable if images fail to load.
 - [x] G5 dispositioned: ACCEPT.
 - [x] G6 dispositioned: ACCEPT.
 - [x] G7 dispositioned: ACCEPT.
-- [ ] G8 (DFM/DTE/UTE comparison, generated alongside the above but outside the original seven-graphic spec) dispositioned. JD confirmed 2026-09-12 DTE ("Designed Time and Emergence") is intentional -- "essentially the old earth proposition." Checked this repository's corpus for an existing DTE definition per JD's recollection it was "captured somewhere"; not found here (this repo holds publication content only, not canonical programme definitions, so it may exist in a private research repo outside thinx's access). Not yet dispositioned as approved content until DTE has an actual definition somewhere in canon, not just on a graphic -- see note below.
+- [x] G8 (DFM/DTE/UTE comparison) dispositioned: **ACCEPT** (JD, 2026-09-12). DTE is now formally canonical: `02-systems-baseline/2.2-architecture/BWM-CANON-0001-worldmodel-interpretive-families.md`, Operator-dispositioned ACCEPT the same day. Checked its content against G8's own panels for consistency -- both agree on the same two-axis distinction (initial functional maturity: DFM > DTE > UTE; purposive agency: DFM/DTE yes, UTE not required). No conflict found.
 - [ ] Desktop/mobile variants produced where needed.
 - [ ] Alt text and surrounding-text checks complete.
 - [ ] Approved assets integrated into `the-story.md`.
 - [ ] Mobile and desktop site validation complete.
 - [ ] Secondary/deeper graphic backlog routed to appropriate WPs.
 
-## DTE working note (2026-09-12)
+## DTE working note (2026-09-12, resolved)
 
-JD's characterization of DTE is close in substance to what WP-BWM-0007 already scopes as Hugh Ross/RTB's progressive-creation framework -- design-compatible, but running on the conventional old-earth timescale, explicitly distinct from DFM's mature-at-creation starting state. If DTE is JD's own name for that same position (or a close relative), the natural home for its formal definition is WP-BWM-0007's harvest work or WP-BWM-0009's programme list, not left implicit on G8 alone. Not yet actioned -- needs JD's confirmation of the right home before anything gets written as canon.
+JD's characterization of DTE was close in substance to what WP-BWM-0007 already scopes as Hugh Ross/RTB's progressive-creation framework. Rather than route through WP-BWM-0007, DTE was given its own canonical artifact the same day: `BWM-CANON-0001-worldmodel-interpretive-families.md` under `02-systems-baseline/2.2-architecture/`, defining DFM, DTE, and UTE together as a coherent interpretive-family taxonomy at the L5/WorldModel level of the epistemic hierarchy, Operator-dispositioned ACCEPT. WP-BWM-0007's Ross/RTB harvest remains a related but separate, narrower research-comparison exercise, not the canonical home for the taxonomy itself.
 
 ## Immediate next step
 
-Seven of eight concept assets dispositioned ACCEPT (2026-09-12: G1-G7). Remaining: give DTE a real definition and a canonical home (see note above) before G8 is treated as approved content. Once that's settled, all eight are ready for the alt-text/accessibility pass and site integration into `the-story.md`.
+All eight concept assets dispositioned ACCEPT (2026-09-12). Next: alt-text/accessibility pass and site integration into `the-story.md`.
 
 Human-Curated, AI-Enabled (HCAE)

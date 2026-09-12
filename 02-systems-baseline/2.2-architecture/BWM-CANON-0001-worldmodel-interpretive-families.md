@@ -310,6 +310,6 @@ This artifact is canonical by direct Principal Operator disposition.
 **Authority scope:** BWM-wide canonical WorldModel taxonomy  
 **Date:** 2026-09-12
 
-Subsequent changes require Operator disposition under the governance model established by WP-BWM-0006.
+Subsequent changes require Operator disposition under the governance model established by WP-BWM-0009 (renumbered from WP-BWM-0006 on 2026-09-12, before this artifact was created).
 
 Human-Curated, AI-Enabled (HCAE)

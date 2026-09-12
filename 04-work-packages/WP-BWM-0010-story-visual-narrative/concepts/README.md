@@ -1,6 +1,6 @@
 # Story visual narrative — concept assets
 
-Eight generated concept graphics, supplied by JD 2026-09-12 (ChatGPT-generated per this package's own workflow). Named per the package's asset-naming convention. Seven of eight cleared Operator disposition the same day; G8 has not. None is yet at the proposed final destination (`03-solutions-baseline/site/docs/graphics/story/`) -- that's a separate, later site-integration step.
+Eight generated concept graphics, supplied by JD 2026-09-12 (ChatGPT-generated per this package's own workflow). Named per the package's asset-naming convention. All eight cleared Operator disposition the same day. None is yet at the proposed final destination (`03-solutions-baseline/site/docs/graphics/story/`) -- that's a separate, later site-integration step.
 
 | File | Maps to | Status |
 |---|---|---|
@@ -11,7 +11,7 @@ Eight generated concept graphics, supplied by JD 2026-09-12 (ChatGPT-generated p
 | `story-g05-starting-point.png` | G5 | **ACCEPT** (JD, 2026-09-12) |
 | `story-g06-real-history.png` | G6 | **ACCEPT** (JD, 2026-09-12) |
 | `story-g07-observation-to-story.png` | G7 | **ACCEPT** (JD, 2026-09-12) |
-| `story-g08-dfm-dte-ute-comparison.png` | **not in the original G1-G7 spec** | Not yet dispositioned -- DTE confirmed intentional but undefined in canon; see the package README's "DTE working note" |
+| `story-g08-dfm-dte-ute-comparison.png` | **not in the original G1-G7 spec** | **ACCEPT** (JD, 2026-09-12) -- DTE now canonical, `BWM-CANON-0001-worldmodel-interpretive-families.md` |
 
 ## Review findings, thinx pass 2026-09-12 -- and disposition, same day
 
@@ -21,7 +21,7 @@ Recorded per this package's own per-graphic specification requirement (item 10: 
 
 **G4 (Generated World) -- resolved, ACCEPT.** Flagged: the spec required an on-graphic disclaimer that the generated-world analogy isn't a literal simulation claim, and none appears. JD's disposition: the analogy reads clearly without it; no change needed.
 
-**G8 (DFM/DTE/UTE comparison) -- not part of the original seven-graphic sequence, not yet dispositioned.** Introduces "Designed Time and Emergence" (DTE) alongside DFM and UTE. DTE doesn't appear anywhere in this repository's approved canon (WP-BWM-0009 names DFM, CHFM, and TRT/LRT; the-story.md draws only a two-way contrast). JD confirmed 2026-09-12 DTE is intentional -- "essentially the old earth proposition" -- and believed it was already captured somewhere in the corpus; a repository search found no such definition here. See the package README's "DTE working note" for the proposed cross-reference to WP-BWM-0007 (Ross/RTB harvest) and the open question of where it gets formally defined. G8 stays undispositioned until that's settled.
+**G8 (DFM/DTE/UTE comparison) -- resolved, ACCEPT.** Not part of the original seven-graphic sequence; introduces "Designed Time and Emergence" (DTE) alongside DFM and UTE, which didn't appear anywhere in this repository's approved canon when first reviewed. JD confirmed 2026-09-12 DTE is intentional and, the same day, DTE received a formal canonical definition: `BWM-CANON-0001-worldmodel-interpretive-families.md` under `02-systems-baseline/2.2-architecture/`, Operator-dispositioned ACCEPT. Checked the canon text against G8's own panels: consistent on both axes (initial functional maturity, and purposive agency/teleology). See the package README's "DTE working note" for detail.
 
 **G1, G3, G5, G6, G7 -- ACCEPT.** Read as consistent with the-story.md's own framing and the theological constraints (no depiction of Christ; Cana handled via vessels + "Divine Act" rather than showing Jesus) on first pass; JD confirmed disposition 2026-09-12.
 
