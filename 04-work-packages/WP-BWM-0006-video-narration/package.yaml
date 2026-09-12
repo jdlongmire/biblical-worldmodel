@@ -57,4 +57,4 @@ acceptance_criteria:
     status: pending
 disposition: Opened to record scope and dependencies ahead of production. No
   narration work has started; Tier 1 source text is approved and available.
-issue: null
+issue: https://github.com/jdlongmire/biblical-worldmodel/issues/9
