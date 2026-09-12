@@ -33,6 +33,9 @@ Native-resolution crops from the supplied visual asset sheet, plus standalone su
 | [icons/watch.png](icons/watch.png) | 62 × 62 |
 | [icons/ask.png](icons/ask.png) | 64 × 62 |
 | [infographics/worldmodel-overview-hexagon.png](infographics/worldmodel-overview-hexagon.png) | 1536 × 1024 |
+| [infographics/crops/header-band.png](infographics/crops/header-band.png) | 1536 × 205 |
+| [infographics/crops/panel1-two-sources.png](infographics/crops/panel1-two-sources.png) | 505 × 400 |
+| [infographics/crops/panel3-calculated-age.png](infographics/crops/panel3-calculated-age.png) | 506 × 400 |
 
 ## Source and use
 

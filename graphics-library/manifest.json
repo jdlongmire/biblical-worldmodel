@@ -541,6 +541,69 @@
       "alt": "Six-panel hexagonal infographic: The Biblical WorldModel -- Two Sources One Story, The Starting Point Matters, Calculated Age vs Actual History, Two Case Studies, Process Behavior vs Object History, A Fair and Open Inquiry.",
       "notes": "A complete, standalone composed infographic supplied by JD via chat upload 2026-09-12, not a crop from references/graphics-asset-sheet.png -- unlike every other asset in this library, it has no source sheet and was not extracted or regenerated; the file is stored exactly as supplied. Content review (same date): the graphic's vocabulary (K-Ar/Rb-Sr dating terms, 'auxiliary assumptions') is Tier 3 register per WP-BWM-0005's tier standard, not Tier 1; JD accepted it 2026-09-12 as a high-level overview story rather than requesting a rewrite. Panel 2's naturalistic/BWM comparison columns are not fully symmetric (naturalistic side lists descriptive premises, BWM side includes evaluative conclusions) -- flagged, not corrected here. Panel 4's Mt. St. Helens (350,000-2.8 Ma K-Ar) and Cardenas Basalt (~1.1 Ga) figures have not been verified against primary geochronological sources, which WP-BWM-0005 requires before public use of those specific case studies.",
       "approval": "Storage authorized by JD, 2026-09-12, accepted as a high-level story; production/public-use disposition for the flagged content items not yet given."
+    },
+    {
+      "id": "BWM-INFO-CROP-HEADER",
+      "path": "infographics/crops/header-band.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "infographics/worldmodel-overview-hexagon.png",
+      "crop_xyxy": [
+        0,
+        0,
+        1536,
+        205
+      ],
+      "width": 1536,
+      "height": 205,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "551a1279871164da6df9ccbd64e8b2460c73614562488dec35fa64fa9e9c2ea5",
+      "alt": "Sunrise over mountains and a lake valley, wide header band, with the site title and tagline.",
+      "notes": "Native-resolution crop of the header band from worldmodel-overview-hexagon.png. No regeneration, resizing, or background removal.",
+      "approval": "Extraction requested by JD, 2026-09-12, for use as video-narration B-roll (WP-BWM-0006); production/content approval not inferred beyond that use."
+    },
+    {
+      "id": "BWM-INFO-CROP-PANEL1",
+      "path": "infographics/crops/panel1-two-sources.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "infographics/worldmodel-overview-hexagon.png",
+      "crop_xyxy": [
+        0,
+        210,
+        505,
+        610
+      ],
+      "width": 505,
+      "height": 400,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "24f1ebd7b8f75272a43558faa59297bb55c537f6c1fab5d023a7906f8e152894",
+      "alt": "\"Two Sources, One Story\" panel: an open Bible beside a globe, captioned God's Word and God's World.",
+      "notes": "Native-resolution crop of panel 1 from worldmodel-overview-hexagon.png. Chosen for video-narration use because its register (God's Word / God's World) matches the Tier 1 story's own closing frame, unlike the graphic's more technical panels.",
+      "approval": "Extraction requested by JD, 2026-09-12, for use as video-narration B-roll (WP-BWM-0006); production/content approval not inferred beyond that use."
+    },
+    {
+      "id": "BWM-INFO-CROP-PANEL3",
+      "path": "infographics/crops/panel3-calculated-age.png",
+      "status": "EXTRACTED_DRAFT",
+      "source": "infographics/worldmodel-overview-hexagon.png",
+      "crop_xyxy": [
+        1030,
+        210,
+        1536,
+        610
+      ],
+      "width": 506,
+      "height": 400,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "23bde98cb67e3c5d7fe98a364d57aaa69343fbbf0b2db1fd170bc5f511c735fa",
+      "alt": "\"Calculated Age \u2260 Actual History\" panel: a rock-strata cross-section annotated what we measure now, a model of the past, a calculated age, still an open question.",
+      "notes": "Native-resolution crop of panel 3 from worldmodel-overview-hexagon.png. Chosen for video-narration use because it directly illustrates the story's own core teaching point (a calculated age and an actual history are not automatically the same thing) without the Tier 3 dating-method vocabulary used elsewhere on the source graphic.",
+      "approval": "Extraction requested by JD, 2026-09-12, for use as video-narration B-roll (WP-BWM-0006); production/content approval not inferred beyond that use."
     }
   ],
   "missing_from_supplied_sheet": [

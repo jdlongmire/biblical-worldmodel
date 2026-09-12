@@ -93,10 +93,20 @@ acceptance_criteria:
     reader page; promotion to the site remains a separate, later decision.
   evidence:
     status: pending
-disposition: Opened to record scope and dependencies ahead of production. No
-  narration work has started; Tier 1 source text is approved and available.
-  Acceptance criteria retrofitted 2026-09-12 to match
-  `06-operations/runbooks/site/media.md`'s manifest/transcript/caption/thumbnail
-  convention, discovered on a full repository read-through after the package was
-  first opened.
+disposition: >
+  Opened to record scope and dependencies ahead of production. Acceptance
+  criteria retrofitted 2026-09-12 to match media.md's manifest/transcript/
+  caption/thumbnail convention. In-repo storage established the same day at
+  `media/` (this package's own directory) per the media.md schema, with a
+  media/README.md explaining the convention and the site/docs/media boundary.
+  Three graphics-library crops (header band, "God's Word/God's World" panel,
+  rock-strata "calculated age" panel) extracted from the JD-supplied hexagon
+  infographic for use as narration B-roll -- deliberately not the graphic's
+  more technical panels, matching its own tier-register caveat. Full narration
+  draft written and committed to oddxian-shorts (drafts/biblical-worldmodel-
+  the-story.md, commit 47d773e) per the video-narration skill's mandatory
+  draft-and-approve SOP; a copy lives at media/the-story/draft.md. Two cuts
+  proposed -- full story (~14-15min) or a condensed short (~90s-2min) -- for
+  JD to choose. No content JSON, synthesis, or render exists yet; nothing
+  downstream of the draft starts until JD approves it.
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/9
