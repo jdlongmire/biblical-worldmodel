@@ -1,0 +1,60 @@
+id: WP-BWM-0006
+title: Narrated video adaptation of the Tier 1 story
+status: proposed
+scope_class: repository-local
+supported_workers: []
+worker_conformance: {}
+worker_exceptions: {}
+scope: Produce a narrated short-form video adaptation of the JD-approved Tier 1
+  "the-story" narrative (WP-BWM-0005), using ThinxAI's video-narration pipeline
+  (cloned-voice TTS + Remotion). Covers script derivation from the approved Tier 1
+  text, storyboard scene selection from WP-BWM-0005's visual/storyboard opportunities
+  list, narration synthesis, rendering, and delivery to Console Drive Artifacts for
+  review. Does NOT cover production of the site's responsive visual asset library
+  (WP-BWM-0002), development of Tier 2-4 narrative content (WP-BWM-0005), community
+  or contact features (WP-BWM-0003), or publishing/embedding the finished video on
+  the public site or any external platform (YouTube, TikTok, social).
+authority_boundary: Authorizes drafting a narration script from the JD-approved Tier
+  1 text, generating a narrated video via ThinxAI's existing video-narration skill,
+  and delivering the rendered output to Console Drive Artifacts for review. Does NOT
+  authorize publishing the video to the public site or any external platform, and
+  does NOT authorize treating draft/placeholder graphics-library extracts as
+  production-approved visuals. ThinxHome transition isolation is mandatory,
+  consistent with sibling packages.
+dependencies:
+- WP-BWM-0005 accessible narrative (Tier 1 approved by JD 2026-09-12 — narration source text)
+- WP-BWM-0002 visual assets (production imagery; draft extracts usable as placeholders until this completes)
+actions:
+- Derive a narration script from the approved Tier 1 "the-story" text, preserving its plain-language standard and theological framing.
+- Select and source visuals per WP-BWM-0005's storyboard opportunities list (Adam's mature state, the wine at Cana, the video-game world, starting-state comparison, Creation to Flood to later Earth history), using approved or clearly-marked draft assets.
+- Produce the narrated video via ThinxAI's video-narration pipeline (cloned-voice TTS + Remotion), 9:16 vertical short-form by default.
+- Deliver the rendered output to Console Drive Artifacts for JD review.
+verification: Acceptance is pending; JD reviews the rendered video against the Tier
+  1 language and theological constraints (no human depiction of Christ, no
+  adversarial caricatures, plain-language fidelity) before any publication is
+  considered.
+acceptance_criteria:
+- id: AC-01
+  text: The narration script is derived from the approved Tier 1 text without introducing
+    programme acronyms, technical vocabulary, or claims beyond Tier 1's plain-language
+    standard.
+  model_judged: Requires human review of narrative fidelity and editorial tone; a
+    mechanical check cannot verify plain-language compliance.
+  evidence:
+    status: pending
+- id: AC-02
+  text: No human depiction of Christ appears in any visual used, and visuals respect
+    the theological constraints stated in WP-BWM-0005.
+  model_judged: Requires human/visual review; image-content classification against
+    doctrinal constraints is not scripted.
+  evidence:
+    status: pending
+- id: AC-03
+  text: The rendered output is delivered to Console Drive Artifacts as a valid video
+    file (non-zero duration, correct aspect ratio, no corrupt frames or audio/video
+    desync).
+  evidence:
+    status: pending
+disposition: Opened to record scope and dependencies ahead of production. No
+  narration work has started; Tier 1 source text is approved and available.
+issue: null
