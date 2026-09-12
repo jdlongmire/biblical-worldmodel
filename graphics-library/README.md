@@ -1,6 +1,6 @@
 # Graphics library
 
-Native-resolution crops from the supplied visual asset sheet. All crops are **EXTRACTED_DRAFT**: decomposition is complete; content approval and site integration remain separate. No new artwork was generated.
+Native-resolution crops from the supplied visual asset sheet, plus standalone supplied graphics stored as-is. Crops are **EXTRACTED_DRAFT**: decomposition is complete; content approval and site integration remain separate. Standalone assets are **SUPPLIED_STANDALONE**: not extracted or regenerated, stored exactly as given. No new artwork was generated in either case.
 
 [View catalog](catalog.png) · [Machine-readable manifest](manifest.json)
 
@@ -32,6 +32,7 @@ Native-resolution crops from the supplied visual asset sheet. All crops are **EX
 | [icons/research.png](icons/research.png) | 61 × 62 |
 | [icons/watch.png](icons/watch.png) | 62 × 62 |
 | [icons/ask.png](icons/ask.png) | 64 × 62 |
+| [infographics/worldmodel-overview-hexagon.png](infographics/worldmodel-overview-hexagon.png) | 1536 × 1024 |
 
 ## Source and use
 
@@ -42,5 +43,7 @@ The mobile-labelled source is landscape; a real portrait crop/composition is sti
 `manifest.json` records source hashes, exact crop rectangles (left/top inclusive, right/bottom exclusive), dimensions, output hashes, alt text and limitations. Extracted source pixels are unchanged. Decorative uses should have empty alt text; meaningful images should use context-appropriate descriptions.
 
 No source email, sender information or message body is included. This library contains only the supplied project graphics and decomposition metadata.
+
+`infographics/worldmodel-overview-hexagon.png` is a standalone supplied graphic, not a crop -- see its `manifest.json` entry for the tier-register and unverified-figures caveats JD accepted 2026-09-12 alongside storing it ("high level story"). Those caveats are flagged, not resolved; treat the case-study numbers on that graphic as unverified until checked against primary geochronological sources.
 
 Human-Curated, AI-Enabled (HCAE)

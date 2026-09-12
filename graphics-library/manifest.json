@@ -526,6 +526,21 @@
       "alt": "Ask icon.",
       "notes": "Native-resolution RGB crop; original background preserved. No regeneration, resizing, tracing, or background removal. Raster reference, not SVG; use near native size or replace with an approved vector during implementation.",
       "approval": "Extraction requested by JD, 2026-09-11; production/content approval not inferred."
+    },
+    {
+      "id": "BWM-INFO-OVERVIEW-HEXAGON",
+      "path": "infographics/worldmodel-overview-hexagon.png",
+      "status": "SUPPLIED_STANDALONE",
+      "source": null,
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "c8ee4f2864b367610be6be17eb8542f38e2a7a7d1b8ccc7bcde19e22e4a95136",
+      "alt": "Six-panel hexagonal infographic: The Biblical WorldModel -- Two Sources One Story, The Starting Point Matters, Calculated Age vs Actual History, Two Case Studies, Process Behavior vs Object History, A Fair and Open Inquiry.",
+      "notes": "A complete, standalone composed infographic supplied by JD via chat upload 2026-09-12, not a crop from references/graphics-asset-sheet.png -- unlike every other asset in this library, it has no source sheet and was not extracted or regenerated; the file is stored exactly as supplied. Content review (same date): the graphic's vocabulary (K-Ar/Rb-Sr dating terms, 'auxiliary assumptions') is Tier 3 register per WP-BWM-0005's tier standard, not Tier 1; JD accepted it 2026-09-12 as a high-level overview story rather than requesting a rewrite. Panel 2's naturalistic/BWM comparison columns are not fully symmetric (naturalistic side lists descriptive premises, BWM side includes evaluative conclusions) -- flagged, not corrected here. Panel 4's Mt. St. Helens (350,000-2.8 Ma K-Ar) and Cardenas Basalt (~1.1 Ga) figures have not been verified against primary geochronological sources, which WP-BWM-0005 requires before public use of those specific case studies.",
+      "approval": "Storage authorized by JD, 2026-09-12, accepted as a high-level story; production/public-use disposition for the flagged content items not yet given."
     }
   ],
   "missing_from_supplied_sheet": [
