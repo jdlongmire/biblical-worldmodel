@@ -81,4 +81,4 @@ disposition: >
   mis-numbered requirements.md discovered on a full repository read-through --
   see requirements.md's renumbering note). Status remains backlog; no harvest work
   has started.
-issue: null
+issue: https://github.com/jdlongmire/biblical-worldmodel/issues/10
