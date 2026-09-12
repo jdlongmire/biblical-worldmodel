@@ -1,6 +1,6 @@
 # BWM Epistemic Hierarchy
 
-**Status:** working architecture for BWM narrative, objections, and evidential accounting.  
+**Status:** working architecture for BWM narrative, objections, and evidential accounting. Canonicalization governance transferred to WP-BWM-0006.  
 **Purpose:** distinguish levels of commitment so objections and failed hypotheses are applied to the level they actually address.
 
 ## Hierarchy
@@ -45,6 +45,8 @@ OBSERVATIONS
 ```
 
 Observations are not merely the lowest ideological layer. They are the empirical interface against which predictions, hypotheses, models, and programmes are tested.
+
+For compact classification, the canonicalization candidate uses bottom-up levels: **L0 Observation, L1 Prediction/Test, L2 Auxiliary Hypothesis, L3 Model/Theory, L4 Research Programme, L5 WorldModel, L6 Worldview.**
 
 ## 1. Biblical worldview
 
@@ -153,6 +155,16 @@ Can the physical model survive without it?
 
 Logical falsification and evidential pressure must be distinguished. Failure of CHFM would not logically entail that no Flood occurred. But repeated inability to produce a coherent physical account of a claimed global Flood would create genuine evidential pressure on the BWM interpretation of the Flood.
 
+## Dependency and precommitment
+
+A hierarchy must not become a device for demoting failed claims after the fact.
+
+Working dependency rule:
+
+> **A claim cannot be treated after failure as dispensable if the parent model or programme was previously committed to, or materially dependent upon, that claim.**
+
+Before a severe test where practical, record the claim, its hierarchy level, expected result, parent dependencies, consequences of failure, and what competing frameworks predict or permit. This precommitment limits retrospective movement of claims between levels.
+
 ## Example: Flood hierarchy
 
 ### WorldModel historical claim
@@ -237,13 +249,15 @@ This is the symmetry rule:
 
 Every objection entered into a BWM objections/responses ledger should identify:
 
-1. **Target level:** worldview, WorldModel, research programme, model/theory, auxiliary hypothesis, prediction/test, or observation/interpretation.
+1. **Target level:** L0–L6 / observation, prediction/test, auxiliary hypothesis, model/theory, research programme, WorldModel, or worldview.
 2. **Target claim:** the exact proposition under challenge.
 3. **Evidence:** the observation, argument, calculation, or source supporting the objection.
 4. **Dependency:** which higher-level claims actually depend on the challenged claim.
 5. **Severity:** local, material, major, or potentially programme-threatening.
 6. **Current disposition:** unanswered, partially answered, answered, auxiliary retired, model revised, model rejected, or escalated.
 7. **Upward consequence:** what evidential pressure, if any, propagates to higher levels.
+8. **Precommitment:** where one existed before the test.
+9. **Operator disposition:** where canonical or programme status is changed.
 
 An objection must not be represented as falsifying a higher level unless the dependency is shown.
 
@@ -285,6 +299,26 @@ WorldModel interpretation
 
 This prevents two opposite errors: allowing lower-level models to silently rewrite the project's revealed starting commitments, and insulating those models from evidence merely because they were built under a biblical WorldModel.
 
+## Operator governance
+
+An **Operator** is an authorized human steward empowered to disposition BWM artifacts, interpretations, models, methodological changes, or canonical status within an explicitly assigned scope.
+
+**J. D. Longmire is the Principal Operator for the Biblical WorldModel**, holding BWM-wide disposition authority. Other human collaborators may be designated **Collaborator Operators** with explicitly recorded scopes. Contribution or review alone does not imply Operator authority.
+
+AI systems may research, draft, test, classify, critique, and recommend. They do not independently confer canonical status.
+
+Operator disposition states are:
+
+- **ACCEPT**
+- **ACCEPT-WITH-CONDITIONS**
+- **REVISE**
+- **HOLD**
+- **REJECT**
+- **RETIRE**
+- **SUPERSEDE**
+
+Canonicalization governance, scope rules, disposition records, cross-programme validation, symmetry testing, and adversarial testing are owned by **WP-BWM-0006 — Canonical Epistemic Hierarchy and Claim-Level Evaluation**.
+
 ## Graphic requirement
 
 Develop a site graphic titled **BWM Epistemic Hierarchy** showing:
@@ -300,6 +334,6 @@ This graphic should be decomposable/responsive rather than a single text-heavy p
 
 ## Canonical-development note
 
-This artifact defines working BWM methodological architecture. It should be cross-referenced with the DFM/CHFM objections ledgers, DFM-vs-UTE comparative ledger, Atlas programme assignments, and methodology page before being promoted as canonical methodology.
+This artifact remains the narrative-development source. Canonicalization work has been separated into `WP-BWM-0006-canonical-epistemic-hierarchy/` so methodology can be validated and dispositioned independently of the public narrative.
 
 Human-Curated, AI-Enabled (HCAE)
