@@ -1,0 +1,32 @@
+/* Mobile landing hero: keep the message visible earlier in the first viewport. */
+@media (max-width: 760px) {
+  .landing .hero {
+    min-height: 650px;
+  }
+
+  .landing .hero-inner {
+    min-height: 650px;
+    padding: 145px 24px 28px;
+    justify-content: flex-start;
+  }
+
+  .landing .hero-landscape {
+    height: 100%;
+    object-position: 60% 40%;
+  }
+
+  .landing .hero-wash {
+    background:
+      linear-gradient(0deg, rgba(8,46,70,.98) 0%, rgba(8,46,70,.94) 58%, rgba(8,46,70,.68) 78%, rgba(8,46,70,.18) 100%);
+  }
+
+  .landing .hero-copy {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 420px) {
+  .landing .hero-inner {
+    padding-top: 120px;
+  }
+}
