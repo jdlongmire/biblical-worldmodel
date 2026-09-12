@@ -22,6 +22,7 @@ theme:
 nav:
 - Home: index.md
 - Start Here: start-here.md
+- The Story: the-story.md
 - Scripture: scripture.md
 - Evidence: evidence.md
 - Methodology: methodology.md
