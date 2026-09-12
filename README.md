@@ -108,6 +108,7 @@ See the [publication and recovery runbook](06-operations/runbooks/site/publicati
 | [0006: Video narration](04-work-packages/WP-BWM-0006-video-narration/README.md) | Proposed; opened once Tier 1 was approved | Script, storyboard, render, and the media.md provenance set; no production started |
 | [0007: Ross/RTB DFM harvest](04-work-packages/WP-BWM-0007-ross-dfm-harvest/README.md) | Proposed backlog | Source-family survey and primary-trace harvest; no work started |
 | [0008: Guarded chat interface](04-work-packages/WP-BWM-0008-chat-interface/README.md) | Proposed | OWASP LLM Top 10 threat model, architecture decision, guardrails, independent security review before any live activation |
+| [0009: Canonical epistemic hierarchy](04-work-packages/WP-BWM-0009-canonical-epistemic-hierarchy/README.md) | Active / proposed for canonicalization | Cross-programme, symmetry, and adversarial validation; Operator disposition; canonical artifact and Tier 2/3 explanation |
 
 Package records own detailed scope and evidence. Narration remains deferred until source content and graphics are approved; [media conventions](06-operations/runbooks/site/media.md) define the future provenance, transcript and caption requirements — WP-BWM-0006 is scoped to produce that exact set without promoting it into the live site.
 

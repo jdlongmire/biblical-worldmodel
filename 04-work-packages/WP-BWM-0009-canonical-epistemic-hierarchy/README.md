@@ -1,6 +1,6 @@
-# WP-BWM-0006 — Canonical Epistemic Hierarchy and Claim-Level Evaluation
+# WP-BWM-0009 — Canonical Epistemic Hierarchy and Claim-Level Evaluation
 
-**Status:** active / proposed for canonicalization.  
+**Status:** active / proposed for canonicalization. Renumbered from WP-BWM-0006 on 2026-09-12 -- that ID collided with WP-BWM-0006-video-narration (opened earlier the same day), found on push. Scope unchanged.  
 **Purpose:** promote the working BWM epistemic hierarchy into governed canonical methodology after cross-programme, symmetry, and adversarial validation.
 
 ## Objective
@@ -11,7 +11,7 @@ The working source is currently:
 
 `../WP-BWM-0005-accessible-narrative/bwm-epistemic-hierarchy.md`
 
-WP-BWM-0006 owns the methodology-governance and canonicalization work. WP-BWM-0005 retains the narrative/public-explanation work.
+WP-BWM-0009 owns the methodology-governance and canonicalization work. WP-BWM-0005 retains the narrative/public-explanation work.
 
 ## Proposed canonical levels
 

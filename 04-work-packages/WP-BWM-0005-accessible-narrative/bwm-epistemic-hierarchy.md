@@ -1,6 +1,6 @@
 # BWM Epistemic Hierarchy
 
-**Status:** working architecture for BWM narrative, objections, and evidential accounting. Canonicalization governance transferred to WP-BWM-0006.  
+**Status:** working architecture for BWM narrative, objections, and evidential accounting. Canonicalization governance transferred to WP-BWM-0009 (renumbered from WP-BWM-0006 on 2026-09-12 to resolve a collision).  
 **Purpose:** distinguish levels of commitment so objections and failed hypotheses are applied to the level they actually address.
 
 ## Hierarchy
@@ -317,7 +317,7 @@ Operator disposition states are:
 - **RETIRE**
 - **SUPERSEDE**
 
-Canonicalization governance, scope rules, disposition records, cross-programme validation, symmetry testing, and adversarial testing are owned by **WP-BWM-0006 — Canonical Epistemic Hierarchy and Claim-Level Evaluation**.
+Canonicalization governance, scope rules, disposition records, cross-programme validation, symmetry testing, and adversarial testing are owned by **WP-BWM-0009 — Canonical Epistemic Hierarchy and Claim-Level Evaluation**.
 
 ## Graphic requirement
 
@@ -334,6 +334,6 @@ This graphic should be decomposable/responsive rather than a single text-heavy p
 
 ## Canonical-development note
 
-This artifact remains the narrative-development source. Canonicalization work has been separated into `WP-BWM-0006-canonical-epistemic-hierarchy/` so methodology can be validated and dispositioned independently of the public narrative.
+This artifact remains the narrative-development source. Canonicalization work has been separated into `WP-BWM-0009-canonical-epistemic-hierarchy/` so methodology can be validated and dispositioned independently of the public narrative.
 
 Human-Curated, AI-Enabled (HCAE)
