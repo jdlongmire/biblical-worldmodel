@@ -54,7 +54,7 @@ markdown_extensions:
 extra_css:
 - styles/site.css
 - styles/link-contrast.css
-- styles/mobile-hero-fix.css
+- styles/mobile-hero-v2.css
 extra_javascript:
 - javascripts/mathjax.js
 - https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
