@@ -69,26 +69,53 @@ architecture_recommendation: >
   high-volume simple tasks) as the cost-optimized candidate, Claude 3.5 Haiku
   (~$0.80/M input tokens) as the reliability-optimized candidate given this
   ecosystem's existing trust in Claude's instruction-following and its
-  relevance to guardrail adherence specifically. DeepSeek V3 and other
-  near-zero-cost models are noted as available but not recommended as a
-  starting point given this feature's premium on reliable refusal behavior
-  under adversarial input; if cost pressure warrants it, they remain a fallback
-  worth testing later. Do not pre-commit to one model -- run AC-03's
-  adversarial prompt set against both shortlisted candidates and let the
-  result decide. Retrieval: no hosted vector database. The corpus is 19 pages;
+  relevance to guardrail adherence specifically. Per JD's direction
+  2026-09-12, add a third, nontraditional-provider tier to the same
+  red-team pool rather than defaulting to the big commercial labs: DeepSeek V3
+  (~$0.01/M input tokens, verified cheap, not yet verified for guardrail
+  adherence here) as the cost-floor candidate, plus current Llama, Qwen or
+  Mistral open-weight releases as worth surveying at implementation time --
+  named generically rather than pinned to a specific version now, since the
+  open-weight leaderboard moves faster than this document should be re-edited
+  to track it. This tier is not pre-favored or pre-excluded relative to the
+  commercial candidates: its appeal (cost, reduced dependence on a small
+  number of frontier labs) is real, but its guardrail/refusal-fidelity under
+  adversarial input is unverified here and must clear the same AC-03
+  adversarial-prompt-set bar as Gemini and Claude before selection, not a
+  lower one. One nontraditional-specific check: OpenRouter often serves the
+  same open-weight model through several different backend inference
+  providers with different data-retention/training policies (some free/cheap
+  routes explicitly log or train on prompts) -- OWASP LLM03 supply-chain due
+  diligence here means pinning a specific provider route with a stated
+  no-training data policy, not just picking the cheapest route for a given
+  model. Do not pre-commit to one model or tier -- run AC-03's adversarial
+  prompt set against all shortlisted candidates and let the result decide.
+  Retrieval: no hosted vector database. The corpus is 19 pages;
   compute embeddings once at build time and ship them as a static JSON asset
   the Worker searches in-memory, which removes OWASP LLM08 (vector/embedding
   weaknesses) as a category by not having a separately-hosted, separately-
   securable index at all. Bot mitigation: Cloudflare Turnstile (native to the
-  same platform). Additional rate-limit state: Workers KV, per-session/per-IP,
-  layered on top of AI Gateway's own limits rather than relying on either
-  alone.
+  same platform). Rate limiting: prefer Cloudflare's native Rate Limiting
+  Rules over a hand-rolled Workers KV counter -- confirmed against Cloudflare's
+  own pricing docs 2026-09-12, the KV free tier caps at 1,000 writes/day,
+  which a naive per-message counter could hit on an ordinary busy day (or
+  ironically during the abuse burst the limiter exists to stop), whereas the
+  native product doesn't consume that quota. Reserve KV, if used at all, for
+  lighter bookkeeping rather than the limiter's own state. Cost ceiling: two
+  independent caps, not a forecast -- an AI Gateway budget alert and the
+  dedicated OpenRouter key's own spend limit (AC-08), both starting around
+  $10-20/month, tuned upward from real post-launch usage data rather than a
+  pre-launch traffic estimate. Fixed infrastructure cost at this site's scale
+  is effectively zero: Workers free tier (100K requests/day) and AI Gateway's
+  core features (rate limiting, caching, analytics) are both free on every
+  Cloudflare plan, confirmed against Cloudflare's own pricing pages
+  2026-09-12.
 actions:
 - Threat-model the feature against the OWASP Top 10 for LLM Applications (2025) -- prompt injection, sensitive information disclosure, supply chain, data/model poisoning, improper output handling, excessive agency, system prompt leakage, vector/embedding weaknesses, misinformation, unbounded consumption -- with a specific, named mitigation for each category.
 - Confirm the architecture_recommendation above with JD (Cloudflare Workers + AI Gateway + OpenRouter, static build-time retrieval index, dedicated spend-limited OpenRouter key); document any changes before provisioning anything.
 - Confirm current OpenRouter pricing for the shortlisted model candidates directly at openrouter.ai/models, since the figures recorded here came from secondary aggregators, not OpenRouter's own page.
 - Define a guardrail system prompt and content-scope policy: answers grounded only in the site's own published pages, explicit citations/links back to source pages, refusal of off-topic/pastoral-counseling/doctrinal-authority requests, and a plain statement of uncertainty wherever the site itself states uncertainty.
-- Define abuse controls: per-session/per-IP rate limits (Workers KV), a hard cost ceiling with an automatic kill-switch (AI Gateway budget alerts plus the OpenRouter key's own spend limit as a second layer), bot mitigation (Cloudflare Turnstile), and abuse-pattern logging that does not over-collect visitor PII.
+- Define abuse controls: per-session/per-IP rate limits via Cloudflare's native Rate Limiting Rules (not a hand-rolled KV counter, which the free tier's 1,000-writes/day cap makes a poor fit), a starting $10-20/month cost ceiling enforced twice (AI Gateway budget alert and the OpenRouter key's own spend limit), bot mitigation (Cloudflare Turnstile), and abuse-pattern logging that does not over-collect visitor PII.
 - Define output handling: sanitize rendered model output against injection/XSS before it reaches the page.
 - Build a non-public prototype (Workers + AI Gateway + OpenRouter, both shortlisted models) and red-team it against the threat model (prompt-injection attempts, guardrail-extraction attempts, cost-abuse simulation) before any live-activation request.
 verification: >
@@ -118,7 +145,7 @@ acceptance_criteria:
   evidence:
     status: pending
 - id: AC-04
-  text: Abuse controls (rate limit, cost ceiling, bot mitigation) are implemented and demonstrated under a simulated abuse run before any public exposure.
+  text: Abuse controls (native rate limiting, the $10-20/month cost ceiling enforced at both the AI Gateway and OpenRouter layers, bot mitigation) are implemented and demonstrated under a simulated abuse run before any public exposure.
   evidence:
     status: pending
 - id: AC-05
@@ -139,10 +166,14 @@ disposition: >
   Opened 2026-09-12 at JD's request. Proposed; no design or provisioning work
   started. A recommended architecture (Cloudflare Workers + AI Gateway,
   JD's OpenRouter account via a dedicated spend-limited key, static build-time
-  retrieval index) was captured the same day per JD's direction to leverage
-  his OpenRouter account for an inexpensive model; it is a recommendation
-  pending his confirmation, not yet acted on. Live public activation is
-  explicitly out of scope until architecture is confirmed, the threat model
-  and guardrails are implemented, and an independent security review is
-  complete.
+  retrieval index, native Rate Limiting Rules over hand-rolled KV, a
+  $10-20/month starting cost ceiling enforced twice, and a three-tier model
+  candidate shortlist spanning commercial and nontraditional/open-weight
+  providers) was captured the same day, refined across the same conversation
+  as JD asked about PeakAI hosting (declined -- see architecture_recommendation
+  for the blast-radius and guardrail-tooling reasoning), cost sanity, and
+  nontraditional providers in turn. It remains a recommendation pending JD's
+  confirmation, not yet acted on. Live public activation is explicitly out of
+  scope until architecture is confirmed, the threat model and guardrails are
+  implemented, and an independent security review is complete.
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/11
