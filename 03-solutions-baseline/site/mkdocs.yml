@@ -37,6 +37,9 @@ nav:
 - Open Problems: open-problems.md
 - Research Programmes: research-programmes.md
 - Publications:
+  - Articles:
+    - Overview: publications/articles/index.md
+    - Life Is More Than Its Parts: publications/articles/denis-noble-reductionist-biology.md
   - Responses:
     - Overview: publications/responses/index.md
     - Do Fossil Footprints Falsify Flood Geology?: publications/responses/fossil-footprints-flood-geology.md
