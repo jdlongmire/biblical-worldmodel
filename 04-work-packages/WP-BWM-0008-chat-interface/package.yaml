@@ -97,4 +97,4 @@ disposition: >
   Opened 2026-09-12 at JD's request. Proposed; no design work started. Live
   public activation is explicitly out of scope until architecture, threat
   model, guardrails, and an independent security review are all in place.
-issue: null
+issue: https://github.com/jdlongmire/biblical-worldmodel/issues/11
