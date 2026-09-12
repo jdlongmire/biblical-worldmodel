@@ -1,6 +1,6 @@
 # Biblical WorldModel website
 
-MkDocs Material with a custom responsive landing page matching the supplied design references. The landing page lives in `overrides/home.html`; styling is in `docs/styles/site.css`. Reader pages are editable Markdown under `docs/`. `mkdocs.yml` owns navigation and theme configuration.
+MkDocs Material with a custom responsive landing page matching the supplied design references. The landing page lives in `overrides/home.html`; base styling is in `docs/styles/site.css`, with ordered overrides selected through `extra_css` in `mkdocs.yml`. The homepage renders that same configured list. Reader pages are editable Markdown under `docs/`. `mkdocs.yml` owns navigation and theme configuration.
 
 ## Build
 
@@ -17,7 +17,7 @@ The complete build dependency set is pinned in `requirements.txt`. MkDocs remain
 
 ## Publication
 
-GitHub Actions builds on relevant changes to `main`, runs strict-build and link checks, uploads the artifact, then deploys using the Pages environment. Pull requests build but cannot deploy. A failed build leaves the previous deployment intact. Pages uses its own GitHub-hosted runner and the default `jdlongmire.github.io/biblical-worldmodel/` address. No Home service, runner, DNS, environment or credential configuration is involved.
+GitHub Actions builds on relevant changes to `main`, runs strict-build and link checks, uploads the artifact, then deploys using the Pages environment. Pull requests build but cannot deploy. A failed build leaves the previous deployment intact. Pages uses its own GitHub-hosted runner and the canonical `https://worldmodel.thinxai.net/` address. No Home service, runner, DNS, environment or credential configuration is involved.
 
 The workflow's optional `negative_control=true` dispatch intentionally fails the build job; use it to verify that the deployment job is skipped. The normal input is false.
 
@@ -27,7 +27,7 @@ The build hook copies selected `graphics-library/` asset folders into the publis
 
 `docs/assets/favicon.png` and `docs/assets/apple-touch-icon.png` are a square navy/cream monogram cropped and recolored directly from the "T" glyph in `graphics-library/branding/wordmark.png` — no new brand artwork was generated.
 
-`docs/assets/oddxian-badge.png` is the oddXian portfolio mark supplied directly by J. D. Longmire, cropped to its circular emblem with a transparent surround (no new artwork generated) so it reads cleanly on both the landing page's light header and Material's navy reader-page header. It appears in the top bar of every page — via `overrides/home.html` on the landing page, and via `overrides/partials/header.html` (a full override of Material's default header, not just `partials/source.html`, because Material hides `.md-header__source` below its desktop breakpoint and the badge needs to stay visible on mobile too) for the 17 reader pages — as a link to `https://oddxian.com`, marking this site as a component of the oddXian portfolio.
+`docs/assets/oddxian-badge.png` is the oddXian portfolio mark supplied directly by J. D. Longmire, cropped to its circular emblem with a transparent surround (no new artwork generated) so it reads cleanly on both the landing page's light header and Material's navy reader-page header. It appears in the top bar of every page — via `overrides/home.html` on the landing page, and via `overrides/partials/header.html` (a full override of Material's default header, not just `partials/source.html`, because Material hides `.md-header__source` below its desktop breakpoint and the badge needs to stay visible on mobile too) for reader pages — as a link to `https://oddxian.com`, marking this site as a component of the oddXian portfolio.
 
 ## SEO and metadata
 
@@ -35,10 +35,10 @@ The Open Graph/Twitter Card tags in `overrides/home.html` and the site-wide `ext
 
 ## Browser verification
 
-Install `playwright==1.62.0` in a separate verification environment and use an available Chromium binary. `scripts/verify-browser.py` currently uses `/usr/bin/chromium` and checks four viewports, navigation, images, search, and mathematical rendering:
+Install `playwright==1.62.0` in a separate verification environment and use an available Chromium binary. `scripts/verify-browser.py` currently uses `/usr/bin/chromium` and checks nine viewports (320–1440px), navigation, mobile hero spacing, images, search, and mathematical rendering. From this site directory, with the verification environment active:
 
 ```sh
-python scripts/verify-browser.py --output /tmp/bwm-browser-evidence
+python scripts/verify-browser.py --url https://worldmodel.thinxai.net/ --output /tmp/bwm-browser-evidence
 ```
 
 Its optional `--built-root` and `--url` arguments intercept requests in the browser for a local artifact check; no local HTTP service is started. MathJax 3.2.2 is loaded from jsDelivr. Landing-page navigation works without this dependency; mathematics on reader pages requires the CDN script.

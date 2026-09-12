@@ -4,4 +4,4 @@ Edit the product repository on an isolated branch, run the documented site check
 
 If a build fails, diagnose its logs; do not bypass checks. The deploy job requires the build job. A workflow dispatch with negative_control enabled is a deliberate failure test, not a production incident.
 
-Recover a bad published page with a reviewed forward corrective commit, or a new revert commit targeting the specific product change, under the operator's applicable authorization. Do not rewrite history, change Home services, or rotate shared credentials. GitHub Pages uses its default domain; custom DNS is not configured.
+Recover a bad published page with a reviewed forward corrective commit, or a new revert commit targeting the specific product change, under the operator's applicable authorization. Do not rewrite history, change Home services, or rotate shared credentials. The canonical public URL is https://worldmodel.thinxai.net/, hosted through GitHub Pages. `03-solutions-baseline/site/mkdocs.yml` owns `site_url`; verify canonical and social metadata against that domain after publication.
