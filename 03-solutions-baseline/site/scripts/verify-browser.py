@@ -29,6 +29,10 @@ with sync_playwright() as p:
         page.locator('img').evaluate_all('(images)=>images.forEach(i=>i.loading="eager")')
         page.wait_for_function('Array.from(document.images).every(i=>i.complete && i.naturalWidth>0)')
         assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),label
+        if width<=760:
+            hero=page.locator('.hero-inner')
+            padding=float(hero.evaluate('(e)=>parseFloat(getComputedStyle(e).paddingTop)'))
+            assert padding<=80, f'{label}: mobile hero copy starts too low ({padding}px)'
         assert page.locator('h1').count()==1
         assert page.locator('.audience-card').count()==4
         assert page.locator('img').evaluate_all('(images)=>images.every(i=>i.hasAttribute("alt"))')

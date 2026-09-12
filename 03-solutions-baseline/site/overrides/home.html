@@ -48,7 +48,9 @@
   ]
 }
 </script>
-<link rel="stylesheet" href="{{ 'styles/site.css' | url }}">
+{% for stylesheet in config.extra_css %}
+<link rel="stylesheet" href="{{ stylesheet | url }}">
+{% endfor %}
 </head><body class="landing">
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><div class="header-inner">
