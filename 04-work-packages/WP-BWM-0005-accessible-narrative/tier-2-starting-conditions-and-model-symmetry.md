@@ -176,7 +176,31 @@ Instead evaluate:
 
 Operational science itself receives no partisan credit merely because a historical model uses it. Repeatable physical regularities are common evidence available to competing reconstructions.
 
-## 12. Tier placement
+## 12. A fortiori reasoning from engineered systems
+
+Code, computation, and procedural-generation analogies should be used as **a fortiori** reasoning, classically expressed as reasoning **from the lesser to the greater**. They are analogical reference cases, not claims that biology or the universe is literally computer software running on hardware.
+
+Human-engineered computational ecosystems provide a known lesser case. Even comparatively modest systems require coordinated logic, information, state, execution, interfaces, feedback, memory, timing, error handling, and control. Functional specification may also be distributed across databases, executable components, configuration, runtime state, services, orchestration, and environmental inputs rather than residing in a single code repository.
+
+This matters when evaluating biological information. Showing that DNA does not contain a complete executable programme for constructing an organism does not eliminate the explanatory problem of biological organization. It relocates the question to the larger developmental system: DNA, cellular machinery, regulatory state, RNA processing, molecular gradients, feedback networks, intercellular signalling, spatial organization, and environmental interaction.
+
+Working principle:
+
+> **Distributed specification is still specification.**
+
+A second formulation suitable for Tier 2 development:
+
+> **Failure to locate organismal specification entirely in DNA does not eliminate biological information. It relocates the explanatory problem from sequence to system.**
+
+The a fortiori argument should be stated carefully:
+
+> **If our comparatively simple engineered systems require coordinated logic, information, execution, state, and control to achieve functional integration, how much greater is the explanatory burden presented by biological and cosmic systems whose integrated complexity exceeds our engineering capabilities by orders of magnitude?**
+
+This does not by itself prove that the greater system has the same causal origin as the lesser engineered case. The relevant shared properties must be established before a design inference is warranted. The analogy therefore supplies a legitimate explanatory reference class and exposes the scale of the problem; it should not be treated as a deductive shortcut to design.
+
+For DFM, procedural generation belongs in this same category. A procedurally generated environment can begin in a coherent, functionally mature state whose realized condition is distributed across rules, parameters, seeds, algorithms, libraries, runtime state, and environmental constraints. No single file need contain a point-by-point description of the realized world. This makes procedural generation a useful technological reference framework for reasoning about initialization and retrodictive history without asserting that creation literally used a human computational mechanism.
+
+## 13. Tier placement
 
 These distinctions belong primarily in **Tier 2: How the Idea Works** and **Tier 3: The Research Programmes**.
 
@@ -189,6 +213,7 @@ Do not add this methodological machinery back into the approved Tier 1 story. Ti
 - Develop the Mt. St. Helens / Cardenas easy-case-hard-case study with primary-source verification before public publication.
 - Cross-reference the DFM objections/responses ledger and radiometric work.
 - Cross-reference the broader DFM-vs-UTE comparative ledger so the symmetry principle is applied consistently.
+- Develop the a fortiori engineered-systems argument as a Tier 2 apologetic/explanatory note, with explicit safeguards against treating computational analogy as ontological identity.
 - Evaluate a simple visual: **starting state → lawful history → present observations**, with competing starting states shown without prejudicial labels.
 
 Human-Curated, AI-Enabled (HCAE)
