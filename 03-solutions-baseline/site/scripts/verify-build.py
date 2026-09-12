@@ -3,6 +3,7 @@
 from pathlib import Path
 import shutil,subprocess,sys,tempfile
 site=Path(__file__).resolve().parents[1]
+subprocess.run([sys.executable,str(site/'scripts/test-verify-assets.py')],check=True)
 with tempfile.TemporaryDirectory(prefix='bwm-build-') as td:
     output=Path(td)/'site'
     subprocess.run([sys.executable,'-m','mkdocs','build','--strict','-f',str(site/'mkdocs.yml'),'-d',str(output)],check=True)
