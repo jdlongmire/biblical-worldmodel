@@ -26,3 +26,7 @@ Human-Curated, AI-Enabled (HCAE)
 ## Canonical-domain correction verified, 2026-09-12
 
 The verifier correction is deployed and live canonical/social metadata checks pass; see [retained evidence](canonical-domain-fix.md). Landing-page search, mobile navigation and MathJax also passed live checks. The subsequently identified tablet overflow is now resolved and verified live at nine viewport widths; see [tablet correction evidence](tablet-overflow-fix.md).
+
+## Homepage mobile styles, 2026-09-12
+
+Captured and resolved BWM-HOME-01 (configured styles omitted by the homepage) and BWM-HOME-02 (missing verification coverage). Mobile hero v2 is now active, with hosted build and live nine-width browser verification passing. See [issue and deployment record](home-styles-integration.md).

@@ -22,6 +22,11 @@ In the isolated product worktree, using `/tmp/bwm-site-tools-20260911`:
 - `scripts/verify-browser.py --url https://worldmodel.thinxai.net/ --built-root /tmp/bwm-styles-build --output /tmp/bwm-styles-preview` checks nine viewports, menu behavior, hero spacing, search, MathJax, images and reader routes.
 - Mobile screenshot inspected: copy appears near the top of the hero and both primary actions are visible without the former large leading gap.
 
-Publication and live verification follow the implementation commit. No DNS, Home runtime or narrative-content changes.
+## Disposition
+
+Both BWM-HOME-01 and BWM-HOME-02 are resolved. Implementation `4ff9a4f3308fe12c185a805bc0175cbc4c1d7d10` deployed in [successful Actions run 34687531623](https://github.com/jdlongmire/biblical-worldmodel/actions/runs/34687531623).
+
+The full browser suite passed against `https://worldmodel.thinxai.net/` at all nine widths, including mobile hero top padding at or below 80px, no overflow, navigation, search, MathJax and reader routes, with no JavaScript or HTTP errors. Initial concurrent browser probes hit local thread/resource limits; a sequential rerun passed. The earlier local preview suite also passed. Deployment success is supported by actual live behavior, not only the workflow result.
+ No DNS, Home runtime or narrative-content changes.
 
 Human-Curated, AI-Enabled (HCAE)
