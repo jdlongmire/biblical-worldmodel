@@ -1,147 +1,110 @@
 # Accessible Biblical WorldModel narrative
 
-**WP-BWM-0005 — proposed.**
+**WP-BWM-0005 — active narrative development.**
 
-Develop a public-facing narrative that explains the Biblical WorldModel in accessible, progressively disclosed language before introducing the deeper technical programmes. The narrative should serve seekers, serious lay readers, deep thinkers, skeptics/reviewers, and later narrated-media production.
+Develop the public-facing Biblical WorldModel narrative through progressive disclosure. A first-time visitor should be able to understand the basic story before encountering research-programme names, technical vocabulary, repository architecture, or formal evidential accounting.
 
 ## Objective
 
-Create a coherent story of the Biblical WorldModel that a first-time visitor can follow from first principles through deeper research without needing prior familiarity with DFM, CHFM, TRT, LRT, or the repository architecture.
+Create a coherent story that begins in very plain language and provides clear paths into deeper explanation, research programmes, objections, and canonical technical work.
 
-The narrative should answer, in plain language:
+The front-door narrative is now governed by the reviewed **Tier 1 very-plain-language standard**. See [`narrative-tiers.md`](narrative-tiers.md). The current reviewed candidate is [`tier-1-plain-language-candidate.md`](tier-1-plain-language-candidate.md).
 
-1. What question is the Biblical WorldModel trying to answer?
-2. Why distinguish observation from interpretation and historical reconstruction?
-3. What does Scripture actually commit us to?
-4. Why does functional maturity matter?
-5. How does catastrophic Earth history fit into the model?
-6. How should cosmology, biology, and foundational questions be approached?
-7. How do the formal research programmes fit together?
-8. What remains uncertain or unresolved?
-9. What would count against the model?
-10. Where can a skeptical or technical reader go deeper?
+## Core public questions
 
-## Narrative architecture
+Tier 1 should leave the reader able to understand and repeat two questions:
 
-The first implementation should support progressive disclosure across five layers.
+1. **How much was already there when God made the world?**
+2. **What happened after that?**
 
-### Layer 1: Orientation
+The central teaching distinction is that working backward from what we measure today can tell us how long a process would take **if that process made what we see**. The calculation alone does not always establish that the calculated history actually happened.
 
-Audience: seeker or first-time visitor.
+## Progressive narrative architecture
 
-Core message:
+The detailed language rules live in `narrative-tiers.md`.
 
-- Scripture and nature describe one reality.
-- Observations are real; historical reconstructions interpret them.
-- The Biblical WorldModel asks whether Scripture and observation can be understood coherently without assuming that prevailing historical models are the only admissible interpretation.
-- The project welcomes scrutiny and does not claim every problem is solved.
+### Tier 1 — The Story
 
-Avoid technical programme acronyms at this layer.
+Audience: seeker, first-time visitor, mixed biblical literacy, general reader.
 
-### Layer 2: The story of the model
+Very plain language. Concrete examples first. No programme acronyms or formal model names in the narrative body. The core pictures are Adam, the wine Jesus made at Cana, a scientist inside a newly generated video-game world, the world's later development, and Noah's Flood.
 
-Audience: serious lay reader.
+### Tier 2 — How the Idea Works
 
-Explain the model as a sequence:
+Audience: interested general reader / high-school graduate ready to go deeper.
 
-1. Reality is created and intelligible.
-2. Creation begins in a functionally sufficient state.
-3. Ordinary lawful operation follows initialization.
-4. Retrodictive calculations can describe a mathematically coherent past without, by themselves, proving that every reconstructed state was historically traversed.
-5. Earth history includes catastrophic disruption associated with the biblical Flood.
-6. Post-catastrophic processes normalize into the world we observe.
-7. Cosmology, biology, geology, and chronology are interpreted within that broader historical architecture.
+Explain the concepts first, then introduce names such as Designed Functional Maturity, procedural generation, starting conditions, historical reconstruction, and Flood-model work.
 
-### Layer 3: Why the model exists
+### Tier 3 — The Research Programmes
 
-Audience: curious and analytical reader.
+Audience: deep thinker, skeptic, reviewer, technically literate reader.
 
-Explain:
+Expose DFM, CHFM, TRT/LRT, cosmology work, radiometric work, objections ledgers, open problems, falsification controls, evidential/Bayesian accounting, and canonical status.
 
-- observation versus inference;
-- operational regularity versus origin/history extrapolation;
-- initialization versus antecedent-generation assumptions;
-- functional maturity;
-- reconstruction and retrodiction;
-- model comparison rather than slogan-level old-earth/young-earth debate;
-- evidential debits, anomalies, auxiliaries, and falsification.
+### Tier 4 — Canonical Research
 
-### Layer 4: Research-programme map
+Audience: researcher, specialist reviewer, formal critic.
 
-Audience: deep thinker.
+No artificial reading-level constraint. Route to canonical repositories for equations, formal arguments, calculations, code, datasets, primary literature, severe tests, detailed objections, and programme provenance.
 
-Introduce the formal programmes only after the conceptual story is clear:
+## Tier 1 language standard
 
-| Programme | Narrative role |
-|---|---|
-| DFM | initialization, functional maturity, and historical inference |
-| CHFM | catastrophic Flood geophysics and Earth-history reconstruction |
-| TRT | foundational ontology of logic, information, action, and actuality |
-| LRT | formal logical-constraint work within the broader ontology |
-| Cosmology programmes | development of creation/deployment models and discriminators |
-| Other companion programmes | linked according to current Atlas assignments |
+Tier 1 is frozen to the following editorial posture unless JD changes it:
 
-Each programme should be described in plain language first and linked to its canonical repository for technical detail.
-
-### Layer 5: Skeptic/reviewer path
-
-Audience: technically sophisticated critic or reviewer.
-
-Expose directly:
-
-- strongest objections;
-- what each objection gets right;
-- current response maturity;
-- evidential debits;
-- open problems;
-- failed/retired auxiliaries;
-- falsification criteria;
-- Bayesian/comparative status where available;
-- canonical technical sources.
+- target very plain language, approximately grade 5–6 ceiling where practical;
+- use everyday words first;
+- prefer one idea per sentence;
+- put concrete pictures before abstract explanation;
+- assume no training in theology, philosophy, geology, cosmology, or philosophy of science;
+- briefly explain biblical scenes rather than assuming familiarity;
+- avoid programme acronyms/model names;
+- avoid specialist terms such as `retrodiction`, `epistemology`, `falsification`, `hydrotectonic`, `Bayesian`, and `initialization`;
+- use `God's Word` and `God's world` rather than requiring `special revelation` / `natural revelation` vocabulary;
+- describe the video-game mechanism in ordinary language rather than requiring `procedural generation`;
+- explain scientific dating in ordinary terms;
+- keep the Bible's authority explicit;
+- state uncertainty plainly;
+- do not turn the front-door narrative into a research catalogue.
 
 ## Primary narrative deliverables
 
-1. **Core narrative essay** — approximately 1,500–2,500 words, readable in one sitting.
-2. **Short narrative** — approximately 500–800 words for `Start Here` or homepage-adjacent use.
-3. **One-paragraph summary** — suitable for metadata, introductions, and external links.
-4. **Reader-journey variants** — seeker, curious mind, deep thinker, skeptic/reviewer.
-5. **Programme transition copy** — language that moves readers from accessible narrative into DFM, CHFM, TRT/LRT, and other canonical work.
-6. **Open-problems transition** — explicit explanation that unresolved problems are part of the research programme rather than hidden exceptions.
-7. **Narration-ready script basis** — structured source text suitable for later ThinxAI video narration artifacts.
-8. **Graphic storyboard** — identify where diagrams/infographics materially improve comprehension.
+1. **Tier 1 core story** — reviewed very-plain-language narrative.
+2. **Tier 1 short form** — approximately 500–800 words for `Start Here` or homepage-adjacent use.
+3. **One-paragraph summary** — metadata, introductions, and external links.
+4. **Tier 2 explainer** — high-school-graduate-level bridge into the research vocabulary.
+5. **Reader-journey variants** — seeker, curious mind, deep thinker, skeptic/reviewer.
+6. **Programme transition copy** — moves Tier 2/3 readers into canonical DFM, CHFM, TRT/LRT, and companion work.
+7. **Open-problems transition** — explains unresolved problems without hiding or overstating them.
+8. **Narration-ready source text** — approved source suitable for later ThinxAI video narration artifacts.
+9. **Graphic storyboard** — identify where visuals materially improve comprehension.
 
 ## Voice and composition requirements
 
-The narrative should:
+Across all tiers:
 
-- lead with concrete questions before abstractions;
-- define terms before using them argumentatively;
 - avoid adversarial caricatures of old-earth, young-earth, evolutionary-creation, or naturalistic positions;
-- distinguish empirical observation from model-dependent interpretation;
+- distinguish what is measured from the historical story used to explain it;
 - state confidence and uncertainty plainly;
 - avoid triumphalist claims;
-- avoid making analogies carry more evidential weight than they possess;
-- preserve Scripture as the epistemic authority while still accurately representing scientific evidence and rival models;
-- use programme acronyms only after plain-language explanation;
-- remain readable by a non-specialist without oversimplifying the core distinctions.
+- do not make analogies carry more weight than they can support;
+- preserve Scripture as the epistemic authority while accurately representing scientific observations and rival models;
+- explain an idea before naming it;
+- keep claims within current canonical programme status.
 
 ## Theological constraints
 
 - Scripture interprets Scripture first.
-- Nature is real revelation but does not independently overrule the meaning of Scripture.
-- The site should not imply that scientific uncertainty is itself evidence for a particular biblical interpretation.
+- The Bible is the project's epistemic authority.
+- God's world is real and worthy of careful investigation.
+- Apparent conflict between Scripture and nature requires examination of human interpretation.
+- Scientific uncertainty is not itself evidence for a particular biblical interpretation.
 - Human depictions of Christ are excluded from associated visuals.
 
 ## Source discipline
 
-Narrative claims should be traceable to:
+Claims should be traceable, at the appropriate tier, to Scripture, canonical BWM research repositories, and primary scientific/scholarly sources where external evidence is cited. Do not represent bridge drafts or public summaries as canonical research conclusions.
 
-- Scripture;
-- canonical BWM research repositories;
-- primary scientific or scholarly sources where external evidence is cited;
-- explicit confidence/status labels where appropriate.
-
-Do not represent bridge drafts as canonical research conclusions.
+Tier 1 should not be overloaded with citation machinery where it would break the story. Supporting source paths should remain available through deeper pages.
 
 ## Site integration targets
 
@@ -153,46 +116,48 @@ The narrative should inform or supply content for:
 - `evidence.md`;
 - `open-problems.md`;
 - `research-programmes.md`;
-- homepage summary/CTA text where appropriate;
+- homepage summary/CTA text;
 - future narrated explainers.
 
 ## Visual/storyboard opportunities
 
 At minimum, evaluate visuals for:
 
-1. Observation → inference → historical reconstruction.
-2. Initialization → normalized lawful operation.
-3. Retrodictive age versus actual elapsed history.
-4. Creation → catastrophe → normalization historical architecture.
-5. DFM / CHFM / TRT programme relationship.
-6. Open problem → evidential debit → auxiliary failure → potential falsifier → falsifier.
-7. Reader journey from seeker to technical reviewer.
+1. Adam: mature state versus expected growth history.
+2. Cana: real wine without ordinary production history.
+3. Video-game world: generated valley versus later erosion.
+4. Starting state → later history → world observed today.
+5. Creation → Flood → later Earth history.
+6. Tier 2 observation → interpretation → historical reconstruction.
+7. Tier 3 programme relationship and objections/status flows.
 
 ## Acceptance criteria
 
-- [ ] Core narrative can be read by a non-specialist without prior programme knowledge.
-- [ ] Acronyms are unnecessary for understanding the first two narrative layers.
-- [ ] Observation and historical inference are clearly distinguished without implying observations are subjective.
-- [ ] DFM, CHFM, and TRT roles are accurately separated.
-- [ ] Major unresolved problems are visible and not rhetorically minimized.
-- [ ] Skeptical readers have a direct path to objections, falsification criteria, and canonical technical sources.
-- [ ] Narrative claims do not outrun canonical programme status.
-- [ ] Short, medium, and long narrative forms remain semantically consistent.
-- [ ] Source/citation requirements are defined for externally verifiable claims.
-- [ ] Narrative source text is suitable for ThinxAI narration adaptation without creating a second source of truth.
-- [ ] JD approves the public positioning and progression.
+- [x] A reviewed Tier 1 candidate exists and meets a very-plain-language standard.
+- [x] Tier 1 can be understood without programme acronyms or model names.
+- [x] Concrete examples precede the abstract age/history distinction.
+- [x] The video-game thought experiment is central to the Tier 1 explanation.
+- [x] God's Word / God's world framing is explicit.
+- [x] The Bible's authority is stated plainly.
+- [ ] JD approves the Tier 1 candidate for site promotion.
+- [ ] Tier 1 short form is produced.
+- [ ] Tier 2 explainer is produced and reviewed at its target reading level.
+- [ ] Reader-journey variants are produced.
+- [ ] Graphic storyboard is produced.
+- [ ] Narration-ready approved source is handed to ThinxAI.
+- [ ] Site integration is validated.
 
 ## Dependencies
 
 - WP-BWM-0001 public site and navigation.
 - WP-BWM-0002 visual assets for narrative graphics.
 - WP-BWM-0003 community/contact for reader feedback and objections.
-- Canonical research repositories and Atlas assignments for programme status.
+- Canonical research repositories and Atlas assignments for deeper programme status.
 
 ## Ownership
 
 - **JD Longmire:** public positioning and acceptance authority.
-- **ChatGPT:** primary narrative drafting, synthesis, graphics/storyboard recommendations, and synchronization with canonical research status.
-- **ThinxAI / thinx:** operational integration into the site and later narrated-media production from approved narrative source text.
+- **ChatGPT:** primary narrative drafting, reading-level control, synthesis, graphics/storyboard recommendations, and synchronization with canonical research status.
+- **ThinxAI / thinx:** operational site integration and later narrated-media production from approved narrative source text.
 
 Human-Curated, AI-Enabled (HCAE)
