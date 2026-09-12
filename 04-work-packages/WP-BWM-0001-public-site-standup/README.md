@@ -22,3 +22,7 @@ The following items are now part of WP-BWM-0001 acceptance/disposition rather th
 These are acceptance defects/verification items for the deployed site baseline. They do not change the scope boundary with WP-BWM-0002 or WP-BWM-0003.
 
 Human-Curated, AI-Enabled (HCAE)
+
+## Canonical-domain correction verified, 2026-09-12
+
+The verifier correction is deployed and live canonical/social metadata checks pass; see [retained evidence](canonical-domain-fix.md). Landing-page search, mobile navigation and MathJax also passed live checks. Tablet layout remains open: at 768px the document is 810px wide. This finding is separate from the corrected publication-path failure.
