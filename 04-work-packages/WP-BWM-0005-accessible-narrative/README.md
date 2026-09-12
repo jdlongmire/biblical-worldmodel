@@ -1,6 +1,6 @@
 # Accessible Biblical WorldModel narrative
 
-**WP-BWM-0005 — active narrative development.**
+**WP-BWM-0005 — active narrative development; Tier 1 approved and disposed to site.**
 
 Develop the public-facing Biblical WorldModel narrative through progressive disclosure. A first-time visitor should be able to understand the basic story before encountering research-programme names, technical vocabulary, repository architecture, or formal evidential accounting.
 
@@ -8,7 +8,9 @@ Develop the public-facing Biblical WorldModel narrative through progressive disc
 
 Create a coherent story that begins in very plain language and provides clear paths into deeper explanation, research programmes, objections, and canonical technical work.
 
-The front-door narrative is now governed by the reviewed **Tier 1 very-plain-language standard**. See [`narrative-tiers.md`](narrative-tiers.md). The current reviewed candidate is [`tier-1-plain-language-candidate.md`](tier-1-plain-language-candidate.md).
+The front-door narrative is governed by the reviewed **Tier 1 very-plain-language standard**. See [`narrative-tiers.md`](narrative-tiers.md). The approved source is retained as [`tier-1-plain-language-candidate.md`](tier-1-plain-language-candidate.md) for work-package provenance and has been promoted to the public site as `03-solutions-baseline/site/docs/the-story.md`.
+
+**JD disposition:** reviewed and approved for repository/site promotion on 2026-09-12.
 
 ## Core public questions
 
@@ -68,7 +70,7 @@ Tier 1 is frozen to the following editorial posture unless JD changes it:
 
 ## Primary narrative deliverables
 
-1. **Tier 1 core story** — reviewed very-plain-language narrative.
+1. **Tier 1 core story** — approved and promoted to the public-site source tree.
 2. **Tier 1 short form** — approximately 500–800 words for `Start Here` or homepage-adjacent use.
 3. **One-paragraph summary** — metadata, introductions, and external links.
 4. **Tier 2 explainer** — high-school-graduate-level bridge into the research vocabulary.
@@ -110,6 +112,7 @@ Tier 1 should not be overloaded with citation machinery where it would break the
 
 The narrative should inform or supply content for:
 
+- `the-story.md` — Tier 1 public narrative;
 - `start-here.md`;
 - `worldmodel.md`;
 - `methodology.md`;
@@ -139,13 +142,14 @@ At minimum, evaluate visuals for:
 - [x] The video-game thought experiment is central to the Tier 1 explanation.
 - [x] God's Word / God's world framing is explicit.
 - [x] The Bible's authority is stated plainly.
-- [ ] JD approves the Tier 1 candidate for site promotion.
+- [x] JD approves the Tier 1 candidate for site promotion.
+- [x] Approved Tier 1 source is disposed into the public-site source tree and navigation.
+- [ ] Deployment of the new site page is validated.
 - [ ] Tier 1 short form is produced.
 - [ ] Tier 2 explainer is produced and reviewed at its target reading level.
 - [ ] Reader-journey variants are produced.
 - [ ] Graphic storyboard is produced.
 - [ ] Narration-ready approved source is handed to ThinxAI.
-- [ ] Site integration is validated.
 
 ## Dependencies
 
