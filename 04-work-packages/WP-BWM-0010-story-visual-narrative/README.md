@@ -1,6 +1,6 @@
-# WP-BWM-0007 — The Story Visual Narrative
+# WP-BWM-0010 — The Story Visual Narrative
 
-**Status:** active.  
+**Status:** active. Renumbered from WP-BWM-0007 on 2026-09-12 -- that ID collided with WP-BWM-0007-ross-dfm-harvest (registered earlier the same day, with its own tracking issue). Scope unchanged.  
 **Purpose:** design, generate, review, decompose, and integrate a coherent sequence of graphics that visually teaches the approved Tier 1 Biblical WorldModel story.
 
 ## Objective
@@ -31,7 +31,7 @@ Methodological follow-ons:
 
 - `../WP-BWM-0005-accessible-narrative/tier-2-starting-conditions-and-model-symmetry.md`
 - `../WP-BWM-0005-accessible-narrative/bwm-epistemic-hierarchy.md`
-- `../WP-BWM-0006-canonical-epistemic-hierarchy/README.md`
+- `../WP-BWM-0009-canonical-epistemic-hierarchy/README.md` (renumbered from WP-BWM-0006 on 2026-09-12, before this package was created)
 
 ## Primary visual sequence
 
@@ -166,7 +166,7 @@ OUR MODEL OF THE PAST
 OUR LARGER STORY
 ```
 
-The full L0–L6 epistemic hierarchy belongs in Tier 2/3 and WP-BWM-0006. This Story graphic should remain plain.
+The full L0–L6 epistemic hierarchy belongs in Tier 2/3 and WP-BWM-0009 (renumbered from WP-BWM-0006). This Story graphic should remain plain.
 
 **Remembered idea:**
 
@@ -285,7 +285,7 @@ SITE INTEGRATION
 MOBILE + DESKTOP VALIDATION
 ```
 
-Operator disposition follows the governance vocabulary established in WP-BWM-0006.
+Operator disposition follows the governance vocabulary established in WP-BWM-0009 (renumbered from WP-BWM-0006).
 
 ## Per-graphic specification
 
