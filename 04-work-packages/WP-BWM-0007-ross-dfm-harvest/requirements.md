@@ -1,7 +1,8 @@
-# WP-BWM-0002: Hugh Ross / Reasons to Believe DFM Harvest
+# WP-BWM-0007: Hugh Ross / Reasons to Believe DFM Harvest
 
-**Status:** FOLLOW-ON / BACKLOG
+**Status:** proposed / backlog
 **Initiated:** 2026-09-11
+**Renumbered:** 2026-09-12 — originally drafted as WP-BWM-0002, which collided with the already-assigned WP-BWM-0002 (Responsive visual assets); renumbered to WP-BWM-0007 on discovery during a full repository read-through, content unchanged.
 **Initiating authority:** JD Longmire
 **Parent context:** WP-BWM-0001 Public Site Standup and DFM research programme
 

@@ -7,20 +7,33 @@ worker_conformance: {}
 worker_exceptions: {}
 scope: Produce a narrated short-form video adaptation of the JD-approved Tier 1
   "the-story" narrative (WP-BWM-0005), using ThinxAI's video-narration pipeline
-  (cloned-voice TTS + Remotion). Covers script derivation from the approved Tier 1
-  text, storyboard scene selection from WP-BWM-0005's visual/storyboard opportunities
-  list, narration synthesis, rendering, and delivery to Console Drive Artifacts for
-  review. Does NOT cover production of the site's responsive visual asset library
-  (WP-BWM-0002), development of Tier 2-4 narrative content (WP-BWM-0005), community
-  or contact features (WP-BWM-0003), or publishing/embedding the finished video on
-  the public site or any external platform (YouTube, TikTok, social).
+  (cloned-voice TTS + Remotion), in the provenance shape required by
+  `06-operations/runbooks/site/media.md`: the rendered video, a manifest (source
+  repository, source commit, source page/graphics, output revision, approved
+  script reference, duration, language, hosting URL, status), a text transcript
+  and WebVTT captions with language metadata, and a thumbnail with alt text and a
+  link back to the source page. Covers script derivation from the approved Tier 1
+  text, storyboard scene selection from WP-BWM-0005's visual/storyboard
+  opportunities list, narration synthesis, rendering, transcript/caption
+  production, and delivery to Console Drive Artifacts plus this package's own
+  evidence folder for review. Does NOT cover production of the site's responsive
+  visual asset library (WP-BWM-0002), development of Tier 2-4 narrative content
+  (WP-BWM-0005), community or contact features (WP-BWM-0003), or publishing the
+  finished artifact anywhere -- promoting it into the site's `docs/media/<slug>/`
+  tree, linking it from a reader page, or posting it to any external platform
+  (YouTube, TikTok, social) is a separate, later decision.
 authority_boundary: Authorizes drafting a narration script from the JD-approved Tier
   1 text, generating a narrated video via ThinxAI's existing video-narration skill,
-  and delivering the rendered output to Console Drive Artifacts for review. Does NOT
-  authorize publishing the video to the public site or any external platform, and
-  does NOT authorize treating draft/placeholder graphics-library extracts as
-  production-approved visuals. ThinxHome transition isolation is mandatory,
-  consistent with sibling packages.
+  producing its manifest/transcript/caption/thumbnail set per media.md, and
+  delivering all of it to Console Drive Artifacts and this package's evidence
+  folder for review. Does NOT authorize publishing the video to the public site or
+  any external platform, does NOT authorize writing into
+  `03-solutions-baseline/site/docs/media/`  (that promotion is the separate publish
+  step media.md anticipates, not this package), and does NOT authorize treating
+  draft/placeholder graphics-library extracts as production-approved visuals.
+  Never configures or uses Home media services from this publication package, per
+  media.md. ThinxHome transition isolation is mandatory, consistent with sibling
+  packages.
 dependencies:
 - WP-BWM-0005 accessible narrative (Tier 1 approved by JD 2026-09-12 — narration source text)
 - WP-BWM-0002 visual assets (production imagery; draft extracts usable as placeholders until this completes)
@@ -28,10 +41,14 @@ actions:
 - Derive a narration script from the approved Tier 1 "the-story" text, preserving its plain-language standard and theological framing.
 - Select and source visuals per WP-BWM-0005's storyboard opportunities list (Adam's mature state, the wine at Cana, the video-game world, starting-state comparison, Creation to Flood to later Earth history), using approved or clearly-marked draft assets.
 - Produce the narrated video via ThinxAI's video-narration pipeline (cloned-voice TTS + Remotion), 9:16 vertical short-form by default.
-- Deliver the rendered output to Console Drive Artifacts for JD review.
+- Produce a text transcript and WebVTT captions with language metadata.
+- Produce a thumbnail with alt text and a link back to the source page.
+- Write the media.md-conformant manifest (source repo/commit, source page/graphics, output revision, approved script reference, duration, language, hosting URL, status) and retain a hash of the rendered output.
+- Deliver the rendered output, manifest, transcript, captions and thumbnail to Console Drive Artifacts and this package's evidence folder for JD review.
 verification: Acceptance is pending; JD reviews the rendered video against the Tier
   1 language and theological constraints (no human depiction of Christ, no
-  adversarial caricatures, plain-language fidelity) before any publication is
+  adversarial caricatures, plain-language fidelity) and confirms the manifest/
+  transcript/caption/thumbnail set is complete, before any publication is
   considered.
 acceptance_criteria:
 - id: AC-01
@@ -50,11 +67,36 @@ acceptance_criteria:
   evidence:
     status: pending
 - id: AC-03
-  text: The rendered output is delivered to Console Drive Artifacts as a valid video
-    file (non-zero duration, correct aspect ratio, no corrupt frames or audio/video
-    desync).
+  text: The rendered output is a valid video file (non-zero duration, correct
+    aspect ratio, no corrupt frames or audio/video desync).
+  evidence:
+    status: pending
+- id: AC-04
+  text: A media.md-conformant manifest exists recording source repository, source
+    commit, source page/graphics, output revision, approved script reference,
+    duration, language, hosting URL, status, and the rendered output's hash.
+  evidence:
+    status: pending
+- id: AC-05
+  text: A text transcript and WebVTT captions with language metadata are retained
+    alongside the rendered output.
+  evidence:
+    status: pending
+- id: AC-06
+  text: A thumbnail with alt text and a link back to the source Tier 1 page is
+    retained alongside the rendered output.
+  evidence:
+    status: pending
+- id: AC-07
+  text: No file under this package's production is written into
+    `03-solutions-baseline/site/docs/media/` or otherwise linked from a live
+    reader page; promotion to the site remains a separate, later decision.
   evidence:
     status: pending
 disposition: Opened to record scope and dependencies ahead of production. No
   narration work has started; Tier 1 source text is approved and available.
+  Acceptance criteria retrofitted 2026-09-12 to match
+  `06-operations/runbooks/site/media.md`'s manifest/transcript/caption/thumbnail
+  convention, discovered on a full repository read-through after the package was
+  first opened.
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/9

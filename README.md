@@ -105,8 +105,10 @@ See the [publication and recovery runbook](06-operations/runbooks/site/publicati
 | [0003: Community and contact](04-work-packages/WP-BWM-0003-community-contact/README.md) | GitHub Issues provides interim public intake | Discussions/embedded conversation, structured intake, moderation and private contact |
 | [0004: Repository foundation](04-work-packages/WP-BWM-0004-repository-foundation/README.md) | Foundation and backlog transfer verified | Retained acceptance/disposition |
 | [0005: Accessible narrative](04-work-packages/WP-BWM-0005-accessible-narrative/README.md) | Tier 1 approved and published; Tier 2 principles captured | Short form, Tier 2 explainer, verified dating case studies, reader variants and storyboard |
+| [0006: Video narration](04-work-packages/WP-BWM-0006-video-narration/README.md) | Proposed; opened once Tier 1 was approved | Script, storyboard, render, and the media.md provenance set; no production started |
+| [0007: Ross/RTB DFM harvest](04-work-packages/WP-BWM-0007-ross-dfm-harvest/README.md) | Proposed backlog | Source-family survey and primary-trace harvest; no work started |
 
-Package records own detailed scope and evidence. Narration remains deferred until source content and graphics are approved; [media conventions](06-operations/runbooks/site/media.md) define the future provenance, transcript and caption requirements.
+Package records own detailed scope and evidence. Narration remains deferred until source content and graphics are approved; [media conventions](06-operations/runbooks/site/media.md) define the future provenance, transcript and caption requirements — WP-BWM-0006 is scoped to produce that exact set without promoting it into the live site.
 
 ## Contribute, question or challenge
 

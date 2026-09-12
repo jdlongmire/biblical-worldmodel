@@ -11,9 +11,10 @@ Depends on: WP-BWM-0005 accessible narrative (Tier 1 approved 2026-09-12 — sup
 - Derive a narration script from the approved Tier 1 text, keeping its plain-language and theological framing intact.
 - Select storyboard scenes from WP-BWM-0005's visual/storyboard opportunities list: Adam's mature state, the wine at Cana, the video-game-world thought experiment, starting-state comparison, and Creation through Flood to later Earth history.
 - Synthesize narration and render the video.
-- Deliver the finished file to Console Drive Artifacts for JD's review.
+- Produce the full provenance set `06-operations/runbooks/site/media.md` requires for any future media artifact: a manifest (source repo/commit, source page/graphics, output revision, approved script reference, duration, language, hosting URL, status), a text transcript and WebVTT captions with language metadata, a thumbnail with alt text and a link back to the source page, and a hash of the rendered output.
+- Deliver the finished set to Console Drive Artifacts and this package's evidence folder for JD's review.
 
-**Out of scope:** producing the site's production visual-asset library (WP-BWM-0002 owns that), Tier 2-4 narrative development (WP-BWM-0005), community/contact features (WP-BWM-0003), and publishing the finished video anywhere — public site, YouTube, TikTok, or otherwise. Publication is a separate, later decision.
+**Out of scope:** producing the site's production visual-asset library (WP-BWM-0002 owns that), Tier 2-4 narrative development (WP-BWM-0005), community/contact features (WP-BWM-0003), and publishing the finished set anywhere — writing into the site's `docs/media/<slug>/` tree, linking it from a reader page, or posting it to YouTube/TikTok/social. Per media.md, this package never configures or uses Home media services; production is its own authorized step, and promotion to the live site is a separate, later decision.
 
 ## Why now
 
@@ -23,7 +24,11 @@ Tier 1 was reviewed and approved by JD for site promotion on 2026-09-12, and WP-
 
 - [ ] Narration script stays within the Tier 1 plain-language standard (no programme acronyms, no specialist vocabulary).
 - [ ] No human depiction of Christ appears in any visual; visuals respect WP-BWM-0005's theological constraints.
-- [ ] Rendered output is a valid video file, correctly delivered to Console Drive Artifacts.
+- [ ] Rendered output is a valid video file.
+- [ ] A media.md-conformant manifest exists (source repo/commit, source page/graphics, output revision, approved script reference, duration, language, hosting URL, status, output hash).
+- [ ] Transcript and WebVTT captions with language metadata are retained.
+- [ ] Thumbnail with alt text and a link back to the source page is retained.
+- [ ] Nothing produced here is written into `03-solutions-baseline/site/docs/media/` or linked from a live page.
 
 `package.yaml` owns current status, authority and evidence.
 
