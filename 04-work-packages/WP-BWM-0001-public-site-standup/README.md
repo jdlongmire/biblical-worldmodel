@@ -25,4 +25,4 @@ Human-Curated, AI-Enabled (HCAE)
 
 ## Canonical-domain correction verified, 2026-09-12
 
-The verifier correction is deployed and live canonical/social metadata checks pass; see [retained evidence](canonical-domain-fix.md). Landing-page search, mobile navigation and MathJax also passed live checks. Tablet layout remains open: at 768px the document is 810px wide. This finding is separate from the corrected publication-path failure.
+The verifier correction is deployed and live canonical/social metadata checks pass; see [retained evidence](canonical-domain-fix.md). Landing-page search, mobile navigation and MathJax also passed live checks. The subsequently identified tablet overflow is now resolved and verified live at nine viewport widths; see [tablet correction evidence](tablet-overflow-fix.md).

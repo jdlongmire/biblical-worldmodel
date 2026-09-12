@@ -10,6 +10,6 @@ Verification before publication, in an isolated product worktree with the existi
 - `mkdocs build --strict` and `scripts/verify-browser.py --url https://worldmodel.thinxai.net/ --built-root /tmp/bwm-tablet-build --output /tmp/bwm-tablet-preview`: passed at 1440, 961, 960, 820, 768, 761, 760, 390 and 320px. No horizontal overflow with menus closed or open. Menu open/Escape close and story-link visibility passed through 960px. Search, MathJax, images and four reader routes passed; no JavaScript or HTTP errors.
 - Visually inspected the full tablet screenshot: header controls and content fit the viewport.
 
-The browser checker now supports root-domain build interception and retains the extra breakpoint checks. Publication and live verification follow this commit.
+The browser checker now supports root-domain build interception and retains the extra breakpoint checks. Correction `5bf7e978e17ec1a3f6067e2110392a3e65851874` deployed successfully in [Actions run 34686188061](https://github.com/jdlongmire/biblical-worldmodel/actions/runs/34686188061). The unchanged expanded browser suite then passed against the live custom domain at all nine widths, with no horizontal overflow, JavaScript errors or HTTP errors. Search, MathJax, images, reader routes and collapsible navigation passed. The tablet overflow defect is resolved.
 
 Human-Curated, AI-Enabled (HCAE)
