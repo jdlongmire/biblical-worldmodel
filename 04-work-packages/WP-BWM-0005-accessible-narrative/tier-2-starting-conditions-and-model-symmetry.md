@@ -198,6 +198,8 @@ The a fortiori argument should be stated carefully:
 
 This does not by itself prove that the greater system has the same causal origin as the lesser engineered case. The relevant shared properties must be established before a design inference is warranted. The analogy therefore supplies a legitimate explanatory reference class and exposes the scale of the problem; it should not be treated as a deductive shortcut to design.
 
+Recorded 2026-09-12 (thinx review): as stated, this section does not yet engage its most standard naturalistic rejoinder -- that engineered systems require simultaneous top-down coordination by a mind, while evolutionary theory's actual answer to biological integration is incremental co-option/exaptation acting on smaller functional units, which does not require that simultaneity. A reader will reach for this reply first; the argument should name and address it directly (e.g., what the a fortiori case claims survives incremental-selection explanations of integration, and what it does not) before this note is treated as complete.
+
 For DFM, procedural generation belongs in this same category. A procedurally generated environment can begin in a coherent, functionally mature state whose realized condition is distributed across rules, parameters, seeds, algorithms, libraries, runtime state, and environmental constraints. No single file need contain a point-by-point description of the realized world. This makes procedural generation a useful technological reference framework for reasoning about initialization and retrodictive history without asserting that creation literally used a human computational mechanism.
 
 ## 13. Tier placement

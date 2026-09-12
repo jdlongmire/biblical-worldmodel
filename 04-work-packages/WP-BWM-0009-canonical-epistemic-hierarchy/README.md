@@ -152,6 +152,12 @@ Primary challenge to test:
 
 The methodology must answer through dependency and precommitment rather than assertion.
 
+Second challenge, recorded 2026-09-12 on review of the working source (thinx): the hierarchy states that "a major direct contradiction or *sustained cumulative* conflict can challenge a WorldModel interpretation," but names no criterion for how much cumulative conflict crosses that threshold. As written, that is an infinitely adjustable buffer at the WorldModel level -- structurally the same rescue-assumption pattern the auxiliary-hypothesis section warns against, just relocated one level up. Parallel framing:
+
+> **Can BWM always protect itself by inflating the cumulative-conflict threshold required to challenge the WorldModel, the same way an auxiliary hypothesis can be inflated to protect a model?**
+
+This should get the same dependency-and-precommitment treatment as the primary challenge -- a stated, precommitted threshold (even a qualitative one) before the fact, not an assessment made only after a challenge arrives.
+
 ### Dependency rule
 
 > **A claim cannot be treated after failure as dispensable if the parent model or programme was previously committed to, or materially dependent upon, that claim.**

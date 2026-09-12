@@ -149,5 +149,6 @@ It should cross-reference:
 - Develop a comparative entailment test: what exactly must follow from a complete physical brain description for consciousness to be reduced rather than merely correlated?
 - Explore whether `phenomenal actualization` can be stated formally within Semantic Actualism without begging the question against physicalism.
 - Build a cross-domain note linking abiogenesis, consciousness, and measurement-style state-selection problems as structurally analogous explanatory transitions.
+- Recorded 2026-09-12 (thinx review): reconsider whether decoherence is the best available structural analogy here. Dynamical-systems attractor theory is the standard neuroscience vocabulary for "a large state space narrows to a stable realized state" and does the same structural job this section needs without requiring the guardrails section above to fence off a quantum-consciousness misreading. Worth drafting the attractor-theory framing as an alternative and comparing which better serves Tier 2/3 without the disclaimer overhead -- the same reach-for-decoherence pattern also appears in the abiogenic-state-selection-problem.md companion piece, which is a signal to check both rather than treat this as isolated.
 
 Human-Curated, AI-Enabled (HCAE)

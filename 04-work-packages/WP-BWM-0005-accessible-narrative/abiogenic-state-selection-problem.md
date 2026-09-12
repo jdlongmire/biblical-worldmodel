@@ -84,6 +84,7 @@ Likewise, do not infer design merely from the existence of a large chemical stat
 5. At what point, if any, does a chemical system instantiate information in a biologically operative sense rather than merely exhibit statistical correlations?
 6. Does the transition require a threshold form of causal closure or functional integration that is not captured by sequence production alone?
 7. Which features of the problem are genuine empirical gaps, and which are artifacts of how the state space is represented?
+8. Recorded 2026-09-12 (thinx review): is decoherence the most precise available structural analogy, or does autocatalytic-set theory (Kauffman and successors) -- already the domain-native origin-of-life vocabulary for "a large chemical state space narrows to a stable, self-maintaining organization" -- do the same job without borrowing quantum vocabulary that then needs the guardrails section above to fence off a literal-quantum-abiogenesis misreading? The same reach-for-decoherence pattern also appears in the brain-consciousness-state-selection-problem.md companion piece.
 
 ## BWM placement
 
