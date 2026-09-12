@@ -329,13 +329,15 @@ The Story must remain understandable if images fail to load.
 - [x] Mobile-first design rule established.
 - [x] Per-graphic specification/review workflow established.
 - [x] G1 concept direction generated and directionally accepted by JD.
+- [x] G1-G7 concept assets generated and captured under `concepts/` (2026-09-12); thinx review pass complete, findings recorded in `concepts/README.md`.
 - [ ] G1 final asset dispositioned and captured.
-- [ ] G2 generated, reviewed, dispositioned, and captured.
-- [ ] G3 generated, reviewed, dispositioned, and captured.
-- [ ] G4 generated, reviewed, dispositioned, and captured.
-- [ ] G5 generated, reviewed, dispositioned, and captured.
-- [ ] G6 generated, reviewed, dispositioned, and captured.
-- [ ] G7 generated, reviewed, dispositioned, and captured.
+- [ ] G2 dispositioned and captured -- thinx review flags a symbolic-vs-photorealistic call and an unattributed quotation needing resolution first.
+- [ ] G3 dispositioned and captured.
+- [ ] G4 dispositioned and captured -- thinx review flags the spec's own required simulation-disclaimer as missing from the generated asset.
+- [ ] G5 dispositioned and captured.
+- [ ] G6 dispositioned and captured.
+- [ ] G7 dispositioned and captured.
+- [ ] G8 (DFM/DTE/UTE comparison, generated alongside the above but outside the original seven-graphic spec) dispositioned -- thinx review flags "DTE" as an undefined term not present anywhere in this repository's approved canon; needs an explicit Operator call before treatment as approved content.
 - [ ] Desktop/mobile variants produced where needed.
 - [ ] Alt text and surrounding-text checks complete.
 - [ ] Approved assets integrated into `the-story.md`.
@@ -344,6 +346,6 @@ The Story must remain understandable if images fail to load.
 
 ## Immediate next step
 
-Review G1 as a concept, record any final corrections, then disposition and capture it before beginning **G2 — Adam: Mature From the Beginning**.
+All eight concept assets are generated and under review (`concepts/`). Next: JD dispositions each -- G1, G3, G5, G6, G7 have no open findings; G2, G4, and G8 each have a specific open item recorded in `concepts/README.md` that needs resolving before disposition.
 
 Human-Curated, AI-Enabled (HCAE)
