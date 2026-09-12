@@ -330,22 +330,26 @@ The Story must remain understandable if images fail to load.
 - [x] Per-graphic specification/review workflow established.
 - [x] G1 concept direction generated and directionally accepted by JD.
 - [x] G1-G7 concept assets generated and captured under `concepts/` (2026-09-12); thinx review pass complete, findings recorded in `concepts/README.md`.
-- [ ] G1 final asset dispositioned and captured.
-- [ ] G2 dispositioned and captured -- thinx review flags a symbolic-vs-photorealistic call and an unattributed quotation needing resolution first.
-- [ ] G3 dispositioned and captured.
-- [ ] G4 dispositioned and captured -- thinx review flags the spec's own required simulation-disclaimer as missing from the generated asset.
-- [ ] G5 dispositioned and captured.
-- [ ] G6 dispositioned and captured.
-- [ ] G7 dispositioned and captured.
-- [ ] G8 (DFM/DTE/UTE comparison, generated alongside the above but outside the original seven-graphic spec) dispositioned -- thinx review flags "DTE" as an undefined term not present anywhere in this repository's approved canon; needs an explicit Operator call before treatment as approved content.
+- [x] G1 final asset dispositioned: ACCEPT (JD, 2026-09-12 -- "I approved the creation of those images so we're good to go").
+- [x] G2 dispositioned: ACCEPT. Photoreal silhouette treatment kept as-is. The quotation is JD's own original line, not a misattribution -- no citation needed.
+- [x] G3 dispositioned: ACCEPT.
+- [x] G4 dispositioned: ACCEPT. JD's call: the analogy reads clearly without an on-graphic disclaimer; no change needed.
+- [x] G5 dispositioned: ACCEPT.
+- [x] G6 dispositioned: ACCEPT.
+- [x] G7 dispositioned: ACCEPT.
+- [ ] G8 (DFM/DTE/UTE comparison, generated alongside the above but outside the original seven-graphic spec) dispositioned. JD confirmed 2026-09-12 DTE ("Designed Time and Emergence") is intentional -- "essentially the old earth proposition." Checked this repository's corpus for an existing DTE definition per JD's recollection it was "captured somewhere"; not found here (this repo holds publication content only, not canonical programme definitions, so it may exist in a private research repo outside thinx's access). Not yet dispositioned as approved content until DTE has an actual definition somewhere in canon, not just on a graphic -- see note below.
 - [ ] Desktop/mobile variants produced where needed.
 - [ ] Alt text and surrounding-text checks complete.
 - [ ] Approved assets integrated into `the-story.md`.
 - [ ] Mobile and desktop site validation complete.
 - [ ] Secondary/deeper graphic backlog routed to appropriate WPs.
 
+## DTE working note (2026-09-12)
+
+JD's characterization of DTE is close in substance to what WP-BWM-0007 already scopes as Hugh Ross/RTB's progressive-creation framework -- design-compatible, but running on the conventional old-earth timescale, explicitly distinct from DFM's mature-at-creation starting state. If DTE is JD's own name for that same position (or a close relative), the natural home for its formal definition is WP-BWM-0007's harvest work or WP-BWM-0009's programme list, not left implicit on G8 alone. Not yet actioned -- needs JD's confirmation of the right home before anything gets written as canon.
+
 ## Immediate next step
 
-All eight concept assets are generated and under review (`concepts/`). Next: JD dispositions each -- G1, G3, G5, G6, G7 have no open findings; G2, G4, and G8 each have a specific open item recorded in `concepts/README.md` that needs resolving before disposition.
+Seven of eight concept assets dispositioned ACCEPT (2026-09-12: G1-G7). Remaining: give DTE a real definition and a canonical home (see note above) before G8 is treated as approved content. Once that's settled, all eight are ready for the alt-text/accessibility pass and site integration into `the-story.md`.
 
 Human-Curated, AI-Enabled (HCAE)
