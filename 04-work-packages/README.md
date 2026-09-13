@@ -12,6 +12,9 @@
 | [WP-BWM-0008](WP-BWM-0008-chat-interface/README.md) | Guarded chat interface for the public site | Proposed | WP-BWM-0001, 0003, 0005 + an architecture/hosting decision from JD |
 | [WP-BWM-0009](WP-BWM-0009-canonical-epistemic-hierarchy/README.md) | Canonical epistemic hierarchy and claim-level evaluation (L0-L6, Operator governance, canonicalization flow) | Active / proposed for canonicalization | WP-BWM-0005 (working source: bwm-epistemic-hierarchy.md) |
 | [WP-BWM-0010](WP-BWM-0010-story-visual-narrative/README.md) | The Story visual narrative -- seven-graphic sequence (G1-G7) teaching the Tier 1 story | Active; G1 directionally approved | WP-BWM-0005 (Tier 1 source) + WP-BWM-0009 (epistemic-hierarchy bridge, G7) |
+| [WP-BWM-0012](WP-BWM-0012-extended-prefall-human-development/README.md) | Extended pre-Fall human-development gap model and chronology test | Proposed / active investigation | WP-BWM-0009 + reconciliation with WP-BWM-0011 in open PR #12 |
+
+`WP-BWM-0011` is reserved by open PR #12 (`wp/bwm-chronological-contamination`) and is not yet present on `main`; `WP-BWM-0012` was allocated only after checking that in-flight work. The two packages overlap materially on whether all human remains must be post-Fall and therefore require explicit reconciliation before either chronology requirement is canonicalized.
 
 `package.yaml` owns current scope, authority, status and evidence where a package.yaml exists -- WP-BWM-0009 and WP-BWM-0010 are currently README-only, following their own author's convention rather than this register's package.yaml schema; not yet reconciled. Imported requirements retain full source checklists; legacy source labels and assistant responsibilities do not confer new authority or imply delivery. The migration manifest binds every imported file to its bridge revision. Bridge records become forwarding pointers, not a second active backlog.
 
