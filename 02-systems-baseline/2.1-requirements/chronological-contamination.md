@@ -1,13 +1,13 @@
 # Chronological Contamination
 
 Status: Proposed canonical BWM requirement
-Work package: `WP-BWM-0011-chronological-contamination`
+Work package: `WP-BWM-0014-chronological-contamination`
 
 ## Purpose
 
 Biblical WorldModel treats the biblical historical sequence as part of its hard core. Human death and burial belong to post-Fall history. This requirement therefore governs dating outputs for **human mortality events and bodily remains produced by death**, rather than total human antiquity.
 
-Human existence and human mortality are distinct chronological variables. An extended pre-Fall interval of human existence remains under investigation in `WP-BWM-0012-extended-prefall-human-development`.
+Human existence and human mortality are distinct chronological variables. An extended pre-Fall interval of human existence remains under investigation in PFH / `WP-BWM-0012`.
 
 ## Hard-core constraint
 
@@ -57,9 +57,9 @@ BWM shall keep the following categories distinct:
 
 A retrodictive age is not treated as identical to actual elapsed age merely because multiple measurements converge. Convergence must be evaluated for shared assumptions and common-mode dependencies.
 
-## Relationship to WP-BWM-0012
+## Relationship to PFH / WP-BWM-0012
 
-`WP-BWM-0012-extended-prefall-human-development` governs the open question of **when humans may have lived** before the Fall. This package governs **when humans may have died**.
+PFH / `WP-BWM-0012` governs the open question of **when humans may have lived** before the Fall. `WP-BWM-0014` governs **when humans may have died**.
 
 The governing distinction is:
 
