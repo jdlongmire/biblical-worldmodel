@@ -13,6 +13,7 @@ Current Integration artifacts:
 - `open-problems.md` — live unresolved tensions and research gaps register.
 - `predictions-falsifiers.md` — live predictions, discriminators, severe tests, and falsifier register.
 - `model-comparison-bayesian-interface.md` — active model-comparison methodology and Bayesian gate.
+- `ordinal-evidence-scale.md` — canonical OE-0/OE-1/OE-2/OE-3/OE-X/OE-U/OE-NC scale with independence, prediction-status, and source-quality modifiers.
 - `dfm-ute-evidence-ledger.md` — parent DFM versus UTE burden/discriminator ledger.
 - `dfm-ute-foundational-ledger.md` — foundational burdens and non-empirical interfaces.
 - `dfm-ute-cosmology-ledger.md` — cosmological evidence and burdens.
