@@ -114,14 +114,14 @@ For archaeological classification, the working boundary is:
 
 Therefore, evidence of human activity such as tools, structures, symbolic artifacts, habitation traces, and other non-mortality signatures may be investigated as potentially pre-Fall. Genuinely human skeletal remains produced by death and human burial contexts belong to the post-Fall mortality chronology under BWM.
 
-## Relationship to WP-BWM-0011
+## Relationship to WP-BWM-0014
 
-`WP-BWM-0011-chronological-contamination` governs human mortality chronology and dating conflicts involving demonstrably post-Fall human death, bodily remains, and burial contexts.
+`WP-BWM-0014-chronological-contamination` governs human mortality chronology and dating conflicts involving demonstrably post-Fall human death, bodily remains, and burial contexts.
 
 PFH governs total human antiquity and the pre-Fall historical interval.
 
 - **PFH / WP-BWM-0012 governs when and how humans may have lived before the Fall.**
-- **WP-BWM-0011 governs when humans may have died.**
+- **WP-BWM-0014 governs when humans may have died.**
 
 A dated human artifact and a dated human death event must therefore remain distinct chronological categories even when archaeologically associated.
 
@@ -148,7 +148,7 @@ PFH does not:
 6. Develop demographic scenarios for short, moderate, and extended PFH intervals without assuming the result.
 7. Identify discriminating observations that could count for or against extended pre-Fall development.
 8. Define PFH interfaces with DFM, CHFM, anthropology, archaeology, biology, cosmology, and chronology.
-9. Reconcile findings with WP-BWM-0011 before chronology requirements are canonicalized.
+9. Reconcile findings with WP-BWM-0014 before chronology requirements are canonicalized.
 
 ## Acceptance criteria
 
@@ -163,7 +163,7 @@ This package is ready for JD's review when:
 - the 50–60 ka radiocarbon horizon is technically characterized without treating it as self-authenticating chronology;
 - Neanderthal and Denisovan implications are addressed without taxonomic question-begging;
 - human activity evidence and human mortality evidence are kept chronologically distinct;
-- the relationship with WP-BWM-0011 is explicit and non-conflicting;
+- the relationship with WP-BWM-0014 is explicit and non-conflicting;
 - DFM, PFH, and CHFM historical jurisdictions are distinguished;
 - claims are tagged by epistemic status and unresolved questions remain unresolved.
 
@@ -171,6 +171,6 @@ This package is ready for JD's review when:
 
 Open. PFH framework formation, hypothesis development, and constraint analysis only. No canonical BWM chronology requirement is changed by this work package.
 
-Chronology scope reconciled with WP-BWM-0011 on 2026-09-13: PFH owns total human antiquity and pre-Fall history; WP-BWM-0011 owns human mortality chronology and dating conflicts involving human death/remains.
+Chronology scope reconciled with WP-BWM-0014 on 2026-09-13: PFH owns total human antiquity and pre-Fall history; WP-BWM-0014 owns human mortality chronology and dating conflicts involving human death/remains.
 
 Human-Curated, AI-Enabled (HCAE)
