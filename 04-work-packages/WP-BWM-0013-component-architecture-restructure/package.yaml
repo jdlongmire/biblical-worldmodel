@@ -1,0 +1,30 @@
+id: WP-BWM-0013
+title: BWM Component Architecture Restructure
+status: proposed
+scope: >
+  Design a content-taxonomy refactor that preserves the existing 00-06 repository
+  lifecycle structure while organizing canonical BWM content into Foundations,
+  Historical Frameworks, World Domains, and Integration. Capture explicit roles
+  for TRT/LRT, DFM, PFH, CHFM, domain sciences, chronology, and redemptive history.
+
+  This package is design-only until JD accepts the taxonomy and migration plan.
+authority_boundary: >
+  The package authorizes repository inventory, taxonomy design, path mapping,
+  migration planning, and creation of proposed architecture artifacts on its work
+  branch. It does not authorize destructive moves, root-structure changes,
+  canonical content relocation, public navigation changes, or substantive claim
+  rewrites solely to fit the taxonomy.
+actions:
+  - Inventory current canonical and candidate BWM content by semantic role.
+  - Map artifacts to Foundations, Historical Frameworks, World Domains, or Integration.
+  - Define TRT/LRT, DFM, PFH, and CHFM architectural roles and interfaces.
+  - Draft bwm-component-architecture.md.
+  - Produce a reversible migration manifest with link-impact analysis.
+  - Define promotion rules from 04-work-packages to canonical baseline content.
+  - Validate preservation of the 00-06 repository contract and MxM conformance.
+verification: >
+  Verify that the proposed restructure preserves root lifecycle semantics,
+  distinguishes frameworks from domains, records a disposition for every moved
+  canonical artifact, documents link/navigation impacts, resolves collisions, and
+  provides a reversible migration sequence before implementation approval.
+disposition: open
