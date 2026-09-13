@@ -1,0 +1,50 @@
+# Licensing scope
+
+Copyright (c) 2026 J. D. Longmire, for original material to the extent he holds
+copyright. This repository uses separate licenses for content and software;
+it does not apply both licenses indiscriminately to every file.
+
+## Content: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Original published prose and original graphics on the Biblical WorldModel site
+(https://worldmodel.thinxai.net/), sourced from `03-solutions-baseline/site/docs/`
+and the published subset of `graphics-library/`, are licensed under CC BY 4.0.
+Original shared documentation in root `README.md`, `AGENTS.md`, `CLAUDE.md`,
+`MXM.md`, `03-solutions-baseline/site/README.md`,
+`05-mxm-construct/meta-harness/`, `05-mxm-construct/means/` and
+`06-operations/runbooks/` is also included. Software files described below
+use MIT instead. Unpublished graphics and drafts are excluded.
+
+## Software: MIT
+
+Original source code, tests, templates, stylesheets, scripts and executable/build
+configuration in `03-solutions-baseline/site/`, `00-meta-model/`,
+`05-mxm-construct/means/` and `.github/` are licensed under MIT.
+Site prose and graphics use the content grant above, not this software grant.
+
+## Exclusions and existing rights
+
+Existing file-specific licenses, attribution and third-party notices take
+precedence for the material they identify. Third-party quotations (including
+Bible translations), images, dependencies, fonts and copied source material
+remain subject to their owners' terms; their inclusion grants no new rights.
+Links to other repositories or sites do not relicense their contents.
+
+Drafts, unpublished/staged material, private correspondence, coordination
+records, `04-work-packages/`, `05-mxm-construct/memory/` and root `MEMORY.md`
+are outside these grants unless separately and explicitly licensed.
+Other material not expressly included above is also outside these grants.
+Trademark, privacy and publicity rights are not granted; reuse must not imply
+endorsement. No exclusive copyright is asserted over public-domain material.
+
+## Full terms and attribution
+
+The full texts are retained in `00-meta-model/licenses/CC-BY-4.0.txt` and
+`00-meta-model/licenses/MIT.txt`. Official sources:
+https://creativecommons.org/licenses/by/4.0/legalcode and
+https://opensource.org/license/mit.
+
+For CC BY material, credit J. D. Longmire (and any other credited creators),
+identify the work, link to its source and CC BY 4.0, retain supplied notices,
+and indicate changes. This summary does not replace the full license terms.
+For MIT software, retain its copyright and permission notice.
