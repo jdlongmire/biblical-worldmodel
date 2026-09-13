@@ -7,7 +7,7 @@ import re
 ROOT_DIRS = {'.git', '.github', '.claude', 'graphics-library', *(f'{n:02}-{name}' for n, name in enumerate((
     'meta-model', 'strategic-baseline', 'systems-baseline', 'solutions-baseline',
     'work-packages', 'mxm-construct', 'operations')))}
-ROOT_FILES = {'.git', '.gitignore', 'AGENTS.md', 'CLAUDE.md', 'MXM.md', 'MEMORY.md', 'README.md'}
+ROOT_FILES = {'.git', '.gitignore', 'AGENTS.md', 'CLAUDE.md', 'MXM.md', 'MEMORY.md', 'README.md', 'LICENSE'}
 SURFACES = {name: f'05-mxm-construct/meta-harness/{name.lower()}.md'
             for name in ('Mission', 'Mind', 'Morals', 'Memory', 'Methods')}
 SURFACES['Means'] = '05-mxm-construct/means/README.md'
@@ -26,7 +26,8 @@ REQUIRED = tuple(SURFACES.values()) + tuple(p+'/README.md' for p in BASELINES) +
     '05-mxm-construct/means/scripts/session-wrap.py',
     '05-mxm-construct/means/scripts/aide.py',
     '05-mxm-construct/meta-harness/profile.json',
-    'AGENTS.md', 'CLAUDE.md', 'MXM.md', 'MEMORY.md', 'README.md')
+    'AGENTS.md', 'CLAUDE.md', 'MXM.md', 'MEMORY.md', 'README.md',
+    'LICENSE', '00-meta-model/licenses/MIT.txt', '00-meta-model/licenses/CC-BY-4.0.txt')
 
 
 def operative(text):

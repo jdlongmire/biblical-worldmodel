@@ -122,3 +122,14 @@ For code or content contributions, use an isolated branch/worktree, keep the cha
 AI contributors start with [AGENTS.md](AGENTS.md) and [MXM.md](MXM.md). J. D. Longmire holds project acceptance authority; repository guidance does not create a new assistant identity or grant access to other systems.
 
 Human-Curated, AI-Enabled (HCAE)
+
+## License and reuse
+
+[Licensing scope](LICENSE): original published/shared content is **CC BY 4.0**;
+original reusable code is **MIT**, in the locations specified there. Private
+records, drafts, staged material and third-party works are excluded. Existing
+third-party licenses and notices remain in force.
+
+Attribution example: “J. D. Longmire, *[work title]*, [source URL],
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes: [describe, if any].”
+Retain other supplied credits and notices.
