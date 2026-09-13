@@ -3,6 +3,21 @@
 Status: Draft migration plan under WP-BWM-0013
 Authority: Planning only; no file movement authorized by this manifest
 
+## Approved architectural recommendations for implementation planning
+
+The following decisions are adopted as the working implementation plan:
+
+1. The epistemic hierarchy belongs architecturally under **Foundations / Epistemology**. Normative requirements derived from it may be separately promoted into `2.1-requirements`; the methodology itself is architecture.
+2. TRT and LRT remain authoritative in their own source repositories. BWM shall create interface artifacts that identify the authoritative source/version and the propositions BWM consumes. BWM shall not silently fork TRT/LRT.
+3. CHFM shall follow the same interface pattern if its detailed research remains externally authoritative: BWM carries the framework jurisdiction, accepted BWM-level propositions, interfaces, and provenance, while detailed calculations/data remain at the authoritative CHFM source.
+4. `BWM-CANON-0001-worldmodel-interpretive-families.md` remains at its current stable path during the initial restructure. It is logically classified as Integration and referenced from the Integration index. Physical relocation is deferred unless it later solves a concrete navigation/ownership problem.
+5. PFH stale mortality-chronology references are a correctness fix and must point to `WP-BWM-0014` before restructure implementation.
+6. Post-Flood History remains a **reserved Historical Framework candidate**. Do not formalize it as a full framework until distinct explanatory content justifies it.
+7. Promote the component architecture and framework-domain matrix before substantive framework/domain content.
+8. Create the target taxonomy skeleton and semantic README contracts before promoting substantive content.
+9. Use BWM interface artifacts for DFM/PFH/CHFM and external foundations rather than duplicating full research programmes.
+10. Preserve work-package provenance after promotion; promotion creates governed canonical derivatives and does not gut historical work packages.
+
 ## Migration principles
 
 1. Preserve the repository `00`–`06` lifecycle contract.
@@ -25,14 +40,24 @@ Authority: Planning only; no file movement authorized by this manifest
 ├── 2.2-architecture/
 │   ├── bwm-component-architecture.md
 │   ├── foundations/
+│   │   ├── README.md
 │   │   ├── ontology/
+│   │   │   ├── trt-interface.md
+│   │   │   └── lrt-interface.md
 │   │   ├── epistemology/
+│   │   │   └── epistemic-hierarchy.md
 │   │   └── hermeneutics/
 │   ├── historical-frameworks/
+│   │   ├── README.md
 │   │   ├── dfm/
+│   │   │   └── bwm-interface.md
 │   │   ├── pfh/
-│   │   └── chfm/
+│   │   │   └── bwm-interface.md
+│   │   ├── chfm/
+│   │   │   └── bwm-interface.md
+│   │   └── post-flood-history/   # reserved candidate only
 │   ├── world-domains/
+│   │   ├── README.md
 │   │   ├── cosmology/
 │   │   ├── earth-history/
 │   │   ├── biology/
@@ -40,6 +65,7 @@ Authority: Planning only; no file movement authorized by this manifest
 │   │   ├── archaeology-chronology/
 │   │   └── covenant-redemptive-history/
 │   └── integration/
+│       ├── README.md
 │       ├── framework-domain-matrix.md
 │       ├── chronology-model.md
 │       ├── evidence-ledger-model.md
@@ -47,26 +73,41 @@ Authority: Planning only; no file movement authorized by this manifest
 │       └── predictions-falsifiers.md
 ```
 
+## Interface artifact contract
+
+Each external-foundation or Historical-Framework interface should identify:
+
+- authoritative source repository and pinned provenance/version;
+- architectural type and BWM jurisdiction;
+- BWM-adopted propositions;
+- open hypotheses that remain non-canonical;
+- dependent World Domains;
+- interfaces to other foundations/frameworks;
+- known tensions or unresolved questions;
+- promotion/disposition status;
+- source work package(s) where applicable.
+
 ## Planned migrations and promotions
 
 | Source | Target | Action | Link impact | Reversibility |
 |---|---|---|---|---|
-| `04-work-packages/WP-BWM-0013-component-architecture-restructure/bwm-component-architecture.md` | `02-systems-baseline/2.2-architecture/bwm-component-architecture.md` | Promote after JD acceptance | Update architecture README and root/component references | Copy first; retain WP source until verification |
-| `04-work-packages/WP-BWM-0013-component-architecture-restructure/framework-domain-matrix.md` | `02-systems-baseline/2.2-architecture/integration/framework-domain-matrix.md` | Promote after JD acceptance | Update architecture README and links from component architecture | Copy first; retain WP source until verification |
-| `02-systems-baseline/2.2-architecture/BWM-CANON-0001-worldmodel-interpretive-families.md` | `02-systems-baseline/2.2-architecture/integration/BWM-CANON-0001-worldmodel-interpretive-families.md` | Candidate relocation | Potentially high: existing direct links and public references unknown | Add target copy; update links; delete old only after verification or retain stable shim |
-| `04-work-packages/WP-BWM-0005-accessible-narrative/bwm-epistemic-hierarchy.md` + WP-BWM-0009 governed revisions | `02-systems-baseline/2.2-architecture/foundations/epistemology/epistemic-hierarchy.md` OR `2.1-requirements/foundations/epistemology/...` | Promote only after WP-BWM-0009 disposition | High because WP-BWM-0005 and public narrative reference source path | Decide architecture-vs-requirement split first; preserve forwarding reference |
-| Accepted generic retrodiction propositions from WP-BWM-0011 | `02-systems-baseline/2.2-architecture/historical-frameworks/dfm/retrodiction.md` | Extract/promote, not package move | Medium; work package remains research provenance | Add canonical artifact with source citations; retain package unchanged |
-| Accepted cosmology findings from WP-BWM-0011 | `02-systems-baseline/2.2-architecture/world-domains/cosmology/` | Extract/promote by topic | Low/medium initially | Add new artifacts; retain research package |
-| Accepted PFH framework from WP-BWM-0012 | `02-systems-baseline/2.2-architecture/historical-frameworks/pfh/README.md` or `pfh.md` | Promote after PFH review | Medium; chronology and anthropology references expected | Add canonical PFH file; keep hypothesis evidence in work package |
-| WP-BWM-0014 canonical candidate `chronological-contamination.md` | `02-systems-baseline/2.1-requirements/chronology/chronological-contamination.md` | Promote after chronology disposition and taxonomy acceptance | Medium/high because PFH and dating work will reference it | Promote additively; update refs; retain WP provenance |
-| Accepted abiogenic state-selection propositions from WP-BWM-0005 | `02-systems-baseline/2.2-architecture/world-domains/biology/` and/or `integration/` | Split by semantic role | Medium because public narrative may reference original | Do not move original narrative artifact; derive canonical technical artifact |
-| Accepted brain/consciousness state-selection propositions from WP-BWM-0005 | `02-systems-baseline/2.2-architecture/world-domains/anthropology/` and/or Foundations | Split by semantic role | Medium | Derive canonical artifact, preserve narrative source |
-| TRT/LRT references | `02-systems-baseline/2.2-architecture/foundations/ontology/` | Create BWM interface/reference artifacts, not independent forks | Cross-repository source-of-truth impact | Reference authoritative TRT/LRT sources and pin provenance |
-| CHFM references | `02-systems-baseline/2.2-architecture/historical-frameworks/chfm/` | Create BWM interface/reference artifact after CHFM source authority is identified | Cross-repository source-of-truth impact | Reference authoritative CHFM source; do not fork silently |
+| `04-work-packages/WP-BWM-0013-component-architecture-restructure/bwm-component-architecture.md` | `02-systems-baseline/2.2-architecture/bwm-component-architecture.md` | First architecture promotion after JD implementation approval | Update architecture README and root/component references | Copy first; retain WP source |
+| `04-work-packages/WP-BWM-0013-component-architecture-restructure/framework-domain-matrix.md` | `02-systems-baseline/2.2-architecture/integration/framework-domain-matrix.md` | First Integration promotion | Update architecture README and component links | Copy first; retain WP source |
+| `02-systems-baseline/2.2-architecture/BWM-CANON-0001-worldmodel-interpretive-families.md` | Current path retained | Classify logically as Integration; do not move in initial restructure | Low | No physical change |
+| `04-work-packages/WP-BWM-0005-accessible-narrative/bwm-epistemic-hierarchy.md` + WP-BWM-0009 governed revisions | `02-systems-baseline/2.2-architecture/foundations/epistemology/epistemic-hierarchy.md` | Promote methodology after WP-BWM-0009 disposition | High because narrative references source path | Derive/promote canonical artifact; preserve narrative source |
+| Accepted normative rules derived from epistemic hierarchy | `02-systems-baseline/2.1-requirements/foundations/` | Promote separately when accepted | Medium | Additive |
+| Accepted generic retrodiction propositions from WP-BWM-0011 | `02-systems-baseline/2.2-architecture/historical-frameworks/dfm/` | Extract into DFM BWM interface/canonical derivatives | Medium | Retain package provenance |
+| Accepted cosmology findings from WP-BWM-0011 | `02-systems-baseline/2.2-architecture/world-domains/cosmology/` | Extract/promote by topic | Low/medium | Retain package provenance |
+| Accepted PFH framework from WP-BWM-0012 | `02-systems-baseline/2.2-architecture/historical-frameworks/pfh/bwm-interface.md` | Promote after PFH disposition | Medium | Retain WP evidence/hypotheses |
+| WP-BWM-0014 canonical chronology candidate | `02-systems-baseline/2.1-requirements/chronology/chronological-contamination.md` | Promote after chronology disposition | Medium/high | Additive; retain WP provenance |
+| Accepted abiogenic state-selection propositions from WP-BWM-0005 | `02-systems-baseline/2.2-architecture/world-domains/biology/` and/or Integration | Derive by semantic role | Medium | Preserve narrative source |
+| Accepted brain/consciousness state-selection propositions from WP-BWM-0005 | `02-systems-baseline/2.2-architecture/world-domains/anthropology/` and/or Foundations | Derive by semantic role | Medium | Preserve narrative source |
+| TRT/LRT | `02-systems-baseline/2.2-architecture/foundations/ontology/*-interface.md` | Create BWM interfaces after authoritative source/version confirmation | Cross-repository | Interface only; no fork |
+| CHFM | `02-systems-baseline/2.2-architecture/historical-frameworks/chfm/bwm-interface.md` | Create BWM interface after authoritative source/version confirmation | Cross-repository | Interface only; no fork |
 
 ## Deferred items
 
-The following should not be migrated during the first restructure pass:
+Do not migrate during the first restructure pass:
 
 - public-site implementation packages;
 - visual asset packages;
@@ -74,10 +115,12 @@ The following should not be migrated during the first restructure pass:
 - chat-interface implementation;
 - narrative-tier publication files;
 - raw research harvests;
-- evidence collections that have not received Operator disposition;
-- any CHFM/TRT/LRT source material whose authoritative repository and version have not been explicitly identified.
+- evidence collections without Operator disposition;
+- detailed CHFM/TRT/LRT source material whose authoritative repository/version is not confirmed;
+- physical relocation of `BWM-CANON-0001`;
+- formalization of Post-Flood History as a full framework.
 
-## Proposed migration sequence
+## Implementation sequence
 
 ### Phase 0 — Freeze and validate
 
@@ -85,17 +128,12 @@ The following should not be migrated during the first restructure pass:
 - re-run UID and semantic-duplicate checks;
 - scan repository references to every proposed source path;
 - record the pre-migration commit SHA;
-- confirm architecture approval.
+- verify PFH points to WP-BWM-0014;
+- confirm implementation approval.
 
-### Phase 1 — Create taxonomy directories and indexes
+### Phase 1 — Create taxonomy directories and semantic contracts
 
-Create empty/indexed target surfaces under `2.1-requirements` and `2.2-architecture` without moving substantive content.
-
-Verification:
-
-- repository layout tests still pass;
-- no public navigation changes;
-- all existing links remain intact.
+Create target surfaces under `2.1-requirements` and `2.2-architecture` with README files defining what belongs in each category. Do not move substantive content yet.
 
 ### Phase 2 — Promote WP-BWM-0013 architecture artifacts
 
@@ -104,66 +142,37 @@ Promote:
 - `bwm-component-architecture.md`;
 - `framework-domain-matrix.md`.
 
-Update `2.2-architecture/README.md`.
-
-Verification:
-
-- links resolve;
-- taxonomy is discoverable;
-- source work-package provenance remains intact.
+Update `2.2-architecture/README.md` and Integration index. Keep WP sources for provenance.
 
 ### Phase 3 — Promote foundational methodology
 
-Resolve WP-BWM-0009 disposition and determine whether epistemic hierarchy should be:
+After WP-BWM-0009 disposition, promote the epistemic hierarchy into Foundations / Epistemology. Promote any normative requirements separately into `2.1-requirements`.
 
-- architecture only;
-- normative requirement only;
-- or split into descriptive architecture plus normative requirements.
-
-Then promote approved material.
-
-### Phase 4 — Promote historical-framework definitions
+### Phase 4 — Create foundation/framework interfaces
 
 In order:
 
-1. DFM BWM interface/framework definition;
-2. PFH after WP-BWM-0012 disposition;
-3. CHFM BWM interface/framework definition after source-of-truth confirmation.
-
-Framework files should define jurisdiction and interfaces rather than duplicate full external research repositories.
+1. TRT BWM interface after source/version confirmation;
+2. LRT BWM interface after source/version confirmation;
+3. DFM BWM interface;
+4. PFH BWM interface after WP-BWM-0012 disposition;
+5. CHFM BWM interface after source/version confirmation.
 
 ### Phase 5 — Promote chronology requirements
 
-Promote accepted WP-BWM-0014 requirements into `2.1-requirements/chronology/` and reconcile PFH references.
+Promote accepted WP-BWM-0014 requirements into `2.1-requirements/chronology/`.
 
-### Phase 6 — Establish world-domain indexes
+### Phase 6 — Establish World Domain indexes
 
-Create domain architecture/index files for:
-
-- cosmology;
-- Earth history;
-- biology;
-- anthropology;
-- archaeology/chronology;
-- covenant/redemptive history.
-
-Initially these should be interface/index artifacts, not attempts to rewrite all research.
+Create domain architecture/index files for cosmology, Earth history, biology, anthropology, archaeology/chronology, and covenant/redemptive history. Initially these are interfaces/indexes, not research rewrites.
 
 ### Phase 7 — Integration artifacts
 
-Establish:
+Establish chronology model, evidence-ledger model, open-problems register, predictions/falsifiers register, and model-comparison/Bayesian interfaces.
 
-- chronology model;
-- evidence-ledger model;
-- open-problems register;
-- predictions/falsifiers register;
-- model-comparison/Bayesian interfaces.
+### Phase 8 — Review deferred structural choices
 
-### Phase 8 — Optional relocation of existing canonical artifact
-
-Only after all new taxonomy links are stable, decide whether `BWM-CANON-0001-worldmodel-interpretive-families.md` should physically move into `integration/`.
-
-Preferred conservative option: retain the current path initially and classify it logically as Integration. Physical relocation provides little value unless directory consistency materially improves navigation.
+After stable use of the new taxonomy, reassess whether any existing canonical artifact needs physical relocation and whether Post-Flood History has matured enough to become a formal framework.
 
 ## Link-impact controls
 
@@ -192,18 +201,14 @@ Preferred implementation pattern:
 
 For derived promotions from work packages, the work-package source remains and is not deleted. Rollback therefore consists primarily of removing the promoted canonical derivative and reverting references.
 
-## Outstanding decisions before implementation
+## Remaining prerequisites before Phase 1
 
-1. Approve or revise the four-category architecture.
-2. Decide architecture-vs-requirement placement for the epistemic hierarchy.
-3. Identify authoritative source repositories/versions for TRT/LRT and CHFM BWM interface artifacts.
-4. Decide whether `BWM-CANON-0001` physically moves or remains at its stable path.
-5. Resolve stale PFH references to the former chronological-contamination UID and ensure PFH points to WP-BWM-0014.
-6. Decide whether post-Flood history becomes a formal Historical Framework now or remains a reserved candidate.
-7. Approve the migration sequence before Phase 1 begins.
+1. Identify and pin authoritative TRT/LRT source repositories/versions.
+2. Identify and pin the authoritative CHFM source repository/version.
+3. Complete Operator disposition of the architecture proposal for implementation.
 
 ## Recommendation
 
-Implement conservatively. The immediate restructure should establish taxonomy, indexes, interfaces, and approved canonical definitions. It should avoid broad physical relocation of mature files unless relocation solves a concrete ownership or navigation problem.
+Implement conservatively. Establish taxonomy, semantic contracts, interfaces, and approved canonical definitions first. Avoid broad physical relocation unless it solves a concrete ownership or navigation problem.
 
 Human-Curated, AI-Enabled (HCAE)
