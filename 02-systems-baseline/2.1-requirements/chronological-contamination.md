@@ -1,7 +1,8 @@
 # Chronological Contamination
 
-Status: Proposed canonical BWM requirement
-Work package: `WP-BWM-0014-chronological-contamination`
+Status: Canonical BWM chronology requirement
+Source work package: `WP-BWM-0014-chronological-contamination`
+Authority: Principal Operator disposition, 2026-09-13
 
 ## Purpose
 
@@ -9,19 +10,15 @@ Biblical WorldModel treats the biblical historical sequence as part of its hard 
 
 Human existence and human mortality are distinct chronological variables. An extended pre-Fall interval of human existence remains under investigation in PFH / `WP-BWM-0012`.
 
-## Hard-core constraint
-
-**BWM-CHR-001 — Human Mortality Chronology Constraint**
+## BWM-CHR-001 — Human Mortality Chronology Constraint
 
 Human death enters the biblical historical order through the Fall. Accordingly, genuinely human bodily remains resulting from death, and burial events involving those remains, belong to post-Fall history. A retrodictive date assigned to such remains or burial contexts does not, by itself, establish an actual elapsed burial age exceeding the biblically permitted post-Fall chronology.
 
 This constraint does **not** establish the total elapsed duration of human existence and does not rule out pre-Fall human activity, culture, migration, technology, or other non-mortality traces if an extended pre-Fall interval is independently sustained.
 
-## Derived interpretation rule
+## BWM-CHR-002 — Chronological Contamination Rule
 
-**BWM-CHR-002 — Chronological contamination rule**
-
-When a dating method returns an age older than the chronology permitted by BWM for a demonstrably post-Fall human mortality event, bodily remain, or burial context, BWM shall treat the excess age as evidence of **chronological contamination** until a specific mechanism is identified and tested.
+When a dating method returns an age older than the chronology permitted by BWM for a demonstrably post-Fall human mortality event, bodily remain, or burial context, BWM shall classify the discrepancy as **unresolved chronological contamination** until a specific mechanism is identified and tested.
 
 For this programme, chronological contamination means:
 
@@ -42,6 +39,8 @@ The term is broader than laboratory contamination. Candidate mechanisms may incl
 - sample contamination;
 - inherited system state from an earlier initialized or catastrophically altered substrate;
 - model misspecification that maps a measured present state to an invalid elapsed-time history.
+
+No candidate mechanism is treated as established merely because it could produce an old bias.
 
 ## Epistemic separation
 
@@ -78,7 +77,7 @@ Accordingly:
 
 ## Research obligation
 
-The hard-core mortality constraint does not license dismissal of anomalous dates without analysis. For each conflicting case, the programme shall ask:
+The mortality constraint does not license dismissal of anomalous dates without analysis. For each conflicting case, the programme shall ask:
 
 1. What physical quantity was actually measured?
 2. What event is the dating result purported to date: human activity, deposition, death, burial, or a surrounding substrate?
@@ -88,20 +87,16 @@ The hard-core mortality constraint does not license dismissal of anomalous dates
 6. Can a proposed contamination mechanism be independently measured, bounded, reproduced, or falsified?
 7. Does the BWM-compatible chronology predict any distinctive observable consequence?
 
-Where no plausible mechanism has yet been established, the correct programme status is **unresolved chronological contamination**, not a fabricated explanation.
+Where no plausible mechanism has yet been established, the status remains **unresolved chronological contamination**.
 
 ## Initial case study
 
-Sima de los Huesos, Atapuerca, Spain, is the initial high-value case. Conventional chronology places the human remains at roughly 430 ka, while ancient nuclear DNA places the specimens on the Neanderthal lineage. Under the BWM human mortality chronology constraint, the death and deposition of genuinely human bodily remains are post-Fall. The research question is therefore:
+Sima de los Huesos, Atapuerca, Spain, remains the initial high-value case. Conventional chronology places the human remains at roughly 430 ka, while ancient nuclear DNA places the specimens on the Neanderthal lineage. Under BWM-CHR-001, the death and deposition of genuinely human bodily remains are post-Fall.
 
-> What measured variables and historical assumptions generate the approximately 430 ka retrodictive age for the remains and their context, and what chronological-contamination mechanism or combination of mechanisms can account for the discrepancy with post-Fall elapsed mortality history?
-
-The case should be decomposed by dating method, including luminescence, uranium-series, paleomagnetic, stratigraphic, and associated contextual constraints, with primary-source documentation for each claim.
+The case shall be decomposed by dating method, including luminescence, uranium-series, paleomagnetic, stratigraphic, and associated contextual constraints, with primary-source documentation for each claim.
 
 ## Falsifiability and protective-belt discipline
 
-The human mortality chronology constraint is a hard-core commitment of BWM. Particular contamination mechanisms belong to the protective belt and remain defeasible. A proposed mechanism that fails quantitative or experimental testing shall be rejected and replaced rather than protected ad hoc.
-
-The programme therefore distinguishes the fixed theological boundary on human death from empirical hypotheses used to explain apparently conflicting retrodictive ages.
+The human mortality chronology constraint is a hard-core BWM commitment. Particular contamination mechanisms belong to the protective belt and remain defeasible. A proposed mechanism that fails quantitative or experimental testing shall be rejected rather than protected ad hoc.
 
 Human-Curated, AI-Enabled (HCAE)
