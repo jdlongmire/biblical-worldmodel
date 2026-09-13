@@ -45,7 +45,7 @@ Relevant primary biblical texts include Genesis 1:26–31; 2:7–25; 3:1–24; 4
 4. Does Genesis 5 require Adam's age ledger to begin at creation, or can its formulas coherently describe mortal/post-Fall lifespan?
 5. How should Genesis 5:5, "all the days that Adam lived were 930 years," be interpreted under this model?
 6. What demographic, cultural, geographic, linguistic, symbolic, architectural, and technological development is biblically admissible before the Fall?
-7. What archaeological signatures would distinguish pre-Fall from post-Fall human activity, if any?
+7. What archaeological signatures of **human activity without human death** would be compatible with a pre-Fall interval?
 8. How should Neanderthal and Denisovan populations be classified if they display evidence of Adamic human agency?
 9. What role can radiocarbon dating legitimately play as secondary evidence without equating retrodictive age with actual elapsed history?
 10. Can the approximately 50–60 ka practical radiocarbon horizon serve as a provisional empirical boundary or transition worth investigating, while remaining distinct from a scripturally established date?
@@ -64,7 +64,7 @@ The research question is whether the open biblical variable `T_preFall` and the 
 
 ## Human mortality boundary
 
-The model distinguishes pre-Fall human existence from post-Fall mortal lifespan. Genesis 2–3 and Romans 5 make human death theologically relevant after sin enters the human order.
+The model distinguishes total human existence from post-Fall human mortality. Genesis 2–3 and Romans 5 make human death theologically relevant after sin enters the human order.
 
 Candidate formulation:
 
@@ -76,15 +76,30 @@ with:
 
 only if the exegetical case establishes that Genesis 5 counts mortal/post-Fall lifespan. This equation is presently a hypothesis under review.
 
+For archaeological classification, the working boundary is:
+
+`T_human_death is a subset of T_postFall`
+
+Therefore, evidence of human activity such as tools, structures, symbolic artifacts, habitation traces, and other non-mortality signatures may be investigated as potentially pre-Fall. Genuinely human skeletal remains produced by death and human burial contexts belong to the post-Fall mortality chronology under BWM.
+
 ## Relationship to WP-BWM-0011
 
-Open PR #12 reserves `WP-BWM-0011-chronological-contamination` and presently proposes the hard-core statement that all genuinely human remains belong to post-Fall history.
+`WP-BWM-0011-chronological-contamination` governs human mortality chronology and dating conflicts involving demonstrably post-Fall human death, bodily remains, and burial contexts.
 
-This work package directly reopens that premise. If extended pre-Fall human development is biblically admissible, some genuinely human remains or cultural traces may be pre-Fall. Therefore:
+This package governs total human antiquity and the open pre-Fall interval.
 
-- WP-BWM-0011 must not be treated as resolving the pre-Fall/post-Fall placement of every human remain before this investigation is adjudicated;
-- chronological contamination remains a potentially relevant mechanism for dating discrepancies but cannot be invoked merely because a human remain is older than a conventional post-Fall chronology if the remain could belong to the pre-Fall interval;
-- any eventual canonicalization of BWM chronology requirements must reconcile both work packages explicitly.
+The packages are intentionally complementary:
+
+- **WP-BWM-0012 governs when humans may have lived.**
+- **WP-BWM-0011 governs when humans may have died.**
+
+Accordingly:
+
+- pre-Fall human development may include demographic, geographic, cultural, symbolic, architectural, and technological activity if the biblical case sustains it;
+- human death, bodily remains produced by death, and burial remain post-Fall;
+- a dated human artifact and a dated human death event must not be treated as the same chronological category merely because they are archaeologically associated;
+- chronological contamination remains relevant where a human mortality event receives a retrodictive age exceeding the permitted post-Fall chronology;
+- neither package may use its own chronology question to pre-judge the other.
 
 ## Scope
 
@@ -97,6 +112,7 @@ This work package covers:
 - pre-Fall cultural and technological development;
 - the 50–60 ka radiocarbon horizon as secondary evidence;
 - implications for Neanderthal, Denisovan, and early Homo sapiens classification;
+- archaeological distinctions between activity evidence and mortality evidence;
 - reconciliation with BWM chronological-contamination work.
 
 ## Out of scope
@@ -106,6 +122,7 @@ This package does not:
 - declare a 50–60 ka biblical chronology;
 - assume conventional archaeological or geological ages equal elapsed history;
 - declare pre-Fall reproduction established before textual analysis;
+- place human death or human bodily remains produced by death before the Fall;
 - resolve pre-Fall non-human vertebrate mortality;
 - canonize a supercontinent reconstruction from Genesis 1:9;
 - modify the public site or publish the hypothesis as settled BWM doctrine;
@@ -117,7 +134,7 @@ This package does not:
 2. Examine later canonical references to Adam, death, mortality, genealogy, and the image of God.
 3. Build an inference ledger separating explicit text, necessary inference, permissible inference, hypothesis, and empirical constraint.
 4. Research the physical and methodological basis of the radiocarbon 50–60 ka horizon using primary technical sources.
-5. Build a human-antiquity evidence ledger covering directly dated human remains, associated archaeological contexts, Neanderthal/Denisovan evidence, and dating-method dependencies.
+5. Build a human-antiquity evidence ledger that separates human activity evidence from human mortality evidence, including directly dated remains, associated archaeological contexts, Neanderthal/Denisovan evidence, and dating-method dependencies.
 6. Develop demographic scenarios for short, moderate, and extended pre-Fall intervals without assuming the result.
 7. Identify discriminating observations that could count for or against extended pre-Fall development.
 8. Reconcile findings with WP-BWM-0011 before either chronology model is promoted to canonical BWM requirements.
@@ -132,12 +149,15 @@ This package is ready for JD's review when:
 - Scripture-primary / nature-secondary epistemic ordering is explicit throughout;
 - the 50–60 ka radiocarbon horizon is technically characterized without treating it as self-authenticating chronology;
 - Neanderthal and Denisovan implications are addressed without taxonomic question-begging;
-- conflicts with WP-BWM-0011 are identified and reconciled rather than silently overridden;
+- human activity evidence and human mortality evidence are kept chronologically distinct;
+- the relationship with WP-BWM-0011 is explicit and non-conflicting;
 - claims are tagged by epistemic status and unresolved questions remain unresolved;
 - no conventional scientific date is cited without tracing the measurement and inferential chain relevant to the claim.
 
 ## Current disposition
 
 Open. Hypothesis formation and constraint analysis only. No canonical BWM chronology requirement is changed by creation of this work package.
+
+Chronology scope reconciled with WP-BWM-0011 on 2026-09-13: WP-BWM-0012 owns total human antiquity and pre-Fall development; WP-BWM-0011 owns human mortality chronology and dating conflicts involving human death/remains.
 
 Human-Curated, AI-Enabled (HCAE)
