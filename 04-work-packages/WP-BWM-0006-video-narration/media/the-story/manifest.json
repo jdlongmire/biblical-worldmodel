@@ -1,22 +1,28 @@
 {
   "schema_version": 1,
   "slug": "the-story",
-  "status": "draft_pending_approval",
+  "status": "delivered",
   "source_repository": "jdlongmire/biblical-worldmodel",
-  "source_commit": null,
+  "source_commit": "4efe696",
   "source_page": "03-solutions-baseline/site/docs/the-story.md",
   "source_graphics": [
-    "graphics-library/infographics/crops/header-band.png",
-    "graphics-library/infographics/crops/panel1-two-sources.png",
-    "graphics-library/infographics/crops/panel3-calculated-age.png"
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g01-gods-word-gods-world.png",
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g02-adam-maturity.png",
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g03-cana-wine.png",
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g04-useful-analogy.png",
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g05-starting-conditions-matter.png",
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g06-real-history-follows-creation.png",
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g07-flood-global-reset.png",
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g08-scientific-dating.png",
+    "04-work-packages/WP-BWM-0010-story-visual-narrative/concepts-v2/v2-g09-epistemic-posture.png"
   ],
   "narration_factory_repo": "jdlongmire/oddxian-shorts",
-  "narration_draft_ref": "oddxian-shorts:drafts/biblical-worldmodel-the-story.md @ 47d773e",
-  "output_revision": null,
-  "approved_script_reference": null,
-  "duration_seconds": null,
+  "narration_draft_ref": "oddxian-shorts:drafts/biblical-worldmodel-the-story.md @ 9d3e365",
+  "output_revision": 2,
+  "approved_script_reference": "oddxian-shorts:content/biblical-worldmodel-the-story.json @ 9d3e365",
+  "duration_seconds": 510.293,
   "language": "en",
-  "hosting_url": null,
-  "output_sha256": null,
-  "note": "Draft narration written and committed to the factory repo 2026-09-12, awaiting JD's approval per the video-narration skill's mandatory draft-and-approve gate (no content JSON, synthesis, or render exists yet). The draft proposes two options: (A) full-story narration, ~14-15 minutes, or (B) a condensed ~90s-2min short covering Adam, the video-game world, and the calculated-age/actual-history point. See draft.md in this directory for the full text."
+  "hosting_url": "/api/media/b10dcce697f369777c49.mp4",
+  "output_sha256": "b10dcce697f369777c498fcfbb88835883d27fe487991736f3e92590c0ac0bda",
+  "note": "Full-length narration (JD-confirmed option A, 2026-09-12) delivered 2026-09-13 with the v2 nine-panel storyboard (WP-BWM-0010 concepts-v2), which superseded the first storyboard set (story-g01 through story-g08) and filled the two sections (afterward, humility) that had no purpose-built image in the revision-1 delivery. Narration audio unchanged from revision 1 (--reuse-audio), so only the visual track was re-rendered. Rendered VerticalLetterboxed (1080x1420) on ologosai-host, letterboxed to 1080x1920 delivery format. Delivered to Console Drive Artifacts (file id f18b0ca5b7ff420dadf393a6c06e1028) and inline chat. See draft.md in this directory for the full script; see oddxian-shorts:content/biblical-worldmodel-the-story.json for the exact per-section content."
 }

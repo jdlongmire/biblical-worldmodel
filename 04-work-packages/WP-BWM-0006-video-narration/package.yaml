@@ -70,43 +70,60 @@ acceptance_criteria:
   text: The rendered output is a valid video file (non-zero duration, correct
     aspect ratio, no corrupt frames or audio/video desync).
   evidence:
-    status: pending
+    status: satisfied
+    note: Confirmed via ffprobe -- 1080x1920, duration 510.293s, valid H.264/AAC.
+      Verified twice (revision 1 and revision 2 after the v2 image swap).
 - id: AC-04
   text: A media.md-conformant manifest exists recording source repository, source
     commit, source page/graphics, output revision, approved script reference,
     duration, language, hosting URL, status, and the rendered output's hash.
   evidence:
-    status: pending
+    status: satisfied
+    note: media/the-story/manifest.json updated 2026-09-13 for revision 2 (output_revision
+      2, hosting_url, output_sha256, source_graphics pointing at concepts-v2).
 - id: AC-05
   text: A text transcript and WebVTT captions with language metadata are retained
     alongside the rendered output.
   evidence:
     status: pending
+    note: Not yet produced in either revision. Genuine remaining work, not overlooked
+      -- the caption text exists per-section in oddxian-shorts's content JSON, but
+      no standalone transcript or .vtt file has been generated or retained here.
 - id: AC-06
   text: A thumbnail with alt text and a link back to the source Tier 1 page is
     retained alongside the rendered output.
   evidence:
     status: pending
+    note: Not yet produced in either revision.
 - id: AC-07
   text: No file under this package's production is written into
     `03-solutions-baseline/site/docs/media/` or otherwise linked from a live
     reader page; promotion to the site remains a separate, later decision.
   evidence:
-    status: pending
+    status: satisfied
+    note: Nothing written under site/docs/media/ in either revision.
 disposition: >
   Opened to record scope and dependencies ahead of production. Acceptance
   criteria retrofitted 2026-09-12 to match media.md's manifest/transcript/
   caption/thumbnail convention. In-repo storage established the same day at
   `media/` (this package's own directory) per the media.md schema, with a
   media/README.md explaining the convention and the site/docs/media boundary.
-  Three graphics-library crops (header band, "God's Word/God's World" panel,
-  rock-strata "calculated age" panel) extracted from the JD-supplied hexagon
-  infographic for use as narration B-roll -- deliberately not the graphic's
-  more technical panels, matching its own tier-register caveat. Full narration
-  draft written and committed to oddxian-shorts (drafts/biblical-worldmodel-
-  the-story.md, commit 47d773e) per the video-narration skill's mandatory
-  draft-and-approve SOP; a copy lives at media/the-story/draft.md. Two cuts
-  proposed -- full story (~14-15min) or a condensed short (~90s-2min) -- for
-  JD to choose. No content JSON, synthesis, or render exists yet; nothing
-  downstream of the draft starts until JD approves it.
+  Full narration draft written and committed to oddxian-shorts
+  (drafts/biblical-worldmodel-the-story.md) per the video-narration skill's
+  mandatory draft-and-approve SOP. JD confirmed full-length (option A, all 12
+  sections, ~510s) on 2026-09-12. Revision 1 delivered 2026-09-12/13 using
+  WP-BWM-0010's first storyboard set (story-g01 through story-g07) plus three
+  graphics-library crops from the JD-supplied hexagon infographic as B-roll for
+  sections without a purpose-built asset. Revision 2 delivered 2026-09-13: JD
+  supplied a second, nine-panel storyboard set ("try this set of graphics to
+  crop and build around") -- cropped into WP-BWM-0010's `concepts-v2/`, mapped
+  1:1 onto all nine image-bearing sections, and swapped in, filling the two
+  sections (`afterward`, `humility`) that had no purpose-built image in
+  revision 1. Narration audio was reused unchanged (`--reuse-audio`), so only
+  the visual track was re-rendered. Delivered to Console Drive Artifacts and
+  inline chat both times. AC-01/AC-02 (script/visual fidelity) still await
+  JD's own review pass against revision 2's specific frames, notwithstanding
+  the content review performed during production; AC-05/AC-06 (transcript+
+  captions, thumbnail) remain genuinely unproduced in either revision and are
+  the package's real remaining work.
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/9
