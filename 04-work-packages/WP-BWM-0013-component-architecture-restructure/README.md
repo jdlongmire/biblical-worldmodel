@@ -14,8 +14,10 @@ The restructure is intended to make the intellectual architecture of BWM explici
 
 - `bwm-component-architecture.md` — proposed component architecture and architectural rules.
 - `framework-domain-matrix.md` — cross-cutting map among foundations, historical frameworks, and world domains.
+- `repository-inventory.md` — inventory of current canonical and candidate artifacts by semantic role and proposed disposition.
+- `migration-manifest.md` — proposed target paths, link-impact controls, phased migration sequence, rollback strategy, and outstanding decisions.
 
-These artifacts are design deliverables under this work package. They are not yet canonical baseline content and authorize no file migration.
+These artifacts are design and migration-planning deliverables under this work package. They are not yet canonical baseline content and authorize no file migration.
 
 ## Core architectural decision
 
@@ -108,18 +110,16 @@ Candidate artifacts:
 │   └── ...
 │
 ├── 2.2-architecture/
+│   ├── bwm-component-architecture.md
 │   ├── foundations/
-│   │   ├── trt.md
-│   │   ├── lrt.md
-│   │   ├── semantic-actualism.md
-│   │   └── epistemology-hermeneutics.md
+│   │   ├── ontology/
+│   │   ├── epistemology/
+│   │   └── hermeneutics/
 │   │
 │   ├── historical-frameworks/
 │   │   ├── dfm/
 │   │   ├── pfh/
-│   │   ├── chfm/
-│   │   └── post-flood-history/
-│   │
+│   │   └── chfm/
 │   ├── world-domains/
 │   │   ├── cosmology/
 │   │   ├── earth-history/
@@ -127,14 +127,12 @@ Candidate artifacts:
 │   │   ├── anthropology/
 │   │   ├── archaeology-chronology/
 │   │   └── covenant-redemptive-history/
-│   │
-│   ├── integration/
-│   │   ├── framework-domain-matrix.md
-│   │   ├── chronology-model.md
-│   │   ├── evidence-ledger-model.md
-│   │   └── open-problems.md
-│   │
-│   └── BWM-CANON-0001-worldmodel-interpretive-families.md
+│   └── integration/
+│       ├── framework-domain-matrix.md
+│       ├── chronology-model.md
+│       ├── evidence-ledger-model.md
+│       ├── open-problems.md
+│       └── predictions-falsifiers.md
 │
 ├── 2.3-behavior/
 ├── 2.4-interfaces/
@@ -146,8 +144,6 @@ This is a proposed target taxonomy, not authorization to move files yet.
 ## Architectural relationships
 
 The directory hierarchy should not be used to imply that historical frameworks and world domains are peers in kind.
-
-Examples:
 
 ```text
 DFM
@@ -176,46 +172,44 @@ TRT/LRT remain foundational rather than domain-specific historical models.
 
 Active hypotheses and unfinished research remain under `04-work-packages/` until accepted for promotion.
 
+The inventory establishes that whole-package moves would create false semantic ownership. Promotion should instead extract accepted content into canonical artifacts according to role while retaining work-package provenance.
+
 Examples:
 
-- `WP-BWM-0012` develops PFH and its extended pre-Fall hypothesis.
-- mature PFH framework content would eventually be promoted into `02-systems-baseline/2.2-architecture/historical-frameworks/pfh/`.
-- DFM and CHFM research should follow the same pattern.
+- WP-BWM-0011 contains both DFM-generic retrodiction material and cosmology-specific work; those should promote to different canonical surfaces.
+- WP-BWM-0012 develops PFH and an extended-duration hypothesis; mature PFH architecture should promote without automatically promoting every hypothesis.
+- WP-BWM-0014 is primarily a chronology requirement, not a PFH framework artifact.
+- public narrative and media packages should consume canonical architecture without being relocated into the conceptual taxonomy.
 
-The work-package area therefore remains a development/staging layer rather than becoming the permanent conceptual taxonomy.
+## Inventory findings
 
-## Central architecture artifact
+The current `02-systems-baseline` is sparse: `BWM-CANON-0001-worldmodel-interpretive-families.md` is the principal substantive architecture artifact currently on `main`. Most developing BWM intellectual content remains in work packages.
 
-The design candidate now exists as:
+Important consequences:
 
-`04-work-packages/WP-BWM-0013-component-architecture-restructure/bwm-component-architecture.md`
+1. this restructure is primarily a controlled promotion/classification effort, not a mass move of canonical files;
+2. TRT/LRT and CHFM require authoritative source-of-truth identification before BWM creates canonical interface artifacts;
+3. the epistemic hierarchy needs a placement decision between architecture and normative requirements;
+4. physical relocation of `BWM-CANON-0001` is optional and should occur only if it adds concrete navigation value;
+5. PFH currently contains stale references to the pre-renumbering chronology package and must point to `WP-BWM-0014` before coordinated promotion.
 
-If approved, it should be promoted to:
+See `repository-inventory.md` and `migration-manifest.md` for details.
 
-`02-systems-baseline/2.2-architecture/bwm-component-architecture.md`
+## Planned implementation sequence
 
-The draft defines the canonical relationship:
+The migration manifest proposes:
 
-`Foundations -> Historical Frameworks -> World Domains -> Integration`
+1. freeze and validate live repository/PR state;
+2. create taxonomy directories and indexes;
+3. promote the WP-BWM-0013 architecture artifacts;
+4. promote approved foundational methodology;
+5. promote DFM/PFH/CHFM framework interface definitions;
+6. promote chronology requirements;
+7. establish world-domain indexes;
+8. establish Integration artifacts;
+9. optionally relocate existing canonical artifacts only after links are stable.
 
-and explicitly maps TRT/LRT, DFM, PFH, CHFM, domain sciences, chronology, and redemptive history.
-
-The companion design candidate:
-
-`04-work-packages/WP-BWM-0013-component-architecture-restructure/framework-domain-matrix.md`
-
-captures cross-cutting applicability without forcing relationships into directory nesting.
-
-## Scope
-
-This package covers:
-
-- defining the target BWM content taxonomy;
-- identifying current files that would map into the new taxonomy;
-- defining framework/domain relationships;
-- planning migration without breaking links or source-of-truth boundaries;
-- specifying promotion rules from work packages to canonical baseline content;
-- planning required updates to indexes, README files, navigation, and cross-references.
+Every phase must be independently revertible.
 
 ## Out of scope
 
@@ -228,36 +222,26 @@ This package does not yet authorize:
 - changing public-site navigation until the content architecture is approved;
 - collapsing DFM, PFH, CHFM, foundations, and world domains into a single flat hierarchy.
 
-## Planned work
-
-1. Inventory current BWM canonical and candidate content by semantic role.
-2. Map each artifact to Foundations, Historical Frameworks, World Domains, Integration, or another existing lifecycle surface.
-3. Identify ambiguous or cross-cutting artifacts and define interface/cross-reference treatment.
-4. Review and approve the current `bwm-component-architecture.md` design candidate.
-5. Review and approve the current `framework-domain-matrix.md` design candidate.
-6. Produce a migration manifest with old path, proposed new path, disposition, and link impact.
-7. Check all current work packages and open PRs for dependencies on paths proposed for movement.
-8. Define promotion criteria from `04-work-packages` into canonical baseline areas.
-9. Validate that the restructure preserves the `00`–`06` repository contract and MxM conformance.
-10. Implement only after JD accepts the proposed taxonomy and migration plan.
-
 ## Acceptance criteria
 
 Ready for implementation approval when:
 
-- the four conceptual categories are clearly defined;
+- the four conceptual categories are approved;
 - TRT/LRT, DFM, PFH, and CHFM each have an explicit architectural role;
 - historical frameworks are distinguished from world domains;
 - the framework-domain matrix covers current major components and interfaces;
+- the repository inventory has a disposition for current substantive canonical/candidate artifacts;
+- the migration manifest documents target paths, link impacts, rollout order, and rollback;
 - active research remains separate from canonical baseline content;
-- every existing canonical artifact has a proposed disposition;
-- link and navigation impacts are documented;
+- the epistemic-hierarchy placement decision is resolved;
+- authoritative source repositories are identified for TRT/LRT and CHFM interfaces;
+- stale PFH chronology-package references are reconciled;
 - no UID, file, or semantic-ownership collision remains unresolved;
 - repository conformance and source-of-truth boundaries are preserved;
-- a reversible migration sequence is documented before file moves begin.
+- JD explicitly approves implementation.
 
 ## Current disposition
 
-Open. Architecture definition artifacts drafted. Next phase is repository inventory and migration mapping. No file migration or canonical restructure is authorized.
+Open. Architecture definition, repository inventory, and migration manifest are drafted. No file migration or canonical restructure is authorized yet.
 
 Human-Curated, AI-Enabled (HCAE)
