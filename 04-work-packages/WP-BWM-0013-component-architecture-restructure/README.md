@@ -10,6 +10,13 @@ Capture and design a content-taxonomy refactor for Biblical WorldModel so the re
 
 The restructure is intended to make the intellectual architecture of BWM explicit while preserving the repository's current MxM/template operating model.
 
+## Current design artifacts
+
+- `bwm-component-architecture.md` — proposed component architecture and architectural rules.
+- `framework-domain-matrix.md` — cross-cutting map among foundations, historical frameworks, and world domains.
+
+These artifacts are design deliverables under this work package. They are not yet canonical baseline content and authorize no file migration.
+
 ## Core architectural decision
 
 Do **not** create new root-level peers such as `DFM/`, `PFH/`, `CHFM/`, `cosmology/`, or `biology/`.
@@ -179,15 +186,25 @@ The work-package area therefore remains a development/staging layer rather than 
 
 ## Central architecture artifact
 
-Create, as part of implementation after approval:
+The design candidate now exists as:
+
+`04-work-packages/WP-BWM-0013-component-architecture-restructure/bwm-component-architecture.md`
+
+If approved, it should be promoted to:
 
 `02-systems-baseline/2.2-architecture/bwm-component-architecture.md`
 
-That artifact should define the canonical relationship:
+The draft defines the canonical relationship:
 
 `Foundations -> Historical Frameworks -> World Domains -> Integration`
 
-and explicitly map TRT/LRT, DFM, PFH, CHFM, domain sciences, chronology, and redemptive history.
+and explicitly maps TRT/LRT, DFM, PFH, CHFM, domain sciences, chronology, and redemptive history.
+
+The companion design candidate:
+
+`04-work-packages/WP-BWM-0013-component-architecture-restructure/framework-domain-matrix.md`
+
+captures cross-cutting applicability without forcing relationships into directory nesting.
 
 ## Scope
 
@@ -216,12 +233,13 @@ This package does not yet authorize:
 1. Inventory current BWM canonical and candidate content by semantic role.
 2. Map each artifact to Foundations, Historical Frameworks, World Domains, Integration, or another existing lifecycle surface.
 3. Identify ambiguous or cross-cutting artifacts and define interface/cross-reference treatment.
-4. Produce `bwm-component-architecture.md` as the proposed canonical component map.
-5. Produce a migration manifest with old path, proposed new path, disposition, and link impact.
-6. Check all current work packages and open PRs for dependencies on paths proposed for movement.
-7. Define promotion criteria from `04-work-packages` into canonical baseline areas.
-8. Validate that the restructure preserves the `00`–`06` repository contract and MxM conformance.
-9. Implement only after JD accepts the proposed taxonomy and migration plan.
+4. Review and approve the current `bwm-component-architecture.md` design candidate.
+5. Review and approve the current `framework-domain-matrix.md` design candidate.
+6. Produce a migration manifest with old path, proposed new path, disposition, and link impact.
+7. Check all current work packages and open PRs for dependencies on paths proposed for movement.
+8. Define promotion criteria from `04-work-packages` into canonical baseline areas.
+9. Validate that the restructure preserves the `00`–`06` repository contract and MxM conformance.
+10. Implement only after JD accepts the proposed taxonomy and migration plan.
 
 ## Acceptance criteria
 
@@ -230,6 +248,7 @@ Ready for implementation approval when:
 - the four conceptual categories are clearly defined;
 - TRT/LRT, DFM, PFH, and CHFM each have an explicit architectural role;
 - historical frameworks are distinguished from world domains;
+- the framework-domain matrix covers current major components and interfaces;
 - active research remains separate from canonical baseline content;
 - every existing canonical artifact has a proposed disposition;
 - link and navigation impacts are documented;
@@ -239,6 +258,6 @@ Ready for implementation approval when:
 
 ## Current disposition
 
-Open. Design capture only. No file migration or canonical restructure is authorized by creation of this package.
+Open. Architecture definition artifacts drafted. Next phase is repository inventory and migration mapping. No file migration or canonical restructure is authorized.
 
 Human-Curated, AI-Enabled (HCAE)
