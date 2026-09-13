@@ -13,7 +13,12 @@ Current Integration artifacts:
 - `open-problems.md` — live unresolved tensions and research gaps register.
 - `predictions-falsifiers.md` — live predictions, discriminators, severe tests, and falsifier register.
 - `model-comparison-bayesian-interface.md` — active model-comparison methodology and Bayesian gate.
-- `dfm-ute-evidence-ledger.md` — initial live DFM versus UTE burden/discriminator ledger using ordinal accounting.
+- `dfm-ute-evidence-ledger.md` — parent DFM versus UTE burden/discriminator ledger.
+- `dfm-ute-foundational-ledger.md` — foundational burdens and non-empirical interfaces.
+- `dfm-ute-cosmology-ledger.md` — cosmological evidence and burdens.
+- `dfm-ute-biology-ledger.md` — biological evidence and generative-sufficiency questions.
+- `dfm-ute-earth-history-ledger.md` — terrestrial chronology and historical-retrodiction evidence.
+- `dfm-ute-dependency-graph.md` — anti-double-counting map for shared premises, correlated evidence, and derived claims.
 
 Integration does not replace source frameworks or domains. It records how they cohere, conflict, constrain one another, and contribute to whole-WorldModel evaluation.
 
