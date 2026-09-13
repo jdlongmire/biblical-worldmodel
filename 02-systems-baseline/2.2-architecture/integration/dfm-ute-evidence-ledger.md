@@ -2,18 +2,13 @@
 
 Status: Live Integration parent ledger
 Type: Model-comparison / evidentiary accounting
+Scale: `ordinal-evidence-scale.md`
 
 ## Scope
 
 Compare Designed Functional Maturity (DFM) and Undirected Time and Emergence (UTE) on origins and historical-retrodiction questions under the canonical BWM epistemic rules.
 
-This parent ledger now delegates detailed accounting to domain subledgers and a dependency graph. It does not award either side credit for shared operational science.
-
-## Comparison definitions
-
-**DFM:** created systems may be initialized in coherent functionally mature states; operational regularity after initialization does not entail an antecedent generative history across the initialization boundary.
-
-**UTE:** observed states are explained through undirected antecedent physical states and lawful generative processes, subject to whatever foundational assumptions and boundary conditions a specific UTE model requires.
+Detailed accounting is delegated to domain subledgers and the dependency graph. Shared operational science receives no partisan credit.
 
 ## Active subledgers
 
@@ -22,49 +17,53 @@ This parent ledger now delegates detailed accounting to domain subledgers and a 
 - `dfm-ute-biology-ledger.md`
 - `dfm-ute-earth-history-ledger.md`
 - `dfm-ute-dependency-graph.md`
+- `ordinal-evidence-scale.md`
 
 ## Accounting rules
 
-1. Shared operational regularity is neutral.
-2. Observation alone is neutral until comparative likelihood is assessed.
+1. Shared operational regularity is `OE-0` unless a specific discriminator is established.
+2. Observation alone is neutral until comparative expectation/likelihood is characterized.
 3. Restating an observation earns zero explanatory credit.
 4. Auxiliary flexibility incurs a cost when it reduces constraint without independent warrant.
 5. Metaphysical premises are recorded rather than hidden inside empirical likelihoods.
 6. A single observation is counted once even when it informs multiple claims.
-7. Derived or correlated items receive discounted or zero independent weight according to the dependency graph.
-8. Foundational burdens are not repeatedly counted as separate evidence in every empirical domain.
-9. Use ordinal judgments until defensible quantitative likelihoods, priors, and dependency structure exist.
+7. I0/I1 items are not aggregated as though fully independent.
+8. Foundational burdens are not repeatedly counted in empirical domains.
+9. P0 post hoc accommodation cannot exceed OE-1 without exceptional independent justification.
+10. S0/S1 evidence cannot support OE-2/OE-3 dispositions.
+11. Numerical aggregation remains prohibited until defensible likelihoods, priors, and conditional-independence structure exist.
 
-## Parent-level comparison
+## Parent-level burden comparison
 
-| ID | Comparison burden | DFM | UTE | Status |
+| ID | Comparison burden | DFM | UTE | Ordinal status |
 |---|---|---|---|---|
-| DUL-001 | Stable operational regularity | Uses it | Uses it | NEUTRAL |
-| DUL-002 | Initial/boundary state | Must specify coherent functional initialization | Must establish antecedent-state sufficiency or justify special boundary/initial conditions | UNDERDETERMINED |
-| DUL-003 | Retrodictive continuity | Allows discontinuity across initialization boundary | Normally assumes continuity where model and boundary assumptions warrant it | LIVE DISCRIMINATOR PROGRAMME |
-| DUL-004 | Generative closure | Does not require pre-initialization physical generation of the created state | Requires sufficient undirected antecedent physical history for states claimed as generated | LIVE BURDEN COMPARISON |
-| DUL-005 | Auxiliary-rescue risk | Initialized-state assignments can become ad hoc | Unseen antecedent mechanisms/parameters can become ad hoc | SYMMETRIC RISK |
+| DUL-001 | Stable operational regularity | Uses it | Uses it | `OE-0 / I3 / P3 / S3` |
+| DUL-002 | Initial/boundary-state explanation | Must specify coherent functional initialization | Must establish antecedent-state sufficiency or justify special boundary/initial conditions | `OE-U / I2 / P1 / S2` |
+| DUL-003 | Retrodictive continuity | Allows discontinuity across initialization boundary | Normally interprets continuity historically where assumptions hold | `OE-U / I2 / P1 / S1` |
+| DUL-004 | Generative closure | Does not require pre-initialization physical generation | Requires sufficient antecedent physical history for states claimed as generated | `OE-U / I2 / P1 / S2` |
+| DUL-005 | Auxiliary-rescue risk | Initialized-state assignments can become ad hoc | Unseen antecedent mechanisms/parameters can become ad hoc | `OE-0 / I3 / P3 / S3` |
 
 ## Current assessment
 
-No numerical posterior is authorized. The comparison is presently ordinal because the evidence base is heterogeneous and materially dependent.
+The present ledger does **not** support a whole-model statement that the empirical evidence strongly favors DFM or UTE. Most live empirical comparisons remain `OE-U` because model expectations, primary-source grounding, preregistration, or independence are incomplete.
 
-Current principal burdens:
+The few current directional judgments are deliberately local. For example, discovery of function in previously presumed nonfunctional biology is provisionally weak (`OE-1`) rather than strong because UTE can accommodate such discoveries and the evidence is correlated with broader functional-organization claims.
+
+The strongest current result is methodological: both frameworks now face symmetric requirements for specification, dependency accounting, preregistration, and auxiliary discipline.
+
+## Principal burdens
 
 - DFM: specification, functional coherence, initialization closure, and principled limits on initialized state.
 - UTE: antecedent-state sufficiency, generative closure, and justification of boundary/initial conditions not generated by the model.
-- Both: constrained auxiliary use, preregistered discriminators, and symmetric exposure to failure.
-
-## Quantitative gate
-
-Numerical aggregation remains prohibited until the dependency graph is mature enough to identify shared observations, parent premises, correlated evidence, and justified conditional independence.
+- Both: expose auxiliary assumptions and accept evidential penalties when flexibility becomes unconstrained.
 
 ## Next research actions
 
-1. Source-ground COS-001/002/004 through WP-BWM-0011.
+1. Source-ground COS-001/002/004 through WP-BWM-0011 using primary literature.
 2. Pre-register biological target classes for BIO-002 and BIO-005.
 3. Define pristine-system tests for ERH-003.
-4. Add conditional-independence annotations and ordinal evidence scale.
-5. Add DTE only where it constitutes a genuinely distinct explanatory family.
+4. Upgrade source-quality tags as primary evidence is added.
+5. Add conditional-independence annotations to the dependency graph.
+6. Add DTE only where it constitutes a genuinely distinct explanatory family.
 
 Human-Curated, AI-Enabled (HCAE)
