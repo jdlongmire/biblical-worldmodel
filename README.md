@@ -111,6 +111,7 @@ See the [publication and recovery runbook](06-operations/runbooks/site/publicati
 | [0009: Canonical epistemic hierarchy](04-work-packages/WP-BWM-0009-canonical-epistemic-hierarchy/README.md) | Active / proposed for canonicalization | Cross-programme, symmetry, and adversarial validation; Operator disposition; canonical artifact and Tier 2/3 explanation |
 | [0010: The Story visual narrative](04-work-packages/WP-BWM-0010-story-visual-narrative/README.md) | Active; G1 (God's Word/God's World) directionally approved | G2-G7 generated, reviewed, dispositioned and captured; site integration; mobile/desktop validation |
 | [0016: YouTube publication](04-work-packages/WP-BWM-0016-youtube-publication/README.md) | Completed; public on oddxian | Published video, Studio settings, copyright result, checksum and live-URL verification retained |
+| [0017: TikTok publication](04-work-packages/WP-BWM-0017-tiktok-publication/README.md) | Ready; publication grant recorded | Upload the bound revision-3 master to oddxian with AI disclosure, copyright check and public-URL verification |
 
 Package records own detailed scope and evidence. Narration remains deferred until source content and graphics are approved; [media conventions](06-operations/runbooks/site/media.md) define the future provenance, transcript and caption requirements — WP-BWM-0006 is scoped to produce that exact set without promoting it into the live site.
 

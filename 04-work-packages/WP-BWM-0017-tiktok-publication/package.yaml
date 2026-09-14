@@ -1,0 +1,72 @@
+id: WP-BWM-0017
+title: Publish The Story full-length video to TikTok
+status: ready
+scope_class: repository-local
+supported_workers: []
+worker_conformance: {}
+worker_exceptions: {}
+scope: >
+  Publish the approved revision-3 full-length Biblical WorldModel Story video
+  to JD's oddxian TikTok account using the oddXian publishing procedure. This
+  package binds publication to the 510.293-second, 1080x1920 MP4 with SHA-256
+  61680e9ad5e20c533e84179e3ae1886b0ea74cca689f43dbbe10182b6d042db8.
+  TikTok's documented browser-upload limits admit this 8:30, 24.5 MB artifact.
+authority_boundary: >
+  JD explicitly granted authority on 2026-09-14 to upload and publicly post
+  this exact artifact to his authenticated oddxian TikTok account; prepare and
+  apply the retained caption and cover; identify the post as AI-generated in
+  TikTok's disclosure control because it uses JD's cloned voice and AI-assisted
+  graphics; run the available copyright check; and verify and retain the live
+  post URL. This grant does not authorize changing the narration or visuals,
+  publishing another binary or account, enabling paid promotion, granting ad
+  authorization, deleting or replacing posts, or publishing elsewhere.
+dependencies:
+  - WP-BWM-0006 completed revision-3 narrated video and retained media
+  - WP-BWM-0016 checksum and publication evidence
+  - Authenticated oddxian TikTok session
+actions:
+  - Reconfirm checksum, duration, dimensions, format, and file size.
+  - Confirm the authenticated TikTok identity is oddxian before upload.
+  - Upload the exact bound MP4 and apply the retained caption and cover.
+  - Enable TikTok's AI-generated-content disclosure and leave paid promotion and ad authorization off.
+  - Run or wait for the available copyright check, then post publicly if no blocking issue appears.
+  - Verify the live post and retain its URL, settings, checksum, and publication time.
+verification: >
+  Done requires a matching pre-upload checksum; confirmed oddxian account;
+  retained caption and cover disposition; AI-generated-content disclosure;
+  no blocking copyright result; successful public post; independently opened
+  live URL; and a complete publication record. Upload alone is not completion.
+acceptance_criteria:
+  - id: AC-01
+    text: The upload matches the bound revision-3 SHA-256 and is 1080x1920, 510.293 seconds, MP4, and below TikTok's browser-upload size limit.
+    evidence:
+      status: pending
+  - id: AC-02
+    text: The authenticated TikTok account is explicitly confirmed as oddxian before posting.
+    evidence:
+      status: pending
+  - id: AC-03
+    text: The retained caption accurately identifies the story, links or directs viewers to the Biblical WorldModel, and includes suitable hashtags.
+    model_judged: Requires editorial review for fidelity and platform fit.
+    evidence:
+      status: pending
+  - id: AC-04
+    text: TikTok's AI-generated-content disclosure is enabled; paid promotion and ad authorization remain off unless factually applicable and separately authorized.
+    evidence:
+      status: pending
+  - id: AC-05
+    text: No available copyright check reports an issue that blocks publication.
+    evidence:
+      status: pending
+  - id: AC-06
+    text: The post is public on oddxian and its live URL is independently verified.
+    evidence:
+      status: pending
+  - id: AC-07
+    text: The final record retains account, caption, disclosure settings, copyright result, checksum, URL, and publication time.
+    evidence:
+      status: pending
+disposition: >
+  Opened and granted by JD on 2026-09-14. Ready for execution against the exact
+  revision-3 master; no upload or TikTok publication is recorded yet.
+
