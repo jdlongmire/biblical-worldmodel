@@ -13,6 +13,14 @@ External videos are included for relevance, not endorsement. A featured speaker,
 
 [**Life Is More Than Its Parts: Denis Noble and the Limits of Reductionist Biology**](publications/articles/denis-noble-reductionist-biology.md) embeds the 27 August 2026 *Socrates in the City* interview with Denis Noble and examines multilevel causation, gene-centred reductionism, stochasticity, purpose, abiogenesis, and Designed Functional Maturity.
 
+### Calvin Smith: Genesis, geology, and the history of uniformitarianism
+
+**External Resource · Partial Alignment**
+
+[**What EVERY Christian Today NEEDS to Realize About Genesis**](https://www.youtube.com/watch?v=TtkmzlIHHFs), from Answers in Genesis Canada, is recommended primarily for its historical discussion of Charles Hodge, Charles Lyell, the rise of uniformitarian geology, Lyell's influence on Darwin, and the later re-entry of catastrophic processes into mainstream geology. It also raises a foundational BWM question: how far may present processes and present rates warrant reconstruction of an unobserved past?
+
+**WorldModel Note:** This video is included because it contains material relevant to the Biblical WorldModel research programme. Inclusion does not imply endorsement of every historical, geological, rhetorical, or theological claim in the presentation. BWM is independently tracing significant quotations to primary sources and examining disputed geological examples separately. The preserved transcript and research record are maintained under `WP-BWM-0018`.
+
 ## Original narrated explainers
 
 Narrated introductions and guided visual explanations are planned. No original Biblical WorldModel overview video has been published on this site yet, and no publication date has been set.
