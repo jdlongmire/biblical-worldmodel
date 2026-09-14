@@ -1,0 +1,89 @@
+id: WP-BWM-0016
+title: Publish The Story full-length video to YouTube
+status: proposed
+scope_class: repository-local
+supported_workers: []
+worker_conformance: {}
+worker_exceptions: {}
+scope: >
+  Prepare and publicly publish the verified revision-3 full-length video,
+  "The Biblical WorldModel — The Story," to the oddxian YouTube channel using
+  the canonical oddXian video narration and publishing SOP. This package binds
+  publication to the 510.293-second, 1080x1920 artifact with SHA-256
+  61680e9ad5e20c533e84179e3ae1886b0ea74cca689f43dbbe10182b6d042db8,
+  completes the YouTube metadata and retained media set, performs the YouTube
+  Studio upload, waits for copyright checks, publishes publicly, verifies the
+  live URL, and records the publication evidence. Because this cut is 8:30, it
+  is a regular vertical YouTube video rather than a YouTube Short; the SOP's
+  three-minute Shorts render and #Shorts requirements do not apply. This does
+  not authorize TikTok, site-media promotion, replacement of another live
+  video, paid promotion, or changes to the narration or visual content.
+authority_boundary: >
+  Authorizes preparation of the title, description, Scripture references,
+  thumbnail, transcript and WebVTT captions; checksum verification of the
+  exact revision-3 master; upload through the authenticated YouTube Studio
+  session after explicitly confirming the oddxian channel; selection of the
+  general-audience setting "No, it's not made for kids"; answering the
+  altered/synthetic-content question under YouTube's current policy; waiting
+  for and recording the copyright result; setting visibility to Public;
+  pressing Publish; and verifying and retaining the public URL. It does not
+  authorize publishing a different binary, enabling paid-promotion disclosure
+  without a factual basis, inventing a playlist or related video, deleting or
+  replacing any existing publication, or publishing to another platform.
+dependencies:
+  - WP-BWM-0006 revision-3 narrated video and manifest
+  - oddXian video narration and short-form publishing SOP, YouTube Studio procedure
+actions:
+  - Confirm the retained master matches the revision-3 manifest hash, duration, and dimensions.
+  - Produce and retain the missing thumbnail with alt text, transcript, and WebVTT captions.
+  - Prepare a concise question-led title and a formatted description containing the opening question, compact thesis, Biblical WorldModel story URL, and cited Scripture references.
+  - Open YouTube Studio in the authenticated graphical session and explicitly verify the oddxian channel identity.
+  - Upload the checksum-verified revision-3 master as a regular vertical video, set the audience and disclosure fields according to the SOP, and wait for Checks to complete.
+  - Publish with Public visibility only after copyright reports no blocking issue, then verify the public URL and record the complete handoff evidence.
+verification: >
+  Done is proven by a retained pre-upload checksum matching the revision-3
+  manifest; a complete thumbnail/transcript/WebVTT set; captured title,
+  description, audience and altered-content dispositions; a non-blocking
+  YouTube copyright result; the "Video published" confirmation; and a verified
+  public URL on the oddxian channel. The package remains incomplete if upload
+  succeeds but the URL is private, unverified, under a blocking copyright
+  claim, or associated with the wrong channel.
+acceptance_criteria:
+  - id: AC-01
+    text: The uploaded binary matches the revision-3 manifest SHA-256 and ffprobe reports 1080x1920, 510.293 seconds.
+    evidence:
+      status: pending
+  - id: AC-02
+    text: A publication thumbnail with alt text, text transcript, and WebVTT captions are retained with the media record.
+    evidence:
+      status: pending
+  - id: AC-03
+    text: The YouTube title and formatted description identify the story accurately, link to the public source page, and include the relevant Scripture references.
+    model_judged: Requires editorial review of accuracy, clarity, and fidelity to the approved story.
+    evidence:
+      status: pending
+  - id: AC-04
+    text: The authenticated YouTube Studio session is explicitly confirmed to be on the oddxian channel before upload.
+    evidence:
+      status: pending
+  - id: AC-05
+    text: The audience is set to "No, it's not made for kids," paid promotion is left off unless factually applicable, and the altered-content answer is recorded under YouTube's current policy.
+    evidence:
+      status: pending
+  - id: AC-06
+    text: YouTube Checks completes without a copyright issue that blocks publication.
+    evidence:
+      status: pending
+  - id: AC-07
+    text: YouTube confirms "Video published," visibility is Public, and the live URL is independently opened or otherwise verified on the oddxian channel.
+    evidence:
+      status: pending
+  - id: AC-08
+    text: The final handoff records channel, title, URL, audience setting, altered-content answer, copyright result, artifact checksum, and publication time.
+    evidence:
+      status: pending
+disposition: >
+  Opened 2026-09-14 at JD's direction after he reviewed and approved the
+  revision-3 full-panel video. Publication work has not started. The existing
+  delivered master is treated as a regular vertical YouTube video because its
+  8:30 runtime exceeds the SOP's three-minute limit for Shorts.
