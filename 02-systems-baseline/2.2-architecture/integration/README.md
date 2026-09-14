@@ -2,10 +2,11 @@
 
 Purpose: canonical cross-framework and cross-domain synthesis for Biblical WorldModel.
 
-This surface owns framework-domain mapping, chronology integration, evidence accounting, model comparison, open-problems tracking, predictions/falsifiers, and contradiction/dependency tracking.
+This surface owns framework-domain mapping, chronology integration, cross-domain invariants, evidence accounting, model comparison, open-problems tracking, predictions/falsifiers, and contradiction/dependency tracking.
 
 Current Integration artifacts:
 
+- `cross-domain-invariants.md` — governing cross-domain constraints and dependency rules for BWM reasoning.
 - `framework-domain-matrix.md` — maps Foundations, Historical Frameworks, and World Domains.
 - `chronology-model.md` — active chronology model and framework ownership.
 - `evidence-ledger-model.md` — claim/evidence classification and ledger schema.

@@ -21,6 +21,8 @@ BWM content is organized conceptually into four categories:
 
 These categories are not interchangeable. They answer different classes of questions.
 
+Cross-domain invariants are maintained under Integration as governing constraints that preserve consistency when claims move among these four categories. See `integration/cross-domain-invariants.md`.
+
 ## 1. Foundations
 
 Foundations govern the entire worldmodel. They define the ontological, epistemological, and hermeneutical commitments within which historical and domain-specific models are evaluated.
@@ -131,7 +133,9 @@ Eschatology remains a subdomain unless later content volume justifies separation
 
 Integration evaluates whether foundations, historical frameworks, and world-domain models cohere without hiding tensions.
 
-Primary integration artifacts include framework-domain mapping, chronology integration, evidence-ledger architecture, Bayesian/model-comparison ledgers, interface definitions, open-problems tracking, predictions/falsifiers, and contradiction/dependency tracking.
+Primary integration artifacts include cross-domain invariants, framework-domain mapping, chronology integration, evidence-ledger architecture, Bayesian/model-comparison ledgers, interface definitions, open-problems tracking, predictions/falsifiers, and contradiction/dependency tracking.
+
+Cross-domain invariants define commitments that must remain stable across domain boundaries unless explicitly revised through dependency analysis. They function as constraints and interface conditions, not as substitutes for domain evidence or exegesis.
 
 Integration must distinguish doctrinal/scriptural constraint, foundation, historical framework, domain model, hypothesis, empirical proposition, observation, and unresolved tension.
 
@@ -153,9 +157,11 @@ This sequence is historical, not hierarchical. Foundations apply across every st
 6. Canonical architecture belongs primarily under `02-systems-baseline/2.2-architecture/`.
 7. Requirements and hard constraints belong primarily under `02-systems-baseline/2.1-requirements/`.
 8. Repository lifecycle structure remains independent from intellectual taxonomy.
-9. Cross-cutting relationships are represented by interfaces and matrices rather than forced directory nesting.
+9. Cross-cutting relationships are represented by interfaces, matrices, and invariants rather than forced directory nesting.
 10. External foundational/research programmes are consumed through pinned BWM interfaces, preserving source-of-truth ownership.
 11. Work packages remain provenance records after promoted derivatives are created.
 12. Physical relocation of stable canonical artifacts requires a concrete ownership/navigation benefit and explicit migration control.
+13. New cross-domain claims must identify the invariants that constrain them before promotion into canonical BWM requirements.
+14. Changes to an invariant require explicit dependency analysis because multiple frameworks or domains may rely on it.
 
 Human-Curated, AI-Enabled (HCAE)
