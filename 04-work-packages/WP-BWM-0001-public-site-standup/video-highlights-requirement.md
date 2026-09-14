@@ -71,6 +71,23 @@ Prefer primary video sources and official creator/channel uploads. Reposts and e
 - **Alignment:** Partial. Fine-tuning material is relevant to DFM; Hugh Ross's broader old-earth/progressive-creation framework is not DFM.
 - **DFM resource record:** `jdlongmire/chatgpt-bridge/weltmodell/dfm/resources/fine-tuning-tour-ross-2026.md`
 
+## Recommended Highlight: Genesis, Geology, and Uniformitarianism
+
+### What EVERY Christian Today NEEDS to Realize About Genesis
+
+- **Speaker:** Calvin Smith
+- **Source creator:** Answers in Genesis Canada
+- **Published:** 2025-10-31
+- **Platform:** YouTube
+- **URL:** https://www.youtube.com/watch?v=TtkmzlIHHFs
+- **Video ID:** `TtkmzlIHHFs`
+- **Relevant domains:** foundations, epistemology, earth history, Genesis, historical geology, uniformitarianism, catastrophism, retrodiction
+- **BWM relevance:** Recommended primarily for its historical discussion of Charles Hodge, Charles Lyell, the rise of uniformitarian geology, Lyell's influence on Darwin, and the later re-entry of catastrophic processes into mainstream geology. It also provides a useful case study in distinguishing operational regularity from historical retrodiction.
+- **Technical qualification:** The presentation contains historical and geological claims of differing evidential status. Significant quotations are to be traced to primary sources, and geological examples such as paraconformities, fossilization rates, and Grand Canyon contacts are to be evaluated separately before use as BWM evidence.
+- **Alignment:** Partial. The video's high-level commitment to biblical authority and its critique of naive rate-uniformity overlap materially with BWM concerns. Inclusion does not imply that BWM adopts every geological inference, rhetorical characterization, chronology claim, or theological formulation in the presentation.
+- **BWM research record:** `04-work-packages/WP-BWM-0018-historical-geology-harvest/`
+- **Preserved transcript:** `04-work-packages/WP-BWM-0018-historical-geology-harvest/sources/TtkmzlIHHFs-transcript.md`
+
 ## Implementation Guidance
 
 Treat highlights as structured content rather than hard-coded homepage markup. A small metadata record per video should drive both the collection page and any homepage featured-video component. This permits highlights to be added, retired, reordered, filtered by topic, and reused on relevant subject pages without duplicating content.
