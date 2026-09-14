@@ -1,0 +1,32 @@
+id: WP-BWM-0018
+title: Historical geology and epistemic retrodiction harvest
+status: active
+scope: >
+  Preserve the complete user-supplied transcript of YouTube video TtkmzlIHHFs,
+  reconstruct and verify its historical claims concerning Hodge, Lyell, Darwin,
+  uniformitarianism, catastrophism and the theological reception of deep-time
+  geology, audit additional geological and epistemological claims, and add the
+  video to the BWM Video Highlights / recommended-video collection.
+
+  This package does not canonize the video's claims, publish an unreviewed
+  historical narrative as BWM doctrine, or treat inclusion in Video Highlights
+  as blanket endorsement of the creator's worldview or every claim in the video.
+authority_boundary: >
+  JD Longmire authorized preservation of the entire transcript, analysis of the
+  historical and additional claims, and inclusion of the video among recommended
+  BWM videos. Reversible repository work on the isolated branch may proceed.
+  Public deployment, canonical promotion of disputed claims, destructive cleanup,
+  and deletion of unrelated branches remain outside this authority.
+actions:
+  - Preserve the supplied timestamped transcript verbatim as a source artifact.
+  - Build a historical claim ledger and trace significant quotations to primary sources.
+  - Separate historical, geological, theological and epistemological assessments.
+  - Record the video as an external partial-alignment Video Highlight.
+  - Identify corrections, qualifications and unresolved claims before canonical use.
+verification: >
+  Verify the source artifact exists with video metadata and the complete supplied
+  timestamp range, confirm the work-package registry contains one unique WP-BWM-0018
+  entry, confirm the Video Highlights record identifies the same video ID and carries
+  the required external-resource alignment disclosure, and inspect the branch diff
+  before any integration.
+disposition: open
