@@ -1,6 +1,6 @@
 # Narrated video adaptation of the Tier 1 story
 
-**WP-BWM-0006 — proposed; no production started.**
+**WP-BWM-0006 — completed 2026-09-14; revision 3 published.**
 
 Turn the JD-approved Tier 1 "the-story" narrative into a narrated short-form video, using ThinxAI's existing video-narration pipeline (cloned-voice text-to-speech + Remotion, 9:16 vertical by default).
 
@@ -22,13 +22,15 @@ Tier 1 was reviewed and approved by JD for site promotion on 2026-09-12, and WP-
 
 ## Acceptance criteria
 
-- [ ] Narration script stays within the Tier 1 plain-language standard (no programme acronyms, no specialist vocabulary).
-- [ ] No human depiction of Christ appears in any visual; visuals respect WP-BWM-0005's theological constraints.
-- [ ] Rendered output is a valid video file.
-- [ ] A media.md-conformant manifest exists (source repo/commit, source page/graphics, output revision, approved script reference, duration, language, hosting URL, status, output hash).
-- [ ] Transcript and WebVTT captions with language metadata are retained.
-- [ ] Thumbnail with alt text and a link back to the source page is retained.
-- [ ] Nothing produced here is written into `03-solutions-baseline/site/docs/media/` or linked from a live page.
+- [x] Narration script stays within the Tier 1 plain-language standard (no programme acronyms, no specialist vocabulary).
+- [x] No human depiction of Christ appears in any visual; visuals respect WP-BWM-0005's theological constraints.
+- [x] Rendered output is a valid video file.
+- [x] A media.md-conformant manifest exists (source repo/commit, source page/graphics, output revision, approved script reference, duration, language, hosting URL, status, output hash).
+- [x] Transcript and WebVTT captions with language metadata are retained.
+- [x] Thumbnail with alt text and a link back to the source page is retained.
+- [x] Nothing produced here is written into `03-solutions-baseline/site/docs/media/` or linked from a live page.
+
+Revision 3 is public on YouTube as **[Can a Calculated Age Differ From Actual History?](https://youtu.be/gnnMknpuDDQ)**. The external publication decision and Studio verification are owned by WP-BWM-0016.
 
 `package.yaml` owns current status, authority and evidence.
 

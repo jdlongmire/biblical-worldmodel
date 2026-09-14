@@ -105,12 +105,12 @@ See the [publication and recovery runbook](06-operations/runbooks/site/publicati
 | [0003: Community and contact](04-work-packages/WP-BWM-0003-community-contact/README.md) | GitHub Issues provides interim public intake | Discussions/embedded conversation, structured intake, moderation and private contact |
 | [0004: Repository foundation](04-work-packages/WP-BWM-0004-repository-foundation/README.md) | Foundation and backlog transfer verified | Retained acceptance/disposition |
 | [0005: Accessible narrative](04-work-packages/WP-BWM-0005-accessible-narrative/README.md) | Tier 1 approved and published; Tier 2 principles captured | Short form, Tier 2 explainer, verified dating case studies, reader variants and storyboard |
-| [0006: Video narration](04-work-packages/WP-BWM-0006-video-narration/README.md) | Proposed; opened once Tier 1 was approved | Script, storyboard, render, and the media.md provenance set; no production started |
+| [0006: Video narration](04-work-packages/WP-BWM-0006-video-narration/README.md) | Revision 3 completed and published | Full-length video and retained media set complete; public YouTube handoff recorded in WP-BWM-0016 |
 | [0007: Ross/RTB DFM harvest](04-work-packages/WP-BWM-0007-ross-dfm-harvest/README.md) | Proposed backlog | Source-family survey and primary-trace harvest; no work started |
 | [0008: Guarded chat interface](04-work-packages/WP-BWM-0008-chat-interface/README.md) | Proposed | OWASP LLM Top 10 threat model, architecture decision, guardrails, independent security review before any live activation |
 | [0009: Canonical epistemic hierarchy](04-work-packages/WP-BWM-0009-canonical-epistemic-hierarchy/README.md) | Active / proposed for canonicalization | Cross-programme, symmetry, and adversarial validation; Operator disposition; canonical artifact and Tier 2/3 explanation |
 | [0010: The Story visual narrative](04-work-packages/WP-BWM-0010-story-visual-narrative/README.md) | Active; G1 (God's Word/God's World) directionally approved | G2-G7 generated, reviewed, dispositioned and captured; site integration; mobile/desktop validation |
-| [0016: YouTube publication](04-work-packages/WP-BWM-0016-youtube-publication/README.md) | Proposed; approved revision-3 master identified | Complete retained media set, YouTube metadata, Studio checks, public upload and live-URL verification |
+| [0016: YouTube publication](04-work-packages/WP-BWM-0016-youtube-publication/README.md) | Completed; public on oddxian | Published video, Studio settings, copyright result, checksum and live-URL verification retained |
 
 Package records own detailed scope and evidence. Narration remains deferred until source content and graphics are approved; [media conventions](06-operations/runbooks/site/media.md) define the future provenance, transcript and caption requirements — WP-BWM-0006 is scoped to produce that exact set without promoting it into the live site.
 

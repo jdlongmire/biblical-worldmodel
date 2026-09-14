@@ -1,6 +1,6 @@
 # Publish The Story full-length video to YouTube
 
-**WP-BWM-0016 — proposed; publication not started.**
+**WP-BWM-0016 — completed 2026-09-14.**
 
 Publish the approved revision-3 full-length video, **The Biblical WorldModel — The Story**, to the **oddxian YouTube channel** using the canonical [`ODDXIAN-VIDEO-NARRATION-SOP.md`](https://github.com/jdlongmire/oddxian-shorts/blob/main/docs/ODDXIAN-VIDEO-NARRATION-SOP.md).
 
@@ -32,5 +32,9 @@ The artifact is vertical, but its 8:30 runtime makes it a regular YouTube video 
 This package covers the YouTube publication of the bound revision-3 master. It does not cover TikTok, promotion into the Biblical WorldModel site's live media tree, a replacement or deletion of an existing video, paid promotion, or edits to the approved narration and graphics.
 
 `package.yaml` owns current scope, authority, acceptance criteria, and evidence.
+
+## Published result
+
+**[Can a Calculated Age Differ From Actual History?](https://youtu.be/gnnMknpuDDQ)** is public on the [oddxian channel](https://www.youtube.com/@oddxian). YouTube reported no copyright issues. The complete settings and verification record are retained in [`publication-record.md`](publication-record.md).
 
 Human-Curated, AI-Enabled (HCAE)

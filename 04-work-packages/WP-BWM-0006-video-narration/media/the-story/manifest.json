@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "slug": "the-story",
-  "status": "delivered",
+  "status": "published",
   "source_repository": "jdlongmire/biblical-worldmodel",
   "source_commit": "4efe696",
   "source_page": "03-solutions-baseline/site/docs/the-story.md",
@@ -23,6 +23,12 @@
   "duration_seconds": 510.293,
   "language": "en",
   "hosting_url": "/api/media/61680e9ad5e20c533e84.mp4",
+  "youtube_url": "https://youtu.be/gnnMknpuDDQ",
   "output_sha256": "61680e9ad5e20c533e84179e3ae1886b0ea74cca689f43dbbe10182b6d042db8",
+  "transcript": "transcript.md",
+  "captions": "captions.vtt",
+  "captions_language": "en",
+  "thumbnail": "thumbnail.png",
+  "thumbnail_metadata": "thumbnail.md",
   "note": "Full-length narration (JD-confirmed option A, 2026-09-12), revision 3 delivered 2026-09-14. JD found that revision 2 cropped or cut components from the v2 nine-panel storyboard. Revision 3 marks every storyboard panel as contained artwork and removes motion scaling for contained graphics, with a six-percent inset that keeps all four panel edges, labels, and citations visibly inside the video canvas. Narration audio and 510.293-second runtime are unchanged. Rendered VerticalLetterboxed (1080x1420) on ologosai-host, letterboxed to 1080x1920 delivery format. Verified final dimensions, duration, SHA-256, and representative Adam, generated-world, and scientific-dating frames. Delivered to Console Drive Artifacts (file id 8e18221200d747829d6e34e7acc6ecac) and inline chat. See draft.md in this directory for the full script; see oddxian-shorts:content/biblical-worldmodel-the-story.json @ 82b89e6 and src/Short.tsx @ 8ce53e1 for the exact visual behavior."
 }

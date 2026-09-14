@@ -1,6 +1,6 @@
 id: WP-BWM-0006
 title: Narrated video adaptation of the Tier 1 story
-status: proposed
+status: completed
 scope_class: repository-local
 supported_workers: []
 worker_conformance: {}
@@ -58,14 +58,16 @@ acceptance_criteria:
   model_judged: Requires human review of narrative fidelity and editorial tone; a
     mechanical check cannot verify plain-language compliance.
   evidence:
-    status: pending
+    status: satisfied
+    note: JD approved the revision-3 full-panel video as looking great on 2026-09-14 before authorizing YouTube publication.
 - id: AC-02
   text: No human depiction of Christ appears in any visual used, and visuals respect
     the theological constraints stated in WP-BWM-0005.
   model_judged: Requires human/visual review; image-content classification against
     doctrinal constraints is not scripted.
   evidence:
-    status: pending
+    status: satisfied
+    note: JD approved the revision-3 visual treatment on 2026-09-14; no human depiction of Christ appears.
 - id: AC-03
   text: The rendered output is a valid video file (non-zero duration, correct
     aspect ratio, no corrupt frames or audio/video desync).
@@ -79,22 +81,20 @@ acceptance_criteria:
     duration, language, hosting URL, status, and the rendered output's hash.
   evidence:
     status: satisfied
-    note: media/the-story/manifest.json updated 2026-09-13 for revision 2 (output_revision
-      2, hosting_url, output_sha256, source_graphics pointing at concepts-v2).
+    note: media/the-story/manifest.json records revision 3, internal hosting URL,
+      public YouTube URL, output hash, source graphics, and retained media files.
 - id: AC-05
   text: A text transcript and WebVTT captions with language metadata are retained
     alongside the rendered output.
   evidence:
-    status: pending
-    note: Not yet produced in either revision. Genuine remaining work, not overlooked
-      -- the caption text exists per-section in oddxian-shorts's content JSON, but
-      no standalone transcript or .vtt file has been generated or retained here.
+    status: satisfied
+    note: media/the-story/transcript.md and captions.vtt generated from the approved narration and measured timeline; manifest.json records captions_language as en.
 - id: AC-06
   text: A thumbnail with alt text and a link back to the source Tier 1 page is
     retained alongside the rendered output.
   evidence:
-    status: pending
-    note: Not yet produced in either revision.
+    status: satisfied
+    note: media/the-story/thumbnail.png retained with alt text and source-page link in thumbnail.md.
 - id: AC-07
   text: No file under this package's production is written into
     `03-solutions-baseline/site/docs/media/` or otherwise linked from a live
@@ -119,11 +119,9 @@ disposition: >
   crop and build around") -- cropped into WP-BWM-0010's `concepts-v2/`, mapped
   1:1 onto all nine image-bearing sections, and swapped in, filling the two
   sections (`afterward`, `humility`) that had no purpose-built image in
-  revision 1. Narration audio was reused unchanged (`--reuse-audio`), so only
-  the visual track was re-rendered. Delivered to Console Drive Artifacts and
-  inline chat both times. AC-01/AC-02 (script/visual fidelity) still await
-  JD's own review pass against revision 2's specific frames, notwithstanding
-  the content review performed during production; AC-05/AC-06 (transcript+
-  captions, thumbnail) remain genuinely unproduced in either revision and are
-  the package's real remaining work.
+  revision 1. Revision 3 preserved every complete panel with a six-percent
+  inset after JD identified overly tight cropping. JD approved that revision
+  on 2026-09-14. Transcript, WebVTT captions, thumbnail, alt text, and manifest
+  are retained under media/the-story. WP-BWM-0016 separately authorized and
+  recorded public YouTube publication at https://youtu.be/gnnMknpuDDQ.
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/9

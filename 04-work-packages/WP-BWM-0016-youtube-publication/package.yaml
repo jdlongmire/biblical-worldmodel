@@ -1,6 +1,6 @@
 id: WP-BWM-0016
 title: Publish The Story full-length video to YouTube
-status: proposed
+status: completed
 scope_class: repository-local
 supported_workers: []
 worker_conformance: {}
@@ -52,39 +52,50 @@ acceptance_criteria:
   - id: AC-01
     text: The uploaded binary matches the revision-3 manifest SHA-256 and ffprobe reports 1080x1920, 510.293 seconds.
     evidence:
-      status: pending
+      status: satisfied
+      note: Pre-upload SHA-256 matched the revision-3 manifest; ffprobe reported 1080x1920 and 510.293 seconds.
   - id: AC-02
     text: A publication thumbnail with alt text, text transcript, and WebVTT captions are retained with the media record.
     evidence:
-      status: pending
+      status: satisfied
+      note: Retained under WP-BWM-0006 media/the-story as thumbnail.png plus thumbnail.md, transcript.md, and captions.vtt with English language metadata.
   - id: AC-03
     text: The YouTube title and formatted description identify the story accurately, link to the public source page, and include the relevant Scripture references.
     model_judged: Requires editorial review of accuracy, clarity, and fidelity to the approved story.
     evidence:
-      status: pending
+      status: satisfied
+      note: Published as "Can a Calculated Age Differ From Actual History?" with the approved description retained in youtube-metadata.md.
   - id: AC-04
     text: The authenticated YouTube Studio session is explicitly confirmed to be on the oddxian channel before upload.
     evidence:
-      status: pending
+      status: satisfied
+      note: Studio dashboard showed the oddxian logo and channel name before upload; public verification returned author oddxian.
   - id: AC-05
     text: The audience is set to "No, it's not made for kids," paid promotion is left off unless factually applicable, and the altered-content answer is recorded under YouTube's current policy.
     evidence:
-      status: pending
+      status: satisfied
+      note: Audience set to No, not made for kids; altered/synthetic content set to No under YouTube's current self-cloned-voice and infographic guidance; paid promotion left off.
   - id: AC-06
     text: YouTube Checks completes without a copyright issue that blocks publication.
     evidence:
-      status: pending
+      status: satisfied
+      note: YouTube Checks reported Copyright — No issues found before publication.
   - id: AC-07
     text: YouTube confirms "Video published," visibility is Public, and the live URL is independently opened or otherwise verified on the oddxian channel.
     evidence:
-      status: pending
+      status: satisfied
+      note: Studio displayed Video published; https://youtu.be/gnnMknpuDDQ resolved publicly through YouTube oEmbed as an oddxian video with the published title.
   - id: AC-08
     text: The final handoff records channel, title, URL, audience setting, altered-content answer, copyright result, artifact checksum, and publication time.
     evidence:
-      status: pending
+      status: satisfied
+      note: publication-record.md retains the complete handoff at 2026-09-14T08:06:24-05:00.
 disposition: >
   Opened 2026-09-14 at JD's direction after he reviewed and approved the
-  revision-3 full-panel video. Publication work has not started. The existing
-  delivered master is treated as a regular vertical YouTube video because its
-  8:30 runtime exceeds the SOP's three-minute limit for Shorts.
+  revision-3 full-panel video. Completed under JD's E2E authorization on the
+  same date. The exact verified master was published publicly to the oddxian
+  channel at https://youtu.be/gnnMknpuDDQ as a regular vertical YouTube video
+  because its 8:30 runtime exceeds the SOP's three-minute limit for Shorts.
+  Copyright reported no issues, and the public title/channel were independently
+  verified through YouTube's oEmbed endpoint.
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/22
