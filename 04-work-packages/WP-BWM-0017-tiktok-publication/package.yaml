@@ -1,6 +1,6 @@
 id: WP-BWM-0017
 title: Publish The Story full-length video to TikTok
-status: ready
+status: completed
 scope_class: repository-local
 supported_workers: []
 worker_conformance: {}
@@ -40,33 +40,75 @@ acceptance_criteria:
   - id: AC-01
     text: The upload matches the bound revision-3 SHA-256 and is 1080x1920, 510.293 seconds, MP4, and below TikTok's browser-upload size limit.
     evidence:
-      status: pending
+      status: satisfied
+      note: Uploaded file was /tmp/biblical-worldmodel-the-story-full-panels-vertical.mp4,
+        sha256sum-confirmed 61680e9ad5e20c533e84179e3ae1886b0ea74cca689f43dbbe10182b6d042db8
+        immediately before upload, matching the bound artifact exactly. ffprobe confirmed
+        1080x1920, duration 510.293s, h264/aac, 24547759 bytes (23.41MB per TikTok
+        Studio's own reported upload size).
   - id: AC-02
     text: The authenticated TikTok account is explicitly confirmed as oddxian before posting.
     evidence:
-      status: pending
+      status: satisfied
+      note: Confirmed by navigating directly to tiktok.com/@oddxian before upload --
+        profile shown authenticated (bio "A sinner, saved by grace - more on oddXian.com",
+        1492 following, 863 followers), and TikTok Studio's own session was the same
+        authenticated account throughout.
   - id: AC-03
     text: The retained caption accurately identifies the story, links or directs viewers to the Biblical WorldModel, and includes suitable hashtags.
     model_judged: Requires editorial review for fidelity and platform fit.
     evidence:
-      status: pending
+      status: satisfied
+      note: Applied the exact caption proposed in this package's README verbatim
+        (306 characters) -- identifies the Adam thought experiment, poses the
+        calculated-age-vs-actual-history question, links worldmodel.thinxai.net/the-story/,
+        and carries #BiblicalWorldModel #FaithAndScience #Genesis #ChristianApologetics #oddXian.
+        Confirmed rendered correctly on the live post.
   - id: AC-04
     text: TikTok's AI-generated-content disclosure is enabled; paid promotion and ad authorization remain off unless factually applicable and separately authorized.
     evidence:
-      status: pending
+      status: satisfied
+      note: "AI-generated content toggle enabled (confirmed via TikTok's own \"Turn on\"
+        confirmation dialog); Disclose post content and Audience control left off,
+        matching the grant's scope exactly. The live post visibly carries a \"Creator
+        labeled as AI-generated\" badge, confirming the setting took effect."
   - id: AC-05
     text: No available copyright check reports an issue that blocks publication.
     evidence:
-      status: pending
+      status: satisfied
+      note: Both offered checks enabled and run to completion before posting -- Music
+        copyright check ("No issues found") and Content check lite ("No issues found.
+        However, your video could still be removed later if it violates our Community
+        Guidelines" -- standard disclaimer text, not a flagged issue).
   - id: AC-06
     text: The post is public on oddxian and its live URL is independently verified.
     evidence:
-      status: pending
+      status: satisfied
+      note: Posted 2026-09-14 11:06 AM. TikTok ran its own standard platform content
+        review after posting (distinct from the pre-post copyright/content checks
+        above) -- briefly showed "Only me" / "Content under review" in TikTok Studio's
+        post list, then cleared to "Everyone" within roughly two minutes. Independently
+        verified by opening https://www.tiktok.com/@oddxian/video/7685422904376380685
+        directly in a fresh browser tab (not the Studio management view): video plays
+        publicly, byline "oddXian", correct caption and visuals, "Creator labeled as
+        AI-generated" badge visible.
   - id: AC-07
     text: The final record retains account, caption, disclosure settings, copyright result, checksum, URL, and publication time.
     evidence:
-      status: pending
+      status: satisfied
+      note: All fields retained in this disposition and in publication-record.md.
 disposition: >
-  Opened and granted by JD on 2026-09-14. Ready for execution against the exact
-  revision-3 master; no upload or TikTok publication is recorded yet.
+  Opened and granted by JD on 2026-09-14. Executed the same day: uploaded the
+  exact bound revision-3 MP4 (checksum-verified pre-upload) to the authenticated
+  oddxian account, applied the proposed caption verbatim, enabled the
+  AI-generated-content disclosure, ran both available pre-post checks (no
+  issues), posted publicly, and independently verified the live URL after
+  TikTok's own post-publication content review cleared. One real production
+  issue diagnosed and fixed along the way: the video file was owned
+  thinxai:thinxai mode 600 while the browser runs as jdlongmire, so the
+  renderer could read the blob metadata but not its bytes, surfacing as a
+  silent net::ERR_ACCESS_DENIED on the blob: URL and an endless upload
+  spinner -- not an ad-blocker or TikTok-side issue as first suspected;
+  fixed with chmod 644 on the source file. Live post:
+  https://www.tiktok.com/@oddxian/video/7685422904376380685
 issue: https://github.com/jdlongmire/biblical-worldmodel/issues/23
