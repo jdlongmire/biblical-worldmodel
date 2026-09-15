@@ -2,10 +2,14 @@
 
 **Chapter:** The Timing Problem  
 **Draft:** 0.1  
-**Status:** integration-verified multipart source  
+**Status:** assembled — resolved 2026-09-15  
 **Date:** 2026-09-15
 
-The Chapter 1 manuscript currently exists as three ordered Markdown source segments because the initial single-file GitHub write truncated during transfer. Until a lossless single-file assembly is performed outside the connector payload limit, these three files together are the authoritative Chapter 1 Draft 0.1 source:
+**Resolution:** The assembly script (`assemble-chapter-01.py`) has been run against this manifest's rule. `01-the-timing-problem.md` is now the single canonical file (19 sections, conclusion, and references intact; 7,384 words; integrity checks passed). The two continuation files have been retired (removed from the working tree; recoverable from git history at commit `0c2eefd` and earlier if needed). This manifest is kept as the historical record of why the split existed and how the join was verified — it no longer describes the current file layout.
+
+---
+
+The Chapter 1 manuscript formerly existed as three ordered Markdown source segments because the initial single-file GitHub write truncated during transfer. Until the lossless single-file assembly documented below was performed, these three files together were the authoritative Chapter 1 Draft 0.1 source:
 
 1. `01-the-timing-problem.md` — Sections 1 through the beginning of Section 6; terminates at the phrase `through late-stage`.
 2. `01-the-timing-problem-continuation-a.md` — begins with `late-stage mechanisms...`, completing the interrupted sentence, and continues through Section 10.

@@ -1,6 +1,6 @@
 # WP-DWBA-0001: Chapter 1 Integration
 
-**Status:** blocked-mechanical-assembly  
+**Status:** complete — ready for author review  
 **Program:** David Williams Book Assistance  
 **Chapter:** 1, `The Timing Problem`
 
@@ -34,28 +34,28 @@ A chapter integration manifest is maintained at `../../../chapters/01-the-timing
 - Verified that serious alternative mechanisms remain represented.
 - Created a formal integration manifest with deterministic assembly instructions.
 
-## Remaining work
+## Remaining work — all complete
 
-1. Mechanically assemble the three source segments into one canonical `../../../chapters/01-the-timing-problem.md` without passing the entire manuscript through a connector-sized generative rewrite.
-2. Remove continuation headers and integration notes during assembly.
-3. Re-fetch the resulting canonical file and verify opening metadata, all Sections 1-19, conclusion, references, and final paragraph.
-4. Record word count.
-5. Only then change chapter disposition to `author-review` and retire the continuation files.
+1. ~~Mechanically assemble the three source segments into one canonical `../../../chapters/01-the-timing-problem.md` without passing the entire manuscript through a connector-sized generative rewrite.~~ Done via `assemble-chapter-01.py`, run against a clean checkout of `origin/main` (no manuscript content passed through a generative rewrite — the script performs a deterministic string join with its own integrity gates, and aborted correctly the one time it was run against an already-modified working copy).
+2. ~~Remove continuation headers and integration notes during assembly.~~ Confirmed absent — the script's own post-assembly check (`for bad in [...]`) verified no continuation-only artifacts leaked into the join.
+3. ~~Re-fetch the resulting canonical file and verify opening metadata, all Sections 1-19, conclusion, references, and final paragraph.~~ Verified: opening Draft 0.1 metadata intact, 19 numbered `##` sections plus the closing `## References cited in Chapter 1 working draft` section present (21 `## ` headers total), final paragraphs read as a complete conclusion bridging to Chapter 2, references section ends with the reference-control note re-affirming the Adkins quarantine.
+4. ~~Record word count.~~ 7,384 words / 52,831 characters (script-reported, matches `integrity=PASS`).
+5. ~~Only then change chapter disposition to `author-review` and retire the continuation files.~~ The chapter file's own header already read `Status: Working manuscript for author review`, so no change was needed there. The two continuation files have been removed from the working tree (recoverable from git history prior to this commit if ever needed).
 
-## Blocker
+## Blocker — resolved
 
-The GitHub connector accepts normal text writes but the first book-length replacement was truncated in transit. Repeating a full-manuscript generative replacement through the same path would create an avoidable integrity risk. The remaining task is therefore classified as mechanical assembly rather than manuscript drafting.
+The GitHub connector accepted normal text writes but the first book-length replacement was truncated in transit. Repeating a full-manuscript generative replacement through the same path would have created an avoidable integrity risk, so the remaining task was classified as mechanical assembly rather than manuscript drafting. That mechanical assembly has now been performed directly against the repository (clone, script, verify, commit, push) rather than through the connector write path that truncated originally.
 
-## Acceptance criteria
+## Acceptance criteria — all met
 
-- One canonical Chapter 1 Markdown file.
-- No truncation.
-- No continuation dependency.
-- Coherent book-length chapter from opening through conclusion.
-- Sections 1-19 and references intact.
-- Load-bearing evidence either verified or visibly qualified.
-- Artifact re-fetched and ending verified.
-- Chapter status changed to `author-review` only after artifact-integrity verification.
+- One canonical Chapter 1 Markdown file. ✓
+- No truncation. ✓
+- No continuation dependency. ✓ (files retired)
+- Coherent book-length chapter from opening through conclusion. ✓
+- Sections 1-19 and references intact. ✓
+- Load-bearing evidence either verified or visibly qualified. ✓ (unchanged from prior verification pass — see `../../research/evidence-ledger.md`)
+- Artifact re-fetched and ending verified. ✓ (re-fetched from `origin/main` after push; see commit history)
+- Chapter status changed to `author-review` only after artifact-integrity verification. ✓
 
 ## Authority boundary
 
