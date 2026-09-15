@@ -1,11 +1,13 @@
-# .github/
+# GitHub integration
 
-Admits GitHub as a platform target alongside `.gitea/`, so a repository instantiated from this
-template is forge-agnostic from creation rather than implying a single Git host.
+This directory contains GitHub-specific automation and repository integration for Biblical WorldModel.
 
-This directory is currently empty of workflows/templates by design — there was nothing to mirror
-from `.gitea/` at the time it was added (this template does not yet carry a `.gitea/` directory
-either). Add `workflows/`, `ISSUE_TEMPLATE/`, or `pull_request_template.md` here as a repository
-instantiated from this template actually needs CI or process templates; an empty directory with
-this README documenting *why* it's here is the deliberate placeholder, not a stub awaiting
-content nobody will add.
+## Workflows
+
+[`workflows/`](workflows/) contains the GitHub-hosted workflows used by the repository. The Pages publication workflow builds and verifies the MkDocs site on relevant pull requests and publishes accepted `main` changes through GitHub Pages.
+
+The canonical public site is `https://worldmodel.thinxai.net/`.
+
+Detailed build and browser-verification instructions live in [`../03-solutions-baseline/site/README.md`](../03-solutions-baseline/site/README.md). Publication, recovery, and operational procedures live under [`../06-operations/runbooks/`](../06-operations/runbooks/).
+
+GitHub-specific configuration belongs here only when BWM actually uses it. Do not retain upstream template placeholders that describe absent capabilities once the repository has implemented them.
