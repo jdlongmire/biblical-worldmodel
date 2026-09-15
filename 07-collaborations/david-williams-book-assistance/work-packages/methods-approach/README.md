@@ -145,3 +145,29 @@ A chapter is ready for David when:
 - the draft is clearly marked as working material for David's review.
 
 This is the minimum gate for author review, not the publication-ready standard.
+
+## 13. Lessons learned
+
+Concrete corrective practices, each promoted from a real defect caught during Chapter 1 production rather than written speculatively. Kept here, not only in commit history, so the next chapter does not repeat them.
+
+### 13.1 Manuscript prose must never narrate its own sourcing process
+
+A first Chapter 1 draft repeatedly wrote sentences like "David's notes emphasize two observations" and "the author's original notes" directly into reader-facing prose. That framing belongs in the evidence ledger and work packages, where distinguishing source-observation from interpretation is the entire point (§1, §6) — it does not belong in a chapter meant to read as David's own authored argument. A reader should never be able to tell, from the prose itself, that a claim was assembled by anyone other than the author.
+
+**Practice:** state every claim and catalog reference directly ("the field catalog also compiles...", "one particularly important historical claim, attributed to..."), never as a report about what a notes document contains. Every hedge and verification caveat that the process language was wrapping (the Adkins quarantine, an over-strong early formulation needing correction) must survive the rewrite — only the "notes say" framing is removed, not the epistemic honesty it was carrying.
+
+**Check before sending a chapter to David:** grep the canonical Markdown for `notes`, `author's original`, and the author's own name followed by a possessive, and read every hit in context.
+
+### 13.2 A rendered export is not verified until it has been looked at
+
+An IR-to-DOCX render reporting `ok: true` with no validator errors is not the same as a correctly formatted document. Two real defects shipped past that gate on the first Chapter 1 export: inline `**bold**` markdown from the source text rendered as literal asterisks (the target format's paragraph block has no rich-text model, so unrendered markup passes straight through as plain characters), and a blanket "mark the first paragraph of every section as a lead/BLUF paragraph" rule — added purely to silence a linter warning — forced bold, larger, accent-colored text onto ordinary opening sentences throughout the document, giving book prose the visual weight of a business deck.
+
+**Practice:** convert any DOCX/PPTX export to PDF and visually inspect at least the opening pages and one page from a representative middle section before treating a render as final. Do not add a stylistic override (bold, color, size) solely to satisfy a lint rule; either the content genuinely warrants that treatment or the warning is accepted as a warning.
+
+### 13.3 Concurrent authorship discipline
+
+More than one assistant may be committing to this repository at overlapping times. Before every push: fetch and diff against the remote tip, inspect the scope of any commit landed since the last local sync, and only proceed once it is confirmed there is no path overlap with the change about to be pushed. After every push: re-clone or re-fetch independently and verify the artifact landed as intended (expected headings, word count, ending) rather than trusting a successful local push as sufficient evidence.
+
+### 13.4 A documented workaround should be closed once a better path exists
+
+The sources README carried a caveat that `hc-migration-notes.docx` was "retained outside GitHub until a binary-capable repository upload path is used" — a real limitation of whichever connector wrote that note, not a permanent constraint of the repository. A plain `git add` of the binary file closed the gap directly. Treat a caveat like this as an open item to resolve opportunistically, not a fact about the repository to preserve.
