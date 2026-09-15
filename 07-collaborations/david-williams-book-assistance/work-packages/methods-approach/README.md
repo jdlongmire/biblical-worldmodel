@@ -171,3 +171,21 @@ More than one assistant may be committing to this repository at overlapping time
 ### 13.4 A documented workaround should be closed once a better path exists
 
 The sources README carried a caveat that `hc-migration-notes.docx` was "retained outside GitHub until a binary-capable repository upload path is used" — a real limitation of whichever connector wrote that note, not a permanent constraint of the repository. A plain `git add` of the binary file closed the gap directly. Treat a caveat like this as an open item to resolve opportunistically, not a fact about the repository to preserve.
+
+## 14. Export format baseline
+
+§13.2 is reactive — it catches formatting defects after the fact. This section is the proactive counterpart: what a chapter export should look like by default, so fewer defects reach that check in the first place.
+
+**The default `general` brand kit is wrong for this program.** It is built for business decks and reports (Arial, colored headings, accent banners) and was used for the first Chapter 1 export by default rather than by decision. A manuscript going to a co-author for markup should look like manuscript copy, not a corporate report.
+
+**Baseline (`brand/manuscript.yaml` in productivity-suite):**
+
+- Times New Roman (serif) throughout, headings and body alike.
+- Black text only — no brand color on headings, callouts, or accents.
+- Double line spacing, so there is room for track-changes and margin notes.
+- Page numbers in the footer.
+- No logo, no classification banner, no chart-palette color.
+
+This is a starting point, not a fixed standard — tune font, spacing, or any other token in `manuscript.yaml` as David's actual preference becomes known (he may want single-spacing once reviewing on-screen rather than on paper, a different serif face, etc.). The point of naming it here is that every future chapter export starts from a deliberate choice already reasoned through once, rather than whatever the renderer's own default happens to be.
+
+**When rendering a chapter for author review:** set `"brand": "manuscript"` in the chapter's IR document (or pass it explicitly to the renderer) rather than leaving brand unset.
