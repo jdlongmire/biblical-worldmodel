@@ -2,71 +2,100 @@
 
 **God’s Word. God’s world.**
 
-Biblical WorldModel explores how to understand the world in light of Scripture and what we observe. It begins with a plain-language story, then offers routes into evidence, historical interpretation, objections, and the research programmes behind the framework.
+Biblical WorldModel (BWM) is an integrative research and publication programme for examining creation, history, nature, and human experience under a Scripture-first epistemic framework. It distinguishes what Scripture states, what observation establishes, what models infer, and what remains unresolved.
 
-**[Visit the website](https://worldmodel.thinxai.net/) · [Read the story](https://worldmodel.thinxai.net/the-story/) · [Choose your path](https://worldmodel.thinxai.net/start-here/)**
+**[Visit the live site](https://worldmodel.thinxai.net/) · [Read the story](https://worldmodel.thinxai.net/the-story/) · [Start here](https://worldmodel.thinxai.net/start-here/)**
 
 A project of **J. D. Longmire**, part of the [oddXian](https://oddxian.com) portfolio.
 
-## Start exploring
+## What this repository owns
 
-The public explanation begins with two questions: **How much was already there when God made the world? What happened after that?** It introduces the distinction between a starting state and subsequent history through concrete examples before moving into technical vocabulary.
+This repository is the BWM integration and publication layer. It owns:
+
+- the public Biblical WorldModel website and reader-facing publications;
+- BWM-specific requirements, architecture, interfaces, integration artifacts, and canonicalized synthesis;
+- governed work packages, evidence, and disposition records;
+- graphics and publication assets used by BWM;
+- repository-scoped MxM guidance and operational runbooks.
+
+Some technical research programmes retain their own authoritative repositories. BWM consumes those programmes through explicit interfaces and does not silently fork their source-of-truth research. In particular, TRT/LRT and CHFM remain authoritative in their designated research repositories. BWM records the interfaces, implications, cross-domain constraints, and public synthesis needed by the WorldModel.
+
+## Intellectual architecture
+
+BWM separates its substantive content into four categories. The accepted architecture is defined in [`bwm-component-architecture.md`](02-systems-baseline/2.2-architecture/bwm-component-architecture.md).
+
+| Category | Role | Current examples |
+|---|---|---|
+| **Foundations** | Governing ontology, epistemology, and hermeneutics | TRT/LRT interfaces, Semantic Actualism, Scripture-first epistemic hierarchy |
+| **Historical Frameworks** | Models of historical intervals and boundary events | Designed Functional Maturity (DFM), Pre-Fall History (PFH), Catastrophic Hydrotectonic Flood Model (CHFM) |
+| **World Domains** | Subject-matter areas to which foundations and frameworks are applied | Cosmology, Earth history/geology, biology, anthropology, archaeology/chronology, covenant/redemptive history |
+| **Integration** | Cross-framework and cross-domain synthesis | invariants, framework/domain mapping, chronology, evidence ledgers, model comparison, open problems, predictions and falsifiers |
+
+The current historical backbone is:
+
+`Foundations -> DFM / creation and initialization -> PFH -> Fall -> post-Fall / pre-Flood history -> CHFM / Flood catastrophe -> post-Flood history -> covenant/redemptive history -> consummation`
+
+This is a historical sequence, not a hierarchy. Foundations apply across every stage.
+
+## Epistemic discipline
+
+Scripture is BWM’s primary epistemic authority for biblical-historical claims. Nature supplies real evidence and is interpreted within that framework. BWM therefore keeps several categories distinct:
+
+- textual datum and warranted textual inference;
+- observation and operational measurement;
+- model assumption and explanatory inference;
+- retrodictive age and actual elapsed history;
+- accepted architecture and active hypothesis;
+- established result and unresolved tension.
+
+Scientific explanations, historical reconstructions, and BWM hypotheses remain open to scrutiny. Accessibility does not authorize strengthening a source beyond its evidence.
+
+## Start exploring
 
 | Your interest | Start here |
 |---|---|
-| A plain-language introduction | [The Story](https://worldmodel.thinxai.net/the-story/) |
-| Observations and their interpretation | [Evidence](https://worldmodel.thinxai.net/evidence/) |
-| The framework and its foundations | [The WorldModel](https://worldmodel.thinxai.net/worldmodel/) and [Methodology](https://worldmodel.thinxai.net/methodology/) |
+| Plain-language introduction | [The Story](https://worldmodel.thinxai.net/the-story/) |
+| Observations and interpretation | [Evidence](https://worldmodel.thinxai.net/evidence/) |
+| Framework and methodology | [The WorldModel](https://worldmodel.thinxai.net/worldmodel/) and [Methodology](https://worldmodel.thinxai.net/methodology/) |
+| Current research programmes | [Research Programmes](https://worldmodel.thinxai.net/research-programmes/) |
+| Published BWM articles | [Publications](03-solutions-baseline/site/docs/publications/articles/index.md) |
 | Critical examination | [Objections](https://worldmodel.thinxai.net/objections/) and [Open Problems](https://worldmodel.thinxai.net/open-problems/) |
-| Technical arguments and sources | [Research Programmes](https://worldmodel.thinxai.net/research-programmes/) and [Sources & Glossary](https://worldmodel.thinxai.net/sources/) |
+| Canonical component architecture | [BWM Component Architecture](02-systems-baseline/2.2-architecture/bwm-component-architecture.md) |
+| Active and completed delivery work | [Work Package Register](04-work-packages/README.md) |
 
-## What this repository owns
+## Repository map
 
-This is the source repository for the **public explanation and publication site**: reader pages, navigation, visual presentation, selected graphics, build tooling, and the delivery backlog.
-
-Scripture is the framework’s stated authority. Scientific explanations and historical reconstructions remain open to scrutiny. Public content must distinguish observation, interpretation, assumptions, and unresolved problems; accessibility must preserve the source’s uncertainty rather than strengthen its claims.
-
-Technical programme claims remain authoritative in their own research repositories. The [programme index](03-solutions-baseline/site/docs/research-programmes.md) links to Designed Functional Maturity (DFM), the Catastrophic Hydrotectonic Flood Model (CHFM), Triadic Reality Theory (TRT), and Logic Realism Theory (LRT). This publication layer does not replace those sources or imply that every programme claim is established.
-
-## Current status
-
-As of **September 12, 2026**, the site is live at **https://worldmodel.thinxai.net/** and publishes through GitHub Actions to GitHub Pages.
-
-- The approved Tier 1 story is published and featured on the homepage.
-- Responsive navigation, site search, mathematical rendering, and selected graphics are implemented. Retained live-browser checks cover nine viewport widths from 320 to 1440px.
-- Canonical-domain metadata, tablet navigation overflow, and mobile hero stylesheet integration have been corrected and verified. Evidence is retained in [WP-BWM-0001](04-work-packages/WP-BWM-0001-public-site-standup/README.md).
-- Tier 2 material is in development. Captured notes are not an approved public explainer.
-- Public participation currently uses GitHub Issues. Embedded discussion, dedicated private contact, and narrated media remain future work.
-
-Verification records describe the revisions checked; they do not establish human acceptance of every work package or guarantee future revisions.
-
-## Find the right file
-
-| Area | Purpose |
-|---|---|
-| [Site content](03-solutions-baseline/site/docs/) | Reader-facing Markdown pages, page metadata, styles and scripts |
-| [Site configuration](03-solutions-baseline/site/mkdocs.yml) | Navigation, canonical URL, theme, ordered stylesheets and extensions |
-| [Page templates](03-solutions-baseline/site/overrides/) | Custom homepage and reader-page overrides |
-| [Graphics library](graphics-library/README.md) | Source assets, catalog and provenance; selected folders are copied into the site during builds |
-| [Build and browser checks](03-solutions-baseline/site/scripts/) | Strict builds, path checks, stylesheet integration and browser verification |
-| [Publication workflow](.github/workflows/pages.yml) | GitHub-hosted build and Pages deployment |
-| [Work packages](04-work-packages/README.md) | Scope, requirements, progress, evidence and disposition |
-
-The repository retains its `00`–`06` structure from [longmire-repo-template](https://github.com/jdlongmire/longmire-repo-template):
+BWM retains the `00`–`06` operating structure inherited from [longmire-repo-template](https://github.com/jdlongmire/longmire-repo-template). This lifecycle structure is independent of the intellectual architecture above.
 
 | Directory | Responsibility |
 |---|---|
-| [00-meta-model](00-meta-model/) | Work model, repository profile and structural checks |
-| [01-strategic-baseline](01-strategic-baseline/) | Purpose, audiences, objectives and alignment |
-| [02-systems-baseline](02-systems-baseline/) | Requirements, architecture, interfaces and verification |
-| [03-solutions-baseline](03-solutions-baseline/) | Implemented website and its dependencies |
-| [04-work-packages](04-work-packages/) | Governed delivery work and evidence |
-| [05-mxm-construct](05-mxm-construct/) | Repository working guidance and continuity |
-| [06-operations](06-operations/) | Contributor, publication, recovery and media runbooks |
+| [`00-meta-model/`](00-meta-model/) | Work model, repository architecture, decisions, and structural verification |
+| [`01-strategic-baseline/`](01-strategic-baseline/) | Vision, strategy, objectives, and alignment |
+| [`02-systems-baseline/`](02-systems-baseline/) | Requirements, canonical architecture, interfaces, behavior, and verification |
+| [`03-solutions-baseline/`](03-solutions-baseline/) | Implemented BWM publication product and site |
+| [`04-work-packages/`](04-work-packages/) | Governed delivery/research work, evidence, provenance, and disposition |
+| [`05-mxm-construct/`](05-mxm-construct/) | Repository-scoped MxM guidance, memory, means, and meta-harness material |
+| [`06-operations/`](06-operations/) | Contributor, publication, recovery, and operational runbooks |
+| [`graphics-library/`](graphics-library/README.md) | Source graphics, catalog, and provenance |
+
+Important front-door files:
+
+- [`AGENTS.md`](AGENTS.md) — repository instructions for AI agents;
+- [`MXM.md`](MXM.md) — repository MxM bootstrap and continuity contract;
+- [`04-work-packages/README.md`](04-work-packages/README.md) — current work register;
+- [`02-systems-baseline/2.2-architecture/README.md`](02-systems-baseline/2.2-architecture/README.md) — canonical architecture index;
+- [`03-solutions-baseline/site/README.md`](03-solutions-baseline/site/README.md) — detailed site implementation and verification guide;
+- [`06-operations/README.md`](06-operations/README.md) — operational entry point.
+
+## Current product state
+
+The public site is live at **https://worldmodel.thinxai.net/** and is built from this repository with MkDocs Material and GitHub Actions/GitHub Pages. Reader content, publications, navigation, responsive presentation, search, mathematics, and selected graphics are maintained under the Solutions Baseline.
+
+BWM remains an active research programme. Canonicalized material and accepted architecture coexist with open hypotheses, unresolved questions, and proposed work. The authoritative delivery/status view is the [work-package register](04-work-packages/README.md); individual work packages retain detailed scope, evidence, verification, and disposition.
 
 ## Build and verify
 
-Run these commands from the repository root. Use Git and Python 3.11 to match hosted CI, with an isolated virtual environment. The complete site dependency set is pinned; no shared application environment is needed.
+The detailed implementation guide is [`03-solutions-baseline/site/README.md`](03-solutions-baseline/site/README.md). From the repository root, the primary site verification path is:
 
 ```sh
 python3 -m venv .venv
@@ -75,63 +104,20 @@ python3 -m venv .venv
 .venv/bin/python -m mkdocs build --strict -f 03-solutions-baseline/site/mkdocs.yml -d /tmp/bwm-site
 ```
 
-`verify-build.py` checks strict generation, local links and resources, required graphics, and configured homepage stylesheets in order. Negative controls prove that broken Markdown links and missing stylesheet integration are rejected. Generated output belongs outside the tracked source tree.
+Repository structural checks are maintained under [`00-meta-model/`](00-meta-model/). Browser verification and publication/recovery procedures remain in the site guide and [`06-operations/runbooks/`](06-operations/runbooks/), rather than being duplicated here.
 
-Repository checks require no third-party Python packages:
+Changes to `main` that affect the site are evaluated by the GitHub Pages workflow. Pull requests build without deploying; accepted changes to `main` may publish through the configured Pages environment.
 
-```sh
-python3 00-meta-model/verify-repository-layout.py
-python3 -m unittest discover -s 00-meta-model -p 'test_*.py'
-python3 -m unittest discover -s 05-mxm-construct/means/scripts/tests
-python3 05-mxm-construct/means/scripts/session-wrap.py
-```
+## Contribute, question, or challenge
 
-For UI changes, also run [browser verification](03-solutions-baseline/site/README.md#browser-verification). It requires Playwright and Chromium separately from the build dependencies. It can inspect a built artifact through browser request interception without starting an HTTP server, or check the deployed site. It exercises responsive layout, menus, mobile hero spacing, images, search, mathematics and reader routes.
+[Open a GitHub issue](https://github.com/jdlongmire/biblical-worldmodel/issues/new) for questions, objections, corrections, or collaboration proposals. Identify the page or claim, explain the concern, and provide primary sources where possible. Issues are public, so do not include private or sensitive information.
 
-## Publish changes
+For code or content contributions, use an isolated branch/worktree, preserve source provenance, keep claims within their evidence, and include applicable verification evidence. See [`06-operations/runbooks/ONBOARDING.md`](06-operations/runbooks/ONBOARDING.md) and the relevant work package.
 
-Relevant changes to `main` trigger the [Pages workflow](.github/workflows/pages.yml). It validates the build, creates and checks the publication artifact, then deploys. Pull requests build without deploying. If the build fails, deployment is skipped and the previous publication remains live.
-
-Before publishing, review the change and run its applicable checks. After publication, verify the exact commit’s [Actions run](https://github.com/jdlongmire/biblical-worldmodel/actions) and live behavior. A successful build alone does not prove that a visual change is loaded by the page.
-
-See the [publication and recovery runbook](06-operations/runbooks/site/publication.md) for failure handling and the deliberate failed-build control. This product uses GitHub-hosted infrastructure; changes to the assistant’s Home runtime, services, credentials or shared environments are outside this repository’s scope.
-
-## Roadmap
-
-| Package | Current delivery position | Remaining work |
-|---|---|---|
-| [0001: Public site](04-work-packages/WP-BWM-0001-public-site-standup/README.md) | Deployed; verification evidence retained | Complete outstanding acceptance/disposition |
-| [0002: Visual assets](04-work-packages/WP-BWM-0002-visual-assets/README.md) | Draft extraction complete; selected assets integrated | Production approval, mobile-specific hero artwork and responsive delivery |
-| [0003: Community and contact](04-work-packages/WP-BWM-0003-community-contact/README.md) | GitHub Issues provides interim public intake | Discussions/embedded conversation, structured intake, moderation and private contact |
-| [0004: Repository foundation](04-work-packages/WP-BWM-0004-repository-foundation/README.md) | Foundation and backlog transfer verified | Retained acceptance/disposition |
-| [0005: Accessible narrative](04-work-packages/WP-BWM-0005-accessible-narrative/README.md) | Tier 1 approved and published; Tier 2 principles captured | Short form, Tier 2 explainer, verified dating case studies, reader variants and storyboard |
-| [0006: Video narration](04-work-packages/WP-BWM-0006-video-narration/README.md) | Revision 3 completed and published | Full-length video and retained media set complete; public YouTube handoff recorded in WP-BWM-0016 |
-| [0007: Ross/RTB DFM harvest](04-work-packages/WP-BWM-0007-ross-dfm-harvest/README.md) | Proposed backlog | Source-family survey and primary-trace harvest; no work started |
-| [0008: Guarded chat interface](04-work-packages/WP-BWM-0008-chat-interface/README.md) | Proposed | OWASP LLM Top 10 threat model, architecture decision, guardrails, independent security review before any live activation |
-| [0009: Canonical epistemic hierarchy](04-work-packages/WP-BWM-0009-canonical-epistemic-hierarchy/README.md) | Active / proposed for canonicalization | Cross-programme, symmetry, and adversarial validation; Operator disposition; canonical artifact and Tier 2/3 explanation |
-| [0010: The Story visual narrative](04-work-packages/WP-BWM-0010-story-visual-narrative/README.md) | Active; G1 (God's Word/God's World) directionally approved | G2-G7 generated, reviewed, dispositioned and captured; site integration; mobile/desktop validation |
-| [0016: YouTube publication](04-work-packages/WP-BWM-0016-youtube-publication/README.md) | Completed; public on oddxian | Published video, Studio settings, copyright result, checksum and live-URL verification retained |
-| [0017: TikTok publication](04-work-packages/WP-BWM-0017-tiktok-publication/README.md) | Ready; publication grant recorded | Upload the bound revision-3 master to oddxian with AI disclosure, copyright check and public-URL verification |
-
-Package records own detailed scope and evidence. Narration remains deferred until source content and graphics are approved; [media conventions](06-operations/runbooks/site/media.md) define the future provenance, transcript and caption requirements — WP-BWM-0006 is scoped to produce that exact set without promoting it into the live site.
-
-## Contribute, question or challenge
-
-[Open an issue](https://github.com/jdlongmire/biblical-worldmodel/issues/new) for questions, objections, corrections or collaboration proposals. Identify the page or claim, explain the concern, and include primary sources where possible. Substantive disagreement is welcome; address arguments rather than people. Issues are public, so do not include private or sensitive information. A dedicated private-contact route is not active yet.
-
-For code or content contributions, use an isolated branch/worktree, keep the change focused, preserve source provenance, and include verification evidence in your pull request. Consult [contributor onboarding](06-operations/runbooks/ONBOARDING.md), the [site development guide](03-solutions-baseline/site/README.md), and the relevant work package.
-
-AI contributors start with [AGENTS.md](AGENTS.md) and [MXM.md](MXM.md). J. D. Longmire holds project acceptance authority; repository guidance does not create a new assistant identity or grant access to other systems.
-
-Human-Curated, AI-Enabled (HCAE)
+AI contributors begin with [`AGENTS.md`](AGENTS.md) and [`MXM.md`](MXM.md). J. D. Longmire retains project acceptance authority. Repository guidance does not create a separate assistant identity or grant access to external systems.
 
 ## License and reuse
 
-[Licensing scope](LICENSE): original published/shared content is **CC BY 4.0**;
-original reusable code is **MIT**, in the locations specified there. Private
-records, drafts, staged material and third-party works are excluded. Existing
-third-party licenses and notices remain in force.
+See [`LICENSE`](LICENSE) for the controlling scope. Original published/shared content is licensed under **CC BY 4.0** and original reusable code under **MIT** where specified. Private records, drafts, staged material, and third-party works are excluded; existing third-party licenses and notices remain in force.
 
-Attribution example: “J. D. Longmire, *[work title]*, [source URL],
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes: [describe, if any].”
-Retain other supplied credits and notices.
+Human-Curated, AI-Enabled (HCAE)
