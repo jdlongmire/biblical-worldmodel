@@ -5,7 +5,7 @@ This directory preserves source provenance for the David Williams book collabora
 ## Current material
 
 - `book-proposal-email.txt` — JD Longmire's proposed manuscript structure and assistance model, preserved verbatim.
-- `hc-migration-notes.docx` — supplied working transcription of David Williams' handwritten hydrocarbon migration/source-rock notes. The DOCX is retained outside GitHub until a binary-capable repository upload path is used.
+- `hc-migration-notes.docx` — supplied working transcription of David Williams' handwritten hydrocarbon migration/source-rock notes.
 
 ## Provenance chain for the technical notes
 
