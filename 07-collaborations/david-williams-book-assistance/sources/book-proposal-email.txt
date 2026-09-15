@@ -1,0 +1,32 @@
+Subject: A book proposal — structure, and how I can help
+
+David,
+
+I went through the notes carefully, and I think there's a real book here. Here's how I'd propose organizing it, and how I can help you get chapters into shape.
+
+The core argument, as I read it out of your outline: source rocks like the Barnett and Bakken are so tight — permeabilities in the nanodarcy range — that the hydrocarbons in them had to form in place, and any migration in or out of them had to happen before compaction closed those pathways down. The global catalog of field evidence you've assembled (the diagenetic traps, the barren-trap timing cases like Adkins' salt-dome study) backs a bigger claim: a trap only holds oil if it forms within a narrow early window in a basin's history — timing decides productivity as much as structure does. Tell me if I've got that right, or if I'm missing the thread.
+
+Proposed structure:
+
+1. Introduction — why timing, not just structure, decides whether a trap holds oil
+2. Source Rocks That Had to Form In Place — the permeability argument (Bakken, Barnett, Eagle Ford, Wolfcamp, and the rest of the catalog)
+3. Case Studies: the Barnett and the Monterey — the numbers worked through in detail
+4. When Tight Rocks Do Migrate — the source-to-reservoir pairs, and the timing problem they raise
+5. Sand Injectites as Corroborating Evidence
+6. How Far Can Oil Travel? — long-distance lateral and deep vertical migration
+7. Source Rocks Older Than They Should Be — the Proterozoic anomalies
+8. The Global Evidence for Early Migration — the full field catalog; I think this is the backbone chapter
+9. Barren Traps and the Timing Threshold — closing on the Adkins study
+10. Conclusion
+
+What I can do from here:
+
+- Chase down full citations for the references in your notes, so each claim has a real, checkable source behind it rather than just an author/year tag
+- Turn each chapter into a preliminary prose draft — built directly from your notes and the sourced citations — for you to mark up, correct, and redirect. Not a finished manuscript; a working draft meant to be edited hard
+- Go chapter by chapter so you're never reviewing more than one section at a time
+
+One thing I want to be upfront about: I use a personal AI assistant I've built and developed myself for editing and drafting work like this. It does the mechanical lifting — organizing notes into prose, chasing down references, formatting — but the argument, the citations, and the judgment calls are yours, and I review everything it produces before it reaches you. Wanted you to know that's part of how this gets built, since your name is the one on the work.
+
+Let me know what you think of the structure, and I'll start on the first chapter.
+
+JD
