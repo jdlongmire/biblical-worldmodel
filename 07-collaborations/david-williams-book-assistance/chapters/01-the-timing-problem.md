@@ -146,7 +146,7 @@ If the productive trap existed during the principal migration episode while the 
 
 This idea is familiar in petroleum-system analysis. Charge timing and trap formation are standard exploration concerns. The argument developed in this book presses the point further by asking whether a broad body of field evidence indicates that significant migration commonly occurred earlier in basin history than is sometimes assumed, particularly before compaction and diagenesis had reduced many primary pathways to their later condition.
 
-The author's working notes assemble numerous proposed examples of this type. They include diagenetic traps in which porosity or permeability relationships appear to record hydrocarbon emplacement before later cementation; cases in which hydrocarbon presence appears to have inhibited compaction or diagenesis; isolated sand lenses and closed systems; long-distance lateral and vertical migration; and barren structures situated near productive structures but interpreted to have developed too late to receive charge.
+This book's field catalog assembles numerous proposed examples of this type: diagenetic traps in which porosity or permeability relationships appear to record hydrocarbon emplacement before later cementation; cases in which hydrocarbon presence appears to have inhibited compaction or diagenesis; isolated sand lenses and closed systems; long-distance lateral and vertical migration; and barren structures situated near productive structures but interpreted to have developed too late to receive charge.
 
 Those examples will not be treated as proven merely because they appear in a catalog. Each must survive source verification and geological scrutiny. Some may prove strong. Some may require qualification. Some may fail. A global argument becomes stronger when weak examples are removed rather than defended.
 
@@ -166,7 +166,7 @@ The Monterey Formation provides a second major example because it differs from t
 
 The Miocene Monterey is one of the most important petroleum source systems in California. In the Santa Maria province, USGS work identifies Monterey organic-rich lithologies as the dominant source of petroleum and also recognizes Monterey intervals as important reservoirs. The formation is heterogeneous. It includes siliceous, phosphatic, carbonate-rich, and organic-rich facies, together with fractured chert and porous diatomaceous intervals. That heterogeneity matters because the word `shale` can obscure a complex rock system whose mechanical and hydraulic properties vary greatly through space and time.
 
-David Williams' notes emphasize two observations. First, the Monterey is a prolific source. Second, petroleum occurs both within Monterey reservoirs and in fields whose charge is attributed principally to Monterey source intervals. Those observations again force the interpreter to distinguish generation from retention and expulsion.
+Two observations are central to the Monterey case. First, the Monterey is a prolific source. Second, petroleum occurs both within Monterey reservoirs and in fields whose charge is attributed principally to Monterey source intervals. Those observations again force the interpreter to distinguish generation from retention and expulsion.
 
 The exact magnitude of Monterey petroleum resources must be handled carefully. Historical literature contains very large estimates of oil originally present in Monterey-related rocks, including estimates exceeding 500 billion barrels, but such figures are not equivalent to proved reserves or technically recoverable resources. They depend strongly on geographic area, stratigraphic interval, the definition of oil in place, and methodology. The book does not need a spectacular resource number to make the geological point. The essential fact is the scale and regional importance of Monterey petroleum generation.
 
@@ -186,7 +186,7 @@ Historical petroleum literature often linked primary migration to compaction and
 
 The disagreement is instructive. `Compaction expelled the oil` cannot be assumed as a universal mechanism. Nor can `oil generation occurs after compaction` be used as a universal rebuttal. Basin histories differ. Source rocks differ. Burial rates differ. Mineralogies differ. Organic matter differs. Overpressure differs. The temporal overlap among water loss, petroleum generation, fracture development, and carrier-bed permeability must be established for the system under study.
 
-David's working thesis therefore needs a more precise formulation than the strongest wording in his original notes. The defensible proposition is that many source rocks and their surrounding carrier systems undergo major reductions in connected permeability during burial and diagenesis, and that petroleum expulsion and migration must be reconstructed relative to that evolving hydraulic architecture. Where field evidence places charge before substantial permeability reduction, early migration is indicated. Where generation-induced fracturing or later tectonism provides demonstrable pathways, later migration remains viable.
+The working thesis of this book therefore needs a more precise formulation than its strongest possible wording. The defensible proposition is that many source rocks and their surrounding carrier systems undergo major reductions in connected permeability during burial and diagenesis, and that petroleum expulsion and migration must be reconstructed relative to that evolving hydraulic architecture. Where field evidence places charge before substantial permeability reduction, early migration is indicated. Where generation-induced fracturing or later tectonism provides demonstrable pathways, later migration remains viable.
 
 That formulation does not weaken the investigation. It tells us what evidence can discriminate among histories.
 
@@ -210,7 +210,7 @@ That is why the global diagenetic catalog will occupy a major part of this book.
 
 ## 10. Long-Distance Migration and the Carrier-System Problem
 
-David's notes also compile examples of long-distance lateral migration and large vertical separation between proposed source rocks and reservoirs. Such cases raise a different question. Even after petroleum leaves the source, how does it cross the basin efficiently enough to create commercial accumulations?
+The field catalog also compiles examples of long-distance lateral migration and large vertical separation between proposed source rocks and reservoirs. Such cases raise a different question. Even after petroleum leaves the source, how does it cross the basin efficiently enough to create commercial accumulations?
 
 Secondary migration is generally less controversial than primary expulsion. Once petroleum enters a sufficiently permeable, water-wet carrier system, buoyancy provides an important driving force. Capillary forces oppose entry into smaller pores, so petroleum preferentially follows coarser and better-connected portions of carrier beds. England (1994) emphasized that the resulting path can be tortuous and strongly controlled by heterogeneity. Hydrodynamic gradients can alter migration direction. Faults can focus or redirect flow. Multiple carrier levels may interact.
 
@@ -220,7 +220,7 @@ Consider a source interval connected during early burial to a laterally extensiv
 
 The same applies vertically. Petroleum found far above a source interval may have moved through faults, fractures, unconformities, carrier beds, salt-related structures, or combinations of these. The vertical distance is not itself the decisive evidence. The chronology of those pathways is.
 
-This reframes the author's long-distance catalog. The purpose is not to argue that petroleum could never travel those distances under conventional petroleum physics. It plainly can. The purpose is to ask whether source correlation, structural history, diagenesis, and carrier architecture constrain when that travel occurred and whether those constraints repeatedly favor an early migration interval.
+This reframes the long-distance catalog. The purpose is not to argue that petroleum could never travel those distances under conventional petroleum physics. It plainly can. The purpose is to ask whether source correlation, structural history, diagenesis, and carrier architecture constrain when that travel occurred and whether those constraints repeatedly favor an early migration interval.
 
 ## 11. Sand Injectites and Remobilized Sediment
 
@@ -240,11 +240,11 @@ Dryness has many causes. The source may be absent, immature, exhausted, or poorl
 
 Therefore a barren trap becomes evidence for late trap formation only after competing explanations are constrained.
 
-David's notes contain a particularly important historical claim attributed to Walter S. Adkins' work on East Texas salt domes. The notes state that a study of approximately 200 domes showed a productivity threshold related to whether trap development occurred before roughly 2,000 feet of overburden accumulated. That would be striking evidence if the original work supports the statement. Citation recovery has located a 1956 Adkins congress reference cited by later authors, but the primary abstract has not yet been inspected, and even the title appears inconsistently in secondary bibliographic trails. The quantitative claim must therefore remain quarantined.
+One particularly important historical claim, attributed to Walter S. Adkins' work on East Texas salt domes, holds that a study of approximately 200 domes showed a productivity threshold related to whether trap development occurred before roughly 2,000 feet of overburden accumulated. That would be striking evidence if the original work supports the statement. Citation recovery has located a 1956 Adkins congress reference cited by later authors, but the primary abstract has not yet been inspected, and even the title appears inconsistently in secondary bibliographic trails. The quantitative claim must therefore remain quarantined.
 
 That example illustrates the standard this book will apply throughout. A memorable number does not become evidence by repetition. The original source must be recovered. The observation must be separated from the later author's interpretation. The geological setting must be understood well enough to determine whether the claimed timing relationship follows.
 
-Other barren-trap examples in the notes, including Destin Dome and several Gulf Coast, East Texas, Middle Eastern, and international structures, will be treated the same way. Some may become strong case studies. Others may be discarded.
+Other barren-trap examples, including Destin Dome and several Gulf Coast, East Texas, Middle Eastern, and international structures, will be treated the same way. Some may become strong case studies. Others may be discarded.
 
 A negative example is valuable only when we know what should have happened under the competing hypotheses.
 
@@ -292,7 +292,7 @@ Fifth, if the proposed diagenetic effects of hydrocarbon saturation are reproduc
 
 Finally, if the global catalog collapses under primary-source verification, the global inference must collapse with it. Ten strong cases are more valuable than a hundred weak citations.
 
-These are genuine tests. The purpose of the book is not to preserve every item in the author's original notes. The purpose is to determine what the evidence can carry.
+These are genuine tests. The purpose of this book is not to preserve every proposed example in the field catalog. The purpose is to determine what the evidence can carry.
 
 ## 16. A Research Program Rather Than a Single Calculation
 
