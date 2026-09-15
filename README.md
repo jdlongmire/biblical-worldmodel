@@ -6,7 +6,12 @@ Biblical WorldModel (BWM) is an integrative research and publication programme f
 
 **[Visit the live site](https://worldmodel.thinxai.net/) · [Read the story](https://worldmodel.thinxai.net/the-story/) · [Start here](https://worldmodel.thinxai.net/start-here/)**
 
-A project of **J. D. Longmire**, part of the [oddXian](https://oddxian.com) portfolio.
+**James (JD) Longmire**  
+Senior Technical Fellow, Aerospace and Defense Sector  
+ORCID: [0009-0009-1383-7698](https://orcid.org/0009-0009-1383-7698)  
+Correspondence: jdlongmire@outlook.com
+
+Part of the [oddXian](https://oddxian.com) portfolio. See [`AUTHOR.md`](AUTHOR.md) for the canonical repository author/correspondence block.
 
 ## What this repository owns
 
@@ -80,6 +85,7 @@ BWM retains the `00`–`06` operating structure inherited from [longmire-repo-te
 
 Important front-door files:
 
+- [`AUTHOR.md`](AUTHOR.md) — canonical author and correspondence metadata;
 - [`AGENTS.md`](AGENTS.md) — repository instructions for AI agents;
 - [`MXM.md`](MXM.md) — repository MxM bootstrap and continuity contract;
 - [`04-work-packages/README.md`](04-work-packages/README.md) — current work register;
