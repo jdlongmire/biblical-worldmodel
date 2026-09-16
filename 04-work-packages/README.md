@@ -13,7 +13,7 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0007](WP-BWM-0007-ross-dfm-harvest/README.md) | Hugh Ross / Reasons to Believe DFM harvest | Proposed | DFM canonical research repository + public-site video highlights |
 | [WP-BWM-0008](WP-BWM-0008-chat-interface/README.md) | Guarded chat interface for the public site | Proposed | Public site + community + narrative + architecture/security decision |
 | [WP-BWM-0009](WP-BWM-0009-canonical-epistemic-hierarchy/README.md) | Canonical epistemic hierarchy and claim-level evaluation | Canonicalized 2026-09-13 | BWM component architecture |
-| [WP-BWM-0010](WP-BWM-0010-story-visual-narrative/README.md) | The Story visual narrative, G1–G7 | Active; G1 directionally approved | WP-BWM-0005 + WP-BWM-0009 |
+| [WP-BWM-0010](WP-BWM-0010-story-visual-narrative/README.md) | The Story visual narrative, G1-G7 | Active; G1 directionally approved | WP-BWM-0005 + WP-BWM-0009 |
 | [WP-BWM-0011](WP-BWM-0011-cosmology-retrodiction-harvest/requirements.md) | Cosmology retrodiction, boundary conditions, JWST early maturity, distant starlight, DFM/UTE comparative harvest | Proposed | WP-BWM-0009 + DFM canonical research baseline |
 | [WP-BWM-0012](WP-BWM-0012-extended-prefall-human-development/README.md) | Pre-Fall History (PFH), human-creation-to-Fall historical framework | Proposed / active investigation | DFM interface + WP-BWM-0009 + WP-BWM-0014 |
 | [WP-BWM-0013](WP-BWM-0013-component-architecture-restructure/README.md) | BWM component architecture and content-taxonomy restructure | Accepted architecture / migration record | WP-BWM-0009 + framework definitions + canonical inventory |
@@ -23,6 +23,7 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0017](WP-BWM-0017-tiktok-publication/README.md) | Publish the approved full-length Story video to TikTok | Ready; publication grant recorded 2026-09-14 | WP-BWM-0006 + authenticated oddxian TikTok session |
 | [WP-BWM-0018](WP-BWM-0018-sixth-day-artifacts/README.md) | Revise and integrate Sixth Day narrative, chronological feasibility model, and PFH commissioning boundary | Accepted and merged 2026-09-15 | PFH + component architecture + publication site |
 | [WP-BWM-0019](WP-BWM-0019-repository-tuneup/README.md) | Repository tune-up and GitHub front door | Active | Current repository baseline |
+| [WP-BWM-0020](WP-BWM-0020-ordered-love-interpretive-framework/README.md) | Ordered love, creaturely autonomy, Old Testament ethical-challenge rubric, and redemptive metanarrative | Completed 2026-09-16 | Covenant and Redemptive History + canonical hermeneutics |
 
 ## Register rules
 
@@ -34,7 +35,7 @@ This register is the repository front-door index for governed BWM work. Individu
 
 ## Architectural notes
 
-WP-BWM-0009 supplies the canonical epistemic hierarchy and governance rules. WP-BWM-0012 defines PFH as broader than its initial extended-duration hypothesis. WP-BWM-0013 establishes the accepted intellectual architecture of Foundations, Historical Frameworks, World Domains, and Integration. WP-BWM-0014 supplies the canonical post-Fall human mortality chronology constraint. WP-BWM-0018 establishes the Day 6 commissioning boundary as a PFH starting condition while leaving the duration of the pre-Fall interval open.
+WP-BWM-0009 supplies the canonical epistemic hierarchy and governance rules. WP-BWM-0012 defines PFH as broader than its initial extended-duration hypothesis. WP-BWM-0013 establishes the accepted intellectual architecture of Foundations, Historical Frameworks, World Domains, and Integration. WP-BWM-0014 supplies the canonical post-Fall human mortality chronology constraint. WP-BWM-0018 establishes the Day 6 commissioning boundary as a PFH starting condition while leaving the duration of the pre-Fall interval open. WP-BWM-0020 develops the ordered-love interpretive rubric within Covenant and Redemptive History, with canonical-hermeneutical application to Old Testament ethical challenges.
 
 For the governing intellectual architecture, see [`../02-systems-baseline/2.2-architecture/bwm-component-architecture.md`](../02-systems-baseline/2.2-architecture/bwm-component-architecture.md).
 
