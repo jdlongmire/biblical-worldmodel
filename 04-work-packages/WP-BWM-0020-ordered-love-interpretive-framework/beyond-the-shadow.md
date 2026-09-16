@@ -40,6 +40,8 @@ Jesus identifies love of God and love of neighbor as the commands upon which the
 
 ### Principle of Ordered Love
 
+![The Principle of Ordered Love — four movements: love in right order, love disordered, law's limit, and love restored](assets/ordered-love-infographic.jpg)
+
 **Human beings naturally possess creaturely self-love and therefore require no command to seek their own good. Within proper covenant communion, natural self-love is ordered under love for God and expressed toward the neighbor. Creaturely autonomy disorders this relation by making the self the governing reference point of good. Divine law commands love toward God and neighbor and establishes the boundaries within which natural self-love remains properly ordered.**
 
 Self-love itself is therefore not the Fall. The disorder arises when the creature claims authority to make the self the ultimate moral reference.
