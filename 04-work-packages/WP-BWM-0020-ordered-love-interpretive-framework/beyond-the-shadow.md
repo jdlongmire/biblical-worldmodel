@@ -50,7 +50,9 @@ Genesis 3 presents the temptation to be "like God, knowing good and evil" (Gen. 
 
 The consequences immediately move in both directions of commanded love. Adam and Eve hide from God (Gen. 3:8). Adam turns accusation toward the woman and indirectly toward God (Gen. 3:12). Cain kills Abel (Gen. 4:8). Rebellion against God and destruction of neighbor belong to the same disorder.
 
-The Curse precedes Moses. Death reigns from Adam to Moses (Rom. 5:12-14). Mosaic law therefore neither originates death nor creates the fallen condition it confronts. Paul can affirm that the law is holy, righteous, and good while describing sin as exploiting the commandment (Rom. 7:7-13).
+The Curse precedes the Mosaic covenant. Paul emphasizes that death "reigned from Adam to Moses" (Rom. 5:14) precisely to establish that death already held humanity under its dominion before the Mosaic Law was given. The giving of the Law therefore neither originates death nor creates the fallen condition it confronts. Death's reign begins with Adamic rebellion and continues through the Mosaic administration until its decisive defeat in the death and resurrection of Christ, while biological death remains the last enemy awaiting final abolition at the consummation (Rom. 5:12-21; 1 Cor. 15:20-26, 54-57; Rev. 20:14; 21:4). Paul can therefore affirm that the law is holy, righteous, and good while describing sin as exploiting the commandment (Rom. 7:7-13).
+
+The redemptive chronology is consequently: **Adam: death begins to reign -> Moses: Law enters an already death-ruled world -> Christ: death is decisively defeated -> consummation: death is finally abolished.**
 
 External law can reveal righteousness, identify transgression, restrain conduct, order covenant society, establish judicial boundaries, and teach typologically. It cannot regenerate the autonomous heart. Fallen humanity's problem is deeper than ignorance of the good. It resists receiving the good from God as authoritative.
 
@@ -134,6 +136,6 @@ The canonical story therefore moves from ordered love, through autonomous rebell
 
 ## Primary scriptural loci
 
-Genesis 1:26-28; 2:15-17; 3:5-15; 4:8; 15:16. Exodus 20-21. Leviticus 19:18. Deuteronomy 6:5; 9:4-5; 15:12-18. Jeremiah 31:31-34. Ezekiel 36:25-27. Matthew 5:17; 19:3-9; 22:37-40. Romans 5:12-14; 7:7-13. Galatians 3:13, 16. Ephesians 5:25-29. 1 Timothy 1:10. Revelation 21-22.
+Genesis 1:26-28; 2:15-17; 3:5-15; 4:8; 15:16. Exodus 20-21. Leviticus 19:18. Deuteronomy 6:5; 9:4-5; 15:12-18. Jeremiah 31:31-34. Ezekiel 36:25-27. Matthew 5:17; 19:3-9; 22:37-40. Romans 5:12-21; 7:7-13. 1 Corinthians 15:20-26, 54-57. Galatians 3:13, 16. Ephesians 5:25-29. 1 Timothy 1:10. Revelation 20:14; 21-22.
 
 Human-Curated, AI-Enabled (HCAE)
