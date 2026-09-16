@@ -1,23 +1,23 @@
 id: WP-BWM-0020
 title: Ordered Love and Old Testament Interpretive Framework
-status: completed
+status: accepted
 scope: >
-  Develop and complete a canonical-ready theological paper that frames the Old
-  Testament redemptive metanarrative through ordered covenant love, creaturely
-  autonomy, the Curse, external law, judgment, fallen-world accommodation,
-  preservation of the promised Seed, New Covenant regeneration, and consummated
-  communion. Apply the rubric explicitly to national judgment and slavery/servitude.
+  Develop and complete a theological paper that frames the Old Testament
+  redemptive metanarrative through ordered covenant love, creaturely autonomy,
+  the Curse, external law, judgment, fallen-world accommodation, preservation of
+  the promised Seed, New Covenant regeneration, and consummated communion. Apply
+  the rubric explicitly to national judgment and slavery/servitude.
 
   This package does not claim that the framework substitutes for text-specific
   exegesis, does not flatten distinct Mosaic servitude categories, and does not
   infer that every national judgment was exclusively required to preserve the
   biological Messianic lineage.
 authority_boundary: >
-  Authorized by the Principal Operator on 2026-09-16 to create this BWM work
-  package and finish the paper developed in the preceding dialogue. Repository
-  documentation and integration needed to complete this package may proceed.
-  No external publication outside the BWM repository, social posting, or changes
-  to ThinxHome services are authorized by this package.
+  Authorized by the Principal Operator on 2026-09-16 to create and complete this
+  BWM work package. The Principal Operator subsequently approved the completed
+  framework and explicitly approved canonical promotion into Covenant and
+  Redemptive History on 2026-09-16. No external publication outside the BWM
+  repository, social posting, or changes to ThinxHome services are authorized.
 actions:
   - Formalize the Principle of Ordered Love and its relation to creaturely autonomy.
   - Distinguish primordial divine law from Mosaic codification and the Curse from law.
@@ -25,10 +25,13 @@ actions:
   - Apply the rubric to national judgment and slavery/servitude with exegetical guardrails.
   - Complete the Christological, New Covenant, Bride, and consummation trajectory.
   - Record the package in the live BWM work register.
+  - Promote the approved framework to the canonical Covenant and Redemptive History World Domain.
 verification: >
-  Verify that WP-BWM-0020 is unique in the live work-package directory; confirm no
-  semantically equivalent open package was found; confirm README.md contains the
-  complete paper including interpretive method, challenge applications, limitations,
-  conclusion, and primary-scripture references; confirm package.yaml and the work
-  register agree on completed disposition.
-disposition: completed
+  WP-BWM-0020 was checked for UID uniqueness and semantic duplication before
+  allocation. The completed paper contains the direct three-movement framing,
+  interpretive method, challenge applications, limitations, conclusion, and
+  primary-scripture references. Principal Operator approval was recorded on
+  2026-09-16. The canonical derivative is located at
+  02-systems-baseline/2.2-architecture/world-domains/covenant-redemptive-history/old-covenant-interpretive-framework.md.
+disposition: accepted-and-canonicalized
+canonical_artifact: 02-systems-baseline/2.2-architecture/world-domains/covenant-redemptive-history/old-covenant-interpretive-framework.md
