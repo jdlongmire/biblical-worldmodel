@@ -23,7 +23,7 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0017](WP-BWM-0017-tiktok-publication/README.md) | Publish the approved full-length Story video to TikTok | Ready; publication grant recorded 2026-09-14 | WP-BWM-0006 + authenticated oddxian TikTok session |
 | [WP-BWM-0018](WP-BWM-0018-sixth-day-artifacts/README.md) | Revise and integrate Sixth Day narrative, chronological feasibility model, and PFH commissioning boundary | Accepted and merged 2026-09-15 | PFH + component architecture + publication site |
 | [WP-BWM-0019](WP-BWM-0019-repository-tuneup/README.md) | Repository tune-up and GitHub front door | Active | Current repository baseline |
-| [WP-BWM-0020](WP-BWM-0020-ordered-love-interpretive-framework/README.md) | Ordered love, creaturely autonomy, Old Testament ethical-challenge rubric, and redemptive metanarrative | Completed 2026-09-16 | Covenant and Redemptive History + canonical hermeneutics |
+| [WP-BWM-0020](WP-BWM-0020-ordered-love-interpretive-framework/README.md) | Ordered love, creaturely autonomy, Old Testament ethical-challenge rubric, and redemptive metanarrative | Accepted and canonicalized 2026-09-16 | Covenant and Redemptive History + canonical hermeneutics |
 
 ## Register rules
 
@@ -35,7 +35,7 @@ This register is the repository front-door index for governed BWM work. Individu
 
 ## Architectural notes
 
-WP-BWM-0009 supplies the canonical epistemic hierarchy and governance rules. WP-BWM-0012 defines PFH as broader than its initial extended-duration hypothesis. WP-BWM-0013 establishes the accepted intellectual architecture of Foundations, Historical Frameworks, World Domains, and Integration. WP-BWM-0014 supplies the canonical post-Fall human mortality chronology constraint. WP-BWM-0018 establishes the Day 6 commissioning boundary as a PFH starting condition while leaving the duration of the pre-Fall interval open. WP-BWM-0020 develops the ordered-love interpretive rubric within Covenant and Redemptive History, with canonical-hermeneutical application to Old Testament ethical challenges.
+WP-BWM-0009 supplies the canonical epistemic hierarchy and governance rules. WP-BWM-0012 defines PFH as broader than its initial extended-duration hypothesis. WP-BWM-0013 establishes the accepted intellectual architecture of Foundations, Historical Frameworks, World Domains, and Integration. WP-BWM-0014 supplies the canonical post-Fall human mortality chronology constraint. WP-BWM-0018 establishes the Day 6 commissioning boundary as a PFH starting condition while leaving the duration of the pre-Fall interval open. WP-BWM-0020 establishes the canonical Old Covenant Meta-narrative and Interpretive Framework under the Covenant and Redemptive History World Domain, including the Principle of Ordered Love and its application to Old Testament ethical challenges.
 
 For the governing intellectual architecture, see [`../02-systems-baseline/2.2-architecture/bwm-component-architecture.md`](../02-systems-baseline/2.2-architecture/bwm-component-architecture.md).
 
