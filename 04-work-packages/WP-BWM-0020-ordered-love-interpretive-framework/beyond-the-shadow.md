@@ -6,6 +6,16 @@
 ORCID: 0009-0009-1383-7698  
 Correspondence: jdlongmire@outlook.com
 
+## The Old Covenant Meta-narrative and Interpretive Framework
+
+**The eternal call to loving covenant communion with God and neighbor.**
+
+**The introduction and failure of law to constrain inherently rebellious humans and the reign of death under the Curse.**
+
+**The promise and preservation of the Seed of Salvation for the Bride.**
+
+These three movements provide the direct framing for the argument that follows. The paper develops their internal logic by distinguishing primordial divine law from its later Mosaic codification, natural and properly ordered self-love from autonomous self-reference, and the righteous function of law from its inability to regenerate the fallen heart. In that fuller account, the "introduction" of law in the second movement refers to its progressive formal articulation and covenantal codification within fallen human history, since divine command itself is already present in Eden.
+
 ## Abstract
 
 Old Testament ethical challenges are often isolated from the canonical story that gives them their theological function. This paper develops an interpretive rubric grounded in ordered covenant love. Humanity is created for communion with God and neighbor under divine authority. Natural creaturely self-love is good within that communion and is presupposed rather than commanded. Creaturely autonomy disorders love by making the self the governing reference point of good. Rebellion brings the Curse and death. Divine law is present before the Fall and is later expanded and covenantally codified for fallen humanity. Law can reveal, order, restrain, condemn, and teach, but external law cannot regenerate an autonomous heart. The Old Testament therefore moves through communion, rebellion, Curse, law, judgment and accommodation, promise and preservation, toward the promised Seed, the redeemed Bride, and restored communion. This rubric clarifies national judgment, slavery and servitude, and related challenges while leaving every individual passage accountable to its own exegesis.
