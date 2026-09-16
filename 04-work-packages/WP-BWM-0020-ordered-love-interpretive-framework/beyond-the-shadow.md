@@ -8,6 +8,8 @@ Correspondence: jdlongmire@outlook.com
 
 ## The Old Covenant Meta-narrative and Interpretive Framework
 
+![The Old Covenant Meta-narrative and Interpretive Framework — five movements from the eternal call through the consummation of covenant communion](assets/old-covenant-meta-narrative-framework.jpg)
+
 **The eternal call to loving covenant communion with God and neighbor.**
 
 **The introduction and failure of law to constrain inherently rebellious humans and the reign of death under the Curse.**
