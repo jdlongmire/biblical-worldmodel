@@ -1,0 +1,22 @@
+id: WP-BWM-0022
+title: Retrodictive Age Terminology and Chronology Cleanup
+status: approved
+scope: >
+  Canonicalize retrodictive age as BWM's technical term for model-derived chronological
+  age, use extrapolated age as the preferred plain-language gloss, deprecate apparent
+  age where it ambiguously conflates measurement with historical duration, and propagate
+  the distinction through BWM and the authoritative DFM repository.
+authority_boundary: >
+  This package standardizes terminology and inference hygiene. It does not establish
+  that any particular conventional age is incorrect, nor does it permit initialized
+  state to be invoked without independent physical constraints.
+actions:
+  - Canonicalize measured state, retrodictive age, actual elapsed age, inherited/system-state age, and initialization state.
+  - Preserve observation, relative ordering, model transformation, and absolute chronology as separate evidential layers.
+  - Update BWM chronology requirements, integration model, DFM interface, and relevant active work packages.
+  - Create and execute a corresponding DFM terminology cleanup package.
+verification: >
+  Repository searches show no unintended use of apparent age as the preferred formal
+  term for model-derived chronology; canonical BWM and DFM surfaces use retrodictive age
+  consistently; quotations and non-chronological uses of apparent remain intact.
+disposition: approved-for-execution

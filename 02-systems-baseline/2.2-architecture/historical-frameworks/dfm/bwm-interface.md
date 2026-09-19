@@ -23,9 +23,12 @@ BWM currently uses DFM for these architectural propositions:
 
 - created systems may be initialized in functionally mature states;
 - operational regularity after initialization does not by itself entail an antecedent generative history across the initialization boundary;
-- retrodictive age and actual elapsed history must remain distinct categories;
+- retrodictive age (`t_R`) and actual elapsed age (`t_H`) must remain distinct categories;
 - mature initialized state may encode conditions that ordinary backward reconstruction maps onto a fictive pre-initialization orbit;
+- radiometric measurements establish present isotopic states, while radiometric ages are retrodictive quantities inferred from those states under specified models of initialization and subsequent system history;
 - DFM is cross-domain and is not reducible to cosmology.
+
+DFM therefore investigates whether, for some primordial systems, `t_R` necessarily equals `t_H`. It does not treat initialization as an unconstrained explanation for every chronological indicator.
 
 ## Domain interfaces
 
@@ -43,7 +46,7 @@ Secondary:
 
 ## Boundary
 
-Detailed DFM hypotheses such as specific Day Four cosmological mechanisms, radiometric-state proposals, or individual empirical predictions retain their own evidence and disposition status. This interface does not canonize them automatically.
+Detailed DFM hypotheses such as specific Day Four cosmological mechanisms, radiometric-state proposals, radiogenic heat-budget requirements, or individual empirical predictions retain their own evidence and disposition status. This interface does not canonize them automatically.
 
 ## Relationship to PFH and CHFM
 

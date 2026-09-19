@@ -56,7 +56,7 @@ Questions:
 - What transport mechanisms were identified?
 - What timescale assumptions entered the interpretation?
 - What constraints follow for geochronological closure assumptions?
-- Can these mechanisms produce meaningful apparent-age effects without changing nuclear decay constants?
+- Can these mechanisms produce meaningful retrodictive-age offsets without changing nuclear decay constants?
 
 ### RL-3 — RATE audit
 
@@ -149,7 +149,7 @@ Include substantive published criticism and Snelling's technical responses. Do n
 
 For every retained observation ask whether it bears on:
 - initialization conditions;
-- apparent versus actual chronology;
+- retrodictive versus actual elapsed chronology;
 - open-system isotope behavior;
 - catastrophic Earth-history processes;
 - Flood boundary conditions;
