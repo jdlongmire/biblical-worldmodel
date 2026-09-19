@@ -13,14 +13,24 @@ BWM chronology work shall distinguish at minimum:
 
 - scripturally fixed sequence or boundary;
 - biblically open interval;
-- actual elapsed chronology;
-- measured operational interval;
-- retrodictive/model-derived age;
+- actual elapsed chronology / actual elapsed age (`t_H`);
+- measured operational interval or present measured state;
+- retrodictive/model-derived age (`t_R`);
+- inherited/system-state age;
+- initialization state (`S_0`) where relevant;
 - observability or method horizon;
 - disturbed/reset/inherited chronological indicator;
 - unresolved chronological inference.
 
+**Extrapolated age** is the preferred plain-language gloss for retrodictive age. **Apparent age** is deprecated as the preferred formal term for model-derived chronology because it can imply that the measurement itself is illusory.
+
 No one category may be silently substituted for another.
+
+A generic chronological inference is represented as:
+
+`M --C--> t_R`
+
+where `M` is the measured state and `C` is the chronometric inference model. Identification of `t_R` with `t_H` requires the relevant initialization and system-history assumptions to be warranted.
 
 ## Historical backbone
 
@@ -59,6 +69,10 @@ Human death, bodily remains resulting from death, and burial events belong to po
 ### Flood / CHFM
 
 CHFM may explain disturbance, reset, inheritance, or mixing in terrestrial chronological indicators only where an explicit physical mechanism and evidence support the claim.
+
+### Crater chronology
+
+Crater morphology, superposition, cross-cutting relationships, crater-density observations, and demonstrable relative ordering are preserved as observations or relative chronology. Model-assigned absolute crater ages are recorded separately as retrodictive quantities with their production functions, calibration points, impact-flux assumptions, resurfacing assumptions, and sample associations identified.
 
 ### Radiocarbon method horizon
 
