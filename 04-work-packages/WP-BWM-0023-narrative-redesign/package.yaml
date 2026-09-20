@@ -1,0 +1,22 @@
+id: WP-BWM-0023
+title: Mobile-First Narrative Redesign
+status: active
+scope: >
+  Develop an accessible, mobile-first BWM narrative architecture centered on the
+  calculated-age video and organized into three reader paths: The Model, The Evidence,
+  and The Tests. Preserve the existing public site while the mockup is evaluated.
+authority_boundary: >
+  This package governs public information architecture, editorial sequencing, and
+  presentation. It does not canonize technical claims, replace canonical programme
+  repositories, or disposition the theological or scientific content they own.
+actions:
+  - Map approved and available content into the three narrative paths.
+  - Draft the accessible bridge copy needed between the video, the distinction graphic, and deeper pages.
+  - Define transcript, caption, alt-text, contrast, keyboard, and reduced-motion requirements.
+  - Evaluate the live /mockup/ page against the content map before any homepage migration.
+  - Record the operator decision to adopt, revise, hold, or reject the redesign.
+verification: >
+  Content-map traceability, strict site build, responsive browser checks at the retained
+  viewport set, keyboard and semantic inspection, and a recorded Principal Operator
+  disposition before homepage changes are proposed.
+disposition: active-development

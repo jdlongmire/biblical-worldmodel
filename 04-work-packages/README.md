@@ -25,6 +25,7 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0019](WP-BWM-0019-repository-tuneup/README.md) | Repository tune-up and GitHub front door | Active | Current repository baseline |
 | [WP-BWM-0020](WP-BWM-0020-ordered-love-interpretive-framework/README.md) | Ordered love, creaturely autonomy, Old Testament ethical-challenge rubric, and redemptive metanarrative | Accepted and canonicalized 2026-09-16 | Covenant and Redemptive History + canonical hermeneutics |
 | [WP-BWM-0021](WP-BWM-0021-snelling-geology-harvest/requirements.md) | Andrew Snelling geology and geochronology research harvest | Approved; research authorized 2026-09-17 | WP-BWM-0009 + Earth History + DFM |
+| [WP-BWM-0023](WP-BWM-0023-narrative-redesign/README.md) | Mobile-first narrative redesign centered on the calculated-age video | Active development; mockup published, content map in progress | WP-BWM-0005 + WP-BWM-0002 + WP-BWM-0009 + WP-BWM-0022 |
 
 ## Register rules
 
