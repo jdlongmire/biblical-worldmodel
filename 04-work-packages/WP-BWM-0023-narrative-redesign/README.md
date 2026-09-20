@@ -59,9 +59,9 @@ The working content map is [content-map.md](content-map.md). It traces each mock
 - [x] A mobile-first visual mockup exists at `/mockup/` without changing the existing homepage.
 - [x] The mockup uses the three-path architecture and the calculated-age video.
 - [x] The mockup builds successfully through the strict Pages workflow.
-- [ ] Content map traces each visible section to an approved source or declares new bridge copy.
-- [ ] Transcript or equivalent written treatment is linked from the video section.
-- [ ] The three path landing sections are drafted at the target reading level.
+- [x] Content map traces each visible section to an approved source or declares new bridge copy.
+- [x] Transcript or equivalent written treatment is linked from the video section.
+- [x] The three path landing sections are drafted at the target reading level.
 - [ ] Keyboard, focus, semantic-heading, contrast, and reduced-motion checks pass.
 - [ ] Principal Operator accepts, revises, holds, or rejects the redesign direction.
 - [ ] A separate migration package is approved before the current homepage is replaced.
