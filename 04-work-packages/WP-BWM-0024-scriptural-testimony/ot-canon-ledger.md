@@ -365,6 +365,144 @@ A Greek translation tradition does not by itself define a fixed book boundary. T
 5. Produce OT Canon v1.0 synthesis before moving into later Protestant/Catholic/Orthodox confessional decisions.
 
 
+
+## Greek codices, rabbinic enumeration, and OT canon v1.0 synthesis
+
+### OT-CAN-022 — Codex Sinaiticus contains a broader Greek OT collection
+
+The surviving fourth-century Codex Sinaiticus contains approximately half of its original Old Testament/Septuagint portion. Its extant Greek OT includes books outside the later Hebrew/Protestant collection, including 2 Esdras, Tobit, Judith, 1 and 4 Maccabees, Wisdom, and Sirach.
+
+**Relation:** fourth-century manuscript-collection evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** Sinaiticus is damaged and much of its OT is lost. More importantly, codex contents are evidence of collection and use, not by themselves a formal canonical list.
+
+Primary institutional anchor:
+- Codex Sinaiticus Project, Content and Significance pages.
+
+### OT-CAN-023 — Sinaiticus itself cautions against equating physical collection with an exact later canon
+
+The same codex appends Barnabas and the Shepherd of Hermas after the New Testament. The Codex Sinaiticus Project explicitly notes that mid-fourth-century agreement about authoritative Christian books was wide but incomplete.
+
+**Relation:** methodological collection/canon evidence.  
+**Confidence:** HIGH.
+
+**STP significance:** if physical inclusion alone defined canon, the same rule would have to be applied to Barnabas and Hermas. Therefore codex contents must be interpreted alongside explicit canon lists and reception evidence.
+
+### OT-CAN-024 — Codex Alexandrinus preserves a broad fifth-century Greek Bible collection
+
+The British Library catalogue documents Alexandrinus as a fifth-century Greek Bible whose OT volumes include Tobit, Judith, 1 Esdras, and the Maccabean books, with additional wisdom material in subsequent volumes.
+
+**Relation:** fifth-century manuscript-collection evidence.  
+**Confidence:** HIGH.
+
+Primary institutional anchor:
+- British Library, Royal MSS 1 D V–VII.
+
+### OT-CAN-025 — Alexandrinus reinforces the collection/canon distinction
+
+Alexandrinus also contains 1 and 2 Clement after the New Testament. Its contents therefore demonstrate broad Christian scriptural/liturgical collection while again warning against treating every bound work as possessing identical canonical status.
+
+**Relation:** manuscript-collection and methodological evidence.  
+**Confidence:** HIGH.
+
+### OT-CAN-026 — Major Greek codices do not establish a single fixed “Septuagint canon”
+
+The contents of major Greek biblical codices differ, and their surviving states are not identical. Sinaiticus and Alexandrinus include books beyond the Hebrew collection, but not as one demonstrably uniform first-century table of contents.
+
+**Relation:** cumulative manuscript evidence.  
+**Confidence:** HIGH.
+
+**BWM rule:** avoid the phrase “the Septuagint canon” unless a particular historical collection, manuscript, community, or period is specified.
+
+### OT-CAN-027 — Rabbinic tradition preserves a 24-book order
+
+The baraita preserved in Babylonian Talmud *Bava Batra* 14b orders the Prophets and Writings in a way that, together with the five books of Torah, yields the traditional 24-book Hebrew enumeration.
+
+**Relation:** rabbinic title/order evidence.  
+**Confidence:** HIGH for the text as preserved in the Babylonian Talmud; MEDIUM for assigning the underlying baraita a precise early date.
+
+**Qualification:** the Babylonian Talmud reached its final form centuries after Josephus and 4 Ezra. The baraita may preserve earlier tradition, but BWM must not use its later attestation as if it were a first-century document.
+
+### OT-CAN-028 — The 22/24 relationship becomes historically intelligible
+
+Josephus's 22-book count, 4 Ezra's 24-book public collection, Jerome's acknowledgment of 22- and 24-book conventions, and the later rabbinic 24-book order together make it historically plausible that differing enumerations can describe substantially the same Hebrew-scripture corpus through different combinations of books.
+
+**Relation:** cumulative counting-convention evidence.  
+**Confidence:** MEDIUM-HIGH.
+
+**Qualification:** numerical compatibility is not title-level proof. Josephus's unnamed 22 still cannot be mechanically equated with the rabbinic 24 without argument.
+
+## OT Canon v1.0 synthesis
+
+The first historical baseline now supports the following layered model:
+
+```text
+SECOND TEMPLE JEWISH WORLD
+    broad religious literary ecosystem
+    + heavily copied scriptural books
+                ↓
+LATE 1ST / EARLY 2ND CENTURY
+    Josephus: bounded 22 divine books
+    4 Ezra: bounded 24 public books
+                ↓
+2ND–4TH CENTURY CHRISTIAN WITNESSES
+    repeated Hebrew-sized / Hebrew-oriented lists
+    + differing title arrangements and edge cases
+                ↓
+GREEK CHRISTIAN MANUSCRIPT COLLECTIONS
+    broader collections including additional Jewish books
+                ↓
+LATE 4TH CENTURY
+    Jerome: Hebrew-boundary criterion
+    Augustine: broader church-reception criterion
+                ↓
+LATER CONFESSIONAL RECEPTION
+    Protestant / Catholic / Orthodox boundaries diverge
+```
+
+### What the historical evidence establishes
+
+**HIGH confidence**
+- A bounded Jewish scriptural corpus is explicitly attested by the late first/early second century.
+- Early Christians inherited Israel's Scriptures rather than creating an OT corpus from scratch.
+- Early Christian OT lists frequently track a Hebrew-sized corpus.
+- Additional Jewish books were also copied, read, and collected extensively in Greek-speaking Christianity.
+- By the late fourth century, materially different canonical criteria are explicit in Jerome and Augustine.
+- Large Greek Bible codices are collection evidence and cannot alone define canonical status.
+
+**MEDIUM-HIGH confidence**
+- Josephus's 22 and 4 Ezra's 24 substantially correspond to the later Hebrew corpus under different counting conventions.
+- The rabbinic 24-book enumeration preserves an older Jewish canonical tradition, though the date of the underlying baraita requires discipline.
+
+### What remains a theological judgment
+
+Historical evidence alone does not decide whether the Christian OT should follow:
+- the Hebrew-scripture boundary emphasized by Jerome and later Protestantism;
+- the broader ecclesial-reception criterion represented by Augustine and later Catholic tradition;
+- one of the broader Eastern/Orthodox reception patterns.
+
+That question requires a canonical/hermeneutical criterion in addition to historical description.
+
+## STP significance
+
+For the Scriptural Testimony Principle, the key historical conclusion is narrower than a denominational canon argument:
+
+> **The Old Testament did not emerge from an unbounded mass of equally authoritative religious books. Jewish evidence near the turn of the era explicitly witnesses a bounded authoritative collection, while later Christian reception shows both continuity with that inherited corpus and real disagreement over several additional books.**
+
+This supports confidence in a historically transmitted scriptural core while leaving the disputed boundary question visible.
+
+**OT Canon status:** v1.0 historical baseline reached.
+
+## Next research transition
+
+With historical reliability, textual transmission, major variants, NT canon, and OT canon now at baseline, WP-BWM-0024 should move to the next independent warrant strand:
+
+**Tranche C — Biblical anthropology, human behavior, wisdom, and flourishing.**
+
+That tranche should begin by deriving bounded propositions from Scripture before consulting psychology, behavioral economics, sociology, or flourishing research, so that external literature tests defined biblical claims rather than retrofitting Scripture to modern findings.
+
+
 ## Next primary-source pass
 
 1. Internal Torah / Prophets / Psalms-Writings signals.
