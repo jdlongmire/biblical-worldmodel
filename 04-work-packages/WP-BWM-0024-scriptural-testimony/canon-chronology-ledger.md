@@ -152,6 +152,124 @@ Eusebius explicitly documents disputes over James, Jude, 2 Peter, 2–3 John, Re
 
 Eusebius's categories themselves demonstrate the opposite structure: a substantial acknowledged collection alongside a smaller disputed edge.
 
+
+## Earlier recognition evidence
+
+### NT-CAN-009 — Irenaeus explicitly defends a fourfold Gospel
+
+In *Against Heresies* 3.11.8, Irenaeus argues that the Gospels are neither more nor fewer than four. Whatever the quality of his symbolic “four winds/four corners” argument, the passage is unambiguous evidence that Matthew, Mark, Luke, and John functioned for Irenaeus as a bounded four-Gospel collection by the late second century.
+
+**Relation:** primary patristic evidence for fourfold Gospel recognition.  
+**Confidence:** HIGH.
+
+**Qualification:** Irenaeus's insistence also demonstrates that rival Gospel configurations existed. His testimony establishes his church's fourfold norm and provides evidence of broader reception, but should not be inflated into proof that every Christian group everywhere already agreed.
+
+Primary anchor:
+- Irenaeus, *Against Heresies* 3.11.8–9.
+
+### NT-CAN-010 — Irenaeus names apostolic origins for the four Gospels
+
+In *Against Heresies* 3.1.1, Irenaeus identifies Matthew, Mark, Luke, and John and associates their written Gospels with apostolic or apostolic-companion origins.
+
+**Relation:** primary evidence for named four-Gospel attribution and reception.  
+**Confidence:** HIGH as evidence of Irenaeus's late-second-century testimony.
+
+**Qualification:** historical authorship must be assessed separately. Canonical use and Irenaeus's authorship claims are related but distinct propositions.
+
+### NT-CAN-011 — Muratorian Fragment witnesses a substantial early collection
+
+The Muratorian Fragment preserves an early Latin canonical list whose surviving text includes Luke as the third Gospel, John as the fourth, Acts, a Pauline collection, Jude, Johannine material, and Revelation, while rejecting or qualifying other writings.
+
+**Relation:** primary list evidence for an early bounded Christian collection.  
+**Confidence:** HIGH for the contents of the surviving fragment; MEDIUM for the traditional late-second-century date.
+
+**Qualification:** the fragment's beginning is lost, its Latin is difficult, and its date/provenance remain debated. BWM must not present “c. 170” as uncontested.
+
+### NT-CAN-012 — Muratorian evidence distinguishes apostolic-era books from later edifying works
+
+The fragment treats the *Shepherd of Hermas* as useful for reading but distinguishes it from writings suitable for the prophetic/apostolic canonical collection because Hermas lived recently.
+
+**Relation:** primary evidence for an operative boundary principle involving antiquity/apostolic period and ecclesial reading.  
+**Confidence:** HIGH for the distinction; dating of the fragment remains separately qualified.
+
+### NT-CAN-013 — Early evidence already shows collection plus boundary debate
+
+Irenaeus and the Muratorian evidence together show that by the late second/early third-century horizon, Christians could operate with a fourfold Gospel, Acts, Pauline letters, and additional apostolic writings while still differing over some peripheral books.
+
+**Relation:** cumulative recognition evidence.  
+**Confidence:** MEDIUM-HIGH, because the precise date of the Muratorian Fragment remains debated.
+
+**Qualification:** this is not evidence for a universally fixed 27-book canon by AD 180.
+
+## Canon-development model v0.2
+
+The evidence now favors a **core-and-edge recognition model**:
+
+```text
+Apostolic writings composed
+        ↓
+circulation and local collections
+        ↓
+early stable core becomes visible
+        ↓
+regional/use disputes persist at edges
+        ↓
+broader collection and boundary clarification
+        ↓
+explicit 27-book lists
+```
+
+This model explains the simultaneous presence of:
+- strong second-century evidence for four Gospels and Pauline material;
+- fourth-century testimony to acknowledged books;
+- persistent disputes over a smaller group;
+- eventual exact-list convergence.
+
+It does not require either extreme:
+- an immediately universal 27-book table of contents in the first century; or
+- a fourth-century institutional invention of the New Testament.
+
+## Claims refined by the earlier evidence
+
+### Claim: “The four canonical Gospels were a fourth-century selection.”
+
+**Status:** REJECT.
+
+Irenaeus explicitly treats Matthew, Mark, Luke, and John as the fourfold Gospel in the late second century.
+
+### Claim: “Irenaeus proves universal four-Gospel agreement by AD 180.”
+
+**Status:** REJECT as overstated.
+
+His polemic itself witnesses rival Gospel usage. He is strong evidence for an established fourfold-Gospel norm, not universal unanimity.
+
+### Claim: “The Muratorian Fragment proves the whole modern canon was fixed by AD 170.”
+
+**Status:** REJECT.
+
+Its surviving list differs from the later 27-book boundary, and its date/provenance are disputed.
+
+### Claim: “Canon formation was simply a political selection process.”
+
+**Status:** NOT SUPPORTED by the evidence assembled so far.
+
+The sources show recognition, use, dispute, and boundary clarification across time before the later exact lists. Political/ecclesiastical authority may play roles in later reception, but “selection by fiat” does not describe the earlier evidence adequately.
+
+## Next primary-source pass
+
+Proceed with:
+- Origen as preserved by Eusebius;
+- Cyril of Jerusalem;
+- Gregory Nazianzen;
+- Amphilochius;
+- Laodicea and canon 60 textual status;
+- Hippo/Carthage;
+- Jerome and Augustine;
+- Syriac reception.
+
+Then open the separate Old Testament canon section.
+
+
 ## Research queue
 
 ### Primary witnesses to add
