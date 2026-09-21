@@ -243,3 +243,190 @@ This package does not:
 7. Route any proposed canonical or site changes through separate reviewed commits.
 
 Human-Curated, AI-Enabled (HCAE)
+
+
+## Research architecture: evidence and resource layers
+
+The source harvest shall distinguish four layers so that reader accessibility never substitutes for evidentiary strength:
+
+1. **Primary evidence** — biblical texts, manuscripts, inscriptions, artifacts, excavation reports, ancient literary witnesses, original datasets, and original philosophical/scientific works.
+2. **Specialist scholarship** — peer-reviewed or academically serious textual criticism, archaeology, history, philosophy, psychology, behavioral science, sociology, and history/philosophy of science.
+3. **Apologetic synthesis** — qualified scholars and ministries that synthesize the evidence into an explicitly Christian case.
+4. **Reader resources** — accessible material that helps non-specialists investigate further.
+
+The preferred traceability chain is:
+
+```text
+Biblical claim
+    ↓
+Primary evidence
+    ↓
+Specialist scholarship
+    ↓
+Apologetic synthesis
+    ↓
+Accessible reader resource
+```
+
+No lower layer may silently substitute for an available higher layer in support of a BWM research claim.
+
+### Evidentiary relations
+
+Every ledger item should distinguish at least:
+
+```text
+Consistency ≠ Contextual Corroboration ≠ Direct Corroboration ≠ Confirmation ≠ Demonstration
+```
+
+The exact vocabulary may be refined during execution, but the package must prevent contextual compatibility from being reported as direct verification.
+
+## Evidence-ledger schema
+
+The working ledger should include:
+
+| Field | Purpose |
+|---|---|
+| Claim ID | Stable traceability identifier |
+| Biblical locus | Primary scriptural text(s) |
+| Claim | Precisely bounded proposition |
+| Domain | History, transmission, anthropology, wisdom, etc. |
+| External evidence | Evidence relevant to the proposition |
+| Evidence type | Manuscript, inscription, excavation, cohort study, philosophical argument, etc. |
+| Evidentiary relation | Consistency, corroboration, confirmation, challenge, etc. |
+| Primary source | Best available original source |
+| Specialist scholarship | Serious analysis of the evidence |
+| Accessible resource | Reader-oriented treatment |
+| Counterevidence / qualification | Relevant limitations or disagreement |
+| Confidence | HIGH / MEDIUM / LOW / UNCERTAIN |
+| Notes | Scope and interpretive cautions |
+
+## Source-harvest tranches
+
+### Tranche A — Text, transmission, canon, and historical setting
+
+Seed resources for investigation include:
+
+- Center for the Study of New Testament Manuscripts (CSNTM)
+- Tyndale House, Cambridge
+- Lanier Center for Archaeology
+- Associates for Biblical Research (ABR), especially fieldwork and bibliographies
+- relevant primary excavation publications and epigraphic corpora
+- specialist work by scholars such as Craig Keener and Michael Licona where it bears directly on historical method, ancient sources, or New Testament historiography
+
+Apologetic and reader resources include:
+
+- Apologetics Canada
+- Wes Huff
+- Got Questions
+- selected ABR reader material
+
+These are discovery and reader-routing resources, not substitutes for primary evidence where the latter is available.
+
+### Tranche B — Epistemology of testimony
+
+The package shall engage mainstream epistemology of testimony rather than treating testimonial knowledge as a uniquely religious special case.
+
+Initial anchors include:
+
+- the reductionist / non-reductionist / hybrid debate concerning testimonial warrant;
+- social epistemology and dependence upon testimony in ordinary, historical, and scientific knowledge;
+- Alvin Plantinga's work on warrant and Christian belief;
+- primary philosophical works identified through the scholarly literature.
+
+The objective is to clarify the conditions under which testimony rationally supplies knowledge and how divine testimony, if genuine, bears on inaccessible history.
+
+### Tranche C — Human behavior, wisdom, and flourishing
+
+The package shall test the explanatory correspondence of biblical anthropology and wisdom against serious empirical literature without reducing biblical truth to measured social outcomes.
+
+Candidate research areas include:
+
+- meaning and purpose;
+- family and social attachment;
+- prosocial behavior and civic participation;
+- forgiveness and reconciliation;
+- self-control and destructive behavior;
+- suffering and coping;
+- religious community and social support;
+- mortality and health associations where methodologically sound;
+- pride, envy, status, self-deception, temptation, and moral failure.
+
+Initial evidence sources include large cohort studies, systematic reviews, and work associated with Harvard's Human Flourishing Program. Observational associations must not be represented as causal findings unless the underlying design warrants causal inference.
+
+### Tranche D — Natural order, intelligibility, and naturalism
+
+The package shall document the philosophical distinction between methodological and metaphysical/ontological naturalism using sources that do not depend upon BWM's theological commitments.
+
+Initial anchors include:
+
+- Stanford Encyclopedia of Philosophy treatments of naturalism;
+- Peter Harrison's historical/philosophical work on naturalism and the success of science;
+- serious philosophy-of-science and science-and-religion literature representing naturalist and theist positions.
+
+The target claim is limited and precise: successful use of methodologically naturalistic science does not by itself entail the metaphysical thesis that nature exhausts reality.
+
+### Tranche E — History of science and biblical intelligibility
+
+Investigate claims about the relationship between biblical/theistic commitments and the historical development of science with particular care. Avoid simplistic claims that Christianity “invented science.” Evaluate primary historical sources and contemporary historians of science, including scholars who dispute triumphalist accounts.
+
+Questions include:
+
+- assumptions of order and intelligibility;
+- contingency and empirical investigation;
+- regularity and law;
+- human rational capacity and fallibility;
+- the historical motivations of particular scientific figures.
+
+### Tranche F — Adversarial and boundary cases
+
+Confidence is strengthened by proportionate claims. The harvest shall therefore record:
+
+- cases commonly presented as biblical corroboration that do not survive primary-source review;
+- archaeological or historical disputes with materially different scholarly interpretations;
+- empirical findings that are mixed or null;
+- places where biblical interpretation rather than biblical truth is the live issue;
+- places where available evidence cannot presently adjudicate between explanations.
+
+This tranche is quality control for the positive case, not a skeptical reframing of the package.
+
+## Seed findings from initial sweep
+
+The first research sweep establishes several useful starting points:
+
+1. **Testimony is an ordinary epistemic category.** Contemporary epistemology treats testimony as indispensable to much human knowledge, with live debate over whether its warrant is basic, reducible, or hybrid. This gives STP a mainstream epistemological conversation in which to operate.
+2. **Methodological and ontological naturalism are distinguishable.** Standard philosophical treatments explicitly distinguish a method of inquiry from the claim that reality contains nothing beyond nature. The inference from scientific success to metaphysical naturalism therefore requires a philosophical argument rather than following by definition.
+3. **Religious participation and flourishing show real but qualified empirical associations.** Large observational datasets report associations with measures such as civic engagement, happiness, social support, some health behaviors, purpose, and mortality. Causality and mediation vary by study and population. These data can inform the human-flourishing tranche but cannot establish biblical truth by themselves.
+4. **Biblical archaeology has active institutional research capacity.** The Lanier Center conducts fieldwork across the ancient Near East. ABR conducts field archaeology from an explicitly confessional posture. Claims harvested from either must still be traced to excavation reports, artifacts, inscriptions, and specialist publication where possible.
+5. **Accessible apologetics is useful as a routing layer.** Wes Huff / Apologetics Canada and Got Questions can orient readers and identify claims for deeper investigation. BWM should verify those claims independently before adopting them.
+
+## Reader-resource registry
+
+Create a maintained registry with at least these fields:
+
+```text
+Resource | Organization/Author | Strength | Intended Audience |
+Best Topics | Evidence Layer | Confessional Posture |
+Primary Sources Linked? | BWM Notes | Review Date
+```
+
+Initial entries:
+
+- **Apologetics Canada / Wes Huff** — accessible-to-specialist bridge; textual transmission, canon, manuscripts, historical reliability.
+- **Got Questions** — highly accessible topical orientation; use as reader routing, then trace substantive claims to stronger sources.
+- **CSNTM** — manuscript evidence and digitization; research backbone for New Testament textual transmission.
+- **Tyndale House** — biblical languages, manuscripts, textual scholarship, historical context.
+- **Lanier Center for Archaeology** — archaeological research and fieldwork.
+- **Associates for Biblical Research** — confessional archaeological research, fieldwork, bibliographic discovery, and reader-level synthesis.
+- **Harvard Human Flourishing Program** — empirical work relevant to religion, community, meaning, purpose, and flourishing.
+- **Stanford Encyclopedia of Philosophy** — orientation and scholarly bibliography for testimony, naturalism, religious epistemology, and related philosophical categories.
+
+## Immediate execution sequence
+
+1. Build the evidence ledger before drafting the final confidence case.
+2. Populate Tranche A with 10–15 high-confidence cases whose primary evidence can be identified.
+3. Populate Tranche B with the principal testimony positions and primary philosophical sources.
+4. Populate Tranche C with systematic reviews and major longitudinal/cohort studies, recording design limitations.
+5. Populate Tranche D with both theistic and naturalist scholarship so the methodological/metaphysical distinction is represented accurately.
+6. Run each candidate “Bible confirmed” claim through the evidentiary-relation taxonomy.
+7. Build the reader-resource registry and tag each resource by strength and role.
+8. Only then synthesize the public-facing argument.
