@@ -288,6 +288,140 @@ Research:
 Prioritize meta-analyses and replication-sensitive reviews over famous single experiments.
 
 
+
+## Motivated judgment, self-serving attribution, envy, and hierarchy
+
+### STP-ANTH-010 — Desired conclusions can bias reasoning through apparently reasonable justifications
+
+Kunda's major review of motivated reasoning argues that directional motives influence which beliefs and strategies people access, construct, and evaluate. People are more likely to reach conclusions they want when they can construct apparently reasonable justification for them.
+
+**Relation:** review-level correspondence with C1.  
+**Confidence:** HIGH that motivated reasoning is a well-established research program; MEDIUM-HIGH for any single generalized mechanism across domains.
+
+**Biblical correspondence:** Scripture repeatedly depicts reasoning as morally interested rather than mechanically neutral: humans justify themselves, suppress unwelcome conclusions, judge others asymmetrically, and construct accounts favorable to their desires (Proverbs 18:17; Jeremiah 17:9; Luke 16:14–15; Romans 1:18–25; 2:1–3).
+
+**Qualification:** Kunda's construct is psychological, not a scientific validation of Paul's theological account of suppression of truth.
+
+Primary scholarly anchor:
+- Kunda, Z. (1990), “The case for motivated reasoning,” *Psychological Bulletin* 108(3):480–498, DOI 10.1037/0033-2909.108.3.480.
+
+### STP-ANTH-011 — Self-serving attribution is robust but culturally moderated
+
+Mezulis et al. meta-analyzed the self-serving attributional bias: people tend to make more internal/stable/global attributions for positive events than negative events. The review explicitly examines developmental, individual, and cultural variation rather than treating the effect as invariant.
+
+**Relation:** meta-analytic correspondence with C1/C2.  
+**Confidence:** HIGH for the existence of a broad self-serving attributional tendency; MEDIUM for universal magnitude.
+
+**Biblical correspondence:** biblical narratives repeatedly depict asymmetric moral accounting, self-exoneration, and blame shifting (Genesis 3:12–13; 1 Samuel 15:13–21; 2 Samuel 12:1–7; Matthew 7:1–5).
+
+Primary scholarly anchor:
+- Mezulis, A.H., Abramson, L.Y., Hyde, J.S. and Hankin, B.L. (2004), *Psychological Bulletin* 130(5):711–747, DOI 10.1037/0033-2909.130.5.711.
+
+### STP-ANTH-012 — Self-threat magnifies self-serving attribution
+
+Campbell and Sedikides meta-analytically integrated experimental self-serving-bias research and found that self-threat magnifies the tendency to take credit for success while externalizing failure.
+
+**Relation:** meta-analytic correspondence with C1.  
+**Confidence:** MEDIUM-HIGH.
+
+**Biblical correspondence:** the biblical concern with pride and defensive self-justification predicts that threat to self-standing can distort judgment rather than reliably produce impartial self-assessment.
+
+Primary scholarly anchor:
+- Campbell, W.K. and Sedikides, C. (1999), “Self-Threat Magnifies the Self-Serving Bias: A Meta-Analytic Integration,” *Review of General Psychology* 3(1):23–43, DOI 10.1037/1089-2680.3.1.23.
+
+### STP-ANTH-013 — Envy and social comparison are real but context-sensitive
+
+Contemporary review literature finds social comparison and envy common in social-media environments and often associated with lower well-being, while newer evidence also shows heterogeneous, person-specific, conditional, reciprocal, and sometimes positive relationships.
+
+**Relation:** review-level correspondence and qualification for C2.  
+**Confidence:** MEDIUM.
+
+**Biblical correspondence:** Scripture treats envy/comparison as recurrent relational dangers (Genesis 4:3–8; 1 Samuel 18:6–9; Proverbs 14:30; Ecclesiastes 4:4; James 3:14–16), but it does not imply that every act of comparison is pathological.
+
+Primary scholarly anchor:
+- Meier, A. and Johnson, B.K. (2022), “Social comparison and envy on social media: A critical review,” *Current Opinion in Psychology* 45:101302, DOI 10.1016/j.copsyc.2022.101302.
+
+### STP-ANTH-014 — Envy/social-comparison/depression associations require directional caution
+
+A 2023 systematic review found correlations among social-network comparison, envy, and depression in all included studies, but the few studies capable of examining direction suggested depression could predict later comparison/envy rather than simply result from them.
+
+**Relation:** systematic-review qualification for C2/C6.  
+**Confidence:** MEDIUM.
+
+**STP significance:** correspondence should not be converted into a simplistic causal story such as “comparison causes depression.”
+
+Primary scholarly anchor:
+- Carraturo, F. et al. (2023), *European Journal of Investigation in Health, Psychology and Education* 13(2):364–376, DOI 10.3390/ejihpe13020027.
+
+### STP-ANTH-015 — Power, status, dominance, and prestige are distinct hierarchy constructs
+
+A 2025 *Psychological Bulletin* systematic review/integrative model concludes that hierarchy research often conflates power, status, dominance, and prestige and evaluates measures intended to distinguish these constructs.
+
+**Relation:** construct-clarification evidence for C2.  
+**Confidence:** HIGH.
+
+**Biblical correspondence:** Scripture's treatments of authority, honor, pride, domination, service, and reputation should not be mapped onto one undifferentiated modern “status” variable. Jesus's contrast between Gentile rulers “lording it over” others and servant leadership (Mark 10:42–45) may be particularly useful once the constructs are separated.
+
+Primary scholarly anchor:
+- Körner, R., Overbeck, J.R. and Schütz, A. (2025), “Structuring hierarchy concepts: Evaluating measures of power, status, dominance, and prestige…,” *Psychological Bulletin* 151(3):322–364, DOI 10.1037/bul0000470.
+
+## Anthropology synthesis v0.2
+
+The evidence now supports a more developed descriptive model:
+
+```text
+human judgment is norm-aware
+        +
+desire-sensitive
+        +
+self-protective
+        +
+socially comparative
+        +
+group-sensitive
+        +
+status/hierarchy-sensitive
+        ↓
+impartial moral reasoning cannot simply be assumed
+```
+
+This is strongly consonant with biblical anthropology, which repeatedly treats the human evaluator as an interested moral agent rather than a detached reasoning engine.
+
+The relevant correspondence is not that psychology has discovered “sin” under another name. It is that independent behavioral research repeatedly finds mechanisms and tendencies predicted by a worldview in which humans:
+- know and invoke norms;
+- protect self-image;
+- rationalize preferred conclusions;
+- externalize blame;
+- compare themselves with others;
+- envy;
+- favor insiders;
+- seek standing;
+- and require deliberate moral formation toward impartiality, humility, and love.
+
+## Epistemic implication for BWM
+
+This tranche also bears indirectly on historical/worldview reasoning.
+
+If motivated reasoning and self-serving cognition are ordinary features of human judgment, then neither religious nor naturalistic interpreters may simply assume their own neutrality.
+
+That does **not** establish symmetry between all interpretations or make evidence irrelevant.
+
+It establishes a methodological requirement:
+
+> **Worldview reasoning should expose its presuppositions, evidence standards, incentives, and defeaters rather than treating one interpretive community as uniquely susceptible to motivated cognition.**
+
+This is relevant to BWM's broader insistence on distinguishing observation from interpretation while remaining subordinate to the project's canonical epistemic hierarchy.
+
+## Next behavioral pass
+
+Proceed to:
+- forgiveness intervention evidence;
+- self-control and habit formation, with replication-sensitive treatment;
+- meaning/purpose and mortality;
+- suffering/resilience/post-traumatic growth;
+- then community/family/work.
+
+
 ## Research-source backbone
 
 Priority sources include:
