@@ -221,4 +221,101 @@ The manuscript tradition preserves enough evidence to identify major secondary a
 5. Add Wes Huff / Apologetics Canada treatments as reader-facing bridges only after comparing them against the primary manuscript evidence and specialist literature.
 6. Produce a quantitative uncertainty summary only after the variant set is sufficiently representative.
 
+
+## Doctrine-dependency audit v0.1
+
+This audit tests a narrower proposition than the common slogan “no doctrine is affected by textual variants.”
+
+The test is:
+
+> **Does any core Christian doctrine depend uniquely upon accepting a disputed reading in this ledger?**
+
+A variant can affect exegesis, preaching, translation, or a supporting proof text without making a doctrine uniquely dependent upon it.
+
+| Variant | Proposition supplied or sharpened by disputed reading | Canonical comparison outside disputed reading | Initial dependency judgment |
+|---|---|---|---|
+| Mark 16:9–20 | Resurrection appearances; commission; baptism/belief saying; signs including tongues, serpents, poison, healing; ascension | Resurrection appearances: Matt 28; Luke 24; John 20–21; 1 Cor 15. Commission: Matt 28:18–20; Luke 24:46–49; Acts 1:8. Ascension: Luke 24:50–53; Acts 1:9–11. Tongues: Acts 2, 10, 19. Healing: broad undisputed NT witness. | **No core doctrine uniquely dependent.** Some distinctive sign language, especially poison/serpent handling, lacks equivalent normative formulation elsewhere and therefore should not be grounded doctrinally in the disputed ending. |
+| John 7:53–8:11 | Jesus's response to an adulterous woman; mercy, non-condemnation, command to cease sin | Mercy toward sinners and call to repentance are pervasive: Luke 5:30–32; 7:36–50; 15; 18:9–14; John 3:17; Rom 2:4. | **No core doctrine uniquely dependent.** The narrative itself remains historically interesting, but Johannine textual originality is unnecessary to Christian teaching on mercy and repentance. |
+| Luke 22:43–44 | Angel strengthens Jesus; extreme anguish; sweat like blood | Gethsemane anguish: Matt 26:36–46; Mark 14:32–42; Luke 22:39–42,45–46. Angelic ministry: Matt 4:11; Luke 4 context and other canonical angelic ministry. | **No core doctrine uniquely dependent.** The vivid physiological detail is textually uncertain and should not bear theological weight unavailable elsewhere. |
+| Luke 23:34a | Jesus prays for forgiveness of his executioners | Love/prayer for enemies: Matt 5:44; Luke 6:27–28. Jesus's forgiving posture and apostolic imitation: Luke 23:43; Acts 7:60; 1 Pet 2:21–23. | **No core doctrine uniquely dependent.** The saying is important if original, but enemy-love and forgiveness remain independently grounded. |
+| 1 John 5:7–8 Comma Johanneum | Explicit triadic heavenly witnesses: Father, Word, Holy Spirit; “these three are one” | Triadic baptismal formula: Matt 28:19. Father/Son divine identity and relation: John 1:1–18; 5; 8; 10; 17; 20:28. Spirit's divine/person-level predicates: Acts 5:3–4; 1 Cor 2:10–11; 12; 2 Cor 13:14. | **Trinity does not depend on the Comma.** The expanded wording is unnecessary to the doctrine and should not be defended on theological necessity. |
+| Acts 8:37 | Explicit pre-baptism confession that Jesus Christ is Son of God | Faith/confession and baptism: Acts 2:38–41; 8:12; 10:43–48; 16:30–34; Rom 10:9–10. | **No core doctrine uniquely dependent.** Exact liturgical sequencing should not be established from the disputed verse. |
+| John 1:18 | “only/unique God” versus “only/unique Son” | High Johannine Christology remains explicit in John 1:1–3; 5:18–23; 8:58; 10:30–38; 20:28–31. Sonship is pervasive throughout John. | **No core doctrine uniquely dependent.** The reading affects the precise force of John 1:18 and therefore matters exegetically. |
+| Romans 5:1 | “we have peace” versus “let us have peace” | Justification by faith and reconciliation/peace with God: Rom 3:21–31; 4; 5:9–11; Gal 2–3. | **No core doctrine uniquely dependent.** The indicative/subjunctive question affects the verse's rhetorical force. |
+| Revelation 13:18 | Number of the beast: 666 versus 616 | Beast/anti-God power and judgment remain throughout Rev 13–20 independent of the exact numeral. | **No core doctrine uniquely dependent.** Identification schemes that require one numeral are interpretation-level constructions and inherit the textual uncertainty. |
+| Matthew 6:13 doxology | Kingdom, power, glory belong to God forever | God's kingdom/power/glory are pervasive: 1 Chr 29:11; Ps 145; Matt 6:9–10; Rev 4–5; 19. | **No core doctrine uniquely dependent.** Liturgical use and textual originality are separate questions. |
+
+### Audit result
+
+For the ten initial major variants, **no core Christian doctrine identified in this audit depends uniquely upon accepting the disputed reading**.
+
+That conclusion is narrower and more defensible than saying variants “do not matter.” Several variants matter substantially for:
+
+- the exegesis of the immediate passage;
+- translation;
+- liturgical history;
+- reconstruction of early Christian tradition;
+- particular practices or proof texts;
+- historical questions.
+
+The doctrinal-stability claim survives this initial test because the relevant doctrines are multiply grounded in undisputed canonical material.
+
+### Important counterexample discipline
+
+Mark 16:18 illustrates why the audit matters. A reader could derive a distinctive practice involving serpents or deadly drink from the Longer Ending. Because that passage's originality is highly doubtful and no equivalent normative command is established elsewhere, BWM should not say “nothing theological is affected.” A better statement is:
+
+> **No core doctrine in the audited set depends uniquely on a disputed reading, although disputed readings can materially affect local interpretation and particular practices.**
+
+## Documentary witness notes v0.1
+
+### Mark 16:9–20
+
+- CSNTM documents the absence of an original Eusebian canon apparatus for material after Mark 16:8, an early paratextual indicator against originality.
+- Later manuscripts frequently contain the Longer Ending.
+- Codex W contains Mark 16:9–20 plus the additional “Freer Logion,” demonstrating that the ending's transmission history itself contains variation.
+- GA 783 ends Mark at 16:8 with a cruciform ending, while later manuscript evidence shows the Longer Ending's broad reception.
+
+**Status:** HIGH confidence that Mark 16:9–20 is secondary to the earliest recoverable form of Mark; transmission history still requires a full witness table.
+
+### John 7:53–8:11
+
+- Early Johannine witnesses omit the passage.
+- Later witnesses include it at different textual locations.
+- CSNTM manuscript documentation supplies examples both omitting and including the passage.
+- The Eusebian canon system provides additional paratextual evidence against its originality at the standard Johannine location.
+
+**Status:** HIGH confidence that the passage is secondary to the earliest recoverable text of John at John 7:53–8:11.
+
+### 1 John 5:7–8
+
+- CSNTM documents the Comma's extremely sparse Greek manuscript support.
+- Codex 177 contains the ordinary shorter Greek text in the main hand and the Comma as a much later marginal addition.
+- CSNTM dates that marginal addition no earlier than the introduction of verse numbers in 1551 and judges the hand later still.
+- CSNTM's survey identifies only a small group of Greek manuscripts with the Comma in text or later margins and documents its late entry into Erasmus's printed Greek tradition.
+
+**Status:** HIGH confidence that the Comma Johanneum is a secondary expansion and not part of the earliest recoverable Greek text.
+
+## Public confidence formulation
+
+The evidence now supports a more precise public statement:
+
+> **The manuscript tradition contains real textual problems, including a small number of substantial passages. Modern textual criticism can identify these problems because the competing evidence survives. In the major cases examined so far, uncertainty affects particular passages and interpretations, but no core Christian doctrine depends uniquely on the disputed wording.**
+
+This statement remains subject to expansion of the audit beyond the first ten variants.
+
+## Next variant set
+
+Add and audit:
+
+1. Mark 1:1 — “Son of God.”
+2. Matthew 24:36 — “nor the Son.”
+3. Acts 20:28 — “church of God” and related readings.
+4. 1 Timothy 3:16 — “God” / “who” / related readings.
+5. Jude 5 — Jesus / Lord / God.
+6. Hebrews 2:9 — “by the grace of God” / “apart from God.”
+7. Matthew 27:16–17 — Jesus Barabbas / Barabbas.
+8. Luke 24:51–52 and related Western/non-interpolation questions.
+9. Acts 15:20,29 and textual forms of the Apostolic Decree.
+10. Revelation 1:5 — “freed” / “washed.”
+
 Human-Curated, AI-Enabled (HCAE)
