@@ -1,5 +1,5 @@
 ---
-description: Narrated explainers, guided visual explanations, and selected external videos relevant to the Biblical WorldModel.
+description: Original BWM video highlights, narrated explainers, guided visual explanations, and selected external videos relevant to the Biblical WorldModel.
 ---
 # Media
 
