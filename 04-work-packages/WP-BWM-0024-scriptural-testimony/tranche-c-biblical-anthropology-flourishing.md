@@ -422,6 +422,147 @@ Proceed to:
 - then community/family/work.
 
 
+
+## Forgiveness, self-control, purpose, and suffering
+
+### STP-ANTH-016 — Forgiveness interventions can improve psychological outcomes
+
+A large multi-site randomized controlled trial of a brief REACH forgiveness intervention across five countries found that the intervention increased forgiveness and reduced depression/anxiety symptoms relative to controls, with effects varying by outcome and context.
+
+**Relation:** randomized-intervention correspondence with C4.  
+**Confidence:** HIGH that forgiveness can be intentionally cultivated; MEDIUM-HIGH for generalized mental-health effect size across populations.
+
+**Biblical correspondence:** forgiveness is treated as a practiced moral disposition rather than merely a spontaneous feeling (Matthew 6:12–15; 18:21–35; Ephesians 4:31–32; Colossians 3:12–13).
+
+**Qualification:** biblical forgiveness includes theological and moral dimensions not captured by a psychological intervention. Forgiveness also does not necessarily entail immediate reconciliation, removal of boundaries, or absence of justice.
+
+Seed scholarly anchor:
+- Ho et al. (2024), multi-site randomized REACH Forgiveness Intervention.
+
+### STP-ANTH-017 — Self-control predicts important life outcomes, but famous childhood paradigms require qualification
+
+Longitudinal research consistently links self-control/self-regulation with academic, behavioral, health, and social outcomes. However, later work on the famous preschool delay-of-gratification paradigm shows that socioeconomic background, home environment, cognitive factors, and other covariates substantially reduce simple “marshmallow test predicts life success” claims.
+
+**Relation:** longitudinal correspondence and replication-sensitive qualification for C5.  
+**Confidence:** HIGH that self-control matters; LOW for simplistic deterministic interpretations of a single childhood task.
+
+**Biblical correspondence:** Proverbs 25:28 and New Testament virtue texts treat self-control as one component of moral formation, not as an isolated trait guaranteeing worldly success.
+
+**STP significance:** Scripture's broader virtue framework is actually less reductionistic than popularized self-control psychology.
+
+### STP-ANTH-018 — Self-control is not merely suppression of desire
+
+Contemporary self-control research increasingly distinguishes effortful inhibition from strategies involving habits, situation selection, goal structure, and environmental design.
+
+**Relation:** construct-level correspondence with C5.  
+**Confidence:** MEDIUM-HIGH.
+
+**Biblical correspondence:** biblical formation likewise includes practices, habits, avoidance of temptation, community, attention, and cultivated desire rather than relying solely on moment-by-moment willpower (Proverbs 4; Matthew 6:13; Romans 13:14; 1 Corinthians 10:13; 1 Timothy 4:7–8).
+
+**Qualification:** the conceptual correspondence should not be represented as identity between biblical sanctification and psychological self-regulation.
+
+### STP-ANTH-019 — Purpose in life predicts later health and well-being outcomes
+
+Prospective research links stronger purpose in life with multiple later outcomes including aspects of psychological well-being, health behavior, and mortality risk. The Harvard flourishing literature treats purpose as a distinct domain rather than reducing it to happiness.
+
+**Relation:** longitudinal correspondence with C6.  
+**Confidence:** MEDIUM-HIGH for prospective association; causal mechanisms vary.
+
+**Biblical correspondence:** Ecclesiastes, the teachings of Jesus, and Pauline texts repeatedly frame human life around ends larger than immediate pleasure, consumption, or survival.
+
+**Qualification:** secular or non-Christian purpose can also correlate with beneficial outcomes. The empirical finding establishes the human importance of purpose, not the truth of a specifically Christian telos.
+
+### STP-ANTH-020 — Meaning and purpose are distinguishable from hedonic happiness
+
+Flourishing research commonly distinguishes evaluative/hedonic well-being from meaning, purpose, virtue, relationships, and contribution.
+
+**Relation:** construct-level correspondence with C6.  
+**Confidence:** HIGH.
+
+**Biblical correspondence:** Job, Ecclesiastes, Psalms, the Beatitudes, and the passion/resurrection narrative make little sense under a model in which flourishing simply means maximizing pleasant affect.
+
+**STP significance:** Scripture's anthropology predicts a multidimensional human good in which faithfulness, meaning, virtue, relationship, and ultimate ends can coexist with present suffering.
+
+### STP-ANTH-021 — Post-traumatic growth is reported, but suffering does not automatically improve people
+
+The post-traumatic-growth literature reports positive psychological changes following struggle with adversity in some individuals, including changed relationships, priorities, personal strength, spirituality, and appreciation of life. However, measurement, retrospective self-perception, causal interpretation, and the coexistence of distress remain major qualifications.
+
+**Relation:** qualified correspondence with C9.  
+**Confidence:** MEDIUM.
+
+**Biblical correspondence:** Romans 5:3–5 and James 1:2–4 describe endurance and character emerging through trials, but biblical literature also contains lament, trauma, grief, despair, and prolonged suffering. Job and the Psalms prohibit a simplistic “suffering makes you better” reading.
+
+### STP-ANTH-022 — Resilience is dynamic and context-dependent
+
+Modern resilience research increasingly treats resilience as a dynamic process involving person, relationships, resources, meaning, and environment rather than a fixed trait.
+
+**Relation:** construct-level correspondence with C3/C6/C9.  
+**Confidence:** HIGH.
+
+**Biblical correspondence:** biblical endurance is similarly relational and contextual: dependence on God, communal support, hope, memory, worship, and practical provision repeatedly accompany perseverance.
+
+**Qualification:** empirical resilience mechanisms do not establish divine causation.
+
+## Wisdom synthesis v0.1
+
+The positive side of biblical anthropology now has an empirically approachable structure:
+
+```text
+forgiveness
++ self-regulation
++ meaningful purpose
++ relational support
++ hope/endurance
+        ↓
+dimensions of flourishing
+```
+
+The correspondence is important because Scripture does not present flourishing as uninterrupted pleasure.
+
+A more faithful biblical model is:
+
+```text
+flourishing =
+    rightly ordered relationship
+    + virtue
+    + meaning/purpose
+    + responsibility
+    + love/community
+    + hope
+    + faithfulness
+    even under conditions of suffering
+```
+
+External flourishing research increasingly uses similarly multidimensional constructs, although its definitions and ultimate telos remain philosophically distinct.
+
+## Critical safeguard
+
+The empirical case must not become prosperity theology by another route.
+
+BWM must reject:
+
+```text
+biblical obedience → guaranteed health / wealth / happiness
+```
+
+The biblical corpus itself falsifies that formulation through Job, the prophets, the apostles, martyrs, lament Psalms, and Christ.
+
+The relevant empirical question is narrower:
+
+> **Do practices and dispositions commended by Scripture correspond, on average and under defined conditions, with independently observable dimensions of healthy human functioning?**
+
+That question can be investigated without making temporal well-being the criterion of biblical truth.
+
+## Next Tranche C pass
+
+Proceed with:
+- family stability, attachment, and intergenerational formation;
+- meaningful work, unemployment, contribution, and stewardship;
+- community/social integration;
+- cross-national Global Flourishing Study findings;
+- then synthesize Tranche C v1.0 with supporting and contrary evidence.
+
+
 ## Research-source backbone
 
 Priority sources include:
