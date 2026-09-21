@@ -15,6 +15,11 @@ The question is how to understand them together.
 
 That can be difficult.
 
+<figure>
+<img src="../assets/story-overview.png" alt="The Biblical WorldModel story asks what was present at the beginning and what happened afterward. The visual moves from an intentionally initialized world, through real history and the present observed state, to models that reconstruct the past from assumptions." width="1200" height="1689" loading="lazy">
+<figcaption>An overview of the question this story explores: what was present at the beginning, what happened afterward, and how confidently can we reconstruct that history from the present?</figcaption>
+</figure>
+
 Most scientists today say the universe is about 13.8 billion years old. They say Earth is about 4.5 billion years old. The Bible seems to give us a much shorter story of creation and early history.
 
 Many Christians wonder what to do with that difference.
