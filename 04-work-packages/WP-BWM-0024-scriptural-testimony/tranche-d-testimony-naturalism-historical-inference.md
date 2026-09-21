@@ -253,6 +253,213 @@ That is the bridge to Designed Functional Maturity and the observed-state / mode
 6. **No gap inference:** “current natural explanation incomplete” does not entail “therefore God directly acted here.”
 7. **No reconstruction-to-observation collapse:** inferred history must remain distinguished from measured present state.
 
+
+## Testimony epistemology: deeper source baseline
+
+### STP-EPI-012 — Coady challenges global reduction of testimony to independent verification
+
+C.A.J. Coady's *Testimony: A Philosophical Study* argues that testimony is fundamental to human knowledge and challenges attempts to make testimonial knowledge depend globally on independent inductive verification of speakers.
+
+**Relation:** major philosophical source supporting the epistemic centrality of testimony.  
+**Confidence:** HIGH as characterization of Coady's project.
+
+**STP significance:** demanding that biblical testimony be independently re-proved proposition by proposition would impose a standard that cannot plausibly govern testimonial knowledge generally.
+
+### STP-EPI-013 — Fricker preserves a critical-monitoring role
+
+Elizabeth Fricker's work emphasizes the hearer's epistemic responsibility to monitor speakers for trustworthiness and competence rather than accepting testimony indiscriminately.
+
+**Relation:** critical-testimony model.  
+**Confidence:** HIGH.
+
+**STP significance:** a confidence-building account of Scripture need not require testimonial gullibility. Source criticism, genre, provenance, internal coherence, external corroboration, and defeaters are compatible with taking testimony seriously.
+
+### STP-EPI-014 — Burge develops entitlement to testimony
+
+Tyler Burge argues for an a priori entitlement to rely on intelligible communication under appropriate conditions, grounding testimony within a broader anti-individualist epistemology.
+
+**Relation:** non-reductionist testimony account.  
+**Confidence:** HIGH.
+
+**Qualification:** BWM need not adopt Burge's complete epistemology to note that sophisticated contemporary theories allow testimonial warrant without antecedent inductive proof of every speaker.
+
+### STP-EPI-015 — Lackey rejects simple speaker/hearer binaries
+
+Jennifer Lackey's work argues against overly simple reductionist and non-reductionist theories and emphasizes both speaker-side and hearer-side epistemic conditions.
+
+**Relation:** contemporary hybrid/dualism testimony account.  
+**Confidence:** HIGH.
+
+**STP significance:** testimonial warrant can depend simultaneously on reliable testimony and rational reception. This maps naturally onto STP's cumulative source-credibility project.
+
+## Historical inference baseline
+
+### STP-EPI-016 — Historical explanation is constrained inference, not experimental replay
+
+Philosophy of history has long distinguished historical explanation from direct experimental reproduction. Historical claims are assessed through evidence, causal reasoning, source criticism, coherence, explanatory scope, and comparison with alternatives.
+
+**Relation:** methodological history claim.  
+**Confidence:** HIGH.
+
+**BWM significance:** origins questions intensify rather than eliminate this structure because initial conditions and unique events are especially remote from direct observation.
+
+### STP-EPI-017 — Best-explanation criteria can discipline historical hypotheses
+
+C. Behan McCullagh's work on historical reasoning formalizes criteria used in inference to the best explanation, including explanatory scope, explanatory power, plausibility, ad hocness, and comparative superiority.
+
+**Relation:** philosophy-of-history framework.  
+**Confidence:** HIGH as characterization of McCullagh's approach.
+
+**STP significance:** admitting Genesis as evidence does not exempt BWM models from explanatory comparison. A BWM historical model should still be assessed for scope, fit, auxiliary assumptions, and unresolved burdens.
+
+### STP-EPI-018 — Historical testimony is defeasible rather than intrinsically disqualified
+
+Historical practice routinely uses documentary testimony while evaluating authorship, proximity, bias, genre, independence, consistency, material corroboration, and contrary evidence.
+
+**Relation:** methodological synthesis.  
+**Confidence:** HIGH.
+
+**BWM rule:** Scripture's claimed divine provenance is part of the proposition under investigation in the public cumulative case; it cannot simply be assumed as a neutral historical premise for readers who do not share the hard core.
+
+## Naturalism: argument-strengthening pass
+
+### STP-EPI-019 — Naturalists can offer abductive arguments beyond methodological success
+
+A fair treatment must acknowledge that philosophical naturalists do not necessarily argue:
+
+```text
+science uses natural causes
+therefore only natural causes exist
+```
+
+More sophisticated arguments appeal to explanatory success, causal closure, dependence of mental/biological phenomena on physical systems, parsimony, and the perceived failure of supernatural explanations.
+
+**Relation:** steelman of competing position.  
+**Confidence:** HIGH.
+
+**BWM significance:** refuting the simple methodological-to-metaphysical inference does not by itself refute metaphysical naturalism.
+
+### STP-EPI-020 — Causal closure is a substantive philosophical/scientific thesis
+
+Arguments from the causal closure of the physical maintain that physical effects have sufficient physical causes and use this premise in arguments about mind and ontology.
+
+**Relation:** substantive naturalist argument class.  
+**Confidence:** HIGH.
+
+**Qualification:** closure is not identical to methodological naturalism and must be argued for at the ontological level. BWM should not misrepresent it as merely an arbitrary rule.
+
+### STP-EPI-021 — Peter Harrison challenges simple histories of “science versus supernaturalism”
+
+Peter Harrison's historical work argues that modern categories such as “science,” “religion,” “natural,” and “supernatural” have histories and that contemporary naturalism should not be projected simplistically backward onto earlier scientific practice.
+
+**Relation:** history/philosophy-of-science corrective.  
+**Confidence:** MEDIUM-HIGH pending source-by-source harvest.
+
+**STP significance:** BWM should avoid both myths: “science has always been naturalism” and “Christianity straightforwardly invented modern science.”
+
+## Extraordinary claims and miracles
+
+### STP-EPI-022 — Hume's miracle argument targets testimonial proportionality
+
+Hume's *Enquiry Concerning Human Understanding*, section X, argues that rational belief should proportion testimony against the prior evidence for regularity and the possibility that testimony is false.
+
+**Relation:** primary philosophical challenge to miracle testimony.  
+**Confidence:** HIGH.
+
+**BWM significance:** Hume should be engaged in his strongest form rather than caricatured as “miracles are impossible.”
+
+Primary anchor:
+- David Hume, *Enquiry Concerning Human Understanding*, X.
+
+### STP-EPI-023 — Low prior probability does not logically equal impossibility
+
+Within Bayesian framing, an initially low-prior hypothesis can in principle receive a high posterior probability if evidence is sufficiently more expected under that hypothesis than under alternatives.
+
+```text
+P(H|E) ∝ P(E|H) P(H)
+```
+
+Therefore:
+
+```text
+low P(H) ≠ P(H|E) necessarily low
+```
+
+**Relation:** formal epistemic clarification.  
+**Confidence:** HIGH.
+
+**Qualification:** this does not establish any particular miracle. It shows why “extraordinary” must concern evidential likelihood ratios and priors rather than function as a synonym for impossible.
+
+### STP-EPI-024 — Miracle evaluation requires worldview-level background probabilities
+
+Assessing a miracle claim depends partly on background beliefs about whether God exists, whether God could act, whether there is reason for God to act in the relevant context, and the reliability of the testimony/evidence.
+
+**Relation:** Bayesian/worldview epistemology.  
+**Confidence:** HIGH as structural point.
+
+**STP significance:** arguments over miracles often move upstream into worldview evidence. This makes the cumulative STP case relevant rather than incidental.
+
+## Formal admissibility model v0.1
+
+Let:
+
+- (T) = testimonial proposition;
+- (S) = source;
+- (B) = background knowledge;
+- (E) = independent/auxiliary evidence;
+- (D) = defeaters;
+- (M) = model under consideration.
+
+Define **admissibility** minimally as:
+
+```text
+Admissible(T) iff
+    T is propositionally intelligible
+    and S is identifiable enough to evaluate
+    and T is relevant to the historical question
+    and T is not excluded solely by assuming the negation
+        of the worldview proposition under dispute.
+```
+
+Admissibility does not entail acceptance.
+
+A schematic acceptance relation is:
+
+```text
+Accept(T) only after evaluating:
+    source credibility(S)
+    + fit(E)
+    + coherence(B)
+    + explanatory contribution(M)
+    - defeaters(D)
+    - superior alternatives
+```
+
+For BWM's hard core, Scripture's authority is confessed rather than probabilistically derived. For the public cumulative case, this formalism explains why a non-Christian reader can rationally consider biblical testimony without first granting inspiration.
+
+## Tranche D synthesis v0.1
+
+The philosophical case now has four layers:
+
+1. **Testimony:** a normal and indispensable source of knowledge.
+2. **History:** reconstruction from heterogeneous evidence, including testimony.
+3. **Naturalism:** methodological restriction and metaphysical ontology are categorically distinct, while sophisticated naturalism has additional arguments that must be engaged.
+4. **Miracles:** supernatural testimony is neither automatically admissible-as-true nor rationally excluded simply by low prior probability.
+
+The bounded conclusion is:
+
+> **There is no general epistemological principle that makes biblical testimony inadmissible merely because it is testimony or because it reports divine action. Its credibility must instead be evaluated within a broader evidential and worldview context.**
+
+## Next Tranche D pass
+
+1. Deepen McCullagh/Tucker/Collingwood historical inference.
+2. Add contemporary Bayesian work on testimony and miracle claims.
+3. Examine Hume responses from both critical and sympathetic scholarship.
+4. Develop the initial-conditions/history formal bridge to DFM.
+5. Integrate Tranche D with WP-BWM-0009 and WP-BWM-0022 terminology.
+6. Then close Tranche D v1.0 and begin the cumulative STP synthesis.
+
+
 ## Research queue
 
 1. Deepen testimony epistemology with Coady, Fricker, Burge, Lackey, and contemporary social epistemology.
