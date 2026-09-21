@@ -237,6 +237,134 @@ Proceed with:
 - then map the later Protestant/Catholic/Orthodox divergence without deciding the theological boundary merely from historical frequency.
 
 
+
+## Fourth-century boundary divergence
+
+### OT-CAN-016 — Cyril of Jerusalem gives a 22-book OT list
+
+Cyril instructs catechumens to read the twenty-two books of the Old Testament and supplies a title-level list. His enumeration includes Esther and also includes Baruch and the Epistle within Jeremiah.
+
+**Relation:** direct fourth-century Christian canonical-list evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** Cyril's list again demonstrates that “22 books” is a counting convention, not proof of exact identity with a later Protestant enumeration.
+
+Primary anchor:
+- Cyril of Jerusalem, *Catechetical Lecture* 4.33–35. citeturn0search0turn0search10
+
+### OT-CAN-017 — Cyril distinguishes acknowledged books from apocryphal/disputed writings
+
+Cyril tells catechumens to learn from the Church which books belong to the Testaments and to avoid apocryphal writings, concentrating on books acknowledged in ecclesial reading.
+
+**Relation:** primary evidence for a reception-based boundary.  
+**Confidence:** HIGH. citeturn0search0
+
+### OT-CAN-018 — Jerome explicitly adopts the Hebrew-book boundary in the Prologus Galeatus
+
+Jerome's preface to Samuel and Kings enumerates the Hebrew books and states that writings outside that collection are to be placed among the apocrypha. He specifically names Wisdom, Sirach, Judith, Tobit, and the Shepherd as outside the canon and distinguishes the Maccabean books.
+
+**Relation:** direct late-fourth-century canonical theory.  
+**Confidence:** HIGH.
+
+**Qualification:** Jerome's actual ecclesial use of some noncanonical books is more nuanced than a simple “never use them” position. Canonical status and ecclesial reading/use must remain distinct.
+
+Primary/specialist anchors:
+- Jerome, *Prologus Galeatus*;
+- Aline Canellis critical work on Jerome's biblical prefaces;
+- Edmon L. Gallagher on Jerome's canonical theory. citeturn0search47turn0search9
+
+### OT-CAN-019 — Jerome recognizes both 22- and 24-book Jewish counting conventions
+
+Jerome discusses the Hebrew alphabet/book-number analogy and acknowledges an alternative 24-book enumeration produced by counting Ruth and Lamentations separately.
+
+**Relation:** direct evidence explaining how different numerical totals can describe substantially the same Hebrew corpus.  
+**Confidence:** HIGH. citeturn0search9
+
+**STP significance:** this materially strengthens the caution already applied to Josephus's 22 and 4 Ezra's 24. Numerical difference need not imply a different corpus, but identity still must be demonstrated rather than assumed.
+
+### OT-CAN-020 — Augustine uses a broader Christian OT canon
+
+In *On Christian Doctrine* 2.8, Augustine lists an Old Testament collection that includes Tobit, Judith, 1–2 Maccabees, Wisdom, and Ecclesiasticus/Sirach among canonical/authoritative books.
+
+**Relation:** direct late-fourth-century evidence for a broader Christian OT boundary.  
+**Confidence:** HIGH. citeturn0search1
+
+### OT-CAN-021 — Augustine's criterion differs materially from Jerome's
+
+Augustine explicitly instructs readers to weigh the reception of books across catholic churches, preferring those received by all and then those received by the greater number and churches of greater authority.
+
+Jerome's controlling canonical theory in the *Prologus Galeatus* is instead oriented to the Hebrew collection.
+
+**Relation:** direct evidence for two materially different late-fourth-century Christian canonical criteria.  
+**Confidence:** HIGH. citeturn0search1turn0search47
+
+**STP significance:** the later Western canon disagreement cannot be reduced to one side simply “not knowing the historical evidence.” Distinct canonical criteria are already visible in major fourth-century Christian authorities.
+
+## Divergence map v0.1
+
+The evidence now exposes the later boundary problem clearly:
+
+```text
+Jewish bounded corpus
+(Josephus 22 / 4 Ezra 24)
+        ↓
+Christian reception of Israel's Scriptures
+        ↓
+multiple early Christian witnesses track a Hebrew-sized collection
+(Melito, Origen, Cyril, Athanasius, Jerome)
+        +
+Greek-speaking churches also read additional Jewish books
+        ↓
+late 4th century:
+Jerome: Hebrew-canon criterion
+Augustine: broader catholic-church reception criterion
+        ↓
+later Western and Eastern reception histories diverge
+```
+
+The historical question and theological question must remain distinct.
+
+**Historical question:** Which books were recognized, where, when, and under what criterion?
+
+**Theological question:** Which criterion should govern the Christian Old Testament?
+
+WP-BWM-0024 can document the first. BWM's hard-core hermeneutical commitments must govern how the second is ultimately resolved.
+
+## Claims audit
+
+### Claim: “The early church unanimously used the Protestant Old Testament.”
+
+**Status:** REJECT.
+
+Athanasius and Cyril have title-level differences from the later Protestant collection, and Augustine explicitly receives a broader collection. citeturn0search0turn0search1
+
+### Claim: “The early church unanimously used the later Catholic Old Testament.”
+
+**Status:** REJECT.
+
+Melito, Origen, Cyril, Athanasius, and Jerome provide substantial evidence for Hebrew-sized or Hebrew-oriented canonical boundaries, though their exact title mappings differ.
+
+### Claim: “Jerome simply rejected all ecclesial use of the deuterocanonical books.”
+
+**Status:** REJECT as too simple.
+
+Jerome distinguishes canonical authority from ecclesial reading/use. His canonical theory is Hebrew-oriented, while his broader practice requires source-specific treatment. citeturn0search47
+
+### Claim: “The Septuagint settled the Christian OT canon.”
+
+**Status:** NOT ESTABLISHED.
+
+A Greek translation tradition does not by itself define a fixed book boundary. The next research pass must examine the actual contents and dates of major Greek codices and avoid retrojecting later codex collections into the pre-Christian Septuagint.
+
+## Next pass
+
+1. Major Greek codices as collection evidence: Vaticanus, Sinaiticus, Alexandrinus.
+2. Rabbinic 24-book enumeration with dating discipline.
+3. Internal biblical Law/Prophets/Writings signals.
+4. Separate the history of Greek translation from the history of canonical boundary.
+5. Produce OT Canon v1.0 synthesis before moving into later Protestant/Catholic/Orthodox confessional decisions.
+
+
 ## Next primary-source pass
 
 1. Internal Torah / Prophets / Psalms-Writings signals.
