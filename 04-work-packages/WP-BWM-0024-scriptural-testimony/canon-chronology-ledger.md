@@ -270,6 +270,139 @@ Proceed with:
 Then open the separate Old Testament canon section.
 
 
+
+## Third- and fourth-century consolidation evidence
+
+### NT-CAN-014 — Origen witnesses both a recognized core and continuing disputes
+
+Eusebius preserves Origen's discussion of New Testament writings. Origen recognizes the four Gospels and discusses apostolic writings while noting questions surrounding particular books and authorship.
+
+**Relation:** primary evidence mediated through Eusebius for third-century recognition and dispute.  
+**Confidence:** MEDIUM-HIGH.
+
+**Qualification:** where Origen survives only as quoted by Eusebius, cite as “Origen, as cited in Eusebius” rather than presenting Eusebius's excerpt as an independently extant Origen manuscript.
+
+Primary anchor:
+- Origen, as cited in Eusebius, *Ecclesiastical History* 6.25.
+
+### NT-CAN-015 — Cyril of Jerusalem gives a near-27-book fourth-century list
+
+Cyril's *Catechetical Lecture* 4 instructs catechumens to receive the four Gospels, Acts, seven Catholic Epistles, and fourteen Pauline Epistles, while excluding Revelation from the books to be read.
+
+**Relation:** primary canonical-list evidence.  
+**Confidence:** HIGH.
+
+**STP significance:** Cyril demonstrates substantial fourth-century convergence while simultaneously proving that exact 27-book agreement was not yet universal.
+
+Primary anchor:
+- Cyril of Jerusalem, *Catechetical Lecture* 4.33–36.
+
+### NT-CAN-016 — Cyril explicitly appeals to inherited ecclesial recognition
+
+Cyril tells his audience to learn from the Church which books belong to the Old and New Testaments and distinguishes books acknowledged among all from disputed/apocryphal writings.
+
+**Relation:** primary evidence for a reception/recognition model.  
+**Confidence:** HIGH.
+
+**Qualification:** Cyril's claim about what is “acknowledged among all” reflects his pastoral/ecclesial judgment and should not be universalized beyond what comparative sources establish.
+
+### NT-CAN-017 — North African councils list the 27-book New Testament
+
+The surviving Carthaginian canonical material lists four Gospels, Acts, thirteen Pauline letters plus Hebrews, two Petrine letters, three Johannine letters, James, Jude, and Revelation, corresponding to the 27-book New Testament.
+
+**Relation:** conciliar reception evidence.  
+**Confidence:** HIGH for the surviving Carthaginian list; MEDIUM for reconstructing the lost acts of Hippo 393 from later summaries.
+
+**Qualification:** Hippo's original acts are lost. Claims about Hippo must therefore be explicitly sourced through later conciliar preservation rather than cited as though the original minutes survive.
+
+Primary/near-primary anchor:
+- Carthage 397 / African canonical tradition, canon commonly numbered 24/36 depending collection.
+
+### NT-CAN-018 — The African councils describe received books, not an ex nihilo selection
+
+The Carthaginian list closes by appealing to consultation/confirmation beyond Africa and, in later African canonical transmission, to books received from the fathers for reading in church.
+
+**Relation:** conciliar evidence for reception and inter-church confirmation.  
+**Confidence:** MEDIUM-HIGH.
+
+**STP significance:** the conciliar evidence fits the recognition/consolidation model better than a “council invented the canon” model.
+
+### NT-CAN-019 — Augustine articulates a reception criterion
+
+In *On Christian Doctrine* 2.8, Augustine advises the interpreter to prefer books received by all catholic churches over those not received by all, and among disputed cases to weigh reception by churches of greater authority.
+
+**Relation:** primary evidence for an explicit late-fourth-century canon-recognition criterion.  
+**Confidence:** HIGH.
+
+Primary anchor:
+- Augustine, *De doctrina christiana* 2.8.12–13.
+
+### NT-CAN-020 — Augustine's NT list corresponds to the later 27-book collection
+
+Augustine's list includes the four Gospels, fourteen Pauline letters including Hebrews, two Peter, three John, Jude, James, Acts, and Revelation.
+
+**Relation:** primary canonical-list evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** Augustine's Old Testament list differs materially from later Protestant enumeration and must be handled separately in the OT canon stream.
+
+## Consolidation assessment
+
+The evidence now supports a more precise chronology:
+
+```text
+Late 2nd century:
+    fourfold Gospel + Pauline/other apostolic collections clearly visible
+    boundary disputes remain
+
+3rd century:
+    recognized core persists
+    authorship/reception questions remain for several books
+
+Early-mid 4th century:
+    Eusebius documents acknowledged core + disputed edge
+    Cyril shows near-convergence but excludes Revelation
+
+AD 367:
+    Athanasius gives exact 27-book list
+
+Late 4th century:
+    Augustine and North African councils attest the same 27-book NT
+```
+
+The cumulative inference is:
+
+> **The surviving evidence is best described as progressive recognition and boundary consolidation around an earlier stable core, with real regional disagreement at the edges.**
+
+This conclusion is historical, not merely theological. It is supported by sources that openly preserve the disagreements rather than retroactively erasing them.
+
+## Source-discipline correction
+
+The canon project must prefer primary patristic/conciliar texts over later summaries. Current source order:
+
+1. extant work by the church father/council;
+2. ancient author quoting an otherwise lost work, cited explicitly as “as cited in”;
+3. critical edition/translation;
+4. specialist secondary scholarship;
+5. reader/apologetic summaries.
+
+Accordingly:
+- Origen material preserved only by Eusebius is cited **Origen, as cited in Eusebius**.
+- Hippo 393 is not cited as though its original acts survive.
+- later websites summarizing canon history are discovery aids, not research authorities.
+
+## Remaining NT canon work
+
+Before closing NT canon v1.0:
+- add Gregory Nazianzen;
+- add Amphilochius;
+- examine Laodicea canon 60 and its textual authenticity;
+- add Jerome;
+- document early Syriac/Peshitta boundary differences;
+- add manuscript-collection evidence from Sinaiticus and Alexandrinus;
+- compare these with the explicit lists without treating codex contents as formal canon declarations.
+
+
 ## Research queue
 
 ### Primary witnesses to add
