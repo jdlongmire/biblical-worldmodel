@@ -295,6 +295,171 @@ Mark 16:18 illustrates why the audit matters. A reader could derive a distinctiv
 
 **Status:** HIGH confidence that the Comma Johanneum is a secondary expansion and not part of the earliest recoverable Greek text.
 
+
+## Second variant set and dependency audit
+
+### STP-VAR-011 — Mark 1:1, “Son of God”
+
+**Class:** C — local wording with Christological significance.
+
+Ancient witnesses vary over whether Mark 1:1 includes “Son of God.” The phrase is strongly represented in the tradition, but omission has early support and the internal evidence is debated.
+
+**Working judgment:** meaningful local uncertainty remains.  
+**Confidence:** MEDIUM.
+
+**Dependency audit:** Mark's presentation of Jesus as God's Son does not depend on 1:1. Undisputed Markan material includes the heavenly declarations at 1:11 and 9:7 and the centurion's confession at 15:39.
+
+**Result:** no core Christological doctrine uniquely depends upon the disputed phrase.
+
+### STP-VAR-012 — Matthew 24:36, “nor the Son”
+
+**Class:** C — significant Christological clause.
+
+Witnesses vary over inclusion of “nor the Son” in Matthew's statement that no one knows the day and hour. The parallel in Mark 13:32 contains the phrase.
+
+**Working judgment:** the phrase has a strong claim to originality in Matthew despite omission in part of the tradition, with harmonization/theological discomfort requiring evaluation.  
+**Confidence:** MEDIUM-HIGH.
+
+**Dependency audit:** the saying exists undisputed in Mark 13:32, so Christological interpretation of the Son's knowledge does not depend uniquely on Matthew's variant.
+
+**Result:** no doctrine uniquely dependent.
+
+### STP-VAR-013 — Acts 20:28, “church of God” and related readings
+
+**Class:** C — local wording with Christological implications.
+
+The phrase describing the church and the blood by which it was obtained has generated variants involving “God,” “Lord,” and combined forms.
+
+**Working judgment:** “church of God” has substantial critical support, but the variant history warrants a full witness table.  
+**Confidence:** MEDIUM-HIGH.
+
+**Dependency audit:** Christ's sacrificial blood, divine status, and ownership of the church are independently established throughout undisputed New Testament passages.
+
+**Result:** no core doctrine uniquely dependent, though the reading materially affects the immediate Christological force of Acts 20:28.
+
+### STP-VAR-014 — 1 Timothy 3:16, theos / hos
+
+**Class:** C — historically important Christological variant.
+
+The later reading commonly rendered “God was manifested in the flesh” competes with an earlier reading represented as “who was manifested in the flesh.” The forms can be graphically close in Greek manuscript practice, particularly with nomina sacra.
+
+**Working judgment:** “who” is generally favored in modern critical reconstruction; “God” is likely secondary.  
+**Confidence:** HIGH-MEDIUM.
+
+**Dependency audit:** incarnation and Christ's divine identity are multiply attested outside this variant, including John 1:1–18, Philippians 2:5–11, Colossians 1:15–20, and Hebrews 1.
+
+**Result:** incarnation/divinity do not depend on the “God” reading.
+
+### STP-VAR-015 — Jude 5, Jesus / Lord / God
+
+**Class:** C — local wording with striking Christological significance.
+
+Ancient witnesses vary over the subject who saved a people from Egypt and afterward destroyed unbelievers. Current critical editions have given serious weight to “Jesus.”
+
+**Working judgment:** “Jesus” has a strong textual claim and may be the initial reading.  
+**Confidence:** MEDIUM-HIGH.
+
+**Dependency audit:** accepting “Jesus” yields an unusually explicit identification of the preincarnate Christ with the Exodus actor. Rejecting it does not remove the broader New Testament's preexistence/high-Christology evidence.
+
+**Result:** no core doctrine uniquely dependent; local theological force is substantial.
+
+### STP-VAR-016 — Hebrews 2:9, “by the grace of God” / “apart from God”
+
+**Class:** C — local wording.
+
+Most witnesses support “by the grace of God,” while an ancient alternative reads “apart from God.” The alternative has significant patristic awareness and requires explanation.
+
+**Working judgment:** “by the grace of God” is likely initial.  
+**Confidence:** MEDIUM-HIGH.
+
+**Dependency audit:** Christ's death, divine purpose, grace, and dereliction/suffering are independently grounded elsewhere.
+
+**Result:** no core doctrine uniquely dependent.
+
+### STP-VAR-017 — Matthew 27:16–17, Jesus Barabbas / Barabbas
+
+**Class:** C — proper-name variant.
+
+Some witnesses identify Barabbas as “Jesus Barabbas,” producing Pilate's contrast between Jesus Barabbas and Jesus called Christ. Other witnesses omit “Jesus.”
+
+**Working judgment:** “Jesus Barabbas” has a plausible claim to originality, with scribal reluctance to attach the name Jesus to Barabbas often proposed as an explanation for omission.  
+**Confidence:** MEDIUM.
+
+**Dependency audit:** no Christian doctrine depends upon Barabbas's personal name.
+
+**Result:** no doctrinal dependency; potentially important for narrative rhetoric and transmission behavior.
+
+### STP-VAR-018 — Luke 24:51–52, ascension wording
+
+**Class:** B/C — clause-level Western/non-interpolation problem.
+
+Luke's ending has variants concerning “and was carried up into heaven” and the disciples' worship of Jesus. Older textual criticism sometimes treated shorter Western readings as original; later manuscript discoveries and reassessment altered evaluation of several such readings.
+
+**Working judgment:** the longer readings have substantial claims to originality, but the history is methodologically important.  
+**Confidence:** MEDIUM-HIGH.
+
+**Dependency audit:** the ascension is independently explicit in Acts 1:9–11, and worship/high Christology are widely attested.
+
+**Result:** no core doctrine uniquely dependent.
+
+### STP-VAR-019 — Acts 15:20,29, Apostolic Decree
+
+**Class:** B/C — multi-clause textual tradition.
+
+The Apostolic Decree exists in variant textual forms, including differences associated with the so-called Western tradition. These affect how the decree is interpreted as ritual, moral, or mixed instruction.
+
+**Working judgment:** genuine transmission complexity with local interpretive consequences.  
+**Confidence:** MEDIUM.
+
+**Dependency audit:** salvation by grace, Gentile inclusion, sexual ethics, and Christian table fellowship do not depend uniquely upon one textual form of the decree.
+
+**Result:** no core doctrine uniquely dependent; ecclesial-practice interpretation can be affected.
+
+### STP-VAR-020 — Revelation 1:5, “freed” / “washed”
+
+**Class:** C — local wording.
+
+A small Greek difference yields either Christ “freed/released us from our sins by his blood” or “washed us from our sins in his blood.”
+
+**Working judgment:** “freed/released” is generally favored by modern critical texts.  
+**Confidence:** MEDIUM-HIGH.
+
+**Dependency audit:** cleansing, forgiveness, redemption, and liberation through Christ's blood are multiply grounded in undisputed canonical material.
+
+**Result:** no core doctrine uniquely dependent.
+
+## Doctrine-dependency audit v0.2 result
+
+Twenty substantial variants have now been sampled across:
+
+- extended passages;
+- Christological titles;
+- incarnation language;
+- Trinitarian proof texts;
+- resurrection material;
+- ascension material;
+- soteriological wording;
+- baptismal/confessional wording;
+- ethical/ecclesial instructions;
+- eschatological numerals;
+- liturgical expansions.
+
+**Result:** no core Christian doctrine in the twenty-case audit depends uniquely upon accepting a disputed reading.
+
+This result supports a bounded claim:
+
+> **Major textual variants can affect exegesis, translation, rhetoric, liturgy, and particular practices, but the core doctrines sampled here are multiply attested in undisputed portions of the canon rather than resting on a single textually uncertain reading.**
+
+This remains an empirical claim about the audited sample and should continue to be tested as additional high-impact variants are identified.
+
+## Next research transition
+
+The major-variant ledger has now reached a sufficient baseline to proceed with two parallel tasks:
+
+1. **Quantitative claims audit** — test popular manuscript-count, variant-count, percentage-certainty, and “99.x%” apologetic claims.
+2. **Canon chronology** — distinguish composition, circulation, use, recognition, collection, and formal canonical lists using primary patristic evidence.
+
+
 ## Public confidence formulation
 
 The evidence now supports a more precise public statement:
