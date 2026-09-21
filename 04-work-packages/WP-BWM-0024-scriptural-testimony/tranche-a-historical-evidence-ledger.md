@@ -246,6 +246,108 @@ Primary/institutional anchors:
 - Israel Antiquities Authority excavation publications;
 - Greenhut and Mazor, *'Atiqot* 101, for a first-century plastered pool adjacent to the Siloam Pool.
 
+### STP-HIST-017 — Babylonian capture of Jerusalem, 597 BC
+
+**Biblical locus:** 2 Kings 24:10–17; 2 Chronicles 36:9–10.
+
+The Babylonian Chronicle tablet BM 21946 covers 605–594 BC. The British Museum identifies it as describing Nebuchadnezzar's first campaign against Jerusalem in 597 BC.
+
+**Relation:** direct corroboration of the Babylonian campaign and capture of Jerusalem.  
+**Confidence:** HIGH.
+
+**Qualification:** the chronicle supplies an independent Babylonian account of the campaign. Detailed synchronization of regnal dates and individual deportees requires comparison with the Hebrew chronological data.
+
+Primary anchor:
+- British Museum BM 21946, Babylonian Chronicle.
+
+### STP-HIST-018 — Menahem of Samaria and Assyrian tribute
+
+**Biblical locus:** 2 Kings 15:19–20.
+
+Tiglath-pileser III's Assyrian royal inscriptions name Menahem of Samaria among tributary rulers. This independently intersects the biblical report that Menahem paid substantial tribute to the Assyrian king.
+
+**Relation:** direct corroboration of person, polity, geopolitical relationship, and tribute.  
+**Confidence:** HIGH.
+
+**Qualification:** royal inscriptions require critical editions and attention to Assyrian propaganda. Exact monetary equivalence with 2 Kings is a separate question.
+
+Primary/specialist anchors:
+- Tiglath-pileser III annals and summary inscriptions;
+- critical editions to be added in the primary-source pass.
+
+### STP-HIST-019 — Pekah, Hoshea, and Assyrian intervention
+
+**Biblical locus:** 2 Kings 15:29–30; 17:1–6.
+
+Tiglath-pileser III's inscriptions report the overthrow of Pekah and installation/recognition of Hoshea as king over Israel, placing both named rulers in the Assyrian-Israelite political crisis described by Kings.
+
+**Relation:** direct corroboration of persons, succession, and Assyrian political intervention.  
+**Confidence:** HIGH.
+
+**Qualification:** the biblical text attributes Pekah's death to Hoshea's conspiracy; the Assyrian text frames the transition from the imperial king's perspective. The accounts should be compared rather than flattened into identical narratives.
+
+### STP-HIST-020 — Ahaz of Judah
+
+**Biblical locus:** 2 Kings 16; 2 Chronicles 28.
+
+Tiglath-pileser III's tribute lists include Ahaz (Jehoahaz) of Judah, independently attesting the Judahite king and his tributary relationship with Assyria.
+
+**Relation:** direct corroboration of person, kingdom, period, and geopolitical relationship.  
+**Confidence:** HIGH.
+
+**Qualification:** this bounded case does not independently establish every element of the Syro-Ephraimite-war narrative.
+
+### STP-HIST-021 — Manasseh king of Judah
+
+**Biblical locus:** 2 Kings 21; 2 Chronicles 33.
+
+Assyrian royal inscriptions of Esarhaddon and Ashurbanipal include Manasseh among western kings, identifying him as king of Judah.
+
+**Relation:** direct corroboration of person, title, polity, and Assyrian imperial context.  
+**Confidence:** HIGH.
+
+**Qualification:** the inscriptions attest Manasseh and his relationship to Assyrian imperial power. They do not independently establish the theological evaluation or all events narrated in Kings and Chronicles.
+
+### STP-HIST-022 — Gallio, proconsul of Achaia
+
+**Biblical locus:** Acts 18:12–17.
+
+The fragmentary Delphi inscription preserves an imperial communication of Claudius referring to Lucius Junius Gallio as his friend and **proconsul**. This independently matches Luke's title and provincial setting for Gallio.
+
+**Relation:** direct corroboration of person, office, province, and chronological setting.  
+**Confidence:** HIGH.
+
+**Qualification:** reconstruction of the fragmentary inscription and exact dating of Gallio's tenure depend on Claudius's titulature and specialist epigraphic work. The inscription does not mention Paul.
+
+Primary/specialist anchors:
+- Delphi inscription, *Fouilles de Delphes* III.4;
+- specialist chronology in the Gallio/Acts literature.
+
+### STP-HIST-023 — Tacitus on Christus, Pilate, Judea, and Rome
+
+**Biblical / early-Christian locus:** Gospel passion narratives; Acts; early Christian proclamation.
+
+Tacitus, *Annals* 15.44, writing in the early second century about Nero's response to the Roman fire of AD 64, identifies Christians by reference to Christus and states that Christus suffered the extreme penalty during Tiberius's reign under Pontius Pilate. He also locates the movement's origin in Judea and its subsequent presence in Rome.
+
+**Relation:** independent non-Christian literary corroboration of the movement, its founder-reference, execution under Pilate/Tiberius, Judean origin, and presence in first-century Rome.  
+**Confidence:** HIGH for Tacitus's testimony as transmitted; MEDIUM-HIGH for treating each underlying datum as independently sourced rather than information Tacitus could have obtained from contemporary Christian knowledge.
+
+**Qualification:** Tacitus wrote decades after the crucifixion and uses hostile language about Christianity. Source-critical questions concerning how he obtained his information remain relevant. His terminology “procurator” differs from the contemporary Pilate inscription's “prefect.”
+
+Primary anchor:
+- Tacitus, *Annals* 15.44.
+
+### STP-HIST-024 — Convergence of Kings with Neo-Assyrian royal records
+
+**Biblical locus:** 2 Kings 15–20.
+
+Across successive Neo-Assyrian reigns, external royal records intersect multiple named Israelite/Judahite kings and political relationships: Menahem, Pekah, Hoshea, Ahaz, Hezekiah, and Manasseh, alongside Samaria, Judah, tribute, conquest, succession, and imperial intervention.
+
+**Relation:** cumulative contextual and direct corroboration.  
+**Confidence:** HIGH.
+
+**Qualification:** this is a convergence case built from multiple primary records. It must remain traceable to the individual inscriptions and cannot be used to infer that every episode in Kings has been independently verified.
+
 ## Cases queued for expansion
 
 The next tranche should investigate:
