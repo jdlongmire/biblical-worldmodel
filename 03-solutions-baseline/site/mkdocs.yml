@@ -21,7 +21,6 @@ theme:
   - search.suggest
 nav:
 - Home: index.md
-- Mockup: mockup.md
 - Start Here: start-here.md
 - The Story: the-story.md
 - Scripture: scripture.md
