@@ -348,6 +348,115 @@ Across successive Neo-Assyrian reigns, external royal records intersect multiple
 
 **Qualification:** this is a convergence case built from multiple primary records. It must remain traceable to the individual inscriptions and cannot be used to infer that every episode in Kings has been independently verified.
 
+### STP-HIST-025 — Judean communities in Babylonia
+
+**Biblical locus:** 2 Kings 24–25; Ezekiel 1:1–3; 8:1; Ezra 1.
+
+The Al-Yahudu (“Judah-town”) cuneiform archive documents Judean deportee communities living in Babylonia after Nebuchadnezzar's deportations. The tablets show Judeans integrated into Babylonian rural administrative and economic life while retaining identifiable Judean names and communal identity.
+
+**Relation:** direct/contextual corroboration of a Judean Babylonian diaspora following the Neo-Babylonian deportations.  
+**Confidence:** HIGH.
+
+**Qualification:** the archive corroborates the existence, chronology, and social setting of deported Judean communities. Individual tablets do not establish the experiences of particular biblical figures such as Ezekiel.
+
+Primary/specialist anchors:
+- Al-Yahudu cuneiform tablets;
+- Laurie E. Pearce and Cornelia Wunsch, *Documents of Judean Exiles and West Semites in Babylonia in the Collection of David Sofer*;
+- Metropolitan Museum discussion of the Judean diaspora archive.
+
+### STP-HIST-026 — Josephus and James, brother of Jesus
+
+**Biblical / early-Christian locus:** Matthew 13:55; Mark 6:3; Acts 12:17; 15; 21; Galatians 1:19; 2.
+
+Josephus, *Antiquities* 20.200, reports that the high priest Ananus brought before the Sanhedrin “the brother of Jesus, who was called Christ, whose name was James,” and others, who were condemned.
+
+**Relation:** independent non-Christian literary corroboration of Jesus as a known referent, James as his brother, and James's presence in first-century Jerusalem.  
+**Confidence:** HIGH for the authenticity and historical value of the James passage.
+
+**Qualification:** Josephus wrote in the 90s AD. This case does not by itself establish claims about Jesus's resurrection or divine identity. Textual discussion of Josephus's separate *Testimonium Flavianum* must not be imported into this stronger James passage.
+
+Primary anchor:
+- Josephus, *Jewish Antiquities* 20.200, Greek text in the Niese edition.
+
+### STP-HIST-027 — Pliny the Younger and early Christian worship
+
+**Biblical / early-Christian locus:** early Christian proclamation reflected in the New Testament corpus.
+
+In a letter to Trajan from Bithynia-Pontus, c. AD 112, Pliny describes people accused of being Christians. Former adherents reported meeting on a fixed day before dawn, singing responsively to Christ “as to a god,” binding themselves to ethical conduct, and later sharing ordinary food. Pliny also reports testing accused Christians by requiring worship of Roman gods and abuse of Christ.
+
+**Relation:** independent Roman administrative corroboration of an established Christian movement, worship directed to Christ, regular assembly, ethical commitments, and geographic spread by the early second century.  
+**Confidence:** HIGH.
+
+**Qualification:** Pliny is evidence for Christian belief and practice in his own period and for some former members' recollections reaching earlier. He is not an independent eyewitness to Jesus's ministry.
+
+Primary anchor:
+- Pliny the Younger, *Epistles* 10.96–97.
+
+### STP-HIST-028 — Achaemenid imperial setting of Ezra-Nehemiah
+
+**Biblical locus:** Ezra; Nehemiah.
+
+The Persian-period narratives operate within the Achaemenid imperial world of Cyrus, Darius, Xerxes, and Artaxerxes, imperial administration, provincial governance, royal authorization, and restoration policy. Persian monumental and administrative evidence independently establishes this political order and its named rulers.
+
+**Relation:** contextual corroboration of imperial setting and named dynastic framework.  
+**Confidence:** HIGH.
+
+**Qualification:** this is deliberately a setting-level case. General Achaemenid correspondence does not independently authenticate every decree, official, journey, or event in Ezra-Nehemiah.
+
+Primary/institutional anchors:
+- Cyrus Cylinder;
+- Persepolis administrative and monumental corpora;
+- Achaemenid royal inscriptions;
+- Metropolitan Museum and Oriental Institute/Institute for the Study of Ancient Cultures collections.
+
+### STP-HIST-029 — Convergence of independent witnesses to first-century Christianity
+
+**Biblical / early-Christian locus:** Gospels, Acts, Pauline corpus.
+
+By the early second century, independent Roman and Jewish writers attest several bounded features of the first-century Christian phenomenon: Tacitus places Christus's execution under Pontius Pilate during Tiberius's reign and Christians in Nero's Rome; Josephus identifies James as brother of Jesus called Christ; Pliny documents established Christian worship of Christ and communities in Bithynia-Pontus.
+
+**Relation:** cumulative independent literary corroboration.  
+**Confidence:** HIGH for the existence and early geographic/social establishment of the Christian movement; claim-specific confidence remains governed by each witness.
+
+**Qualification:** convergence must not erase source dates, genres, dependencies, textual questions, or differences in what each witness actually knows.
+
+### STP-HIST-030 — Cross-domain historical convergence
+
+Across the first thirty ledger entries, the biblical corpus repeatedly intersects independently recoverable history through multiple evidence classes:
+
+- royal inscriptions;
+- military reliefs;
+- chronicles;
+- monumental inscriptions;
+- administrative tablets;
+- infrastructure and urban archaeology;
+- early biblical textual artifacts;
+- Roman epigraphy;
+- Jewish historiography;
+- Roman administrative correspondence;
+- hostile Roman historiography.
+
+**Relation:** cumulative meta-level corroboration of historical embeddedness.  
+**Confidence:** HIGH for the bounded conclusion that substantial portions of the biblical narratives operate in independently attested historical worlds with repeated correct contact points.
+
+**Qualification:** this is not a statistical proof of global biblical inerrancy and must never be represented as one. Its function in STP is narrower: it contributes to a cumulative rational-warrant case for taking biblical historical testimony seriously.
+
+## Tranche A v1.0 assessment
+
+The initial thirty-case ledger establishes a broad pattern of historical contact across different periods, polities, languages, genres, and evidence types. The strongest cases concern named rulers, dynasties, military campaigns, political offices, imperial relationships, geographical settings, and communities.
+
+The appropriate cumulative inference is:
+
+> **The biblical corpus repeatedly demonstrates historically responsible contact with independently recoverable reality. This provides positive evidence for treating its historical testimony as serious testimony rather than excluding it a priori.**
+
+The inappropriate inference is:
+
+> “Thirty corroborations prove every biblical proposition.”
+
+STP does not require that inference. The cumulative historical ledger is one strand among textual transmission, explanatory coherence, anthropology, wisdom, natural intelligibility, and the epistemology of testimony.
+
+**Tranche A status:** v1.0 research baseline reached at 30 cases. Further cases may be added, but the next scheduled research tranche is textual transmission and canon.
+
 ## Cases queued for expansion
 
 The next tranche should investigate:
