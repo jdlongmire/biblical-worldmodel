@@ -158,6 +158,109 @@ The Tyndale House Greek New Testament explicitly re-examined early manuscripts, 
 
 **Qualification:** disagreement between critical editions is evidence of remaining judgment calls at particular variants. It should be represented rather than hidden.
 
+### STP-TEXT-006 — Approximately 200 biblical manuscripts at Qumran
+
+The Israel Museum reports approximately two hundred copies of biblical books from Qumran, encompassing almost all books of the Hebrew Bible, with Nehemiah and Esther excepted in its summary.
+
+**Relation:** direct manuscript evidence for broad Second Temple-period circulation of biblical books.  
+**Confidence:** HIGH.
+
+**Qualification:** most witnesses are fragmentary. Presence at Qumran is evidence of circulation and use, not by itself evidence for a later closed canon identical in every respect to modern arrangements.
+
+### STP-TEXT-007 — Multiple Isaiah witnesses permit internal comparison
+
+Beyond 1QIsaᵃ, parts of roughly twenty additional Isaiah copies were found in the Qumran caves, with another witness at Wadi Murabba'at. This allows textual comparison within the ancient manuscript population rather than comparison of a single ancient scroll against medieval codices.
+
+**Relation:** direct comparative manuscript evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** individual Isaiah witnesses differ in date, preservation, and textual affinity. “Isaiah at Qumran” should not be represented as one uniform manuscript tradition.
+
+### STP-TEXT-008 — Proto-Masoretic textual forms before the medieval codices
+
+The Israel Museum summarizes evidence that a proto-Masoretic/proto-Rabbinic form held a special position during the Greco-Roman period. Judean Desert manuscripts from Masada, Wadi Murabba'at, Nahal Hever, and Nahal Tze'elim provide first- and second-century evidence for textual forms closely associated with the later Masoretic tradition.
+
+**Relation:** direct evidence that the medieval Masoretic tradition has substantially earlier manuscript antecedents.  
+**Confidence:** HIGH.
+
+**Qualification:** this does not erase textual plurality at Qumran or establish that every Masoretic reading is necessarily original.
+
+### STP-TEXT-009 — Aleppo Codex as a mature Masoretic witness
+
+The Aleppo Codex was copied in the tenth century and annotated/vocalized in the Ben Asher Masoretic tradition. The Israel Museum describes it as the finest extant example of the Masoretic version and the closest manuscript to the text of printed Hebrew Bibles in common use.
+
+**Relation:** direct witness to the mature medieval Masoretic textual system.  
+**Confidence:** HIGH.
+
+**Qualification:** portions of the codex are missing today. Its value lies in the quality and authority of the Masoretic tradition it witnesses, not in being the oldest Hebrew biblical manuscript.
+
+### STP-TEXT-010 — Nash Papyrus: pre-Qumran evidence and textual variation
+
+The Nash Papyrus, held by Cambridge University Library, dates to the second century BCE and contains the Decalogue and the Shema. Cambridge notes that its form of the Ten Commandments differs from the later standard biblical form.
+
+**Relation:** direct manuscript evidence for biblical/liturgical text in the Second Temple period and for real textual variation.  
+**Confidence:** HIGH.
+
+**Qualification:** the papyrus may have served a liturgical or phylactery-like purpose and is not a manuscript of a complete biblical book. Its mixed form should be analyzed rather than forced into a simplistic “unchanged text” narrative.
+
+### STP-TEXT-011 — Habakkuk textual witness embedded in ancient commentary
+
+The Qumran Habakkuk Commentary preserves the text of the first two chapters of Habakkuk interwoven with sectarian interpretation. It therefore witnesses both the biblical text and its authoritative interpretive use in the late Second Temple period.
+
+**Relation:** direct manuscript and reception evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** the commentary's interpretations belong to the Qumran community and are not evidence for the correctness of those interpretations.
+
+### STP-TEXT-012 — Deuteronomy and Psalms are multiply attested at Qumran
+
+Institutional summaries of the Qumran corpus report particularly numerous manuscript copies of Psalms and Deuteronomy. This provides a substantial comparative witness base for books that are also heavily cited in later Jewish and Christian literature.
+
+**Relation:** direct manuscript evidence for circulation and repeated copying.  
+**Confidence:** HIGH.
+
+**Qualification:** manuscript-count comparisons depend on how fragments and manuscripts are identified and catalogued. Exact counts should be sourced to current catalogues before being used quantitatively in public copy.
+
+### STP-TEXT-013 — Long-range continuity does not require identity
+
+The Great Isaiah Scroll supplies a useful methodological case: all 66 chapters survive in conventional order and the text generally agrees with the later Masoretic tradition, while the Israel Museum also reports more than 2,600 textual variants of differing kinds.
+
+**Relation:** direct evidence simultaneously supporting substantial continuity and genuine variation.  
+**Confidence:** HIGH.
+
+**STP significance:** the confidence case should reject the false choice between “perfectly identical copying” and “text hopelessly corrupted.” The manuscript evidence supports a more precise account in which continuity and variation are both observable and recoverability is evaluated passage by passage.
+
+### STP-TEXT-014 — Ancient textual plurality is itself recoverable
+
+Qumran witnesses preserve forms related to the later Masoretic text as well as readings associated with textual traditions reflected in the Septuagint and Samaritan Pentateuch. Because these forms survive side by side, modern textual criticism can identify and compare competing ancient readings rather than merely speculate that differences once existed.
+
+**Relation:** direct evidence about transmission history and methodological recoverability.  
+**Confidence:** HIGH.
+
+**Qualification:** assigning a manuscript or individual reading to a broad “text type” can oversimplify a complex textual history. Specialist treatment by Tov, Ulrich, and subsequent scholarship should govern technical classification.
+
+### STP-TEXT-015 — The Hebrew Bible transmission case is auditable from primary images
+
+High-resolution digitization by the Israel Museum and Israel Antiquities Authority makes representative Judean Desert manuscripts directly inspectable. The transmission argument therefore need not rest solely on apologetic descriptions of manuscripts.
+
+**Relation:** research transparency / primary-evidence accessibility.  
+**Confidence:** HIGH.
+
+**STP significance:** public-facing BWM resources should link readers downward to manuscript images and institutional catalogues wherever practical.
+
+## Hebrew Bible baseline assessment
+
+The first Hebrew transmission pass supports four bounded conclusions:
+
+1. **Antiquity:** substantial biblical manuscript evidence survives from centuries before the principal medieval Masoretic codices.
+2. **Continuity:** important witnesses, especially Isaiah, demonstrate substantial continuity with later textual traditions.
+3. **Variation:** the ancient evidence also preserves real differences, sometimes extending beyond spelling to words, phrases, and larger readings.
+4. **Recoverability:** multiple independent witnesses allow those differences to be compared and evaluated.
+
+The appropriate confidence claim is therefore not “the Hebrew Bible never changed.” A stronger and more defensible claim is:
+
+> **The surviving evidence exposes the Hebrew Bible's transmission history deeply enough to demonstrate substantial textual continuity while also identifying genuine variation. Confidence rests on an auditable manuscript tradition, not on the absence of scribal differences.**
+
 ## Research-source hierarchy
 
 ### Primary / manuscript infrastructure
