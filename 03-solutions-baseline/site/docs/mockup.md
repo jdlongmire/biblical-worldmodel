@@ -12,6 +12,18 @@ body:has(.bwm-mockup) .md-header,body:has(.bwm-mockup) .md-tabs,body:has(.bwm-mo
 </style>
 
 <style>
+.bwm-mockup{--muted:#d1e1e6}
+.bwm-mockup .bwm-button{color:var(--ivory)!important;text-decoration:none!important}
+.bwm-mockup .bwm-button-primary{color:#fff!important}
+.bwm-mockup .bwm-card-grid{display:grid;grid-template-columns:1fr;gap:18px;max-width:980px}
+.bwm-mockup .bwm-card{min-height:0;margin:0;padding:28px 26px 26px}
+.bwm-mockup .bwm-card h3{font-size:34px;margin:10px 0 12px}
+.bwm-mockup .bwm-card p{color:#d1e1e6;max-width:760px;font-size:16px;line-height:1.65}
+.bwm-mockup .bwm-card li{color:#e5f0f2;padding:11px 0}
+.bwm-mockup .bwm-card a{color:#7ee7ff!important}
+</style>
+
+<style>
 .bwm-transcript{border:1px solid #62dcff55;border-radius:5px;background:#061f2b;padding:16px 18px;margin:0 0 30px;color:var(--muted);font-size:14px;line-height:1.65}.bwm-transcript summary{color:var(--ivory);cursor:pointer;font-weight:600}.bwm-transcript p{margin:15px 0 0}.bwm-card a{position:relative;z-index:2;color:var(--cyan);font-size:12px;text-decoration:underline;text-underline-offset:3px}.bwm-source-links{border-top:1px solid #62dcff55;margin-top:28px;padding-top:22px;color:var(--muted);font-size:13px;line-height:1.7}.bwm-source-links a{color:var(--cyan)}.bwm-status{border-left:3px solid var(--amber);padding:10px 15px;margin:24px 0;color:var(--muted);font-size:13px}.bwm-status strong{color:var(--ivory)}
 </style>
 
