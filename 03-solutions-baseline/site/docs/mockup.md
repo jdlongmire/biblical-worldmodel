@@ -36,7 +36,7 @@ body:has(.bwm-mockup) .md-header,body:has(.bwm-mockup) .md-tabs,body:has(.bwm-mo
 <p class="bwm-tagline">Same observations. A different question.</p>
 
 <section class="bwm-hero">
-<div><div class="bwm-kicker">Start here · same observations, a different question</div>
+<div><div class="bwm-kicker">Start here</div>
 <h1>Can a Calculated Age Differ From Actual History?</h1>
 <p class="bwm-purpose">The Biblical WorldModel explores whether the Genesis account can provide a coherent framework for understanding a relatively young Earth and universe while taking the observations of modern science seriously.</p>
 <p class="bwm-purpose-secondary">Rather than beginning by rejecting scientific measurements or redefining Genesis to accommodate deep time, BWM asks a prior question:</p>
