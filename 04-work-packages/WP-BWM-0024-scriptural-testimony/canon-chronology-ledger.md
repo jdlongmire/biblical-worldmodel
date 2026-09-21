@@ -403,6 +403,122 @@ Before closing NT canon v1.0:
 - compare these with the explicit lists without treating codex contents as formal canon declarations.
 
 
+
+## NT canon v1.0 completion pass
+
+### NT-CAN-021 — Gregory of Nazianzus omits Revelation
+
+Gregory of Nazianzus's canonical poem enumerates the four Gospels, Acts, Catholic Epistles, and Pauline letters but omits Revelation.
+
+**Relation:** primary fourth-century list evidence.  
+**Confidence:** HIGH.
+
+**Significance:** another major eastern witness shows near-complete agreement with the later 27-book NT while retaining a boundary difference at Revelation.
+
+Primary anchor:
+- Gregory of Nazianzus, *Carmina* 1.1.12 / canonical poem; critical edition to be linked in source pass.
+
+### NT-CAN-022 — Amphilochius explicitly preserves disagreement
+
+Amphilochius of Iconium's *Iambics for Seleucus* lists the New Testament while openly noting disagreement: some accept Hebrews while others do not; some accept seven Catholic Epistles while others recognize fewer; and Revelation is accepted by some and rejected by many.
+
+**Relation:** primary fourth-century evidence for canon boundary disagreement.  
+**Confidence:** HIGH.
+
+**STP significance:** this is unusually valuable because the source itself refuses to erase uncertainty.
+
+Primary anchor:
+- Amphilochius, *Iambics for Seleucus*, as preserved in canonical collections.
+
+### NT-CAN-023 — Laodicea canon 59 is secure evidence for a canonical/noncanonical reading boundary
+
+Canon 59 of the Synod of Laodicea prohibits reading private psalms and uncanonical books in church and restricts ecclesial reading to canonical books of the Old and New Testaments.
+
+**Relation:** conciliar evidence for an operative canonical category.  
+**Confidence:** HIGH.
+
+Primary anchor:
+- Synod of Laodicea, canon 59.
+
+### NT-CAN-024 — Laodicea canon 60 must not be treated as secure original conciliar evidence
+
+The book list transmitted as canon 60 omits Revelation and otherwise gives a near-complete NT list. However, its genuineness as an original canon of Laodicea is seriously disputed. Older canon collections omit it, and the standard NPNF presentation explicitly labels it “of most questionable genuineness.”
+
+**Relation:** textual-history evidence concerning a canon list.  
+**Confidence:** HIGH that the transmitted list exists; LOW-MEDIUM that it belongs to the original Laodicean synod.
+
+**BWM rule:** cite canon 59 confidently; cite canon 60 only with the authenticity qualification.
+
+Primary/specialist anchors:
+- Laodicea canons 59–60;
+- H. R. Percival, NPNF II.14 notes;
+- B. F. Westcott's discussion of external evidence.
+
+### NT-CAN-025 — Early Syriac reception preserves a narrower Catholic-Epistle/Revelation boundary
+
+The early Syriac/Peshitta tradition received the four Gospels, Acts, Pauline corpus, and only three Catholic Epistles (James, 1 Peter, 1 John), while 2 Peter, 2–3 John, Jude, and Revelation were absent from the early Peshitta collection.
+
+**Relation:** manuscript/versional evidence for regional canon boundaries.  
+**Confidence:** HIGH for the traditional Peshitta boundary; individual manuscript chronology requires source-specific documentation.
+
+**Significance:** exact 27-book convergence was not geographically instantaneous.
+
+### NT-CAN-026 — Codex Sinaiticus is collection evidence, not a formal canon decree
+
+Codex Sinaiticus preserves the complete 27-book New Testament and also includes Barnabas and the Shepherd of Hermas.
+
+**Relation:** fourth-century manuscript-collection evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** codex contents show what was copied together; they do not by themselves establish that every included work held identical canonical status.
+
+### NT-CAN-027 — Codex Alexandrinus likewise warns against equating codex contents with formal canon
+
+Codex Alexandrinus contains the New Testament along with 1 and 2 Clement after Revelation, with the ending damaged.
+
+**Relation:** fifth-century manuscript-collection evidence.  
+**Confidence:** HIGH.
+
+**Significance:** physical inclusion is evidence of use and collection but must not automatically be converted into a formal canonical judgment.
+
+## NT canon v1.0 assessment
+
+The NT canon evidence now supports five bounded conclusions:
+
+1. **Early core:** by the late second century, a fourfold Gospel and substantial apostolic collection are clearly visible.
+2. **Persistent edge:** Hebrews, several Catholic Epistles, and Revelation show real regional/reception disputes.
+3. **Progressive convergence:** the fourth century displays increasing agreement, culminating in multiple witnesses to the 27-book collection.
+4. **Recognition language:** major witnesses describe inherited, acknowledged, received, or church-read books rather than a one-time act of creating authority.
+5. **Regional complexity:** Syriac and other traditions show that exact-list convergence did not occur everywhere at once.
+
+The best current historical model remains:
+
+> **The New Testament canon developed through circulation, use, recognition, collection, dispute, and boundary consolidation around an earlier stable core. Later lists and councils make the boundaries explicit; the evidence does not support a single late event that created the New Testament canon from scratch.**
+
+**NT Canon status:** v1.0 baseline reached. Further specialist bibliography and primary-edition links remain to be added.
+
+## Transition to Old Testament canon
+
+The Old Testament canon must now be opened as a separate research stream. It cannot simply inherit the NT model because:
+- Jewish scriptural collection predates Christianity;
+- textual form and canonical boundary are separate questions;
+- Septuagint manuscript collections vary;
+- later Jewish, Protestant, Catholic, and Orthodox canonical enumerations diverge;
+- patristic authors themselves preserve different OT lists and categories.
+
+The OT stream should begin with primary Jewish evidence before later Christian lists:
+1. Torah/Prophets/Writings signals within Scripture;
+2. Dead Sea Scrolls use and manuscript distribution;
+3. Josephus, *Against Apion* 1.37–43;
+4. 4 Ezra 14;
+5. Philo where relevant;
+6. Melito of Sardis, as cited in Eusebius;
+7. Origen, as cited in Eusebius;
+8. Cyril, Athanasius, Jerome, Augustine;
+9. Septuagint codex contents;
+10. rabbinic evidence, with dating discipline.
+
+
 ## Research queue
 
 ### Primary witnesses to add
