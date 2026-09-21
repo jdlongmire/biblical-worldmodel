@@ -153,6 +153,99 @@ Research follow-up:
 - locate Persian-period evidence specifically bearing on Yehud and temple restoration;
 - compare Ezra's decree language with known Persian administrative conventions.
 
+### STP-HIST-011 — Siloam Tunnel / Jerusalem waterworks
+
+**Biblical locus:** 2 Kings 20:20; 2 Chronicles 32:2–4, 30.
+
+A Hebrew inscription found inside the Siloam Tunnel describes two teams of stonecutters meeting as the tunnel was completed and water flowing from the source to the pool. Paleographic dating places the inscription in the late eighth century BC, the period of Hezekiah.
+
+**Relation:** contextual / infrastructure corroboration.  
+**Confidence:** HIGH for an eighth-century Jerusalem water-tunnel project; MEDIUM-HIGH for direct identification with the specific Hezekian works described in Kings and Chronicles.
+
+**Qualification:** the surviving inscription does not name Hezekiah. The biblical identification depends on archaeological, paleographic, topographical, and chronological convergence.
+
+Primary/institutional anchors:
+- Siloam Inscription, Istanbul Archaeological Museums;
+- University of Michigan Land of Israel/Palestine Image Database;
+- tunnel and water-system archaeological publications.
+
+### STP-HIST-012 — Ketef Hinnom and the Priestly Benediction
+
+**Biblical locus:** Numbers 6:24–26.
+
+Two silver amulets excavated at Ketef Hinnom in Jerusalem contain wording corresponding closely to the Priestly Benediction. The Israel Museum dates them to Iron Age II / sixth century BC and identifies them as the oldest copies of biblical text currently known.
+
+**Relation:** direct textual corroboration of an early Israelite/Judahite blessing tradition preserved in Numbers.  
+**Confidence:** HIGH.
+
+**Qualification:** the amulets establish the antiquity of the blessing and its use in pre-/exilic-period Judah. They do not by themselves establish when the final literary form of Numbers was composed.
+
+Primary/institutional anchors:
+- Israel Antiquities Authority objects;
+- Israel Museum, “Priestly Benediction on Silver Scrolls”;
+- Gabriel Barkay excavation/publication stream.
+
+### STP-HIST-013 — Pontius Pilate
+
+**Biblical locus:** Matthew 27; Mark 15; Luke 23; John 18–19; Acts 3:13; 4:27; 13:28.
+
+A Latin dedicatory inscription discovered at Caesarea names Pontius Pilate and identifies him as prefect of Judea. The artifact dates to his administration, c. AD 26–36.
+
+**Relation:** direct corroboration of person, office, province, and period.  
+**Confidence:** HIGH.
+
+**Qualification:** the inscription independently establishes Pilate's historicity and office. It does not independently establish his role in Jesus's trial.
+
+Primary/institutional anchors:
+- Israel Antiquities Authority;
+- Israel Museum, Pilate inscription from Caesarea.
+
+### STP-HIST-014 — Claudius and the expulsion from Rome
+
+**Biblical locus:** Acts 18:1–2.
+
+Acts states that Aquila and Priscilla had recently come from Italy because Claudius had ordered Jews to leave Rome. Suetonius independently reports disturbances involving Jews at Rome under Claudius and an expulsion. Cassius Dio and later Orosius are additional witnesses to Claudian measures affecting Jews.
+
+**Relation:** partial/direct literary corroboration of a Claudian expulsion or expulsions affecting Roman Jews.  
+**Confidence:** HIGH that Claudius took expulsion measures; MEDIUM for exact synchronization and dating with Acts 18.
+
+**Qualification:** the exact date, scope, number of expulsions, and interpretation of Suetonius's “Chrestus” remain debated. The ledger must not treat AD 49 as established solely from the convergence.
+
+Primary/specialist anchors:
+- Suetonius, *Claudius* 25.4;
+- Cassius Dio 60;
+- Dixon Slingerland, *Jewish Quarterly Review* 83 (1992), 127–144, as specialist treatment of the chronological problem.
+
+### STP-HIST-015 — Pool of Bethesda
+
+**Biblical locus:** John 5:2.
+
+John describes a pool near Jerusalem's Sheep Gate associated with five covered colonnades. Archaeological work at the Bethesda complex revealed twin pools divided by a central partition, a configuration capable of producing four perimeter colonnades plus a fifth along the division.
+
+**Relation:** contextual/topographical corroboration.  
+**Confidence:** MEDIUM-HIGH.
+
+**Qualification:** identification and architectural phases require careful archaeological treatment. The site corroborates John's knowledge of Jerusalem topography more strongly than it corroborates the healing event narrated in John 5.
+
+Primary/specialist anchors:
+- excavated Bethesda pool complex near St. Anne's;
+- École Biblique / site archaeological publications to be added in the specialist-source pass.
+
+### STP-HIST-016 — Pool of Siloam and first-century Jerusalem
+
+**Biblical locus:** John 9:7–11.
+
+Archaeological work in the City of David has established a substantial Second Temple-period pool and associated water infrastructure at Siloam. Israel Antiquities Authority publications document first-century construction and use in the Siloam area.
+
+**Relation:** contextual/topographical corroboration.  
+**Confidence:** HIGH for the existence and importance of the Siloam water complex in Second Temple Jerusalem; MEDIUM-HIGH for particular phase assignments relevant to John 9.
+
+**Qualification:** individual excavation areas and pool phases must be distinguished. Archaeological confirmation of the place does not establish the healing event.
+
+Primary/institutional anchors:
+- Israel Antiquities Authority excavation publications;
+- Greenhut and Mazor, *'Atiqot* 101, for a first-century plastered pool adjacent to the Siloam Pool.
+
 ## Cases queued for expansion
 
 The next tranche should investigate:
