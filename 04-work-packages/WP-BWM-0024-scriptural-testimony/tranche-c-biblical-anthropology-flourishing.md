@@ -563,6 +563,168 @@ Proceed with:
 - then synthesize Tranche C v1.0 with supporting and contrary evidence.
 
 
+
+## Family, work, community, and cross-national flourishing
+
+### STP-ANTH-023 — Positive parental relationships show broad cross-national association with adult flourishing
+
+Wave 1 of the Global Flourishing Study includes nationally representative samples from 22 countries and more than 200,000 participants. Retrospective childhood measures include relationships with mother and father, family financial conditions, abuse, health, and religious participation. The initial study reports positive childhood experiences, including good parental relationships, as associated with higher adult flourishing across many cultures.
+
+**Relation:** cross-national correspondence with C7.  
+**Confidence:** MEDIUM for life-course association because childhood measures are retrospective in Wave 1; higher confidence that the pattern is broad across the sampled countries.
+
+**Biblical correspondence:** Deuteronomy 6 and wisdom literature treat parent-child formation as consequential and intergenerational rather than incidental.
+
+**Qualification:** this does not establish a single idealized family structure as the causal mechanism for every outcome.
+
+Primary scholarly anchor:
+- VanderWeele et al. (2025), *Nature Mental Health* 3:636–653, DOI 10.1038/s44220-025-00423-5.
+
+### STP-ANTH-024 — Marriage/flourishing associations are broad but not culturally uniform
+
+Global Flourishing Study Wave 1 reports that married participants generally show higher flourishing than divorced/separated participants across the 22 countries, but the magnitude varies substantially. Married-versus-single comparisons are not uniform; in some countries single respondents report equal or higher flourishing.
+
+**Relation:** cross-national qualification relevant to C7.  
+**Confidence:** HIGH for the Wave 1 descriptive pattern; LOW for causal inference from marital status itself.
+
+**STP significance:** BWM should not turn biblical marriage theology into the empirical claim “married people always flourish more.” Cultural, selection, relationship-quality, age, and economic factors matter.
+
+### STP-ANTH-025 — Meaningful work is strongly associated with engagement and job satisfaction
+
+Allan et al. meta-analyzed 44 articles with 23,144 participants. Meaningful work showed large correlations with work engagement, organizational commitment, and job satisfaction; moderate-to-large associations with life satisfaction, life meaning, general health, and lower withdrawal intentions; and smaller associations with performance/citizenship outcomes.
+
+**Relation:** meta-analytic correspondence with C8.  
+**Confidence:** HIGH for association; MEDIUM for causal direction.
+
+**Biblical correspondence:** Genesis 2:15, Ecclesiastes 3:12–13, Colossians 3:23, and related texts portray work as purposeful stewardship/contribution rather than merely income acquisition.
+
+Primary scholarly anchor:
+- Allan, B.A., Batz-Barbarich, C., Sterling, H.M. and Tay, L. (2019), *Journal of Management Studies* 56:500–528, DOI 10.1111/joms.12406.
+
+### STP-ANTH-026 — Unemployment is associated with materially worse health outcomes
+
+A meta-regression using 62 all-cause mortality estimates from 36 studies across 15 nations found the individual-level unemployment-mortality association remained broadly present across different macroeconomic unemployment contexts.
+
+**Relation:** meta-analytic correspondence relevant to C8/C3.  
+**Confidence:** MEDIUM-HIGH for association; causal pathways include selection, income loss, stigma, isolation, and other mechanisms.
+
+**Biblical correspondence:** Scripture's positive account of work/contribution is consistent with work being socially and personally consequential, but unemployment must never be moralized as laziness. Biblical law and ethics also impose obligations of provision, generosity, and protection for economically vulnerable people.
+
+Primary scholarly anchor:
+- Roelfs et al. (2015), *Annals of Epidemiology* 25:312–322.
+
+### STP-ANTH-027 — Employment/flourishing association appears broadly cross-national
+
+In GFS Wave 1, employed respondents effectively universally report higher flourishing than unemployed respondents across the sampled countries, though effect magnitude varies substantially.
+
+**Relation:** cross-national correspondence with C8.  
+**Confidence:** HIGH for the Wave 1 descriptive pattern; LOW-MEDIUM for causal interpretation.
+
+**Qualification:** employment status is not equivalent to meaningful work, vocation, moral worth, or contribution. Students, retirees, caregivers, disabled persons, volunteers, and unpaid family workers expose the limits of a wage-employment proxy.
+
+### STP-ANTH-028 — Flourishing is empirically multidimensional across cultures
+
+The Global Flourishing Study uses nationally representative samples in 22 countries and measures happiness/life satisfaction, physical and mental health, meaning/purpose, character/virtue, close social relationships, and material/financial stability. The first-wave results show substantial cross-country variation rather than one simple ranking across all dimensions.
+
+**Relation:** cross-national construct correspondence with C3/C6/C7/C8/C10.  
+**Confidence:** HIGH.
+
+**Biblical correspondence:** Scripture's wisdom anthropology likewise resists reducing the good life to wealth, pleasant affect, health, or social status alone.
+
+**Qualification:** the GFS definition is intentionally pluralistic and does not encode a Christian telos.
+
+### STP-ANTH-029 — Wealth does not exhaust meaning or flourishing
+
+GFS Wave 1 results show that national wealth and individual flourishing dimensions do not move uniformly together. Richer countries can perform better on material security while reporting weaker meaning, relationship, or other flourishing dimensions than some less wealthy societies.
+
+**Relation:** cross-national correspondence with C6.  
+**Confidence:** MEDIUM-HIGH for descriptive association.
+
+**Biblical correspondence:** Ecclesiastes and Jesus's teachings repeatedly reject material abundance as an exhaustive measure of a life going well.
+
+**Qualification:** this does not establish that poverty is spiritually or psychologically beneficial. Material deprivation remains a serious harm.
+
+### STP-ANTH-030 — Religious participation and flourishing show broad cross-national association
+
+GFS Wave 1 reports that frequent religious-service attenders show higher flourishing than those who never attend across the 22 sampled countries, though the size of the difference varies and some confidence intervals approach null.
+
+**Relation:** cross-national correspondence with C3/C6/C10.  
+**Confidence:** HIGH for descriptive Wave 1 association; LOW-MEDIUM for causal inference until longitudinal waves mature.
+
+**Qualification:** “religious attendance” aggregates traditions and motivations and cannot be equated directly with Christian discipleship.
+
+## Tranche C v1.0 synthesis
+
+Thirty evidence entries now span both the diagnostic and positive dimensions of biblical anthropology:
+
+### Diagnostic correspondence
+
+Independent behavioral research repeatedly finds humans to be:
+- norm-aware yet behaviorally inconsistent;
+- susceptible to motivated reasoning;
+- self-serving in attribution;
+- protective of moral self-image;
+- socially comparative;
+- vulnerable to envy;
+- partial toward groups;
+- sensitive to status and hierarchy.
+
+### Positive/wisdom correspondence
+
+Research also supports the human importance of:
+- forgiveness;
+- self-regulation;
+- meaning and purpose;
+- relationships and social integration;
+- family/parental formation;
+- meaningful contribution/work;
+- resilience and hope;
+- multidimensional rather than merely hedonic flourishing.
+
+### Bounded cumulative inference
+
+The appropriate STP conclusion is:
+
+> **Biblical anthropology demonstrates substantial explanatory correspondence with independently observed human behavior. Scripture describes humans as morally conflicted, relational, self-interested, status-sensitive, meaning-seeking, habit-forming, socially embedded, and capable of both destructive vice and cultivated virtue. Modern behavioral and flourishing research does not establish the theological claims that explain this anthropology, but it repeatedly encounters the kinds of human tendencies and needs the biblical corpus describes.**
+
+This contributes to cumulative warrant because Scripture's explanatory reach is not confined to isolated ancient historical claims. Its account of human beings remains recognizably engaged with observable human reality.
+
+## Important limits
+
+Tranche C does **not** establish:
+- original sin from psychology;
+- divine inspiration from flourishing correlations;
+- Christianity's truth because religious participants sometimes report better outcomes;
+- guaranteed health or prosperity from obedience;
+- one culturally invariant empirical effect size for biblical practices;
+- that modern psychological categories exhaust biblical anthropology.
+
+It does establish that the biblical account generates many bounded propositions about human behavior that remain empirically recognizable rather than becoming obsolete descriptions of an alien ancient psychology.
+
+**Tranche C status:** v1.0 baseline reached.
+
+## Next research transition
+
+Open **Tranche D — Epistemology of Testimony, Naturalism, and Historical Inference**.
+
+This tranche should establish the philosophical bridge needed for BWM:
+
+```text
+ordinary knowledge depends heavily on testimony
+        +
+historical knowledge necessarily uses testimony and inference
+        +
+methodological naturalism is a disciplinary constraint
+        ≠
+metaphysical naturalism
+        ↓
+Scriptural testimony cannot be excluded from historical consideration
+merely by defining supernatural testimony as inadmissible
+```
+
+The tranche must distinguish “admissible as evidence” from “automatically true.”
+
+
 ## Research-source backbone
 
 Priority sources include:
