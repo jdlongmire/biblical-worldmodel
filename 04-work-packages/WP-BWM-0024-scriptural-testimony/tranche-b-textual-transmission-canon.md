@@ -261,6 +261,171 @@ The appropriate confidence claim is therefore not “the Hebrew Bible never chan
 
 > **The surviving evidence exposes the Hebrew Bible's transmission history deeply enough to demonstrate substantial textual continuity while also identifying genuine variation. Confidence rests on an auditable manuscript tradition, not on the absence of scribal differences.**
 
+## New Testament manuscript baseline
+
+### STP-TEXT-016 — Greek manuscript tradition is directly catalogued and researchable
+
+The Institute for New Testament Textual Research (INTF) maintains the New Testament Virtual Manuscript Room as a research environment for cataloguing, imaging, indexing, transcribing, and studying known Greek New Testament manuscript resources.
+
+**Relation:** primary research-infrastructure evidence.  
+**Confidence:** HIGH.
+
+**What it establishes:** the Greek manuscript tradition is sufficiently extensive and preserved to support direct comparative textual research.
+
+**Qualification:** the number of catalogued manuscripts is not itself a measure of textual truth or inspiration.
+
+Primary anchor:
+- INTF / New Testament Virtual Manuscript Room.
+
+### STP-TEXT-017 — Reconstruction uses the whole manuscript tradition
+
+INTF states that its central task is to research the textual history of the New Testament and reconstruct its Greek initial text using the manuscript tradition, early translations, and patristic citations.
+
+**Relation:** methodological evidence concerning recoverability.  
+**Confidence:** HIGH.
+
+**STP significance:** textual confidence should be grounded in comparative reconstruction rather than the slogan “we have lots of manuscripts.”
+
+### STP-TEXT-018 — Early papyri materially shorten the transmission interval
+
+The catalogued New Testament manuscript tradition includes papyrus witnesses from the early centuries of Christian transmission. These witnesses preserve portions of Gospels, Pauline letters, Catholic Epistles, Acts, and Revelation and permit direct comparison with later majuscule and minuscule traditions.
+
+**Relation:** direct manuscript evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** individual papyri differ sharply in date, size, contents, scribal quality, and textual significance. “Early papyri” must not be treated as a single uniform witness.
+
+Primary anchors:
+- INTF Gregory-Aland catalogue / NTVMR;
+- CSNTM manuscript images and metadata.
+
+### STP-TEXT-019 — P52 as an early Johannine witness
+
+Papyrus 52 preserves a small portion of John 18. It is historically important as an early witness to the circulation of John's Gospel.
+
+**Relation:** direct manuscript evidence for early circulation.  
+**Confidence:** HIGH that P52 witnesses John 18; MEDIUM for narrow popular datings.
+
+**Qualification:** P52 is a tiny fragment. Paleographic dating is a range, not a timestamp. BWM should avoid repeating highly precise “AD 125” claims as though the date were independently fixed.
+
+### STP-TEXT-020 — P46 and an early Pauline collection
+
+Papyrus 46 preserves a substantial collection of Pauline letters and is one of the major early witnesses to the Pauline corpus.
+
+**Relation:** direct manuscript evidence for early collection and transmission of Pauline letters.  
+**Confidence:** HIGH.
+
+**Qualification:** dating remains paleographic and the codex is incomplete. Its surviving order and contents should be described from the manuscript rather than retrojected into later canonical arrangements.
+
+### STP-TEXT-021 — P66 and substantial early John
+
+Papyrus 66 preserves a large portion of the Gospel of John and provides an early, extensive witness whose corrections and scribal behavior can be studied directly.
+
+**Relation:** direct manuscript evidence and scribal-practice evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** the manuscript contains numerous corrections and variants. Those features are evidence for textual criticism, not evidence against the existence of a recoverable text.
+
+### STP-TEXT-022 — P75 and early Luke-John transmission
+
+Papyrus 75 preserves substantial portions of Luke and John and provides an important early witness for comparing Gospel transmission with later major codices.
+
+**Relation:** direct comparative manuscript evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** textual affinity should be described with current specialist analysis rather than older simplistic “text-type” labels where those obscure the evidence.
+
+### STP-TEXT-023 — Codex Sinaiticus provides a fourth-century near-complete New Testament witness
+
+Codex Sinaiticus is a fourth-century Greek Bible preserving the complete New Testament along with substantial Old Testament material and additional early Christian works.
+
+**Relation:** direct manuscript evidence.  
+**Confidence:** HIGH.
+
+**STP significance:** it provides a major early checkpoint for the New Testament textual tradition across essentially the entire corpus.
+
+**Qualification:** inclusion of Barnabas and the Shepherd of Hermas is relevant to canon-history analysis and should not be hidden.
+
+### STP-TEXT-024 — Codex Vaticanus provides an independent fourth-century major witness
+
+Codex Vaticanus is a fourth-century Greek biblical codex and one of the most important witnesses used in New Testament textual criticism.
+
+**Relation:** direct comparative manuscript evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** its New Testament is not fully preserved to the end. Its agreement and disagreement with other early witnesses are both evidentially useful.
+
+### STP-TEXT-025 — Independent critical editions test recoverability
+
+The Tyndale House Greek New Testament was produced through a fresh philological examination of early manuscript evidence and scribal habits rather than simple reproduction of Nestle-Aland. Its editors explicitly seek the earliest recoverable wording.
+
+**Relation:** methodological convergence.  
+**Confidence:** HIGH.
+
+**STP significance:** independently executed critical work can be compared against other editions. Broad agreement and localized disagreement provide a more meaningful recoverability test than manuscript-count slogans.
+
+Primary anchor:
+- Tyndale House Greek New Testament project documentation.
+
+### STP-TEXT-026 — Scribal habits are empirically investigable
+
+Modern textual criticism studies recurring copying behaviors within individual manuscripts and manuscript families. Work on papyri and later codices permits hypotheses about additions, omissions, harmonization, spelling, memory effects, and other copying phenomena to be tested against actual scribal performance.
+
+**Relation:** methodological evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** no single rule such as “the shorter reading is always earlier” is sufficient. Individual variation units require documentary and transcriptional analysis.
+
+### STP-TEXT-027 — Manuscript abundance increases observable variation
+
+A large manuscript tradition necessarily exposes many differences because there are many opportunities for comparison. Raw variant counts therefore cannot be interpreted without denominators, variant classification, manuscript relationships, and the amount of text represented.
+
+**Relation:** methodological/quantitative clarification.  
+**Confidence:** HIGH.
+
+**STP significance:** BWM should not use either “hundreds of thousands of variants” as a corruption argument or “thousands of manuscripts” as a reliability proof without explaining what those numbers mean.
+
+### STP-TEXT-028 — Critical editions openly mark uncertainty
+
+Modern Greek New Testament editions include apparatuses that expose alternative readings and editorial decisions. Tyndale House, Nestle-Aland/UBS, and the Editio Critica Maior differ in scope and method but make textual uncertainty inspectable rather than concealing it.
+
+**Relation:** methodological transparency.  
+**Confidence:** HIGH.
+
+**Qualification:** an apparatus is an editorial representation of evidence, not the evidence itself. Primary manuscript witnesses remain the final documentary layer.
+
+### STP-TEXT-029 — Early manuscript witnesses disagree locally while transmitting the same works
+
+Papyri and major codices exhibit real differences at particular readings while remaining recognizable witnesses to the same New Testament writings. This combination permits textual history to be reconstructed through agreement, disagreement, and identifiable scribal behavior.
+
+**Relation:** direct comparative evidence.  
+**Confidence:** HIGH.
+
+**STP significance:** as with the Hebrew Bible, the strongest confidence case is neither “perfect copying” nor “hopeless corruption.” It is an evidence-rich transmission history with localized uncertainty.
+
+### STP-TEXT-030 — New Testament transmission is auditable
+
+INTF/NTVMR, CSNTM, major libraries, and digitization projects provide direct access to manuscript metadata, images, transcriptions, and critical resources. Readers and researchers can therefore move from an apologetic claim toward the underlying documentary evidence.
+
+**Relation:** research transparency.  
+**Confidence:** HIGH.
+
+## New Testament baseline assessment
+
+The initial New Testament transmission pass supports five bounded conclusions:
+
+1. **Early evidence exists:** papyri materially reduce the documentary gap between composition and surviving witnesses.
+2. **Broad corpus evidence exists:** fourth-century codices provide large-scale checkpoints across most or all of the New Testament.
+3. **Variation is visible:** manuscripts contain real differences and corrections.
+4. **Variation is analyzable:** multiple witnesses, scribal-habit studies, versions, and patristic evidence permit reconstruction rather than guesswork.
+5. **Residual uncertainty is localized:** critical editions explicitly expose places where editorial judgment remains contested.
+
+The appropriate working claim is:
+
+> **The New Testament survives in an unusually rich and directly inspectable manuscript tradition. That tradition contains genuine textual variation, but the variation itself is preserved in sufficient evidence to permit detailed reconstruction of the text and transparent identification of disputed readings.**
+
+This claim remains provisional pending the major-variant ledger and quantitative-statistics audit.
+
 ## Research-source hierarchy
 
 ### Primary / manuscript infrastructure
