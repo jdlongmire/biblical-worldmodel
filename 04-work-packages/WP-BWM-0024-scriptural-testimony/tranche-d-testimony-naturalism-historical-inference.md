@@ -460,6 +460,244 @@ The bounded conclusion is:
 6. Then close Tranche D v1.0 and begin the cumulative STP synthesis.
 
 
+
+## Initial conditions, retrodiction, and the BWM bridge
+
+### STP-EPI-025 — Present state does not uniquely encode its causal history without a model
+
+Let (S_t) be the observed state of a system at present time (t). A retrodictive model (R) maps the present state plus assumptions (A) to a proposed prior history (H):
+
+```text
+R(S_t, A) → H
+```
+
+The observed state alone is therefore not identical to the reconstructed history.
+
+Different assumptions concerning initial conditions, causal processes, rates, boundary conditions, interventions, or discontinuities can in principle generate different histories compatible with portions of the same present evidence.
+
+**Relation:** formal historical-inference distinction.  
+**Confidence:** HIGH.
+
+**BWM significance:** this is the formal version of the site's observed-state/model-assumptions/extrapolated-age distinction.
+
+### STP-EPI-026 — Retrodictive age is model-relative
+
+For an observed state (S_t), an age estimate can be represented schematically as:
+
+```text
+A_r = f(S_t | I, L, P, C)
+```
+
+where:
+- (A_r) = retrodictive/extrapolated age;
+- (I) = assumed initial conditions;
+- (L) = governing laws/process relations;
+- (P) = assumed historical process regime/rates;
+- (C) = continuity/closure assumptions.
+
+The calculation can be mathematically correct conditional on those assumptions while the inferred history remains false if one or more historical assumptions do not describe the actual past.
+
+**Confidence:** HIGH as a conditional-model statement.
+
+**No-smuggling rule:** this formalism does not show that conventional age estimates are wrong. It identifies the assumptions that connect measurement to elapsed history.
+
+### STP-EPI-027 — Historical testimony can function as information about initial or boundary conditions
+
+If a credible historical source supplies information (T) about a system's initial state or later intervention, the reconstruction problem changes:
+
+```text
+R(S_t, A) → H_1
+
+R(S_t, A, T) → H_2
+```
+
+The testimony does not override present evidence. It becomes an additional evidentiary constraint to be reconciled with that evidence.
+
+**Relation:** formal testimony/history bridge.  
+**Confidence:** HIGH.
+
+**BWM significance:** Genesis is relevant to origins models if it supplies truthful information about initial conditions, creation acts, sequence, or subsequent history.
+
+### STP-EPI-028 — Functional initialization creates a principled retrodiction limit
+
+Suppose a system is initialized at (t_0) in a mature functional state (S_0), and ordinary post-initialization dynamics (F) govern later states:
+
+```text
+S_t = F^{t-t_0}(S_0)
+```
+
+A backward model that assumes (S_0) itself arose solely through earlier iterations of (F) may infer a hypothetical prehistory:
+
+```text
+... F^{-2}(S_0), F^{-1}(S_0), S_0
+```
+
+If the initialization event did not arise through that prehistory, the backward extension passes the actual historical boundary.
+
+**Relation:** formal DFM bridge.  
+**Confidence:** HIGH as a logical/model statement.
+
+**Qualification:** whether any real-world system was initialized this way is an empirical/theological question. The formal possibility alone does not establish DFM.
+
+### STP-EPI-029 — Adam and Cana illustrate the same retrodictive structure if the biblical testimony is true
+
+If Adam was created as a functioning adult and Cana wine was created as actual wine, then ordinary-process retrodiction from their mature states would generate developmental histories that did not occur.
+
+The structure is:
+
+```text
+real present properties
++
+ordinary process knowledge
+        ↓
+valid conditional formation-time estimate
+
+but
+
+formation-time estimate
+        ≠ necessarily
+elapsed historical time
+```
+
+**Relation:** canonical thought-experiment bridge.  
+**Confidence:** HIGH conditional on the biblical events as interpreted.
+
+**Qualification:** Adam/Cana establish a theological analogy within the Christian hard core; they do not independently prove that rocks, stars, isotopic systems, or biological structures were initialized analogously.
+
+### STP-EPI-030 — BWM therefore has a two-stage burden
+
+BWM cannot move directly from “retrodiction is model-dependent” to “the biblical chronology is correct.”
+
+It must establish:
+
+**Stage 1 — epistemic possibility**
+
+```text
+present state
+does not uniquely entail
+ordinary-process prehistory
+```
+
+**Stage 2 — historical/model adequacy**
+
+```text
+specific biblical historical constraints
++
+specific initialized-state hypothesis
++
+specific subsequent-history model
+        ↓
+must explain the actual evidence
+better than or competitively with alternatives
+```
+
+This is the no-free-lunch requirement connecting STP to DFM.
+
+## Formal BWM reconstruction architecture
+
+Define:
+
+- (O) = present observations;
+- (M) = measurement models;
+- (I) = initial-condition hypothesis;
+- (L) = lawful/process relations;
+- (H) = proposed subsequent history;
+- (T) = testimonial historical constraints;
+- (E) = expected present evidence under the model.
+
+A conventional reconstruction can be represented schematically as:
+
+```text
+(O, M, assumptions about I/L/H) → reconstructed history
+```
+
+BWM proposes that credible scriptural testimony (T) may constrain (I) and (H):
+
+```text
+T → constraints(I, H)
+```
+
+A candidate BWM model must then satisfy:
+
+```text
+(I, L, H) → E
+```
+
+with:
+
+```text
+E ≈ O
+```
+
+The model succeeds only insofar as the expected observable state matches the real observable state without illicitly protecting the model through unconstrained auxiliaries.
+
+## Falsification and burden rules
+
+The STP hard core does not make every BWM model unfalsifiable.
+
+A protective-belt model can fail if:
+- it predicts observations not found;
+- it cannot account for observations it purports to explain;
+- required auxiliary assumptions become unconstrained or mutually inconsistent;
+- a competing model explains the same evidence with materially greater scope and fewer unsupported assumptions;
+- its interpretation of the biblical constraint is shown exegetically defective.
+
+Model failure does not entail Scripture failure because:
+
+```text
+Scripture ≠ BWM interpretation/model of Scripture
+Nature ≠ BWM interpretation/model of Nature
+```
+
+This preserves the Lakatosian structure already adopted by BWM.
+
+## Tranche D v1.0 synthesis
+
+Tranche D now establishes:
+
+1. Testimony is a normal, indispensable, defeasible source of human knowledge.
+2. Historical reconstruction is inference from heterogeneous surviving evidence.
+3. Methodological naturalism and metaphysical naturalism are distinct.
+4. Sophisticated metaphysical naturalism has arguments beyond methodological success and must be engaged on their merits.
+5. Miracle testimony is neither automatically true nor rationally excluded merely by classification as supernatural.
+6. Present observations require assumptions and models to become historical reconstructions.
+7. Credible testimony about initial conditions can rationally alter the reconstruction problem.
+8. Functional initialization, if historical, places a boundary on backward extrapolation through ordinary post-initialization processes.
+9. BWM therefore bears an empirical/modeling burden after establishing epistemic admissibility.
+
+The resulting bridge is:
+
+```text
+STP cumulative source warrant
+        +
+testimonial admissibility
+        +
+historical inference structure
+        ↓
+Genesis may rationally constrain initial conditions/history
+        ↓
+BWM model construction
+        ↓
+empirical/explanatory testing against present observations
+```
+
+**Tranche D status:** v1.0 baseline reached.
+
+## Transition to cumulative STP synthesis
+
+The next artifact should synthesize WP-BWM-0024 as a whole:
+
+- hard-core Scriptural Testimony Principle;
+- historical evidence;
+- textual transmission/canon;
+- anthropology/wisdom;
+- epistemology/testimony;
+- BWM origins bridge;
+- explicit limitations and defeaters;
+- public-facing confidence argument;
+- reader-resource ladder from accessible apologetics to primary evidence.
+
+
 ## Research queue
 
 1. Deepen testimony epistemology with Coady, Fricker, Burge, Lackey, and contemporary social epistemology.
