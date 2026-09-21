@@ -122,6 +122,121 @@ The appropriate provisional claim is:
 
 > **By the late first century, Jewish sources provide explicit evidence for a bounded body of authoritative Scripture, while the Qumran library shows that authoritative Scripture existed within a much larger religious literary environment. The precise title-level mapping and later Christian Old Testament boundaries require further evidence.**
 
+
+## Early Christian reception of the Jewish Scriptures
+
+### OT-CAN-009 — Melito of Sardis sought the “books of the Old Testament” in the East
+
+Eusebius preserves an extract from Melito of Sardis's *Extracts*, addressed to Onesimus. Melito says that he traveled east, to the places where the events had occurred, to learn accurately “the books of the Old Testament” and their number/order.
+
+**Relation:** second-century Christian canon inquiry, mediated through Eusebius.  
+**Confidence:** HIGH for the content as preserved by Eusebius.
+
+**Source discipline:** cite **Melito, as cited in Eusebius, *Ecclesiastical History* 4.26**.
+
+**Significance:** Melito's method shows a Christian bishop seeking the inherited scriptural collection from the geographic/Jewish context rather than presenting the OT collection as a new Christian creation.
+
+### OT-CAN-010 — Melito's surviving list closely tracks the Hebrew-scripture corpus
+
+Melito's list, as preserved by Eusebius, includes the Pentateuch, Joshua, Judges, Ruth, four Kingdoms, Chronicles, Psalms, Proverbs/Wisdom, Ecclesiastes, Song of Songs, Job, Isaiah, Jeremiah, the Twelve, Daniel, Ezekiel, and Ezra.
+
+**Relation:** explicit second-century Christian OT list.  
+**Confidence:** HIGH for the transmitted list.
+
+**Qualification:** Esther is absent from the surviving list. “Wisdom” is associated with Solomon/Proverbs in the transmitted wording and must not be automatically identified with the deuterocanonical Wisdom of Solomon without specialist analysis.
+
+### OT-CAN-011 — Origen reports a 22-book Hebrew collection
+
+Eusebius preserves Origen's statement that the Hebrews hand down twenty-two canonical books, corresponding to the number of Hebrew letters, followed by a title-by-title catalogue using Hebrew names.
+
+**Relation:** third-century Christian report of Jewish canonical enumeration, mediated through Eusebius.  
+**Confidence:** HIGH for Origen's report as preserved.
+
+**Source discipline:** cite **Origen, as cited in Eusebius, *Ecclesiastical History* 6.25**.
+
+### OT-CAN-012 — Origen's list is valuable precisely because it exposes counting and naming conventions
+
+Origen gives Hebrew/transliterated titles and explains combined books, providing evidence for how a 22-book enumeration can represent a corpus whose modern Christian editions divide several works differently.
+
+**Relation:** title-level boundary/counting evidence.  
+**Confidence:** HIGH.
+
+**Qualification:** the preserved passage and its textual history require critical-edition review before BWM publishes a reconstructed modern 39-book mapping as though Origen himself used that enumeration.
+
+### OT-CAN-013 — Athanasius explicitly lists 22 canonical OT books
+
+In Festal Letter 39, Athanasius states that the Old Testament contains twenty-two books, “the number of the letters among the Hebrews,” and supplies a title-level list.
+
+His canonical list includes:
+- Pentateuch;
+- Joshua;
+- Judges;
+- Ruth;
+- Kingdoms and Chronicles under combined counting;
+- Ezra;
+- Psalms;
+- Proverbs;
+- Ecclesiastes;
+- Song of Songs;
+- Job;
+- Twelve Prophets;
+- Isaiah;
+- Jeremiah together with Baruch, Lamentations, and the Epistle;
+- Ezekiel;
+- Daniel.
+
+**Relation:** direct fourth-century Christian canonical-list evidence.  
+**Confidence:** HIGH. citeturn0search0
+
+### OT-CAN-014 — Athanasius distinguishes canonical books from books appointed for reading
+
+After his canonical list, Athanasius explicitly distinguishes other books “not indeed included in the Canon” but appointed for instruction, naming Wisdom of Solomon, Sirach, Esther, Judith, and Tobit, together with the Didache and Shepherd on the Christian side. citeturn0search0
+
+**Relation:** direct evidence for graded scriptural/ecclesial status.  
+**Confidence:** HIGH.
+
+**Significance:** Athanasius cannot be accurately summarized either as simply holding the later Protestant OT boundary or as treating all books commonly found in later Greek Christian collections as equally canonical.
+
+### OT-CAN-015 — Athanasius demonstrates that “22 books” does not equal a simple modern Protestant title list
+
+Athanasius's 22-book list includes Baruch and the Epistle with Jeremiah while placing Esther outside his canon proper. citeturn0search0
+
+**Relation:** boundary/counting qualification.  
+**Confidence:** HIGH.
+
+**STP significance:** numerical agreement such as “22 books” must never be treated as proof of exact title-level identity between Josephus, Origen, Athanasius, and later Protestant enumeration.
+
+## Convergence assessment v0.2
+
+The evidence now displays a significant pattern:
+
+```text
+Josephus (Jewish, late 1st c.): 22 divine books
+4 Ezra (Jewish, late 1st/early 2nd c.): 24 public books
+Melito (Christian, 2nd c.): explicit OT list sought in the East
+Origen (Christian, 3rd c.): reports Hebrew 22-book collection
+Athanasius (Christian, 4th c.): 22-book canonical list + separate reading books
+```
+
+This supports a bounded conclusion:
+
+> **Early Jewish and Christian witnesses repeatedly attest a bounded inherited corpus associated with the Hebrew Scriptures, while differences in counting, individual titles, and the status of several books remain visible.**
+
+The evidence does not support either simplification:
+- “the exact later Protestant 39-book OT was listed identically by every early witness”; or
+- “there was no meaningful bounded Hebrew-scripture corpus before late church decisions.”
+
+## Next pass
+
+Proceed with:
+- Cyril of Jerusalem's OT list;
+- Jerome's *Prologus Galeatus* and Hebrew-book criterion;
+- Augustine's broader OT list;
+- Septuagint codex contents;
+- rabbinic 24-book enumeration;
+- then map the later Protestant/Catholic/Orthodox divergence without deciding the theological boundary merely from historical frequency.
+
+
 ## Next primary-source pass
 
 1. Internal Torah / Prophets / Psalms-Writings signals.
