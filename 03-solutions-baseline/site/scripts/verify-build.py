@@ -18,7 +18,12 @@ def verify_home_styles(html, config):
     parser=Stylesheets(); parser.feed(html)
     actual=[urljoin(config["site_url"], href) for href in parser.hrefs]
     expected=[urljoin(config["site_url"], href) for href in config["extra_css"]]
-    assert actual == expected, f"Homepage stylesheet order/content mismatch: {actual} != {expected}"
+    # Material contributes its own theme styles before the configured site styles.
+    # Require the configured sequence to remain intact without rejecting those theme links.
+    for offset in range(len(actual) - len(expected) + 1):
+        if actual[offset:offset + len(expected)] == expected:
+            return
+    raise AssertionError(f"Homepage stylesheet order/content mismatch: {actual} != {expected}")
 
 site=Path(__file__).resolve().parents[1]
 subprocess.run([sys.executable,str(site/'scripts/test-verify-assets.py')],check=True)
