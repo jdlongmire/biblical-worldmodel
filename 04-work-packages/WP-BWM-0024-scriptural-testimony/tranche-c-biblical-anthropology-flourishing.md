@@ -173,6 +173,121 @@ The Human Flourishing Program explicitly acknowledges reverse causation and conf
 
 **STP significance:** BWM should privilege rigorous longitudinal/intervention evidence and avoid building the confidence case from cross-sectional “religious people are happier” statistics.
 
+
+## Moral inconsistency, self-deception, and partiality baseline
+
+### STP-ANTH-006 — Moral hypocrisy is experimentally observable
+
+Batson et al. experimentally studied “moral hypocrisy,” defined as appearing moral to oneself without consistently acting morally. Participants could assign a desirable and undesirable task to themselves or another participant. Even when participants used an apparently fair coin procedure, outcomes disproportionately favored the self. Increasing self-awareness and behavior-standard comparison altered the effect under some conditions.
+
+**Relation:** experimental correspondence with C1.  
+**Confidence:** MEDIUM-HIGH.
+
+**Biblical correspondence:** Scripture repeatedly describes humans as capable of recognizing moral standards while bending judgment toward self-interest (e.g., 2 Samuel 12:1–7; Jeremiah 17:9; Matthew 7:3–5; Romans 2:1–3).
+
+**Qualification:** the experiments demonstrate a bounded behavioral phenomenon, not the biblical doctrine of sin as a whole.
+
+Primary scholarly anchor:
+- Batson, C.D. et al. (1999), “Moral hypocrisy: appearing moral to oneself without being so,” *Journal of Personality and Social Psychology* 77(3):525–537, DOI 10.1037/0022-3514.77.3.525.
+
+### STP-ANTH-007 — Prior moral behavior can license later problematic behavior
+
+Blanken, van de Ven, and Zeelenberg meta-analyzed 91 studies with 7,397 participants and estimated a small moral-licensing effect (Cohen's d ≈ 0.31). Published studies showed larger effects than unpublished studies.
+
+**Relation:** meta-analytic correspondence with C1/C5.  
+**Confidence:** MEDIUM-HIGH for a small effect; moderation and publication-bias questions remain.
+
+**Biblical correspondence:** Scripture does not portray prior good conduct as immunizing a person against later moral failure. Moral self-confidence itself can become a context for failure (e.g., Proverbs 16:18; 1 Corinthians 10:12; Luke 18:9–14).
+
+**Qualification:** “moral licensing” is a modern experimental construct and should not be equated one-to-one with any biblical term.
+
+Primary scholarly anchor:
+- Blanken, I., van de Ven, N. and Zeelenberg, M. (2015), “A Meta-Analytic Review of Moral Licensing,” *Personality and Social Psychology Bulletin* 41(4):540–558, DOI 10.1177/0146167215572134.
+
+### STP-ANTH-008 — Moral-licensing effects vary across context and culture
+
+A later meta-analysis/meta-regression reported a similar generalized moral-licensing effect and found that cultural background and comparison type explained part of the heterogeneity.
+
+**Relation:** cross-context qualification of STP-ANTH-007.  
+**Confidence:** MEDIUM.
+
+**STP significance:** biblical anthropology concerns humanity broadly, but the behavioral expression and magnitude of particular biases can vary across cultures. BWM should distinguish a general anthropological tendency from claims of invariant effect size.
+
+### STP-ANTH-009 — Minimal social categorization can produce in-group favoritism under some conditions
+
+Research using the minimal-group paradigm shows that even thin social categorization can produce discriminatory allocation patterns, although later experiments demonstrate that dependence, reciprocity, fear, sex, and context moderate the effect.
+
+**Relation:** experimental correspondence with C2.  
+**Confidence:** MEDIUM-HIGH for context-sensitive in-group favoritism; LOW for any simplistic claim that categorization alone always causes discrimination.
+
+**Biblical correspondence:** Scripture repeatedly treats partiality and group-based favoritism as ordinary human moral dangers (Leviticus 19:15; Luke 10:25–37; James 2:1–9; Galatians 2:11–14).
+
+**Qualification:** modern social-identity experiments do not establish the theological source of partiality.
+
+Primary scholarly anchor:
+- Gagnon, A. and Bourhis, R.Y. (2000), “Intergroup discrimination in the minimal group paradigm: categorization, reciprocation, or fear?”, *Journal of Personality and Social Psychology* 79(1):77–94, DOI 10.1037/0022-3514.79.1.77.
+
+## Initial explanatory synthesis
+
+These studies do not “prove depravity.” They establish narrower observations:
+
+```text
+people can know a fairness norm
+        +
+retain a favorable moral self-image
+        +
+allocate benefits toward themselves
+        +
+rationalize or avoid comparison with the norm
+```
+
+and:
+
+```text
+prior moral conduct
+does not reliably guarantee
+subsequent moral conduct
+```
+
+and:
+
+```text
+group boundaries and social dependence
+can distort impartial treatment
+```
+
+Those observations correspond closely to a recurring biblical anthropology in which the moral problem is not mere ignorance. Humans can possess norms, judge others, justify themselves, favor insiders, and still violate standards they recognize.
+
+That is a stronger comparison than claiming simply that “the Bible says people are bad.”
+
+## Research caution: construct mapping
+
+Each biblical proposition must remain broader than any single psychological construct.
+
+For example:
+
+```text
+biblical self-deception
+    ⊃ motivated reasoning
+    ⊃? moral hypocrisy
+```
+
+The exact set relation is itself a research question. Modern constructs can illuminate aspects of biblical anthropology without exhausting its theological meaning.
+
+## Next behavioral pass
+
+Research:
+- motivated reasoning, beginning with Kunda and later replication/review literature;
+- self-serving bias;
+- cognitive dissonance and rationalization;
+- envy/social comparison;
+- status/dominance/prestige;
+- favoritism and in-group bias;
+- moral judgment versus moral behavior gaps.
+
+Prioritize meta-analyses and replication-sensitive reviews over famous single experiments.
+
+
 ## Research-source backbone
 
 Priority sources include:
