@@ -22,6 +22,24 @@ The governing distinction is:
 
 A radiometric measurement establishes a present isotopic state. A radiometric age is a retrodictive quantity produced by an inference model. Equating that quantity with actual elapsed history requires the relevant initialization and system-history assumptions to be warranted.
 
+## Canonical epistemic principle
+
+**Age is not observed. State is observed. Age is inferred from state under a model of history.**
+
+BWM therefore treats the phrase **apparent age** as epistemically underspecified when it is used without identifying the observer's inferential framework. The appropriate diagnostic question is:
+
+> **Apparent to whom, under what model, given what assumptions, and under what historical interpretation?**
+
+No specimen, astronomical object, isotope ratio, photon, stratum, crater, or other physical state bears an uninterpreted property called an "apparent age." What is empirically available is a present state or set of relationships. Chronological significance enters through an inferential chain.
+
+The canonical chain is:
+
+`observed state -> model + assumptions -> retrodictive calculation -> historical interpretation`
+
+These stages shall remain analytically distinct. A measurement may be reliable, a calculation mathematically valid conditional on its model, and multiple independent calculations strongly consilient without logically entailing that the retrodicted duration equals actual elapsed historical duration.
+
+This principle is model-neutral at the observational level. It does not license rejection of conventional chronology merely because chronology is inferred. Competing historical models inherit the burden of explaining the measured state, the success of the relevant models, and the observed consilience among independent lines of evidence.
+
 ## Methodological consequence
 
 BWM shall preserve the chain:
