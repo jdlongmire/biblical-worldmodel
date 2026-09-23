@@ -1,0 +1,19 @@
+id: WP-BWM-0025
+title: Genesis Systems Architecture Viewpoint
+status: proposed
+scope: >
+  Develop and test a formal systems-architecture representation of the inspired
+  Genesis creation narrative, preserving textual priority and distinguishing explicit
+  claims, strongly implied relations, and modern analytical abstractions.
+authority_boundary: >
+  Systems engineering supplies a representational language, not a controlling
+  hermeneutic. The package does not attribute modern technical terminology to Moses,
+  override canonical or grammatical evidence, establish DFM by analogy, or infer
+  physical mechanisms absent from the text.
+dependencies:
+  - WP-BWM-0009
+  - WP-BWM-0024
+  - canonical BWM component architecture
+  - PFH Day 6 commissioning boundary
+  - DFM BWM interface
+disposition: concept-captured-for-research
