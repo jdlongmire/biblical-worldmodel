@@ -11,7 +11,7 @@ Revise, validate, and disposition the two Sixth Day artifacts into the Biblical 
 1. `The Sixth Day` — an accessible narrative reconstruction of Genesis 1:24–31 and Genesis 2:7–25.
 2. `The Naming of the Animals within the Sixth Day: A Chronological Model of Genesis 2:18–23` — a research treatment testing whether the Genesis 2 events can coherently occur within an ordinary sixth day.
 
-The work package preserves the distinction between canonical biblical datum, defensible textual inference, quantitative feasibility model, and imaginative narrative reconstruction. It also harvests the Day 6 material for BWM Pre-Fall History (PFH) and creation-covenant architecture.
+The work package preserves the distinction between canonical biblical datum, defensible textual inference, quantitative feasibility model, and imaginative narrative reconstruction. It also harvests the Day 6 material for BWM Pre-Fall Hypothesis (PFH) and creation-covenant architecture.
 
 ## UID and duplication validation
 
@@ -112,7 +112,7 @@ Develop the larger BWM implication exposed by the artifacts:
 
 `Day 6 = inauguration of the human office.`
 
-`PFH = exercise/administration of that office before the Fall.`
+`PFH = hypotheses concerning the exercise/administration of that office before the Fall.`
 
 `Genesis 3 = covenantal breach with consequences extending through Adam's federal headship.`
 
@@ -127,7 +127,7 @@ The Day 6 sequence to evaluate for canonical PFH integration is:
 7. Humanity jointly receives blessing, multiplication, dominion, and the commission to fill and subdue the earth.
 8. God declares the completed creation very good.
 
-This sequence establishes the starting conditions for subsequent Pre-Fall History. The commands to be fruitful, fill, subdue, and exercise dominion describe activities whose fulfillment unfolds through subsequent history.
+This sequence establishes the starting conditions for subsequent pre-Fall interval. The commands to be fruitful, fill, subdue, and exercise dominion describe activities whose fulfillment unfolds through subsequent history.
 
 ## Research questions
 
@@ -139,7 +139,7 @@ This sequence establishes the starting conditions for subsequent Pre-Fall Histor
 6. What semantic force does `happa'am` contribute in Genesis 2:23, and does it entail any particular duration?
 7. Does the naming episode function narratively as experiential preparation for Adam's recognition of Eve?
 8. What elements of Day 6 establish the creation covenant / human office relevant to PFH?
-9. How should BWM express the transition from Day 6 inauguration to extended Pre-Fall History without importing chronology into texts that do not specify it?
+9. How should BWM express the transition from Day 6 inauguration to an extended pre-Fall interval without importing chronology into texts that do not specify it?
 
 ## Deliverables
 
