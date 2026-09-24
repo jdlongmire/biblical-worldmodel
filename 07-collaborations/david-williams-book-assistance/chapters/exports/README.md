@@ -16,3 +16,5 @@ for why this is the export baseline rather than the default `general` (business/
 
 - `01-the-timing-problem.docx` — rendered from `../01-the-timing-problem.md` (post voice-fix,
   commit `64d031e`), 19 sections + references, ~7,376 words, `manuscript` brand kit.
+  Re-rendered 2026-09-24 (double-spaced, Times New Roman 12, page numbers) alongside the
+  source-transcription DOCX set so every deliverable David receives is in the same format.
