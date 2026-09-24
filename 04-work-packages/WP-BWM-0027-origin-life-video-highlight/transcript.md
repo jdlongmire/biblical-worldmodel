@@ -1,16 +1,15 @@
-# Transcript provenance — WP-BWM-0027
+# Transcript index — WP-BWM-0027
 
-The timestamped transcript analyzed in this package was supplied directly by J. D. Longmire in the originating ChatGPT session on 2026-09-24 for YouTube video `B5m-lmz5JXM`. It runs approximately 00:00:00–00:21:33 and contains both excerpts from the origin-of-life animation and commentary by the examination video's participants.
+The full timestamped transcript supplied directly by J. D. Longmire on 2026-09-24 for YouTube video `B5m-lmz5JXM` is preserved verbatim in three contiguous repository artifacts because of connector write-size constraints:
 
-## Retention policy
-Preserve the supplied transcript verbatim when transferred from the originating conversation/export. This file records provenance rather than pretending that a reconstructed or normalized transcript is the original source.
+1. [transcript-verbatim-01.md](transcript-verbatim-01.md) — 00:00:00 through 00:07:02
+2. [transcript-verbatim-02.md](transcript-verbatim-02.md) — 00:07:06 through 00:14:04
+3. [transcript-verbatim-03.md](transcript-verbatim-03.md) — 00:14:06 through 00:21:33
 
-Do not silently correct wording, terminology, names, timestamps, or transcription errors. Any cleaned transcript must be a derivative artifact traceable to the verbatim source.
+## Preservation rule
 
-## Analysis anchors
-- 00:00:47–00:05:47: simple chemistry → stability → complexity → spontaneous replicator → mutation.
-- 00:05:50–00:11:25: polymerization, aqueous chemistry, interfering reactions, RNA replication, information.
-- 00:11:35–00:15:30: time, degradation versus assembly, chance, protein sequence-space argument.
-- 00:15:30–00:21:33: complementarity versus sequence specificity, information, translation, design inference.
+The text is retained as supplied, including repetitions, transcription artifacts, speaker ambiguity, spelling, punctuation, and timestamps. It is an evidence artifact rather than a corrected transcript.
+
+Any cleaned or speaker-attributed transcript must be stored separately as a derivative and remain traceable to these verbatim files.
 
 Human-Curated, AI-Enabled (HCAE)
