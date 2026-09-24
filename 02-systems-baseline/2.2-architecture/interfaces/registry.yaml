@@ -1,0 +1,61 @@
+schema_version: 0.1
+status: proposed
+source_work_package: WP-BWM-0026
+interfaces:
+  - id: TRT
+    name: Triadic Reality Theory
+    source_type: foundational-ontology research programme
+    bwm_role: foundation
+    canonical_repository: jdlongmire/triadic-reality-theory
+    source_ref: main
+    source_commit: 304e8f8470317c5812c351c247307d50810b6b2c
+    interface_status: proposed
+  - id: LRT
+    name: Logic Realism Theory
+    source_type: foundational research programme
+    bwm_role: foundation
+    canonical_repository: jdlongmire/logic-realism-theory
+    source_ref: master
+    source_commit: f0b571ea82c7056378d364b1d603d1cecdcb21b4
+    interface_status: proposed
+  - id: SA
+    name: Semantic Actualism
+    source_type: foundational-ontology research programme
+    bwm_role: foundation
+    canonical_repository: jdlongmire/semantic-actualism
+    source_ref: main
+    source_commit: d35745f67785b6ab62a2814fa831589d8962c78e
+    interface_status: proposed
+  - id: DFM
+    name: Designed Functional Maturity
+    source_type: research programme
+    bwm_role: cross-domain historical-boundary and methodology input
+    canonical_repository: jdlongmire/designed-functional-maturity
+    source_ref: master
+    source_commit: 94ddddc0a177244d5f0ea11c20280aba3a8f0682
+    interface_status: proposed
+  - id: CHFM
+    name: Catastrophic Hydrotectonic Flood Model
+    source_type: historical-physical research programme
+    bwm_role: Flood historical-boundary and Earth-history input
+    canonical_repository: jdlongmire/catastrophic-hydrotectonic-flood-model
+    source_ref: main
+    source_commit: 22dcdea8126861f3c9d7ecca89f71cf586287cd0
+    interface_status: proposed
+  - id: FCD
+    name: Functional Cosmological Deployment
+    source_type: cosmological research programme
+    bwm_role: cosmology domain input
+    canonical_repository: jdlongmire/creation-cosmology-programmes
+    source_ref: main
+    source_commit: 348d009bab0133b9f93efab8694b410bfad42f94
+    interface_status: proposed
+  - id: CAC
+    name: Creation Actualization Cosmology
+    source_type: cosmological research programme
+    bwm_role: specialized cosmology domain input
+    canonical_repository: jdlongmire/creation-cosmology-programmes
+    source_ref: main
+    source_commit: 348d009bab0133b9f93efab8694b410bfad42f94
+    interface_status: proposed
+    specializes: FCD
