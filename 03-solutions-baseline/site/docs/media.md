@@ -37,6 +37,22 @@ BWM approaches that question by distinguishing observation, calculation, histori
 
 External videos are included for relevance, not endorsement. A featured speaker, interviewer, channel, or organization may hold positions that differ materially from the Biblical WorldModel, Designed Functional Maturity, or the project's theological commitments. Where an external video anchors a publication, the accompanying article should distinguish empirical findings, the source author's interpretation, the interviewer's framing, and the Biblical WorldModel's own analysis.
 
+### Origin of life: the Arrow Problem
+
+[**Watch the examination on YouTube**](https://www.youtube.com/watch?v=B5m-lmz5JXM)
+
+This discussion examines a popular animated account in which simple chemistry becomes increasingly complex until a self-replicating system appears and Darwinian evolution can begin.
+
+The animation is compelling, but the transitions carry the explanatory burden:
+
+> **chemistry → polymers → replication → heredity → translation → life**
+
+Origin-of-life research has demonstrated important pieces of relevant chemistry under controlled conditions. Demonstrating individual capabilities is different from demonstrating a causally continuous historical pathway from plausible prebiotic conditions to replication, heredity, functional information, translation, and integrated life.
+
+BWM highlights the discussion because it makes those transition burdens unusually visible. The governing question is whether each arrow has been explained under historically and geochemically compatible conditions, with experimental capability kept distinct from historical occurrence.
+
+The accompanying BWM work package applies the same evidentiary burden to the naturalistic narrative and to its examiners. It preserves useful criticisms while qualifying claims that outrun their experimental support.
+
 ### Denis Noble: systems biology and reductionism
 
 [**Life Is More Than Its Parts: Denis Noble and the Limits of Reductionist Biology**](publications/articles/denis-noble-reductionist-biology.md) embeds the 27 August 2026 *Socrates in the City* interview with Denis Noble and examines multilevel causation, gene-centred reductionism, stochasticity, purpose, abiogenesis, and Designed Functional Maturity.
