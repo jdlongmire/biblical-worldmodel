@@ -29,6 +29,8 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0024](WP-BWM-0024-scriptural-testimony/README.md) | Scripture as a trustworthy explanatory source and Scriptural Testimony Principle | Proposed / active research | WP-BWM-0009 + canonical foundations |
 | [WP-BWM-0025](WP-BWM-0025-genesis-systems-architecture/README.md) | Genesis creation narrative as a formally traceable systems-architecture viewpoint | Proposed / concept captured | WP-BWM-0009 + WP-BWM-0024 + DFM/PFH interfaces |
 
+| [WP-BWM-0026](WP-BWM-0026-research-programme-gateway/README.md) | Research Programme Gateway Architecture: ecosystem authority, interfaces, taxonomy, and conflict-return governance | Proposed / active architecture investigation | WP-BWM-0009 + WP-BWM-0013 + authoritative programme repositories |
+
 ## Register rules
 
 - Work-package UIDs must be checked against the live directory and semantically equivalent open work before allocation.
