@@ -29,6 +29,8 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0024](WP-BWM-0024-scriptural-testimony/README.md) | Scripture as a trustworthy explanatory source and Scriptural Testimony Principle | Proposed / active research | WP-BWM-0009 + canonical foundations |
 | [WP-BWM-0025](WP-BWM-0025-genesis-systems-architecture/README.md) | Genesis creation narrative as a formally traceable systems-architecture viewpoint | Proposed / concept captured | WP-BWM-0009 + WP-BWM-0024 + DFM/PFH interfaces |
 | [WP-BWM-0027](WP-BWM-0027-origin-life-video-highlight/README.md) | Origin-of-life narrative external video highlight, transcript provenance, and Arrow Problem analysis | Implemented on feature branch; review pending | Public media conventions + epistemic hierarchy |
+| [WP-BWM-0028](WP-BWM-0028-sovereign-decree-moral-agency/README.md) | Sovereign decree and ordination, moral agency, guilt, judgment, election, redemption, pneumatology, and modal necessity | Active research on dedicated branch | WP-BWM-0009 + WP-BWM-0020 + Covenant/Redemptive History + Anthropology + LRT/TRT interfaces |
+| [WP-BWM-0029](WP-BWM-0029-systematic-theology-architecture/README.md) | Introduce Systematic Theology as a first-class BWM category organized around covenant and communion | Proposed / architecture concept captured | WP-BWM-0009 + WP-BWM-0013 + WP-BWM-0020 + WP-BWM-0028 |
 
 ## Register rules
 
