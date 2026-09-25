@@ -378,6 +378,7 @@ Open H1 material concerning Adamic guilt must not be promoted merely because the
 - [`covenant-communion-taxonomy.md`](covenant-communion-taxonomy.md): governing definitions, module relationships, conventional-loci crosswalk, status vocabulary, and navigation rules. Draft completed 2026-09-25.
 - [`architecture-impact-analysis.md`](architecture-impact-analysis.md): comparison against WP-BWM-0013, required changes, preserved structures, and restructure risks. Draft completed 2026-09-25.
 - [`canonical-promotion-plan.md`](canonical-promotion-plan.md): gated implementation sequence, verification, rollback, and acceptance boundary. Draft completed 2026-09-25.
+- [`architecture-viewpoint.md`](architecture-viewpoint.md): integrated conceptual viewpoint covering whole-BWM layering, ST module flow, covenant-communion trajectory, moral agency, redemption/glorification, historical/domain interfaces, epistemic status, and architectural invariants. Draft completed 2026-09-25.
 
 ## Acceptance criteria
 
