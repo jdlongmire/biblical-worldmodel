@@ -199,6 +199,7 @@ The programme uses exemplars as a layered toolkit rather than treating them as o
 - **Aquinas** — disciplined metaphysical reasoning and public argument.
 - **Socrates** — dialectical testing and exposure of hidden assumptions.
 - **Gödel** — formal limits, modal rigor, explicit axiomatization, and metaphysical demonstration. His incompleteness results constrain claims that sufficiently expressive formal systems can provide an exhaustive internally derivable account of truth. His modal ontological argument is retained as an exemplar of exposing metaphysical premises and inferential dependencies to formal logical analysis. Neither is treated as independently establishing Christianity.
+- **Imre Lakatos** — research-programme governance: hard core, protective belt, positive and negative heuristics, and progressive versus degenerating problem shifts. Lakatos supplies a discipline for retaining governing commitments without allowing unlimited auxiliary rescue.
 - **Bayes** — disciplined comparative updating and evidential calibration within stated assumptions.
 
 These exemplars have different jurisdictions. Their inclusion does not imply agreement among them on theology or metaphysics.
