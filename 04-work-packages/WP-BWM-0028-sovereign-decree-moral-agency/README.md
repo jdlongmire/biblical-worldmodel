@@ -231,7 +231,7 @@ The claim that God is inherently logical has a foundational interface with BWM's
 - [`decree-agency-synthesis.md`](decree-agency-synthesis.md): formal proposition set, definitions, modal distinctions, active hypotheses, pressure points, and no-smuggling constraints. Draft completed 2026-09-25.
 - [`scriptural-evidence-ledger.md`](scriptural-evidence-ledger.md): primary-scripture evidence, countertexts, confidence labels, and exegetical pressure tests. Draft completed 2026-09-25.
 - `modal-necessity-model.md`: logical, decretive, and dispositional necessity.
-- `romans-5-pressure-test.md`: inherited corruption, personal guilt, and Adam-Christ parallel.
+- [`romans-5-pressure-test.md`](romans-5-pressure-test.md): first-pass canonical pressure test of inherited corruption, personal guilt, corporate condemnation, and the Adam-Christ parallel. H1 remains OPEN under substantial pressure. Draft completed 2026-09-25.
 - `agency-culpability-model.md`: sourcehood, voluntary action, freedom, and glorified impeccability.
 - `trinitarian-mission-model.md`: inseparable operation and distinct personal missions.
 - `canonical-integration-plan.md`: promotion targets and dependency effects after Principal Operator disposition.
