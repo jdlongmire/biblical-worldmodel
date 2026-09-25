@@ -1,0 +1,41 @@
+id: WP-BWM-0029
+title: Systematic Theology and Covenant-Communion Architecture
+status: proposed
+scope: >
+  Restructure the BWM intellectual architecture by introducing Systematic Theology
+  as a first-class category between Foundations and the historical/domain modeling
+  layers, organized principally around covenant and communion. Define jurisdiction,
+  internal modules, conventional-loci cross-references, interfaces, migration maps,
+  and canonical promotion requirements.
+
+  This package does not settle open theological hypotheses in WP-BWM-0028,
+  canonically promote the proposed architecture, physically migrate accepted
+  artifacts, alter external LRT/TRT repositories, or publish external material.
+authority_boundary: >
+  Authorized by the Principal Operator on 2026-09-25 to create a dedicated
+  restructure work package and develop the proposed Systematic Theology architecture.
+  Reversible architecture and migration-planning work on an isolated branch is
+  authorized. Canonical promotion, physical migration of accepted artifacts, and
+  external publication require subsequent Principal Operator disposition.
+dependencies:
+  - WP-BWM-0009
+  - WP-BWM-0013
+  - WP-BWM-0020
+  - WP-BWM-0028
+  - canonical BWM component architecture
+actions:
+  - Define Systematic Theology as a fifth BWM intellectual category.
+  - Organize Systematic Theology around covenant and communion.
+  - Define modules from Triune Purpose through Consummated Covenant Communion.
+  - Preserve conventional doctrinal loci as cross-reference taxonomy.
+  - Define doctrine/history and theological/empirical domain boundaries.
+  - Map WP-BWM-0020 and WP-BWM-0028 into the proposed architecture.
+  - Produce interface, migration, impact, and canonical-promotion plans.
+verification: >
+  Verify UID uniqueness against the live work-package directory and semantic
+  non-duplication against WP-BWM-0013 and other architecture work. Verify that
+  the proposal defines jurisdiction, covenant/communion organizing principles,
+  modules, cross-reference loci, interfaces to all existing BWM categories,
+  migration candidates, open-hypothesis protections, and acceptance criteria.
+  Canonical restructure requires explicit Principal Operator approval.
+disposition: architecture-concept-captured
