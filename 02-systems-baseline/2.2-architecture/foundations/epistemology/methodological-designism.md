@@ -120,6 +120,17 @@ BWM shall expose its models to standards materially equivalent to those applied 
 
 A rival need not accept BWM's worldview to demonstrate internal contradiction, failed prediction, evidential mismatch, ad hoc repair, or dependency failure within BWM.
 
+## Exemplar discipline
+
+BWM may draw methodological lessons from historical exemplars without treating any exemplar other than Scripture's normative revelational pattern as an independent authority over the programme.
+
+Gödel has two explicitly distinguished methodological interfaces:
+
+- **Incompleteness:** a formal warning against conflating derivability within a sufficiently expressive formal system with exhaustive truth. BWM shall not inflate this result into a generic proof of transcendence or Christianity.
+- **Modal ontological argument:** an exemplar of rigorous metaphysical formalization in which axioms, definitions, modal commitments, and inferential dependencies are made explicit and therefore exposed to analysis. Formal validity does not by itself establish the independent truth of the axioms.
+
+BWM shall use Gödel comparatively with LRT and the Logos Transcendental Argument where useful, while keeping formal result, philosophical interpretation, metaphysical premise, and revealed theological claim distinct.
+
 ## Relationship to canonical epistemic governance
 
 WP-BWM-0009 owns the L0-L6 hierarchy, dependency propagation, precommitment, cumulative pressure, and Operator disposition.
