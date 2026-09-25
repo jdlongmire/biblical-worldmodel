@@ -187,6 +187,44 @@ TRT and LRT remain associated foundational research programmes with their own so
 
 DFM and PFH are governed BWM Historical Frameworks. CHFM remains externally authoritative in its designated repository and is consumed through a BWM interface.
 
+## Methodological exemplars
+
+The programme uses exemplars as a layered toolkit rather than treating them as one identical procedure:
+
+- **Jesus and the apostles** — normative pattern of revelation, Word, reason, testing, and faithful knowledge.
+- **Van Til** — presuppositional and transcendental critique; methodological naturalism is not treated as neutral ground.
+- **Aristotle** — categorical precision, logic, causality, and teleological intelligibility.
+- **Reid** — common-sense realism and the ordinary reliability of human cognitive faculties.
+- **Plantinga** — warranted belief, properly basic theistic belief, and critique of restrictive evidentialism.
+- **Aquinas** — disciplined metaphysical reasoning and public argument.
+- **Socrates** — dialectical testing and exposure of hidden assumptions.
+- **Gödel** — formal limits, modal rigor, explicit axiomatization, and metaphysical demonstration. His incompleteness results constrain claims that sufficiently expressive formal systems can provide an exhaustive internally derivable account of truth. His modal ontological argument is retained as an exemplar of exposing metaphysical premises and inferential dependencies to formal logical analysis. Neither is treated as independently establishing Christianity.
+- **Bayes** — disciplined comparative updating and evidential calibration within stated assumptions.
+
+These exemplars have different jurisdictions. Their inclusion does not imply agreement among them on theology or metaphysics.
+
+### Gödel research interface
+
+Gödel warrants a specific comparative research action rather than only an exemplar citation:
+
+```text
+Gödel modal ontological argument
+            ↕
+Logic Realism Theory (LRT)
+            ↕
+Logos Transcendental Argument (LTA)
+```
+
+The comparison shall identify primitive commitments, modal assumptions, definitions of necessity and actuality, inferential dependencies, explanatory burden, and the point at which each argument moves from formal validity to metaphysical truth claims.
+
+The analysis shall preserve a strict distinction between:
+
+1. what Gödel's incompleteness theorems formally establish;
+2. philosophical conclusions sometimes drawn from incompleteness;
+3. the axioms and formal consequences of Gödel's ontological argument;
+4. the truth or independent warrant of those axioms;
+5. claims distinctive to LRT, LTA, and Christian revelation.
+
 ## Deliverables
 
 - [x] Capture the Methodological Designism framework and institutionalization plan.
@@ -201,6 +239,7 @@ DFM and PFH are governed BWM Historical Frameworks. CHFM remains externally auth
 - [ ] Update BWM front-door methodology references.
 - [x] Run initial DFM and PFH adversarial audit against the charter; deeper ledger audit remains before canonical disposition.
 - [x] Define initial CHFM interface conformance expectations without duplicating CHFM authority.
+- [ ] Complete Gödel ↔ LRT ↔ LTA comparative analysis with explicit axiom/dependency mapping.
 - [ ] Prepare public Tier 2/3 explanation after canonical technical artifacts stabilize.
 - [ ] Record Principal Operator disposition and promotion provenance.
 
