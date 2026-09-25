@@ -374,10 +374,10 @@ Open H1 material concerning Adamic guilt must not be promoted merely because the
 
 - [`systematic-theology-architecture.md`](systematic-theology-architecture.md): five-category canonical architecture candidate, ST jurisdiction, eight modules, ownership and promotion rules. Draft completed 2026-09-25.
 - [`systematic-theology-interface-map.md`](systematic-theology-interface-map.md): directional interfaces to Foundations, Historical Frameworks, World Domains, and Integration. Draft completed 2026-09-25.
-- `migration-map.md`: current canonical and WP artifacts mapped into the new architecture.
-- `covenant-communion-taxonomy.md`: definitions, modules, conventional-loci crosswalk, and navigation rules.
+- [`migration-map.md`](migration-map.md): phased mapping of WP-BWM-0020, WP-BWM-0028, Covenant/Redemptive History, Anthropology, and related artifacts into the proposed architecture. Draft completed 2026-09-25.
+- [`covenant-communion-taxonomy.md`](covenant-communion-taxonomy.md): governing definitions, module relationships, conventional-loci crosswalk, status vocabulary, and navigation rules. Draft completed 2026-09-25.
 - [`architecture-impact-analysis.md`](architecture-impact-analysis.md): comparison against WP-BWM-0013, required changes, preserved structures, and restructure risks. Draft completed 2026-09-25.
-- `canonical-promotion-plan.md`: proposed implementation after Principal Operator acceptance.
+- [`canonical-promotion-plan.md`](canonical-promotion-plan.md): gated implementation sequence, verification, rollback, and acceptance boundary. Draft completed 2026-09-25.
 
 ## Acceptance criteria
 
