@@ -42,6 +42,12 @@ TRT/LRT source authority remains external to BWM and shall be consumed through p
 - Observation, operational measurement, model inference, retrodiction, and actual elapsed history must remain distinct.
 - Operational regularity warrants defeasible extrapolation; it does not entail generation of an initial state or actual prior history across a boundary event.
 
+### Methodology
+
+- **Methodological Designism** is BWM's cross-cutting research-method governance layer. It permits design as an explanatory category while requiring design-based proposals to generate constraints, expectations, or discriminators rather than function as unconstrained gap explanations.
+- Research-programme governance distinguishes governing commitments from revisable models and auxiliaries, applies explicit loss and degeneration criteria, and requires materially symmetric treatment of competing programmes.
+- The candidate canonical charter is maintained at `foundations/epistemology/methodological-designism.md` under `WP-BWM-0030` pending Principal Operator disposition.
+
 ### Hermeneutics
 
 - Scripture interprets Scripture first.

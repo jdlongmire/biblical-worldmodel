@@ -1,0 +1,25 @@
+id: WP-BWM-0030
+title: Methodological Designism and Research Programme Governance
+status: active
+scope: >
+  Institutionalize BWM's Christian ontology, revelational epistemology,
+  hermeneutical constraints, Methodological Designism, and Lakatosian-style
+  research-programme governance, including model loss conditions, symmetry,
+  Bayesian use, and inter-programme comparison.
+authority_boundary: >
+  This package may develop and integrate methodology and governance artifacts.
+  It does not independently alter the authority of Scripture, canonicalize a
+  theological interpretation, absorb external source-of-truth research
+  programmes, or confer canonical status without Principal Operator disposition.
+dependencies:
+  - WP-BWM-0009
+  - WP-BWM-0013
+  - WP-BWM-0024
+  - canonical BWM component architecture
+interfaces:
+  - DFM
+  - PFH
+  - CHFM
+  - TRT
+  - LRT
+disposition: framework-institutionalization-authorized
