@@ -200,7 +200,13 @@ Noetic renewal remains dependent upon divine grace and does not imply exhaustive
 
 **NC-7:** divine judgment must track moral truth about the actual person rather than treating inherited condition and personal action as interchangeable predicates.
 
-## 13. Canonical controls
+## 13. First-sin contrast
+
+Adam's first sin must not be explained through K_noetic or K_aff. The pre-Fall sequence is instead: good mutable agent -> temptation/presentation -> consideration -> valuation -> culpable disordered assent/willing -> rejection of communion -> enacted rebellion -> curse. See `temptation-first-sin-boundary.md`.
+
+For fallen descendants, inherited noetic and affective disorder conditions valuation before personally attributable assent and rebellion. The agency categories remain distinguishable even though the starting dispositions differ.
+
+## 14. Canonical controls
 
 Primary texts for subsequent detailed exegesis:
 
