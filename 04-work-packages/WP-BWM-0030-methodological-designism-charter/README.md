@@ -204,6 +204,8 @@ The programme uses exemplars as a layered toolkit rather than treating them as o
 
 These exemplars have different jurisdictions. Their inclusion does not imply agreement among them on theology or metaphysics.
 
+Summary graphic: [graphics-library/infographics/bwm-methodological-designism-exemplars.jpg](../../graphics-library/infographics/bwm-methodological-designism-exemplars.jpg) (supplied 2026-09-25; see its manifest entry for two corrections needed before public use).
+
 ### Gödel research interface
 
 Gödel warrants a specific comparative research action rather than only an exemplar citation:

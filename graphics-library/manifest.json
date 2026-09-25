@@ -604,6 +604,21 @@
       "alt": "\"Calculated Age \u2260 Actual History\" panel: a rock-strata cross-section annotated what we measure now, a model of the past, a calculated age, still an open question.",
       "notes": "Native-resolution crop of panel 3 from worldmodel-overview-hexagon.png. Chosen for video-narration use because it directly illustrates the story's own core teaching point (a calculated age and an actual history are not automatically the same thing) without the Tier 3 dating-method vocabulary used elsewhere on the source graphic.",
       "approval": "Extraction requested by JD, 2026-09-12, for use as video-narration B-roll (WP-BWM-0006); production/content approval not inferred beyond that use."
+    },
+    {
+      "id": "BWM-INFO-MD-EXEMPLARS",
+      "path": "infographics/bwm-methodological-designism-exemplars.jpg",
+      "status": "SUPPLIED_STANDALONE",
+      "source": null,
+      "width": 1536,
+      "height": 1024,
+      "format": "JPEG",
+      "mode": "RGB",
+      "alpha": false,
+      "sha256": "5b7e125d6f4965bdad7e9c3710ceedf8d4c003745b86a1b93809e6f595966025",
+      "alt": "Table titled Exemplars for a Christian Methodological Designism: eleven exemplars (Jesus Christ, the Apostles, Van Til, Aristotle, Socrates, Aquinas, Reid, Plantinga, Godel, Lakatos, Bayes), each with key contributions, primary role, BWM layers, distinctive value and key caution; below, an integrated-contribution diagram and a mapping from Revelation through Methodology, Research Programmes and Models to Predictions and Dispositions.",
+      "notes": "A standalone composed graphic supplied by JD via chat upload 2026-09-25 (prepared as a repository-ready JPEG by another assistant), stored exactly as supplied: not extracted, edited or regenerated. Its exemplar list matches WP-BWM-0030's 'Methodological exemplars' section. Flagged, not corrected: Alvin Plantinga's lifespan is printed as (1932-2023), but he is living (turned 93 in November 2025); portrait images are illustrations, not verified likenesses. Correct both before public use.",
+      "approval": "Stored at JD's request 2026-09-25 and associated with WP-BWM-0030; content approval and site integration not inferred."
     }
   ],
   "missing_from_supplied_sheet": [
