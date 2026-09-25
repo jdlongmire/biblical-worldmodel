@@ -1,0 +1,48 @@
+id: WP-BWM-0028
+title: Sovereign Decree, Moral Agency, Judgment, and Redemption
+status: proposed
+scope: >
+  Capture and test the theological synthesis relating the Father's sovereign
+  decree and ordination, God's inherently logical nature, genuine image-bearing
+  moral agency, Adam's stewardship and Fall, inherited curse without inherited
+  Adamic personal guilt, universal voluntary personal sin, individualized
+  judgment, sovereign election, effectual redemption, the Holy Spirit's
+  application and sealing, restoration of ordered love and communion, and
+  consummation in divine glory with the Son manifested as Creator, Lord, Judge,
+  and Redeemer.
+
+  This package records a research synthesis. It does not by itself canonically
+  promote the non-imputation proposal, resolve Romans 5, alter the authoritative
+  LRT/TRT programmes, or publish external material.
+authority_boundary: >
+  Authorized by the Principal Operator on 2026-09-25 to create a work package in
+  the appropriate BWM location and capture the current discussion. Reversible
+  repository work on an isolated branch is authorized. Canonical promotion,
+  external publication, and changes to external LRT/TRT repositories require
+  separate disposition.
+dependencies:
+  - WP-BWM-0009
+  - WP-BWM-0020
+  - canonical BWM component architecture
+  - Covenant and Redemptive History World Domain
+  - Anthropology World Domain
+  - BWM pinned LRT/TRT foundation interfaces
+actions:
+  - Preserve the controlling thesis and full theological architecture from the 2026-09-25 discussion.
+  - Distinguish logical, decretive, and dispositional necessity.
+  - Formalize divine ordination versus creaturely sinful intention and culpability.
+  - Pressure-test inherited corruption without inherited Adamic personal guilt against Romans 5:12-19.
+  - Test agency and culpability against Genesis 50:20, Acts 2:23, and Acts 4:27-28.
+  - Formalize Trinitarian personal missions without dividing the external works of God.
+  - Map accepted conclusions to Covenant and Redemptive History, Anthropology, Foundations interfaces, and Integration.
+verification: >
+  Verify UID uniqueness against the live work-package directory and semantic
+  non-duplication against existing BWM work. Verify that the package records the
+  three necessity classes, the Father's decree-and-ordination claim, genuine
+  creaturely agency, ordered love, Fall and curse, proposed non-imputation
+  distinction, personal guilt, judgment, election, effectual redemption,
+  pneumatology, consummation, canonical test cases, no-smuggling constraints,
+  dependencies, and explicit research questions. Canonical acceptance requires
+  Principal Operator review after the planned exegetical and philosophical
+  pressure tests.
+disposition: concept-captured-for-research
