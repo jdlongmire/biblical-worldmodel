@@ -190,17 +190,17 @@ DFM and PFH are governed BWM Historical Frameworks. CHFM remains externally auth
 ## Deliverables
 
 - [x] Capture the Methodological Designism framework and institutionalization plan.
-- [ ] Produce canonical Methodological Designism charter under Foundations.
-- [ ] Produce research-programme governance requirements under Systems Baseline.
+- [x] Produce candidate canonical Methodological Designism charter under Foundations.
+- [x] Produce candidate research-programme governance requirements under Systems Baseline.
 - [ ] Integrate hermeneutical admissibility rules with canonical hermeneutics.
-- [ ] Integrate model states and loss conditions with WP-BWM-0009.
-- [ ] Define progressive/degenerating programme evaluation procedure.
-- [ ] Define intra-programme and inter-programme comparison procedure.
-- [ ] Define symmetry/adversarial-review checklist.
-- [ ] Update component architecture to identify Methodological Designism explicitly.
+- [x] Integrate model states and loss conditions with WP-BWM-0009 through explicit ownership crosswalk.
+- [x] Define initial progressive/degenerating programme evaluation procedure.
+- [x] Define intra-programme and inter-programme comparison procedure.
+- [x] Define initial symmetry/adversarial-review matrix.
+- [x] Update component architecture to identify Methodological Designism explicitly as candidate methodology pending disposition.
 - [ ] Update BWM front-door methodology references.
-- [ ] Audit DFM and PFH against the charter.
-- [ ] Define CHFM interface conformance expectations without duplicating CHFM authority.
+- [x] Run initial DFM and PFH adversarial audit against the charter; deeper ledger audit remains before canonical disposition.
+- [x] Define initial CHFM interface conformance expectations without duplicating CHFM authority.
 - [ ] Prepare public Tier 2/3 explanation after canonical technical artifacts stabilize.
 - [ ] Record Principal Operator disposition and promotion provenance.
 
