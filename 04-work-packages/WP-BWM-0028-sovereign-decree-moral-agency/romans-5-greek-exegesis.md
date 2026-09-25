@@ -115,6 +115,10 @@ The original H1 should now be strengthened:
 
 This is materially stronger than the earlier phrase "inherit the curse." It takes Romans 5's judicial and representative language seriously.
 
+## Noetic-effects constraint
+
+The strengthened corporate Adamic model must not collapse inherited noetic corruption into personal culpability. The descendant may inherit a condemned Adamic order that includes epistemic and affective disorder while the ground of that descendant's personal culpability remains personally attributable rebellion. This distinction is formalized in `agency-culpability-model.md` and remains subject to the Romans 5 falsification conditions below.
+
 ## Falsification condition
 
 H1 fails if further canonical and lexical analysis establishes either proposition:
