@@ -222,7 +222,7 @@ Primary texts for subsequent detailed exegesis:
 - Colossians 3:1-10: renewal in knowledge.
 - 2 Corinthians 4:3-6: blindness and divine illumination.
 
-## 14. Current synthesis
+## 15. Current synthesis
 
 The model now distinguishes four stages:
 
