@@ -228,7 +228,7 @@ The claim that God is inherently logical has a foundational interface with BWM's
 
 ## Planned artifacts
 
-- `decree-agency-synthesis.md`: formal proposition set and definitions.
+- [`decree-agency-synthesis.md`](decree-agency-synthesis.md): formal proposition set, definitions, modal distinctions, active hypotheses, pressure points, and no-smuggling constraints. Draft completed 2026-09-25.
 - `scriptural-evidence-ledger.md`: primary-scripture evidence, countertexts, and exegetical pressure tests.
 - `modal-necessity-model.md`: logical, decretive, and dispositional necessity.
 - `romans-5-pressure-test.md`: inherited corruption, personal guilt, and Adam-Christ parallel.
