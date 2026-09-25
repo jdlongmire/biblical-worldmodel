@@ -124,6 +124,8 @@ A rival need not accept BWM's worldview to demonstrate internal contradiction, f
 
 BWM may draw methodological lessons from historical exemplars without treating any exemplar other than Scripture's normative revelational pattern as an independent authority over the programme.
 
+Lakatos provides the explicit research-programme governance vocabulary used by BWM: hard core, protective belt, positive and negative heuristics, and progressive versus degenerating problem shifts. BWM adopts these as methodological tools rather than as an authority capable of determining the truth of the programme's Christian hard core. Protection of a hard core does not license indefinite auxiliary repair; a programme must continue to produce constraint, explanatory integration, empirical exposure, prediction or discriminating retrodiction, and correction.
+
 Gödel has two explicitly distinguished methodological interfaces:
 
 - **Incompleteness:** a formal warning against conflating derivability within a sufficiently expressive formal system with exhaustive truth. BWM shall not inflate this result into a generic proof of transcendence or Christianity.
