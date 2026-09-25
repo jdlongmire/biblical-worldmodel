@@ -372,11 +372,11 @@ Open H1 material concerning Adamic guilt must not be promoted merely because the
 
 ## Planned artifacts
 
-- `systematic-theology-architecture.md`: canonical architecture candidate.
-- `systematic-theology-interface-map.md`: explicit interfaces to Foundations, Historical Frameworks, World Domains, and Integration.
+- [`systematic-theology-architecture.md`](systematic-theology-architecture.md): five-category canonical architecture candidate, ST jurisdiction, eight modules, ownership and promotion rules. Draft completed 2026-09-25.
+- [`systematic-theology-interface-map.md`](systematic-theology-interface-map.md): directional interfaces to Foundations, Historical Frameworks, World Domains, and Integration. Draft completed 2026-09-25.
 - `migration-map.md`: current canonical and WP artifacts mapped into the new architecture.
 - `covenant-communion-taxonomy.md`: definitions, modules, conventional-loci crosswalk, and navigation rules.
-- `architecture-impact-analysis.md`: changes required to the accepted BWM component architecture and repository navigation.
+- [`architecture-impact-analysis.md`](architecture-impact-analysis.md): comparison against WP-BWM-0013, required changes, preserved structures, and restructure risks. Draft completed 2026-09-25.
 - `canonical-promotion-plan.md`: proposed implementation after Principal Operator acceptance.
 
 ## Acceptance criteria
