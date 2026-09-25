@@ -104,11 +104,13 @@ then, if the agent crosses the boundary:
 disordered assent/dwelling -> volitional preference of autonomous self-good over communion -> enactment
 [sin]
 
-The exact relation between T3 and T4 requires further biblical testing because Scripture recognizes inward sins of desire, hatred, lust, unbelief, and intention. Therefore the model should not define sin only as external action.
+The James 1 pressure test refines this boundary: duration or mere recurrence is not the criterion. T3 is culpable conception/cultivation/embrace of the disordered good, and T4 is the will's preference for that good contrary to God's order. A persistent resisted temptation need not be sin, while a brief but fully willed evil intention may be.
 
-Working proposition:
+Refined proposition:
 
-> Temptation presents or considers possible disobedience. Sin begins when the moral agent culpably embraces, cultivates, or wills the disordered good, whether or not the intention has yet reached external execution.
+> Temptation is the presentation or apprehension of a possible disobedient good and may include experienced attraction without itself constituting sin. Sin begins when the moral agent culpably conceives, embraces, or assents to the disordered good such that the agent's own will prefers that good contrary to God's rightful ordering, whether or not outward enactment has yet occurred.
+
+See `james-1-temptation-pressure-test.md`.
 
 ## 5. Adamic first-sin model
 
