@@ -215,7 +215,7 @@ genuine freedom does not require live metaphysical access to sinful alternatives
 
 If glorified persons remain genuine agents while perfectly loving God, contrary choice cannot be constitutive of agency.
 
-The exact modal status of glorified impeccability remains a theological inference to be tested canonically.
+The exact modal status of glorified impeccability is developed further in `glorified-agency-impeccability.md`. That model distinguishes conceptual knowledge of sin from deliberative and volitional availability and proposes that sanctification increasingly forms a positive desire for final freedom from sin.
 
 ## 8. Divine freedom as control
 
