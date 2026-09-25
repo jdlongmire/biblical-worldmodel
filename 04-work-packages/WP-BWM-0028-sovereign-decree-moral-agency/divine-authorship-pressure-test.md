@@ -248,7 +248,7 @@ WP-BWM-0028 therefore rejects automatic moral transfer while leaving open deeper
 
 Adam is created good, is a genuine agent, and his Fall is decretively certain but not logically necessary. His sinful intention is his own. The model still owes a fuller account of how the first disordered intention arises in a good creature without making God the sinful intentional agent.
 
-This is a genuine unresolved pressure point.
+This pressure point is now narrowed by `temptation-first-sin-boundary.md`: Adam requires no preexisting sinful substance or inherited noetic corruption. The morally relevant transition is from temptation/consideration of an alternative perceived good to culpable disordered assent and willing, where autonomous self-interest is elevated over God's word and loving communion. The deeper metaphysics of how a good mutable creature reaches that assent within a decretively certain history remains open.
 
 ### Crucifixion
 
