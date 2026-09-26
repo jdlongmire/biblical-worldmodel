@@ -19,3 +19,10 @@ Status: tranche 1, 2026-09-26
 The current evidence supports the narrow proposition that major Christian natural philosophers explicitly connected scientific investigation, lawful order, or intelligibility with theological commitments.
 
 The current evidence does not establish the stronger historical narrative that operational science belonged to designism and was subsequently appropriated by methodological naturalism. That proposition remains research material.
+
+
+## Influence-analysis rule
+
+Each retained historical claim will now be classified by the influence dimension it actually supports: identity, motivation, expectation, method, institutional influence, transmission, or retrospective interpretation. This prevents both inflation from mere religious identity and deflation of primary evidence showing theology doing actual methodological or motivational work.
+
+The Boyle evidence already exceeds identity alone: *The Christian Virtuoso* explicitly presents experimental philosophy as positively related to Christian intellectual and religious vocation. The audit will therefore test causal and methodological influence, not merely count Christian scientists.
