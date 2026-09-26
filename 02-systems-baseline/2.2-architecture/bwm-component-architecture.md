@@ -1,6 +1,6 @@
 # Biblical WorldModel Component Architecture
 
-Status: Accepted architecture for restructure implementation
+Status: Accepted architecture; gateway refinement proposed under `WP-BWM-0026`
 Authority: Principal Operator disposition, 2026-09-13
 Source work package: `WP-BWM-0013`
 
@@ -29,11 +29,11 @@ Foundations govern the entire worldmodel. They define the ontological, epistemol
 
 ### Ontology and metaphysics
 
-- **TRT — Triadic Reality Theory**: logic as rational constraint; information as content; action as causal actualization; actualized reality as contingent state.
-- **LRT**: formal logical work situated within TRT and consumed by BWM through a pinned interface to the authoritative TRT repository.
-- **Semantic Actualism**: distinction among representable, logically admissible, and actualizable states.
+- **TRT — Triadic Reality Theory**: externally authoritative foundational-ontology research programme. BWM consumes its governed ontological outputs through a pinned interface.
+- **LRT — Logic Realism Theory**: externally authoritative foundational research programme. TRT's canonical source situates LRT within TRT's broader ontology and identifies LRT as formalizing TRT's L3 constituent; LRT retains its own source authority and repository.
+- **Semantic Actualism (SA)**: externally authoritative foundational-ontology research programme in philosophy of mind. Its canonical source states that SA and TRT share a constrained-information-in-action form while neither is derived from the other there.
 
-TRT/LRT source authority remains external to BWM and shall be consumed through pinned BWM interface artifacts rather than forked.
+TRT, LRT, and SA source authority remains external to BWM and shall be consumed through pinned BWM interface artifacts rather than forked. BWM Foundation is their integration role, not their source type.
 
 ### Epistemology
 
@@ -49,55 +49,45 @@ TRT/LRT source authority remains external to BWM and shall be consumed through p
 - Historical-grammatical analysis follows canonical constraints.
 - Scientific and historical reconstructions are tested within the scriptural boundary.
 
-## 2. Historical Frameworks
+## 2. Historical Intervals, Boundaries, and Hypotheses
 
-Historical Frameworks govern intervals, transitions, or boundary events in the history of the created order. They are cross-domain and may apply simultaneously to cosmology, geology, biology, anthropology, archaeology, and chronology.
+BWM distinguishes the historical categories it owns from externally authoritative research programmes that inform them. A programme's BWM role does not transfer source ownership to BWM.
 
-### DFM — Designed Functional Maturity
+### Creation / initialization boundary
 
-Primary jurisdiction:
+Historical jurisdiction:
 
 `creation / initialization boundary -> operational created order`
 
-Primary questions:
+**DFM — Designed Functional Maturity** is the externally authoritative cross-domain research programme supplying the general functional-maturity, constrained-initialization, and retrodiction framework used here. BWM consumes DFM through a pinned interface.
 
-- What state did the created system begin in?
-- What constitutes sufficient functional maturity?
-- What does backward extrapolation across an initialization boundary legitimately establish?
-- Which apparent historical indicators may encode initialized state rather than elapsed history?
+Primary integration questions include the initialized state of the created system, sufficient functional maturity, the warrant of backward extrapolation across an initialization boundary, and the distinction between retrodictive age and actual elapsed history.
 
-### PFH — Pre-Fall History
+### Pre-Fall historical interval
 
-Primary jurisdiction:
+Historical jurisdiction:
 
-`human creation -> pre-Fall human history -> Fall boundary`
+`human creation -> Fall boundary`
 
-Primary questions:
+The interval is a BWM historical category. **PFH — Pre-Fall Hypothesis** is the BWM-owned hypothesis space for proposed reconstructions of underdetermined content within that interval.
 
-- What history is biblically admissible between human creation and the Fall?
-- Was the Genesis 1:28 mandate operational before the Fall?
-- What demographic, geographic, cultural, symbolic, architectural, and technological development may have occurred?
-- When does mortal human age accounting become relevant?
+PFH may investigate duration, demography, geography, settlement, culture, technology, and related development. Inclusion in PFH does not convert a proposal into established history. Extended pre-Fall duration is one hypothesis within PFH, not a defining commitment of the interval.
 
-The extended pre-Fall human-development model is an initial PFH hypothesis. PFH itself does not depend on an extended duration being established.
+### Flood boundary and catastrophic interval
 
-### CHFM — Catastrophic Hydrotectonic Flood Model
+Historical jurisdiction:
 
-Primary jurisdiction:
+`pre-Flood terrestrial order -> Flood catastrophe -> immediate post-Flood terrestrial state`
 
-`pre-Flood terrestrial order -> Flood catastrophe -> post-Flood terrestrial state`
-
-Primary questions:
-
-- What catastrophic processes generated major terrestrial restructuring during the Flood?
-- How do tectonics, sedimentation, fossilization, hydrothermal alteration, climate, and post-Flood adjustment interact?
-- Which geological or geochemical clocks may have been reset, disturbed, inherited, or mixed?
-
-The detailed CHFM research programme remains authoritative in `jdlongmire/catastrophic-hydrotectonic-flood-model`; BWM consumes it through a pinned interface.
+**CHFM — Catastrophic Hydrotectonic Flood Model** is the externally authoritative historical/physical research programme supplying detailed Flood-mechanism research. BWM consumes CHFM through a pinned interface.
 
 ### Post-Flood History
 
-Reserved Historical Framework candidate only. It shall not be formalized until distinct explanatory content justifies a separate framework.
+Reserved BWM historical-framework candidate only. It shall not be formalized until distinct explanatory content justifies a separate framework.
+
+### Comparative interpretive families
+
+DFM may also appear as a perspective in BWM comparative model-family analysis. **DTE — Designed Time and Emergence** and **UTE — Undirected Time and Emergence** are comparative interpretive/model families only. They are not Longmire research programmes and are not programme-registry entries.
 
 ## 3. World Domains
 
@@ -131,7 +121,7 @@ Eschatology remains a subdomain unless later content volume justifies separation
 
 ## 4. Integration
 
-Integration evaluates whether foundations, historical frameworks, and world-domain models cohere without hiding tensions.
+Integration evaluates whether foundations, historical intervals/boundaries, hypotheses, externally sourced programme outputs, and world-domain models cohere without hiding tensions.
 
 Primary integration artifacts include cross-domain invariants, framework-domain mapping, chronology integration, evidence-ledger architecture, Bayesian/model-comparison ledgers, interface definitions, open-problems tracking, predictions/falsifiers, and contradiction/dependency tracking.
 
@@ -143,16 +133,16 @@ Integration must distinguish doctrinal/scriptural constraint, foundation, histor
 
 The current BWM historical backbone is:
 
-`Foundations -> DFM / creation and initialization -> PFH -> Fall -> post-Fall / pre-Flood history -> CHFM / Flood catastrophe -> post-Flood history -> covenant/redemptive history -> consummation`
+`Foundations -> creation/initialization boundary [DFM interface] -> pre-Fall historical interval [PFH hypothesis space] -> Fall -> post-Fall/pre-Flood history -> Flood catastrophe [CHFM interface] -> post-Flood history -> covenant/redemptive history -> consummation`
 
 This sequence is historical, not hierarchical. Foundations apply across every stage.
 
 ## Architectural rules
 
 1. Foundations shall not be represented as world domains.
-2. Historical Frameworks shall not be represented as subject-matter domains.
-3. World Domains may consume multiple Historical Frameworks.
-4. A Historical Framework may span multiple World Domains.
+2. Historical intervals and boundaries shall not be represented as subject-matter domains.
+3. Source type and BWM role are independent dimensions. A research programme may supply a Foundation, historical-boundary, or World Domain role without BWM acquiring source ownership.
+4. World Domains may consume multiple programme interfaces, historical categories, and hypotheses.
 5. Active research remains in `04-work-packages/` until accepted for promotion.
 6. Canonical architecture belongs primarily under `02-systems-baseline/2.2-architecture/`.
 7. Requirements and hard constraints belong primarily under `02-systems-baseline/2.1-requirements/`.
