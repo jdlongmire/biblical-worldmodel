@@ -1,0 +1,20 @@
+id: WP-BWM-0028
+title: CMD Foundations and Origins-Mode Taxonomy
+status: proposed
+scope: >
+  Refine and disposition the September 2026 CMD/DFM/DTE/UTE foundations
+  working paper into BWM-wide methodological governance, a comparative
+  origins-mode taxonomy, and constrained DFM initialization semantics.
+authority_boundary: >
+  Scripture and the canonical BWM epistemic hierarchy remain controlling.
+  CMD is methodological governance, not a replacement epistemology. DFM,
+  DTE, and UTE are comparative origin modes; only DFM is instantiated as
+  the BWM creation/initialization historical framework. Functional maturity
+  does not license unconstrained chronicle-maturity.
+dependencies:
+  - WP-BWM-0009
+  - WP-BWM-0013
+  - WP-BWM-0015
+  - WP-BWM-0022
+  - canonical DFM BWM interface
+disposition: concept-captured-for-refinement
