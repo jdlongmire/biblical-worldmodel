@@ -77,15 +77,15 @@ The source paper remains provenance. Canonical claims are promoted selectively i
 
 ## Acceptance criteria
 
-- [ ] DFM/DTE/UTE are consistently described as origin modes in the BWM baseline.
-- [ ] DTE and UTE are not represented as active BWM research programmes.
-- [ ] CMD jurisdiction is placed under Foundations without duplicating the canonical epistemic hierarchy.
-- [ ] Initialization taxonomy preserves the functional-maturity/chronicle-maturity distinction.
-- [ ] `Model + Interpretation -> Expectations` is integrated with, rather than substituted for, the existing reconstruction schema.
-- [ ] Lakatosian governance exposes rescue-device and degeneration risk symmetrically.
-- [ ] DFM interface receives the resulting constraints without importing the whole working paper.
-- [ ] Source-to-canonical disposition is documented.
-- [ ] Work register is updated.
+- [x] DFM/DTE/UTE are consistently described as origin modes in the BWM baseline.
+- [x] DTE and UTE are not represented as active BWM research programmes.
+- [x] CMD jurisdiction is placed under Foundations without duplicating the canonical epistemic hierarchy.
+- [x] Initialization taxonomy preserves the functional-maturity/chronicle-maturity distinction.
+- [x] `Model + Interpretation -> Expectations` is integrated with, rather than substituted for, the existing reconstruction schema.
+- [x] Lakatosian governance exposes rescue-device and degeneration risk symmetrically.
+- [x] DFM interface receives the resulting constraints without importing the whole working paper.
+- [x] Source-to-canonical disposition is documented.
+- [x] Work register is updated.
 
 Human-Curated, AI-Enabled (HCAE)
 
@@ -112,3 +112,7 @@ Promoted on the feature branch as canonical candidates:
 - DFM initialization-burden constraints added to `historical-frameworks/dfm/bwm-interface.md`
 
 Historical claims concerning the development of operational science and named historical scientists remain held for primary-source verification and were not promoted as canonical historical claims.
+
+## Principal Operator disposition
+
+ACCEPT, 2026-09-26. Canonical methodological and integration artifacts are approved for merge. Historical-development claims held for primary-source verification remain outside the accepted canonical claims.
