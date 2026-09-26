@@ -99,3 +99,16 @@ Drafted for review on 2026-09-26:
 - [Model, interpretation, and expectations](candidate-expectation-method.md)
 
 These remain WP candidates. They have not yet been promoted into the systems baseline.
+
+## Adversarial review and promotion status
+
+Adversarial reconciliation completed 2026-09-26. See [adversarial-review.md](adversarial-review.md).
+
+Promoted on the feature branch as canonical candidates:
+
+- `02-systems-baseline/2.2-architecture/foundations/methodology/christian-methodological-designism.md`
+- `02-systems-baseline/2.2-architecture/integration/origins-mode-taxonomy.md`
+- expectation and I0-I4 initialization-burden additions to `integration/observation-history-purpose-method.md`
+- DFM initialization-burden constraints added to `historical-frameworks/dfm/bwm-interface.md`
+
+Historical claims concerning the development of operational science and named historical scientists remain held for primary-source verification and were not promoted as canonical historical claims.
