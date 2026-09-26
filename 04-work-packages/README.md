@@ -30,6 +30,7 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0025](WP-BWM-0025-genesis-systems-architecture/README.md) | Genesis creation narrative as a formally traceable systems-architecture viewpoint | Proposed / concept captured | WP-BWM-0009 + WP-BWM-0024 + DFM/PFH interfaces |
 | [WP-BWM-0027](WP-BWM-0027-origin-life-video-highlight/README.md) | Origin-of-life narrative external video highlight, transcript provenance, and Arrow Problem analysis | Implemented on feature branch; review pending | Public media conventions + epistemic hierarchy |
 | [WP-BWM-0028](WP-BWM-0028-cmd-origins-taxonomy/README.md) | CMD foundations, DFM/DTE/UTE origins-mode taxonomy, and initialization semantics | Accepted; canonical promotion approved 2026-09-26 | WP-BWM-0009 + WP-BWM-0013 + WP-BWM-0015 + WP-BWM-0022 + DFM interface |
+| [WP-BWM-0029](WP-BWM-0029-cmd-history-audit/README.md) | Primary-source audit of CMD historical foundations and methodological-naturalism genealogy | Active research | WP-BWM-0028 + canonical CMD methodology |
 
 ## Register rules
 
