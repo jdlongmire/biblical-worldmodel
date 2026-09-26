@@ -1,6 +1,7 @@
 # Christian Methodological Designism
 
-Status: Canonical methodology candidate  
+Status: Canonical methodology
+Authority: Principal Operator disposition, 2026-09-26  
 Source: `WP-BWM-0028`
 
 ## Purpose
