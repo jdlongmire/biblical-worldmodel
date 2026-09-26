@@ -53,3 +53,24 @@ Detailed DFM hypotheses such as specific Day Four cosmological mechanisms, radio
 DFM primarily governs initialization. PFH governs subsequent human history from human creation to the Fall. CHFM governs the later Flood catastrophe and terrestrial restructuring. DFM may constrain interpretation of evidence within both later frameworks where inherited initialized state remains relevant.
 
 Human-Curated, AI-Enabled (HCAE)
+
+
+## Initialization burden and origin-mode constraint
+
+BWM classifies DFM, DTE, and UTE as comparative origin modes. DFM alone is instantiated here as the BWM creation/initialization Historical Framework; DTE and UTE remain comparison classes.
+
+DFM initialization claims are governed by the Integration initialization-burden taxonomy I0-I4. Functional or systemic initialization and chronicle-maturity must remain distinct.
+
+A proposed initialized state must identify:
+
+1. the boundary under examination;
+2. the initialized state being proposed;
+3. the function, system relationship, or independent warrant motivating that state;
+4. whether the state encodes a determinate antecedent history beyond functional requirements;
+5. cross-domain integration constraints;
+6. a discriminating expectation or other means of evidential assessment;
+7. conditions that would count materially against the proposal.
+
+`t_R != necessarily t_H` is a constraint on historical inference. It is not positive evidence that initialization occurred. DFM retains the burden to explain measured states, structured records, and cross-domain consilience.
+
+Admissibility of a creation-boundary discontinuity is not evidential success. DFM shall not use initialization as an unconstrained universal solvent.
