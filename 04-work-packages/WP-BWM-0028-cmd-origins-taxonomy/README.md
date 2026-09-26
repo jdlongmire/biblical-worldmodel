@@ -88,3 +88,14 @@ The source paper remains provenance. Canonical claims are promoted selectively i
 - [ ] Work register is updated.
 
 Human-Curated, AI-Enabled (HCAE)
+
+## Candidate canonical tranche
+
+Drafted for review on 2026-09-26:
+
+- [CMD methodological governance](candidate-cmd-methodological-governance.md)
+- [Origins-mode taxonomy](candidate-origins-mode-taxonomy.md)
+- [Initialization burden taxonomy](candidate-initialization-burden-taxonomy.md)
+- [Model, interpretation, and expectations](candidate-expectation-method.md)
+
+These remain WP candidates. They have not yet been promoted into the systems baseline.
