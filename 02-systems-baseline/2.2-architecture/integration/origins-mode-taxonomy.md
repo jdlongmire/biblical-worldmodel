@@ -1,6 +1,7 @@
 # Origins-Mode Taxonomy
 
-Status: Canonical integration candidate  
+Status: Canonical integration
+Authority: Principal Operator disposition, 2026-09-26  
 Source: `WP-BWM-0028`
 
 ## Purpose
