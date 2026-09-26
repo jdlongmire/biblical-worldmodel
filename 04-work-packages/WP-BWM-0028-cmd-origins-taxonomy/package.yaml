@@ -1,6 +1,6 @@
 id: WP-BWM-0028
 title: CMD Foundations and Origins-Mode Taxonomy
-status: proposed
+status: accepted
 scope: >
   Refine and disposition the September 2026 CMD/DFM/DTE/UTE foundations
   working paper into BWM-wide methodological governance, a comparative
@@ -17,4 +17,4 @@ dependencies:
   - WP-BWM-0015
   - WP-BWM-0022
   - canonical DFM BWM interface
-disposition: concept-captured-for-refinement
+disposition: accepted-for-canonical-promotion
