@@ -23,7 +23,7 @@ This repository is the BWM integration and publication layer. It owns:
 - graphics and publication assets used by BWM;
 - repository-scoped MxM guidance and operational runbooks.
 
-Some technical research programmes retain their own authoritative repositories. BWM consumes those programmes through explicit interfaces and does not silently fork their source-of-truth research. In particular, TRT/LRT and CHFM remain authoritative in their designated research repositories. BWM records the interfaces, implications, cross-domain constraints, and public synthesis needed by the WorldModel.
+Some technical research programmes retain their own authoritative repositories. BWM consumes those programmes through explicit interfaces and does not silently fork their source-of-truth research. In particular, TRT, LRT, Semantic Actualism, DFM, CHFM, FCD, and CAC remain authoritative in their designated research repositories. BWM records the interfaces, implications, cross-domain constraints, and public synthesis needed by the WorldModel.
 
 ## Intellectual architecture
 
@@ -31,14 +31,14 @@ BWM separates its substantive content into four categories. The accepted archite
 
 | Category | Role | Current examples |
 |---|---|---|
-| **Foundations** | Governing ontology, epistemology, and hermeneutics | TRT/LRT interfaces, Semantic Actualism, Scripture-first epistemic hierarchy |
-| **Historical Frameworks** | Models of historical intervals and boundary events | Designed Functional Maturity (DFM), Pre-Fall History (PFH), Catastrophic Hydrotectonic Flood Model (CHFM) |
+| **Foundations** | Governing ontology, epistemology, and hermeneutics | TRT/LRT/SA programme interfaces, Scripture-first epistemic hierarchy |
+| **Historical intervals, boundaries, and hypotheses** | BWM historical categories and hypotheses, informed by programme interfaces | creation/initialization boundary [DFM], pre-Fall interval [PFH hypothesis space], Flood boundary [CHFM] |
 | **World Domains** | Subject-matter areas to which foundations and frameworks are applied | Cosmology, Earth history/geology, biology, anthropology, archaeology/chronology, covenant/redemptive history |
 | **Integration** | Cross-framework and cross-domain synthesis | invariants, framework/domain mapping, chronology, evidence ledgers, model comparison, open problems, predictions and falsifiers |
 
 The current historical backbone is:
 
-`Foundations -> DFM / creation and initialization -> PFH -> Fall -> post-Fall / pre-Flood history -> CHFM / Flood catastrophe -> post-Flood history -> covenant/redemptive history -> consummation`
+`Foundations -> creation/initialization [DFM] -> pre-Fall interval [PFH hypothesis space] -> Fall -> post-Fall/pre-Flood history -> Flood catastrophe [CHFM] -> post-Flood history -> covenant/redemptive history -> consummation`
 
 This is a historical sequence, not a hierarchy. Foundations apply across every stage.
 
