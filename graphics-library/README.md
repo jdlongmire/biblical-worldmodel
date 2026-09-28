@@ -36,6 +36,7 @@ Native-resolution crops from the supplied visual asset sheet, plus standalone su
 | [infographics/crops/header-band.png](infographics/crops/header-band.png) | 1536 × 205 |
 | [infographics/crops/panel1-two-sources.png](infographics/crops/panel1-two-sources.png) | 505 × 400 |
 | [infographics/crops/panel3-calculated-age.png](infographics/crops/panel3-calculated-age.png) | 506 × 400 |
+| [infographics/bwm-methodological-designism-exemplars.jpg](infographics/bwm-methodological-designism-exemplars.jpg) | 1536 × 1024 |
 
 ## Source and use
 
@@ -48,5 +49,7 @@ The mobile-labelled source is landscape; a real portrait crop/composition is sti
 No source email, sender information or message body is included. This library contains only the supplied project graphics and decomposition metadata.
 
 `infographics/worldmodel-overview-hexagon.png` is a standalone supplied graphic, not a crop -- see its `manifest.json` entry for the tier-register and unverified-figures caveats JD accepted 2026-09-12 alongside storing it ("high level story"). Those caveats are flagged, not resolved; treat the case-study numbers on that graphic as unverified until checked against primary geochronological sources.
+
+`infographics/bwm-methodological-designism-exemplars.jpg` is a standalone supplied graphic for WP-BWM-0030 (Methodological Designism exemplars), stored as given. Its `manifest.json` entry flags two items to correct before public use: Plantinga's printed death year (he is living) and the illustrative, unverified portraits.
 
 Human-Curated, AI-Enabled (HCAE)

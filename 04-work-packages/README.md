@@ -29,9 +29,9 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0024](WP-BWM-0024-scriptural-testimony/README.md) | Scripture as a trustworthy explanatory source and Scriptural Testimony Principle | Proposed / active research | WP-BWM-0009 + canonical foundations |
 | [WP-BWM-0025](WP-BWM-0025-genesis-systems-architecture/README.md) | Genesis creation narrative as a formally traceable systems-architecture viewpoint | Proposed / concept captured | WP-BWM-0009 + WP-BWM-0024 + DFM/PFH interfaces |
 | [WP-BWM-0027](WP-BWM-0027-origin-life-video-highlight/README.md) | Origin-of-life narrative external video highlight, transcript provenance, and Arrow Problem analysis | Implemented on feature branch; review pending | Public media conventions + epistemic hierarchy |
-| [WP-BWM-0028](WP-BWM-0028-cmd-origins-taxonomy/README.md) | CMD foundations, DFM/DTE/UTE origins-mode taxonomy, and initialization semantics | Accepted; canonical promotion approved 2026-09-26 | WP-BWM-0009 + WP-BWM-0013 + WP-BWM-0015 + WP-BWM-0022 + DFM interface |
-
 | [WP-BWM-0026](WP-BWM-0026-research-programme-gateway/README.md) | Research Programme Gateway Architecture: ecosystem authority, interfaces, taxonomy, and conflict-return governance | Proposed / active architecture investigation | WP-BWM-0009 + WP-BWM-0013 + authoritative programme repositories |
+| [WP-BWM-0028](WP-BWM-0028-cmd-origins-taxonomy/README.md) | CMD foundations, DFM/DTE/UTE origins-mode taxonomy, and initialization semantics | Accepted; canonical promotion approved 2026-09-26 | WP-BWM-0009 + WP-BWM-0013 + WP-BWM-0015 + WP-BWM-0022 + DFM interface |
+| [WP-BWM-0030](WP-BWM-0030-methodological-designism-charter/README.md) | Methodological Designism charter and research-programme governance | Active; framework institutionalization authorized 2026-09-25 | WP-BWM-0009 + component architecture + WP-BWM-0024 |
 
 ## Register rules
 
