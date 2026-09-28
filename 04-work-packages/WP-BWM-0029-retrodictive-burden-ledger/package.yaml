@@ -1,0 +1,36 @@
+id: WP-BWM-0029
+title: Historical Reconstruction, Boundary Conditions, and Retrodictive Burden Ledger
+status: approved
+scope: >
+  Harvest the submitted "Evolution Story-Telling Is Not Real Science" corpus as a claim mine,
+  independently evaluate its scientific and methodological propositions, and route retained
+  material into the correct BWM or associated research-programme corpus. The package formalizes
+  a cross-domain retrodictive burden ledger for historical reconstruction, with explicit initial
+  conditions, boundary conditions, governing models, rate histories, transport/preservation
+  mechanisms, uncertainty, and discriminating observations.
+authority_boundary: >
+  The source text is an intake artifact, not evidential authority. Creationist and conventional
+  secondary sources may seed investigation, but substantive scientific claims must be traced to
+  primary literature, datasets, or authoritative technical sources where accessible. No claim is
+  promoted into canonical BWM, DFM, TRT, LRT, Flood/Earth History, PFH, or public apologetic
+  material merely because it favors a short chronology or challenges a conventional model.
+  Canonical promotion requires evidence grading, red-team review, and JD approval.
+actions:
+  - Preserve and decompose the source into atomic claims.
+  - Classify each claim as observation, model transformation, reconstruction, methodological critique, or rhetoric.
+  - Build a burden ledger using O + M + I + B + D -> H.
+  - Verify claims against primary sources and record inaccessible-primary cases explicitly.
+  - Assign each claim Retain, Qualify, Reject, Unresolved, or Refer status.
+  - Identify falsifiers or discriminating observations for retained and unresolved propositions.
+  - Route retained material to the appropriate BWM baseline, DFM, Earth/Flood history, PFH, TRT/LRT, or existing work package.
+  - Refer origin-of-life system-integration material to WP-BWM-0027 rather than duplicate that corpus.
+  - Refer retrodictive-age terminology and formal age-language changes to WP-BWM-0022.
+  - Apply WP-BWM-0026 research-programme jurisdiction before any cross-repository promotion.
+  - Produce explicit corpus-disposition recommendations and canonicalization candidates for JD review.
+verification: >
+  Done requires a source-provenanced claim ledger; quantitative audits for thermodynamic,
+  geochronological, orbital, geomagnetic, population-genetic, origin-of-life, and cosmological
+  claims selected for retention; explicit corpus destinations; a quarantine/rejection record for
+  weak arguments; identified discriminators; and JD-reviewed recommendations for canonical
+  promotion. No argument may be retained solely for apologetic usefulness.
+disposition: approved-for-research
