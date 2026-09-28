@@ -117,3 +117,44 @@ Public arguments derived from this method must distinguish:
 - explanatory hypotheses from rescue devices;
 - empirical claims from theological purpose claims;
 - current evidence from future research targets.
+
+
+## Model, interpretation, and expectations
+
+Public shorthand:
+
+`Model + Interpretation -> Expectations`
+
+For canonical analytical work, assumptions and test context remain explicit. The existing reconstruction schema remains:
+
+`H = R(O, M, I, B)`
+
+For prospective comparison, an expectation may be represented as:
+
+`E = X(M, A, C)`
+
+where `M` is the model/framework, `A` is the explicit auxiliary, initialization, and boundary assumptions, `C` is the test context, `X` is the expectation-generating interpretation, and `E` is the expected observation or result.
+
+The observed result is compared with the pre-specified expectation. Evidential consequences attach first to the epistemic level that generated the expectation and propagate only through demonstrated dependency.
+
+An observation can have high evidential importance and low discriminatory force when materially similar observations are expected under multiple models. Compatibility therefore shall not be counted as discrimination.
+
+Where practical, severe or discriminating expectations should be recorded before testing. Post hoc accommodation must be identified as accommodation.
+
+### Initialization burden taxonomy
+
+BWM uses the following analytical classes to refine the functional-maturity/chronicle-maturity distinction:
+
+- **I0 logical/nomic structure**: logical and lawful constraints under which the system operates.
+- **I1 physical/systemic boundary state**: physically instantiated state required for the modeled system to exist and evolve.
+- **I2 relational/operational initialization**: coordinated relationships among components required for immediate system-level operation.
+- **I3 organismal/ecological functional maturity**: living or ecological systems initialized capable of commissioned function.
+- **I4 chronicle-maturity/historical-record initialization**: initialized structure that appears specifically to record antecedent events that, under the hypothesis, did not occur.
+
+I0-I3 do not automatically establish that any proposed initialized state is warranted. I4 carries an additional burden because functional sufficiency alone does not explain a determinate untraversed chronicle.
+
+Burden principle:
+
+> The stronger an initialized state resembles a specific record of untraversed events rather than a requirement of system function or integration, the stronger the independent justification required.
+
+An I4 proposal must identify why the specific record-like information is required or independently warranted, what materially different initialized states were possible, what expectation follows specifically from the proposal, and what observation would count against it. Without such warrant, the feature remains an unresolved explanatory burden rather than a default DFM disposition.

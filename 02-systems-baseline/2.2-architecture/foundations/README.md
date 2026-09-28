@@ -1,19 +1,23 @@
 # Foundations
 
-Purpose: canonical BWM foundations that govern the entire WorldModel across domains and historical frameworks.
+Purpose: canonical BWM foundations that govern the entire WorldModel across domains and historical categories.
 
-This surface owns:
+This surface owns BWM integration of:
 
 - ontology and metaphysics;
 - epistemology;
 - hermeneutics;
-- BWM interfaces to externally authoritative foundational programmes such as TRT and LRT.
+- pinned interfaces to externally authoritative foundational programmes.
 
-This surface does not own:
+Current external foundational programmes include:
 
-- domain-specific scientific models;
-- historical-framework mechanisms such as DFM, PFH, or CHFM;
-- active research not yet dispositioned for canonical promotion.
+- TRT — Triadic Reality Theory;
+- LRT — Logic Realism Theory;
+- SA — Semantic Actualism.
+
+Their BWM role is **Foundation**. Their source type remains **external research programme**. BWM does not acquire ownership of their research by using their outputs as foundations.
+
+This surface does not own domain-specific scientific models, historical mechanisms, or active external research.
 
 Source-of-truth rule: externally authoritative programmes are consumed through pinned BWM interface artifacts rather than copied wholesale.
 

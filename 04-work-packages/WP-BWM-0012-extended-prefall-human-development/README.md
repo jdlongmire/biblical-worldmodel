@@ -1,4 +1,4 @@
-# WP-BWM-0012 — Pre-Fall History (PFH)
+# WP-BWM-0012 — Pre-Fall Hypothesis (PFH)
 
 Status: Proposed / active investigation
 Owner: JD Longmire
@@ -6,23 +6,25 @@ Working branch: `merge/wp-bwm-0012-clean`
 
 ## Objective
 
-Establish **Pre-Fall History (PFH)** as the Biblical WorldModel framework governing the interval from the creation of humanity through the Fall boundary.
+Establish the **Pre-Fall Hypothesis (PFH)** as the BWM hypothesis space for proposed reconstructions within the historical interval from the creation of humanity through the Fall boundary.
 
-PFH is broader than the extended-duration hypothesis that prompted this work package. It provides the research container for the biblical, historical, anthropological, demographic, cultural, geographic, technological, ecological, and chronological questions that belong to the pre-Fall human world.
+PFH is broader than the extended-duration hypothesis that prompted this work package. It provides the hypothesis/research container for the biblical, historical, anthropological, demographic, cultural, geographic, technological, ecological, and chronological questions that belong to the pre-Fall human world.
 
 The model treats Scripture as primary epistemic authority and nature as secondary evidence.
 
 ## Framework boundary
 
-PFH governs:
+The BWM historical category is the **pre-Fall historical interval**:
 
-`human creation -> pre-Fall history -> Fall`
+`human creation -> pre-Fall interval -> Fall`
+
+PFH governs proposed reconstructions within that interval.
 
 The broader BWM historical sequence is provisionally:
 
-`Foundations -> DFM / creation and initialization -> PFH -> Fall -> post-Fall / pre-Flood history -> CHFM / Flood catastrophe -> post-Flood history`
+`Foundations -> creation/initialization [DFM] -> pre-Fall interval [PFH hypothesis space] -> Fall -> post-Fall/pre-Flood history -> Flood catastrophe [CHFM] -> post-Flood history`
 
-DFM primarily governs creation-state initialization and the limits of backward extrapolation across the initialization boundary. PFH governs subsequent human history before the Fall. CHFM primarily governs the later catastrophic Flood transition and its terrestrial consequences.
+DFM is the externally authoritative programme governing creation-state initialization and retrodiction methodology. PFH proposes reconstructions of the subsequent pre-Fall human interval. CHFM is the externally authoritative programme governing detailed Flood-mechanism research.
 
 These frameworks may overlap in domain evidence, but their historical jurisdictions are distinct.
 
@@ -41,7 +43,7 @@ where:
 
 A central sub-hypothesis is that numerical human age accounting is relevant to the post-Fall mortal order because human death enters through sin. On this reading, Adam's recorded 930 years may represent his mortal/post-Fall lifespan rather than requiring `T_preFall = 0`. This remains an exegetical hypothesis to be tested.
 
-PFH itself does **not** depend on an extended duration being established. A short, moderate, or extended pre-Fall interval would still belong to PFH.
+PFH itself does **not** depend on an extended duration being established. It can evaluate short, moderate, or extended reconstructions of the pre-Fall interval.
 
 ## Scriptural priority and method
 
@@ -118,9 +120,9 @@ Therefore, evidence of human activity such as tools, structures, symbolic artifa
 
 `WP-BWM-0014-chronological-contamination` governs human mortality chronology and dating conflicts involving demonstrably post-Fall human death, bodily remains, and burial contexts.
 
-PFH governs total human antiquity and the pre-Fall historical interval.
+The pre-Fall historical interval is the BWM category; PFH governs proposed reconstructions of human antiquity and activity within it.
 
-- **PFH / WP-BWM-0012 governs when and how humans may have lived before the Fall.**
+- **PFH / WP-BWM-0012 investigates when and how humans may have lived before the Fall.**
 - **WP-BWM-0014 governs when humans may have died.**
 
 A dated human artifact and a dated human death event must therefore remain distinct chronological categories even when archaeologically associated.
@@ -154,7 +156,7 @@ PFH does not:
 
 This package is ready for JD's review when:
 
-- PFH is defined as the BWM framework for the human-creation-to-Fall interval;
+- PFH is defined as the BWM hypothesis space for proposed reconstructions within the human-creation-to-Fall interval;
 - the extended pre-Fall development model is clearly subordinate to PFH as a hypothesis rather than synonymous with PFH;
 - the biblical case for and against an extended pre-Fall interval is documented from primary Scripture;
 - Genesis 5:3–5 and the 930-year formula receive explicit treatment;
@@ -169,7 +171,7 @@ This package is ready for JD's review when:
 
 ## Current disposition
 
-Open. PFH framework formation, hypothesis development, and constraint analysis only. No canonical BWM chronology requirement is changed by this work package.
+Open. PFH hypothesis development and constraint analysis only. No canonical BWM chronology requirement is changed by this work package.
 
 Chronology scope reconciled with WP-BWM-0014 on 2026-09-13: PFH owns total human antiquity and pre-Fall history; WP-BWM-0014 owns human mortality chronology and dating conflicts involving human death/remains.
 

@@ -1,16 +1,18 @@
-# Historical Frameworks
+# Historical Intervals, Boundaries, and Hypotheses
 
-Purpose: canonical BWM frameworks that govern major historical intervals, transitions, or boundary events across multiple world domains.
+Purpose: canonical BWM treatment of major historical intervals, transitions, boundary events, and BWM-owned hypotheses across multiple world domains.
 
-Current framework classes:
+Current categories:
 
-- DFM — creation and initialization boundary;
-- PFH — human creation through the Fall boundary;
-- CHFM — Flood catastrophe and immediate terrestrial consequences;
-- Post-Flood History — reserved candidate only, not yet formalized.
+- creation / initialization boundary, informed by the externally authoritative DFM research programme;
+- pre-Fall historical interval, with PFH meaning **Pre-Fall Hypothesis** for proposed reconstructions within the interval;
+- Flood boundary / catastrophic interval, informed by the externally authoritative CHFM research programme;
+- Post-Flood History, reserved candidate only.
 
-Historical Frameworks are not subject-matter domains. Each framework may apply across several domains, and each domain may consume several frameworks.
+These historical categories are not subject-matter domains and do not imply that BWM owns the external research programmes that inform them.
 
-Framework folders should carry BWM interface artifacts, adopted propositions, jurisdiction, interfaces, unresolved tensions, and provenance. Detailed external research programmes remain authoritative in their own repositories where applicable.
+Detailed external research remains authoritative in its source repository and is consumed through the canonical BWM interface registry.
+
+DTE and UTE are comparative interpretive/model families under Integration, not historical-framework research programmes.
 
 Human-Curated, AI-Enabled (HCAE)

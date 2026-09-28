@@ -1,0 +1,15 @@
+id: WP-BWM-0026
+title: Research Programme Gateway Architecture
+status: active
+type: architecture
+owner: JD Longmire
+created: 2026-09-24
+dependencies:
+  - WP-BWM-0009
+  - WP-BWM-0013
+scope:
+  - research-programme inventory
+  - gateway contract
+  - source-of-truth governance
+  - ecosystem taxonomy
+  - interface architecture
