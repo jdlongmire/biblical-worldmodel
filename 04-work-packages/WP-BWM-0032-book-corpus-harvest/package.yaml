@@ -1,0 +1,40 @@
+id: WP-BWM-0032
+title: Book Corpus Harvest and Manuscript Foundation
+status: active
+parent: WP-BWM-0031
+scope: >
+  Execute the pre-drafting foundation for God's Word, God's World by harvesting
+  the relevant corpus, building chapter claim sheets and source ledgers,
+  establishing the Book Constitution and manuscript workspace, developing the
+  recommended-voices inventory, and validating the book through two pilot chapters.
+authority_boundary: >
+  This package may inventory, disposition, adapt, organize, verify, and prepare
+  corpus material for manuscript development. It may not alter the foundational
+  theological or epistemic commitments of WP-BWM-0031, canonicalize defeasible
+  hypotheses, or insulate BWM-associated models from evidentiary or exegetical challenge.
+dependencies:
+  - WP-BWM-0031
+  - WP-BWM-0009
+  - WP-BWM-0022
+  - WP-BWM-0029
+  - WP-BWM-0030
+interfaces:
+  - BWM
+  - DFM
+  - Methodological Designism
+  - LRT
+  - TRT
+  - MXM
+  - thinx-tank
+deliverables:
+  - corpus-harvest-ledger
+  - source-verification-ledger
+  - recommended-voices-inventory
+  - book-constitution
+  - chapter-claim-sheets
+  - manuscript-workspace
+  - exclusion-ledger
+  - chapter-1-pilot
+  - chapter-6-pilot
+  - drafting-readiness-assessment
+disposition: execution-authorized
