@@ -1,0 +1,26 @@
+id: WP-BWM-0031
+title: "God's Word, God's World: Making Sense of All the Noise"
+status: active
+scope: >
+  Develop a public-facing book from the BWM and associated research corpus,
+  teaching a reusable Christian epistemic discipline while introducing programme
+  concepts only to the depth required by the reader-facing argument.
+authority_boundary: >
+  This package may harvest, adapt, organize, and develop material for the book.
+  It does not canonicalize defeasible BWM hypotheses, alter the authority of
+  Scripture, or require readers to adopt or master BWM-associated research
+  programmes.
+dependencies:
+  - WP-BWM-0009
+  - WP-BWM-0022
+  - WP-BWM-0029
+  - WP-BWM-0030
+interfaces:
+  - BWM
+  - DFM
+  - Methodological Designism
+  - PFH
+  - CHFM
+  - TRT
+  - LRT
+disposition: concept-development-and-corpus-harvest-authorized
