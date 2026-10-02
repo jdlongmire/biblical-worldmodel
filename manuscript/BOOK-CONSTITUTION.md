@@ -28,3 +28,16 @@ This document governs manuscript development. It is subordinate to Scripture and
 ## Working editorial maxim
 
 > **Introduce the insight. Demonstrate its usefulness. Leave the machinery in the corpus.**
+
+21. **Every chapter must face its strongest relevant objections.** State each objection fairly in a form a serious advocate would recognize; classify what it challenges; answer only as far as the evidence warrants; and explicitly identify any explanatory burden that remains. The same standard applies to author-preferred models.
+
+## Objection dispositions
+
+- **Resolved** — the objection rests on a demonstrable factual, categorical, exegetical, or logical error.
+- **Answered** — the objection raises a legitimate concern, but the available evidence or argument supplies an adequate response.
+- **Burden Remains** — **“This objection does not defeat the argument, but it does identify a genuine explanatory burden that remains.”**
+- **Unresolved** — no presently satisfactory response is available; the objection remains evidence against the relevant claim or model.
+
+## Objection classification
+
+Classify objections according to the principal locus of challenge: **exegesis; observation/evidence; inference; model; philosophy; worldview/presupposition.** Mixed objections may receive multiple classifications. Do not answer an objection at a different epistemic level merely to evade its force.
