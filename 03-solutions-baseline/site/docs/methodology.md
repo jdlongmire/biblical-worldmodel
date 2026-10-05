@@ -29,6 +29,14 @@ Non-capitulation does not exempt BWM from criticism or permit it to invoke revel
 
 The comparison is therefore not between an allegedly presuppositionless reading of nature and a presuppositional biblical reading. It is between explanatory frameworks whose observations, assumptions, boundary conditions, inferential rules, and metaphysical commitments should be made as explicit as practicable.
 
+## Experiential evidence and worldview fit
+
+Not all evidence relevant to worldview comparison is instrument-mediated. Human experience can itself supply data, provided the experience is distinguished from the interpretation placed upon it.
+
+BWM therefore treats recurring experiences of beauty, awe, wonder, sublimity, and apparent transcendence as phenomena to be explained rather than as self-interpreting proofs. A naturalistic account may appeal to evolved cognition, affective systems, pattern recognition, cultural formation, or other mechanisms. A biblical account may expect such responses from a creation intended to evoke contemplation and disclose divine glory. The appropriate question is comparative expectedness and explanatory scope, not whether one side may define the phenomenon out of the evidential set.
+
+In Bayesian terms, the relevant comparison is qualitative unless defensible likelihoods can be supplied: how expected is the observed pattern of human response under each worldview, and what auxiliary assumptions are required to account for it? BWM should not assign numerical likelihoods merely to give the comparison a veneer of precision.
+
 ## Programme structure
 
 Several of the research programmes referenced from this site (see [research programmes](research-programmes.md)) organize their own claims in explicitly Lakatosian terms: a **hard core** of central commitments, a **protective belt** of auxiliary hypotheses that can be revised without abandoning the core, and **severe tests** meant to discriminate between competing accounts rather than merely illustrate a preferred one. These terms are defined individually in the [glossary](sources.md).
