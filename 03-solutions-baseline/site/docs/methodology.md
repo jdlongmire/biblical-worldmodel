@@ -45,6 +45,8 @@ BWM therefore distinguishes **measurement**, **correlation**, **prediction**, an
 
 This is the methodological expression of the [Experiential Irreducibility Principle](creation.md#experiential-irreducibility-principle). It permits rigorous quantitative investigation while resisting the inference that whatever a model does not encode is therefore unreal or explanatorily irrelevant.
 
+The same discipline applies to the [Rational-Relational Vocation Principle](creation.md#rational-relational-vocation-principle). Reasoning can be formally represented and relationships can be empirically studied, but neither formal representation nor behavioral measurement should be assumed to exhaust the person who reasons or the relationship in which persons participate.
+
 ## Programme structure
 
 Several of the research programmes referenced from this site (see [research programmes](research-programmes.md)) organize their own claims in explicitly Lakatosian terms: a **hard core** of central commitments, a **protective belt** of auxiliary hypotheses that can be revised without abandoning the core, and **severe tests** meant to discriminate between competing accounts rather than merely illustrate a preferred one. These terms are defined individually in the [glossary](sources.md).
