@@ -31,6 +31,18 @@ BWM therefore distinguishes three levels:
 
 This correspondence should be weighted rather than absolutized. Neural, psychological, evolutionary, or cultural accounts may explain aspects of the human response and should be considered on their merits. Identifying a mechanism or correlate of awe does not by itself decide the separate question of why reality is structured so that rational observers repeatedly encounter it as awe-worthy, nor does the experience of transcendence by itself establish that every interpretation of transcendence is true.
 
+### Experiential Irreducibility Principle
+
+Human experience can be investigated quantitatively without being exhausted by quantitative description.
+
+> **Experiential Irreducibility Principle:** quantitative models may describe, correlate with, and predict aspects of human experience without thereby establishing that the first-person, semantic, aesthetic, relational, or transcendent content of that experience is identical to, or exhausted by, the modeled variables.
+
+For example, a reproducible neural state may correlate strongly with a reported experience of awe. That correlation is an empirical result. The further claim that the experience *is nothing but* that neural state is an ontological interpretation and requires additional argument.
+
+BWM therefore rejects both reductionist and anti-empirical extremes. Neuroscience, psychology, psychophysics, behavioral science, and mathematical modeling can illuminate mechanisms, correlates, and regularities of human experience. Their success should be welcomed rather than resisted. But increasing descriptive precision does not by itself establish ontological reduction.
+
+This distinction is especially relevant to wonder, beauty, meaning, interpretation, stewardship, and communion because these experiences are intentional and relational: one wonders *about* something, apprehends beauty *in* something, interprets *meaning*, exercises stewardship *toward* something, and communes *with* another. A complete account must therefore avoid silently identifying measurable correlates with the whole phenomenon under investigation.
+
 ### Naturalistic Pragmatism Constraint Rejection
 
 BWM does not accept **naturalistic pragmatism** as the default or exhaustive measure of creational purpose. Material economy, survival utility, reproductive advantage, and minimum mechanistic sufficiency can be legitimate questions within their proper domains, but they do not define the complete objective function of creation.
