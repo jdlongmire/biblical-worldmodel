@@ -7,6 +7,10 @@ An observation records something about the world. An inference connects observat
 
 Keeping these distinctions visible helps readers ask which part of an argument is measured and which part depends on a model.
 
+The three basic inference models differ in what they can deliver:
+
+![Deduction yields necessary conclusions, induction yields probable generalizations, abduction yields plausible best explanations.](assets/inference-models.jpg)
+
 ## Three tiers, held apart on purpose
 
 **Direct observation.** A measurement, a reading, a recorded feature of the present world. An observation can, in principle, be checked by repeating it or by an independent instrument. It does not, by itself, explain how the observed feature came to be; that step is already an inference.
