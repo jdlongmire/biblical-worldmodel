@@ -35,6 +35,11 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0033](WP-BWM-0033-day6-dfm-reconciliation/README.md) | Reconcile Day 6 artifacts with DFM phased deployment and PFH runtime boundary | Implemented on feature branch; review pending | WP-BWM-0018 + WP-BWM-0025 + DFM WP-022 |
 | [WP-BWM-0034](WP-BWM-0034-initialization-age-essay/README.md) | Public essay on initialization, functional maturity, retrodictive age, and the YEC/OEC degree claim | Implemented on feature branch; review pending | WP-BWM-0009 + WP-BWM-0011 + WP-BWM-0028 + WP-BWM-0033 + DFM interface |
 
+| [WP-BWM-0031](WP-BWM-0031-gods-word-gods-world/README.md) | *God's Word, God's World* book concept and manuscript architecture | Active; concept development and corpus harvest authorized | WP-BWM-0009 + WP-BWM-0029 + WP-BWM-0030 |
+| [WP-BWM-0032](WP-BWM-0032-book-corpus-harvest/README.md) | Book corpus harvest and manuscript foundation | Active; execution authorized | WP-BWM-0031 |
+| [WP-BWM-0035](WP-BWM-0035-objection-response-register/README.md) | Book objection/response register | Active | WP-BWM-0031 + manuscript development |
+| [WP-BWM-0036](WP-BWM-0036-intellectual-journey-narrative/README.md) | Intellectual journey and biographical narrative underlying BWM/Methodological Designism | Active; iterative biographical drafting authorized | WP-BWM-0009 + WP-BWM-0030 + WP-BWM-0031 + WP-BWM-0032 |
+
 ## Register rules
 
 - Work-package UIDs must be checked against the live directory and semantically equivalent open work before allocation.
