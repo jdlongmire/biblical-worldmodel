@@ -12,12 +12,13 @@ Develop a public-facing BWM essay reframing the Young Creation / Old Creation ag
 
 - WP-BWM-0009 — canonical epistemic hierarchy.
 - WP-BWM-0011 — cosmology retrodiction and boundary-condition harvest.
+- WP-BWM-0015 — Observation, Purpose, and the Unobserved Past synthesis; source research draft for the accessible essay.
 - WP-BWM-0025 — Genesis systems architecture.
 - WP-BWM-0028 — CMD foundations, DFM/DTE/UTE origins-mode taxonomy, and initialization semantics.
 - WP-BWM-0033 — Day 6 / DFM phased-deployment reconciliation.
 - jdlongmire/designed-functional-maturity — authoritative DFM research baseline.
 
-BWM owns the public synthesis. DFM remains authoritative for DFM technical claims; this package does not fork or silently strengthen that programme.
+The new essay is an accessible derivative/synthesis of existing BWM research, especially WP-BWM-0015, rather than a competing research baseline. BWM owns the public synthesis. DFM remains authoritative for DFM technical claims; this package does not fork or silently strengthen that programme.
 
 ## Claim boundaries
 
