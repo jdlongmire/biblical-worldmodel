@@ -20,6 +20,7 @@ This register retains substantive objections in their strongest useful form. An 
 | BWM-OBJ-001 | DFM is unfalsifiable if any contrary evidence can be assigned to initialization. | DFM / initialization | Burden remains | Specify positive constraints on initialized states and severe tests that can count against DFM. |
 | BWM-OBJ-002 | Separating observation from historical inference selectively undermines historical science. | BWM epistemology | Burden remains | Apply the same observation/model/initial-condition decomposition symmetrically to BWM and conventional reconstructions. |
 | BWM-OBJ-003 | Functional maturity makes God a trickster: a young cosmos can be initialized to look old, collapsing into Last Thursdayism. | DFM / functional maturity | Answered; technical burden remains | Constrain functional and causal maturity against fabricated chronicle; model history-shaped astronomical information across the creation boundary. |
+| BWM-OBJ-004 | A universe this vast and materially extravagant is wasteful if it was designed substantially with humanity in view. | BWM doctrine of creation / design inference | Answered at the objective-function level | Do not overclaim that every cosmic feature has a known human-facing purpose; continue investigating physical and theological functions. |
 
 ## BWM-OBJ-003 — "Trickster God," Last Thursdayism, and distant supernovae
 
@@ -43,7 +44,7 @@ DFM therefore accepts the reality of the event sequence while questioning a furt
 
 This is not permission to change constants observation by observation. A viable DFM cosmology must supply a **single, independently motivated and generally applicable creation-boundary model**. It must preserve real causal ordering and information while accounting for the establishment of cosmic geometry and propagation relationships. An ad hoc adjustment introduced only when an observation conflicts with a young chronology would count against the model.
 
-BWM also recognizes that the scriptural purpose assigned to creation is broader than mechanical minimalism. Creation is presented as observable, intelligible, abundant, and wonder-producing. This **aesthetic-revelatory function** can be relevant when asking why a created cosmos contains observational richness beyond a proposed minimum for terrestrial mechanics or survival. It does not, however, solve the supernova problem by itself. Aesthetic purpose cannot turn a nonexistent event into a legitimate record. If radiation represents a specific causal event, the reality constraint remains: the event and represented causal sequence must be real, and the boundary model must account for their information-bearing relationship.
+BWM also recognizes that the scriptural purpose assigned to creation is broader than mechanical minimalism. Creation is presented as observable, intelligible, abundant, and wonder-producing. This **Creational Purpose Principle** can be relevant when asking why a created cosmos contains observational richness beyond a proposed minimum for terrestrial mechanics or survival. It does not, however, solve the supernova problem by itself. Creational purpose cannot turn a nonexistent event into a legitimate record. If radiation represents a specific causal event, the reality constraint remains: the event and represented causal sequence must be real, and the boundary model must account for their information-bearing relationship.
 
 Thus the relevant alternatives must not be collapsed:
 
@@ -73,5 +74,42 @@ If DFM can preserve a young chronology only by repeatedly assigning otherwise co
 - Open problem: what functional maturity has to explain
 - Manuscript objection ledger: OBJ-001 and OBJ-004
 - Canonical technical authority: Designed Functional Maturity programme
+
+## BWM-OBJ-004 — The "wasted universe" / inefficient-design objection
+
+### Strongest form
+
+If the universe was designed by God substantially with humanity in view, its immense scale appears gratuitous. Billions of galaxies, enormous interstellar and intergalactic distances, vast quantities of matter, and regions apparently irrelevant or hostile to human habitation seem radically inefficient. A competent designer could have produced a much smaller cosmos capable of supporting terrestrial life. Cosmic excess therefore appears more expected under an indifferent natural process than under purposeful human-centered creation.
+
+### Response
+
+The objection has evidential force only relative to an expected **design objective**. It implicitly evaluates the universe against a minimal-habitat objective: produce human biological life using as little space, matter, energy, and structure as possible.
+
+That is not the objective function Scripture assigns to creation.
+
+BWM's **Creational Purpose Principle** recognizes revealed human-facing purposes that include **wonder, awe, stewardship, investigation, interpretation, and communion with God**. Scripture presents the heavens as objects of contemplation and disclosure, not merely as machinery required to keep Earth habitable. Psalm 8 explicitly connects contemplation of the heavens with awe and reflection on humanity's place before God. Psalm 19:1 presents the heavens as declaring God's glory. Psalm 104 and Job 38–41 emphasize abundance, scale, variety, order, and creaturely limitation. Romans 1:20 treats created things as revelatory.
+
+Under that broader objective function, cosmic scale and abundance cannot simply be labeled waste because they exceed the minimum material requirements for terrestrial survival. A feature may have physical, epistemic, aesthetic, vocational, revelatory, or doxological function, and several of these functions may obtain simultaneously.
+
+In engineering terms, the objection risks evaluating an architecture against a requirement supplied by the critic rather than the requirements actually specified for the system. Material minimization is a valid engineering objective only when minimization is part of the design requirement. More structure than the minimum needed for one subsystem does not establish waste when the total system has additional purposes.
+
+### Disposition
+
+**Answered at the objective-function level.**
+
+The inference from cosmic abundance to poor design does not follow without an independently justified premise that a divine designer should minimize cosmic material and spatial scale relative to human habitation. The biblical model supplies contrary expectations: a creation intended to be contemplated, investigated, stewarded, interpreted, and experienced as revelatory may reasonably possess scale and richness far beyond bare life-support requirements.
+
+This response is deliberately limited. It does not establish that every galaxy, star, void, or quantity of matter has a presently known human-facing purpose. Nor does beauty or grandeur by itself prove design. The claim is narrower: **"waste" is not an observation but an evaluation relative to an objective function, and the minimal-habitat objective is not the revealed biblical objective function.**
+
+### Loss condition
+
+If BWM claimed that every apparently extraneous cosmic feature has a specific human-facing purpose, but could supply those purposes only after the fact and without independent scriptural, physical, or explanatory warrant, the response would become ad hoc. The Creational Purpose Principle licenses a broader purpose space; it does not license arbitrary purpose assignments.
+
+### Related BWM records
+
+- Creation and functional maturity: Creational Purpose Principle
+- BWM-OBJ-003: functional maturity, causal reality, and fabricated chronicle
+- Psalm 8; Psalm 19; Psalm 104; Job 38–41; Romans 1:20
+
 
 Human-Curated, AI-Enabled (HCAE)
