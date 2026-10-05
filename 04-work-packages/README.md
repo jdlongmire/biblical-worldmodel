@@ -32,6 +32,7 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0026](WP-BWM-0026-research-programme-gateway/README.md) | Research Programme Gateway Architecture: ecosystem authority, interfaces, taxonomy, and conflict-return governance | Proposed / active architecture investigation | WP-BWM-0009 + WP-BWM-0013 + authoritative programme repositories |
 | [WP-BWM-0028](WP-BWM-0028-cmd-origins-taxonomy/README.md) | CMD foundations, DFM/DTE/UTE origins-mode taxonomy, and initialization semantics | Accepted; canonical promotion approved 2026-09-26 | WP-BWM-0009 + WP-BWM-0013 + WP-BWM-0015 + WP-BWM-0022 + DFM interface |
 | [WP-BWM-0030](WP-BWM-0030-methodological-designism-charter/README.md) | Methodological Designism charter and research-programme governance | Active; framework institutionalization authorized 2026-09-25 | WP-BWM-0009 + component architecture + WP-BWM-0024 |
+| [WP-BWM-0033](WP-BWM-0033-day6-dfm-reconciliation/README.md) | Reconcile Day 6 artifacts with DFM phased deployment and PFH runtime boundary | Implemented on feature branch; review pending | WP-BWM-0018 + WP-BWM-0025 + DFM WP-022 |
 
 ## Register rules
 
@@ -43,7 +44,7 @@ This register is the repository front-door index for governed BWM work. Individu
 
 ## Architectural notes
 
-WP-BWM-0009 supplies the canonical epistemic hierarchy and governance rules. WP-BWM-0012 owns PFH as the Pre-Fall Hypothesis space within the pre-Fall historical interval; its original wording is superseded by WP-BWM-0026 terminology. WP-BWM-0013 establishes the accepted intellectual architecture of Foundations, Historical Frameworks, World Domains, and Integration. WP-BWM-0014 supplies the canonical post-Fall human mortality chronology constraint. WP-BWM-0018 establishes the Day 6 commissioning boundary as a PFH starting condition while leaving the duration of the pre-Fall interval open. WP-BWM-0020 establishes the canonical Old Covenant Meta-narrative and Interpretive Framework under the Covenant and Redemptive History World Domain, including the Principle of Ordered Love and its application to Old Testament ethical challenges.
+WP-BWM-0009 supplies the canonical epistemic hierarchy and governance rules. WP-BWM-0012 owns PFH as the Pre-Fall Hypothesis space within the pre-Fall historical interval; its original wording is superseded by WP-BWM-0026 terminology. WP-BWM-0013 establishes the accepted intellectual architecture of Foundations, Historical Frameworks, World Domains, and Integration. WP-BWM-0014 supplies the canonical post-Fall human mortality chronology constraint. WP-BWM-0018 establishes the Day 6 commissioning boundary as a PFH starting condition while leaving the duration of the pre-Fall interval open. WP-BWM-0033 reconciles that boundary with DFM phased deployment by distinguishing human creation/deployment, commissioning of the human office, and subsequent historical exercise. WP-BWM-0020 establishes the canonical Old Covenant Meta-narrative and Interpretive Framework under the Covenant and Redemptive History World Domain, including the Principle of Ordered Love and its application to Old Testament ethical challenges.
 
 For the governing intellectual architecture, see [`../02-systems-baseline/2.2-architecture/bwm-component-architecture.md`](../02-systems-baseline/2.2-architecture/bwm-component-architecture.md).
 
