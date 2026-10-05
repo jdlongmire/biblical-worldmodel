@@ -92,6 +92,22 @@ The analogy is useful because it requires no fabricated chronicle. The weatherin
 
 Within BWM and DFM this is an explanatory analogy, not a chronology proof. Its purpose is to expose a category error that can occur when the age of a constituent, state, or process is transferred without warrant to the age of the present configuration or whole system. The empirical question remains: **what exactly does a given measurement date, and what historical inference does that measurement warrant?**
 
+## The Pre-Seeded Garden Analogy
+
+A second analogy addresses a different inference. Suppose the ordinary local practice is to plant a garden in spring for a summer harvest, but a gardener instead pre-seeds in the fall using a viable pathway that still produces a mature summer garden. An observer who sees the mature garden in summer may reasonably infer spring planting from the ordinary process, but that inference does not uniquely recover the garden's actual history.
+
+> **Present developmental state does not uniquely determine historical pathway.**
+
+Equivalently:
+
+> **Same observed state ≠ necessarily same initialization state or causal history.**
+
+No deception is required. The garden is real, its development is real, and its causal history is real. Deception would enter if the gardener falsely represented the actual planting history. It does not arise merely because an observer extrapolates from the usual developmental pathway and reaches the wrong historical conclusion.
+
+This analogy is distinct from the Driftwood Chair. The chair distinguishes the age of constituents from the age of a configuration. The garden demonstrates **historical-pathway underdetermination**: evidence that a present state is consistent with process *P* operating over interval *t* does not by itself establish that *P* over *t* uniquely produced the state.
+
+Within BWM and DFM, the analogy therefore raises a specific evidential question: **what evidence discriminates among competing initialization states and causal pathways that can account for the observed present state?** Like the chair analogy, it is not itself evidence for a particular creation chronology.
+
 ## Cosmic scale and the "wasted universe" objection
 
 A common inefficient-design objection argues that a universe containing immense distances, enormous quantities of matter, and vast regions apparently unnecessary for terrestrial habitation is poorly fitted to a human-centered divine purpose. That inference depends on an unstated design metric: that an intelligently created cosmos should minimize material and spatial resources relative to the narrow objective of supporting human biological life.
