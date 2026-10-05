@@ -362,13 +362,13 @@ For concise citation within BWM:
 
 This artifact consolidates and canonizes positions developed through:
 
-- WP-BWM-0018, Sixth Day Artifacts Revision and Integration;
-- `sixth-day-naming-model.md`;
-- `the-sixth-day.md`;
-- WP-BWM-0025, Genesis Systems Architecture;
-- DFM WP-022, Genesis 1 Phased Deployment Architecture;
-- WP-BWM-0033, Day 6 / DFM Phased-Deployment Reconciliation;
-- `day-6-dfm-pfh-boundary.md`.
+- [WP-BWM-0018, Sixth Day Artifacts Revision and Integration](../../../04-work-packages/WP-BWM-0018-sixth-day-artifacts/README.md);
+- [The Naming of the Animals within the Sixth Day: A Chronological Feasibility Model](../../../03-solutions-baseline/site/docs/publications/articles/sixth-day-naming-model.md);
+- [The Sixth Day](../../../03-solutions-baseline/site/docs/publications/articles/the-sixth-day.md);
+- [WP-BWM-0025, Genesis Systems Architecture](../../../04-work-packages/WP-BWM-0025-genesis-systems-architecture/README.md);
+- [DFM WP-022, Genesis 1 Phased Deployment Architecture](https://github.com/jdlongmire/designed-functional-maturity/blob/main/work-packages/WP-022-genesis-1-phased-deployment-architecture.md);
+- [WP-BWM-0033, Day 6 / DFM Phased-Deployment Reconciliation](../../../04-work-packages/WP-BWM-0033-day6-dfm-reconciliation/README.md);
+- [Day 6 / DFM / PFH Boundary Integration Note](../integration/day-6-dfm-pfh-boundary.md).
 
 Where older exploratory wording conflicts with this artifact, this canonical artifact governs the BWM Genesis 2 position.
 
