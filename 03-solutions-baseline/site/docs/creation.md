@@ -17,6 +17,22 @@ BWM therefore recognizes a broader **Creational Purpose Principle**:
 
 The principle includes an aesthetic-revelatory dimension, but is not exhausted by aesthetics. Creation is something to behold with wonder and awe, cultivate and steward, investigate as an intelligible order, interpret within God's revelation, and inhabit in creaturely communion with the Creator. These purposes are mutually reinforcing rather than competing design requirements.
 
+### Rational-Relational Vocation Principle
+
+The human-facing purposes of creation can be organized under a still broader biblical vocation: human beings are called to **reason and relationship**.
+
+> **Rational-Relational Vocation Principle:** human beings are created not merely to exist within creation, but to reason about it and to live in right relationship through it, with God, other persons, and the created order. Investigation and interpretation belong to humanity's rational vocation, while stewardship, communion, worship, and love belong to its relational vocation.
+
+The two dimensions should not be separated too sharply. Wonder can provoke investigation and worship. Beauty can be apprehended, interpreted, and loved. Stewardship requires knowledge and judgment as well as relational responsibility. Awe can involve rational recognition of creaturely finitude and relational response to the Creator.
+
+A useful conceptual sequence is:
+
+**perceive → wonder → reason → investigate → interpret → understand → relate → steward → commune → worship**
+
+This is not proposed as a rigid psychological chronology. It is a map of mutually interacting dimensions of human vocation. An intelligible creation is fitted to rational creatures capable of investigation and interpretation; a meaningful, glory-bearing creation is fitted to relational persons capable of stewardship, communion, love, and worship.
+
+BWM therefore resists reducing humanity either to computational reasoners or to experiencing organisms. Quantitative cognition, embodiment, affect, first-person experience, intentionality, moral responsibility, interpersonal relation, and communion are distinguishable aspects of persons and should not be collapsed merely for methodological convenience.
+
 ### Experiential Correspondence Principle
 
 The revealed purpose claim has a corresponding experiential side. Beauty, awe, wonder, sublimity, and an apprehension of transcendence are recurring features of collective human experience when people encounter the natural world. Interpretations of those experiences vary across persons, cultures, and worldviews, but the phenomenon itself should not be collapsed into any one interpretation before comparison begins.
