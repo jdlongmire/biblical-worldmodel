@@ -32,8 +32,11 @@ nav:
 - Cosmology: cosmology.md
 - Biology: biology.md
 - Foundations: foundations.md
+- The Human Observer: human-observer.md
 - Compare Frameworks: compare.md
-- Objections: objections.md
+- Objections:
+  - Overview: objections.md
+  - Objection / Response Register: objection-response-register.md
 - Open Problems: open-problems.md
 - Research Programmes: research-programmes.md
 - Publications:
