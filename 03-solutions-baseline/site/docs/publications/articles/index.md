@@ -9,6 +9,8 @@ An article's use of an external source does **not** imply that the source's auth
 
 ## Creation and Pre-Fall History
 
+- [Young Creation vs. Old Creation: It’s Really a Matter of Degree](young-vs-old-creation-initialization.md) — initialization, functional maturity, retrodictive age, ordinary terrestrial days, and the explanatory burden shared by origins models.
+
 - [The Sixth Day](the-sixth-day.md) — an accessible narrative reconstruction of the human events of Day 6, explicitly distinguishing Scripture from supplied staging details and opening toward Pre-Fall History.
 - [The Naming of the Animals within the Sixth Day](sixth-day-naming-model.md) — a chronological feasibility model of Genesis 2:18–23 addressing the claim that the naming episode cannot fit within an ordinary sixth day.
 
