@@ -60,6 +60,48 @@ The past he expected was not.
 
 That difference matters.
 
+## Think about a new chair made from old driftwood
+
+Suppose you build a chair today from driftwood that has been weathering for two hundred years.
+
+The wood is old.
+
+The chair is new.
+
+Both statements are true.
+
+A scientist could examine the wood and correctly discover evidence of a long history before the chair was built. Nothing about calling the chair new makes that history unreal or deceptive. The mistake would come only if someone concluded that because the wood is two hundred years old, the chair itself must have been built two hundred years ago.
+
+This gives us another distinction:
+
+**Age of constituents ≠ age of configuration ≠ elapsed history of the configured system.**
+
+That distinction does not prove any particular creation chronology. It shows why we must first ask exactly what a measurement dates and what historical conclusion the measurement actually warrants.
+
+## Think about a garden planted on a different schedule
+
+Suppose everyone around you normally plants a garden in spring and harvests in summer.
+
+But you pre-seed your garden in the fall. When summer arrives, your garden is ready at the same time as theirs.
+
+Someone sees the mature garden and reasons, "A garden at this stage is normally produced by spring planting, so this garden must have been planted in spring."
+
+The garden is real. Its growth is real. Your neighbor's knowledge of ordinary gardening may also be good.
+
+But the historical conclusion is still wrong.
+
+The present state is compatible with more than one developmental pathway.
+
+**Present developmental state does not uniquely determine historical pathway.**
+
+Or, stated another way:
+
+**Same observed state ≠ necessarily same initialization state or causal history.**
+
+You have not deceived your neighbor merely by using a different planting schedule. If asked when you planted and you falsely answered "spring," that would be deception. But another person's inference from the usual pathway does not become deception on your part merely because the actual pathway differed.
+
+This does not prove that any particular alternative history occurred. It shows why observing a state consistent with a familiar process does not, by itself, demonstrate that the familiar process operating over its usual interval uniquely produced that state.
+
 ## Think about the wine Jesus made
 
 The Gospel of John tells us that Jesus once turned water into wine at a wedding.

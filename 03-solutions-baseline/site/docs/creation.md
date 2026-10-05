@@ -82,6 +82,48 @@ A useful working taxonomy is therefore:
 
 These categories can overlap. A star may contribute to physical conditions, participate in a real causal network, and belong to the observable grandeur of the heavens. The creational-purpose category broadens the question of purpose; it does not weaken the requirement for causal coherence.
 
+## Configuration-Age Principle
+
+Several simple artifacts expose a general distinction between the prior history of materials and the age of the configuration those materials later compose.
+
+> **Configuration-Age Principle:** the age or prior causal history of a system's constituents does not, by itself, determine the time at which those constituents were configured into the system presently under investigation.
+
+A compact expression is:
+
+> **Age of prepared resources or constituents ≠ time of assembly or configuration ≠ age of the resulting artifact or system.**
+
+### The Driftwood Chair Analogy
+
+Suppose a chair is built today from centuries-old driftwood. The constituent wood has a genuine prior causal history, while the chair as a configured artifact begins today. Calling the chair *new* is not deceptive because the predicate refers to the age of the configuration, not the age of every constituent.
+
+The analogy requires no fabricated chronicle. The weathering and prior history of the wood are real. If a measurement correctly dates some property of the wood, it does not follow without additional argument that the same date is the construction date of the chair.
+
+### The Prepared-Material Painting Analogy
+
+Suppose an artist prepares pigments, canvas, brushes, and a wooden frame well in advance, then later uses those materials to paint a landscape. The pigments, fibers, wood, and other resources may each possess genuine prior histories. The landscape painting as an intentionally configured artifact nevertheless begins when the artist produces that ordered work.
+
+Measurements could correctly establish that the canvas fibers, frame, or pigments predate the act of painting. Those measurements would not, by themselves, establish the date on which the painting as a painting came into existence.
+
+This example adds intentional configuration to the same distinction. Prepared resources may precede the artifact they later enable. The existence and age of those resources therefore cannot simply be transferred to the age of the resulting ordered configuration.
+
+Within BWM and DFM, the Configuration-Age Principle and its analogies are explanatory constraints, not chronology proofs. Their purpose is to expose a category error that can occur when the age of a constituent, prepared resource, state, or process is transferred without warrant to the age of the present configuration or whole system. The empirical question remains: **what exactly does a given measurement date, and what historical inference does that measurement warrant?**
+
+## The Pre-Seeded Garden Analogy
+
+A second analogy addresses a different inference. Suppose the ordinary local practice is to plant a garden in spring for a summer harvest, but a gardener instead pre-seeds in the fall using a viable pathway that still produces a mature summer garden. An observer who sees the mature garden in summer may reasonably infer spring planting from the ordinary process, but that inference does not uniquely recover the garden's actual history.
+
+> **Present developmental state does not uniquely determine historical pathway.**
+
+Equivalently:
+
+> **Same observed state ≠ necessarily same initialization state or causal history.**
+
+No deception is required. The garden is real, its development is real, and its causal history is real. Deception would enter if the gardener falsely represented the actual planting history. It does not arise merely because an observer extrapolates from the usual developmental pathway and reaches the wrong historical conclusion.
+
+This analogy is distinct from the Driftwood Chair. The chair distinguishes the age of constituents from the age of a configuration. The garden demonstrates **historical-pathway underdetermination**: evidence that a present state is consistent with process *P* operating over interval *t* does not by itself establish that *P* over *t* uniquely produced the state.
+
+Within BWM and DFM, the analogy therefore raises a specific evidential question: **what evidence discriminates among competing initialization states and causal pathways that can account for the observed present state?** Like the chair analogy, it is not itself evidence for a particular creation chronology.
+
 ## Cosmic scale and the "wasted universe" objection
 
 A common inefficient-design objection argues that a universe containing immense distances, enormous quantities of matter, and vast regions apparently unnecessary for terrestrial habitation is poorly fitted to a human-centered divine purpose. That inference depends on an unstated design metric: that an intelligently created cosmos should minimize material and spatial resources relative to the narrow objective of supporting human biological life.
