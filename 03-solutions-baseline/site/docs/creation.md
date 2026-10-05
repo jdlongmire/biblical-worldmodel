@@ -82,6 +82,16 @@ A useful working taxonomy is therefore:
 
 These categories can overlap. A star may contribute to physical conditions, participate in a real causal network, and belong to the observable grandeur of the heavens. The creational-purpose category broadens the question of purpose; it does not weaken the requirement for causal coherence.
 
+## The Driftwood Chair Analogy
+
+A simple analogy helps keep several kinds of age distinct. Suppose a chair is built today from centuries-old driftwood. The constituent wood has a genuine prior causal history, while the chair as a configured artifact begins today. Calling the chair *new* is not deceptive because the predicate refers to the age of the configuration, not the age of every constituent.
+
+> **Age of constituents ≠ age of configuration ≠ elapsed history of the configured system.**
+
+The analogy is useful because it requires no fabricated chronicle. The weathering and prior history of the wood are real. If a measurement correctly dates some property of the wood, it does not follow without additional argument that the same date is the construction date of the chair.
+
+Within BWM and DFM this is an explanatory analogy, not a chronology proof. Its purpose is to expose a category error that can occur when the age of a constituent, state, or process is transferred without warrant to the age of the present configuration or whole system. The empirical question remains: **what exactly does a given measurement date, and what historical inference does that measurement warrant?**
+
 ## Cosmic scale and the "wasted universe" objection
 
 A common inefficient-design objection argues that a universe containing immense distances, enormous quantities of matter, and vast regions apparently unnecessary for terrestrial habitation is poorly fitted to a human-centered divine purpose. That inference depends on an unstated design metric: that an intelligently created cosmos should minimize material and spatial resources relative to the narrow objective of supporting human biological life.
