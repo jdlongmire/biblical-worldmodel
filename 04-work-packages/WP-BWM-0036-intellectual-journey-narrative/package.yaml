@@ -1,0 +1,30 @@
+id: WP-BWM-0036
+title: "Intellectual Journey and Biographical Narrative"
+status: active
+scope: >
+  Develop and iteratively validate a first-person intellectual biography tracing
+  the author's movement from inherited young-creation biblical confidence,
+  through old-earth and ANE harmonization, recognition of presuppositional
+  capitulation, systems/model-based reassessment, regulative supernaturalism,
+  and the emergence of Methodological Designism, DFM, and BWM.
+authority_boundary: >
+  This package owns autobiographical narrative development and provenance. It
+  does not alter the canonical epistemic hierarchy, Methodological Designism
+  charter, DFM research baseline, or book architecture without the owning
+  packages' normal disposition.
+dependencies:
+  - WP-BWM-0009
+  - WP-BWM-0024
+  - WP-BWM-0025
+  - WP-BWM-0028
+  - WP-BWM-0029
+  - WP-BWM-0030
+  - WP-BWM-0031
+  - WP-BWM-0032
+interfaces:
+  - BWM
+  - DFM
+  - Methodological Designism
+  - Christian apologetics
+  - Gods Word Gods World manuscript
+disposition: concept-captured-iterative-biographical-drafting-authorized
