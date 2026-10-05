@@ -43,6 +43,8 @@ DFM therefore accepts the reality of the event sequence while questioning a furt
 
 This is not permission to change constants observation by observation. A viable DFM cosmology must supply a **single, independently motivated and generally applicable creation-boundary model**. It must preserve real causal ordering and information while accounting for the establishment of cosmic geometry and propagation relationships. An ad hoc adjustment introduced only when an observation conflicts with a young chronology would count against the model.
 
+BWM also recognizes that the scriptural purpose assigned to creation is broader than mechanical minimalism. Creation is presented as observable, intelligible, abundant, and wonder-producing. This **aesthetic-revelatory function** can be relevant when asking why a created cosmos contains observational richness beyond a proposed minimum for terrestrial mechanics or survival. It does not, however, solve the supernova problem by itself. Aesthetic purpose cannot turn a nonexistent event into a legitimate record. If radiation represents a specific causal event, the reality constraint remains: the event and represented causal sequence must be real, and the boundary model must account for their information-bearing relationship.
+
 Thus the relevant alternatives must not be collapsed:
 
 1. **Fabricated chronicle:** information represents an event that never occurred.
