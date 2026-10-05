@@ -37,6 +37,14 @@ BWM therefore treats recurring experiences of beauty, awe, wonder, sublimity, an
 
 In Bayesian terms, the relevant comparison is qualitative unless defensible likelihoods can be supplied: how expected is the observed pattern of human response under each worldview, and what auxiliary assumptions are required to account for it? BWM should not assign numerical likelihoods merely to give the comparison a veneer of precision.
 
+### Quantification without reduction
+
+The use of equations does not imply that every evidential domain is reducible to an equation. Quantitative models are representations of selected variables and relations. Their explanatory reach depends on what has been represented and on the warrant for identifying those variables with the phenomenon of interest.
+
+BWM therefore distinguishes **measurement**, **correlation**, **prediction**, and **ontological identity**. Evidence that a measurable state correlates with or predicts a reported experience can be strong empirical evidence without establishing that the measurable state and the experience are ontologically identical. Moving from correlation or predictive success to reduction is a philosophical step and should be argued as such.
+
+This is the methodological expression of the [Experiential Irreducibility Principle](creation.md#experiential-irreducibility-principle). It permits rigorous quantitative investigation while resisting the inference that whatever a model does not encode is therefore unreal or explanatorily irrelevant.
+
 ## Programme structure
 
 Several of the research programmes referenced from this site (see [research programmes](research-programmes.md)) organize their own claims in explicitly Lakatosian terms: a **hard core** of central commitments, a **protective belt** of auxiliary hypotheses that can be revised without abandoning the core, and **severe tests** meant to discriminate between competing accounts rather than merely illustrate a preferred one. These terms are defined individually in the [glossary](sources.md).
