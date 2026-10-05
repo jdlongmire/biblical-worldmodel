@@ -82,15 +82,31 @@ A useful working taxonomy is therefore:
 
 These categories can overlap. A star may contribute to physical conditions, participate in a real causal network, and belong to the observable grandeur of the heavens. The creational-purpose category broadens the question of purpose; it does not weaken the requirement for causal coherence.
 
-## The Driftwood Chair Analogy
+## Configuration-Age Principle
 
-A simple analogy helps keep several kinds of age distinct. Suppose a chair is built today from centuries-old driftwood. The constituent wood has a genuine prior causal history, while the chair as a configured artifact begins today. Calling the chair *new* is not deceptive because the predicate refers to the age of the configuration, not the age of every constituent.
+Several simple artifacts expose a general distinction between the prior history of materials and the age of the configuration those materials later compose.
 
-> **Age of constituents ≠ age of configuration ≠ elapsed history of the configured system.**
+> **Configuration-Age Principle:** the age or prior causal history of a system's constituents does not, by itself, determine the time at which those constituents were configured into the system presently under investigation.
 
-The analogy is useful because it requires no fabricated chronicle. The weathering and prior history of the wood are real. If a measurement correctly dates some property of the wood, it does not follow without additional argument that the same date is the construction date of the chair.
+A compact expression is:
 
-Within BWM and DFM this is an explanatory analogy, not a chronology proof. Its purpose is to expose a category error that can occur when the age of a constituent, state, or process is transferred without warrant to the age of the present configuration or whole system. The empirical question remains: **what exactly does a given measurement date, and what historical inference does that measurement warrant?**
+> **Age of prepared resources or constituents ≠ time of assembly or configuration ≠ age of the resulting artifact or system.**
+
+### The Driftwood Chair Analogy
+
+Suppose a chair is built today from centuries-old driftwood. The constituent wood has a genuine prior causal history, while the chair as a configured artifact begins today. Calling the chair *new* is not deceptive because the predicate refers to the age of the configuration, not the age of every constituent.
+
+The analogy requires no fabricated chronicle. The weathering and prior history of the wood are real. If a measurement correctly dates some property of the wood, it does not follow without additional argument that the same date is the construction date of the chair.
+
+### The Prepared-Material Painting Analogy
+
+Suppose an artist prepares pigments, canvas, brushes, and a wooden frame well in advance, then later uses those materials to paint a landscape. The pigments, fibers, wood, and other resources may each possess genuine prior histories. The landscape painting as an intentionally configured artifact nevertheless begins when the artist produces that ordered work.
+
+Measurements could correctly establish that the canvas fibers, frame, or pigments predate the act of painting. Those measurements would not, by themselves, establish the date on which the painting as a painting came into existence.
+
+This example adds intentional configuration to the same distinction. Prepared resources may precede the artifact they later enable. The existence and age of those resources therefore cannot simply be transferred to the age of the resulting ordered configuration.
+
+Within BWM and DFM, the Configuration-Age Principle and its analogies are explanatory constraints, not chronology proofs. Their purpose is to expose a category error that can occur when the age of a constituent, prepared resource, state, or process is transferred without warrant to the age of the present configuration or whole system. The empirical question remains: **what exactly does a given measurement date, and what historical inference does that measurement warrant?**
 
 ## The Pre-Seeded Garden Analogy
 
