@@ -7,6 +7,7 @@ The intended implementation is MkDocs Material under `03-solutions-baseline/site
 - [`bwm-component-architecture.md`](bwm-component-architecture.md) — governing BWM component architecture: Foundations, historical intervals/boundaries/hypotheses, World Domains, and Integration.
 - [`integration/framework-domain-matrix.md`](integration/framework-domain-matrix.md) — cross-cutting matrix separating source type from BWM role across programme interfaces, hypotheses, comparison families, and world domains.
 - [`BWM-CANON-0001-worldmodel-interpretive-families.md`](BWM-CANON-0001-worldmodel-interpretive-families.md) — canonical definitions and distinctions for Designed Functional Maturity (DFM), Designed Time and Emergence (DTE), and Undirected Time and Emergence (UTE). Accepted by Principal Operator disposition on 2026-09-12. Logically classified as Integration; retained at its stable path during the initial restructure.
+- [`foundations/BWM-CANON-0002-genesis-2-interpretive-framework.md`](foundations/BWM-CANON-0002-genesis-2-interpretive-framework.md) — canonical BWM interpretation of Genesis 2:4–25, its relationship to Genesis 1 and Day 6, Adam's functional maturity and learning, the human commissioning boundary, and the open duration of pre-Fall history. Accepted by Principal Operator disposition on 2026-10-05.
 
 ## Taxonomy surfaces
 
