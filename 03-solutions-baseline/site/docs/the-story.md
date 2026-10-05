@@ -60,6 +60,24 @@ The past he expected was not.
 
 That difference matters.
 
+## Think about a new chair made from old driftwood
+
+Suppose you build a chair today from driftwood that has been weathering for two hundred years.
+
+The wood is old.
+
+The chair is new.
+
+Both statements are true.
+
+A scientist could examine the wood and correctly discover evidence of a long history before the chair was built. Nothing about calling the chair new makes that history unreal or deceptive. The mistake would come only if someone concluded that because the wood is two hundred years old, the chair itself must have been built two hundred years ago.
+
+This gives us another distinction:
+
+**Age of constituents ≠ age of configuration ≠ elapsed history of the configured system.**
+
+That distinction does not prove any particular creation chronology. It shows why we must first ask exactly what a measurement dates and what historical conclusion the measurement actually warrants.
+
 ## Think about the wine Jesus made
 
 The Gospel of John tells us that Jesus once turned water into wine at a wedding.
