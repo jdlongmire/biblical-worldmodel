@@ -17,6 +17,14 @@ BWM therefore recognizes a broader **Creational Purpose Principle**:
 
 The principle includes an aesthetic-revelatory dimension, but is not exhausted by aesthetics. Creation is something to behold with wonder and awe, cultivate and steward, investigate as an intelligible order, interpret within God's revelation, and inhabit in creaturely communion with the Creator. These purposes are mutually reinforcing rather than competing design requirements.
 
+### Naturalistic Pragmatism Constraint Rejection
+
+BWM does not accept **naturalistic pragmatism** as the default or exhaustive measure of creational purpose. Material economy, survival utility, reproductive advantage, and minimum mechanistic sufficiency can be legitimate questions within their proper domains, but they do not define the complete objective function of creation.
+
+Accordingly, a critique may not assume without argument that a well-designed cosmos should minimize matter, space, energy, complexity, or observational richness relative to biological habitation. Nor may physical utility be treated as exhausting purpose merely because non-material purposes are excluded by a naturalistic methodology. Such exclusions are methodological or metaphysical constraints, not observations delivered by the physical system itself.
+
+This rejection is symmetrical rather than evasive. BWM must state its own objective function from its governing sources, expose those claims to internal and external critique, and avoid assigning purposes ad hoc. Naturalistic models may likewise state their explanatory constraints, but BWM is not required to adopt those constraints as worldview-neutral premises before comparison begins.
+
 This is not an argument that beauty by itself proves design, nor does it convert purpose into a substitute for physical explanation. It identifies a broader objective function supplied by the biblical texts. If creation is intended to be observed, contemplated, investigated, interpreted, stewarded, and experienced as declaring its Creator, then observational richness, abundance, scale, and grandeur are not automatically superfluous merely because they exceed a proposed minimum for biological survival or mechanical operation.
 
 The distinction also constrains Designed Functional Maturity. Creational purpose cannot license **fabricated chronicle**. If information-bearing radiation represents a particular astronomical event, saying that the night sky was intended to produce wonder does not by itself justify treating that event as nonexistent. The event and its represented causal sequence remain subject to the same reality constraint described in the [objection / response register](objection-response-register.md#bwm-obj-003-trickster-god-last-thursdayism-and-distant-supernovae).
