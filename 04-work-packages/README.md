@@ -33,6 +33,7 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0028](WP-BWM-0028-cmd-origins-taxonomy/README.md) | CMD foundations, DFM/DTE/UTE origins-mode taxonomy, and initialization semantics | Accepted; canonical promotion approved 2026-09-26 | WP-BWM-0009 + WP-BWM-0013 + WP-BWM-0015 + WP-BWM-0022 + DFM interface |
 | [WP-BWM-0030](WP-BWM-0030-methodological-designism-charter/README.md) | Methodological Designism charter and research-programme governance | Active; framework institutionalization authorized 2026-09-25 | WP-BWM-0009 + component architecture + WP-BWM-0024 |
 | [WP-BWM-0033](WP-BWM-0033-day6-dfm-reconciliation/README.md) | Reconcile Day 6 artifacts with DFM phased deployment and PFH runtime boundary | Implemented on feature branch; review pending | WP-BWM-0018 + WP-BWM-0025 + DFM WP-022 |
+| [WP-BWM-0034](WP-BWM-0034-initialization-age-essay/README.md) | Public essay on initialization, functional maturity, retrodictive age, and the YEC/OEC degree claim | Implemented on feature branch; review pending | WP-BWM-0009 + WP-BWM-0011 + WP-BWM-0028 + WP-BWM-0033 + DFM interface |
 
 ## Register rules
 
