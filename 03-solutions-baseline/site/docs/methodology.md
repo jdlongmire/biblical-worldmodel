@@ -17,6 +17,18 @@ Keeping these distinctions visible helps readers ask which part of an argument i
 
 A single sentence can slide between these tiers without announcing it, for instance treating a model's output as though it carried the same warrant as the measurement that fed it. This site tries to keep the tiers separated in its own writing and treats a reader catching a place where it fails to do so as a legitimate [objection](objections.md), not a nuisance.
 
+## Presuppositional non-capitulation
+
+BWM does not treat the governing assumptions of a competing worldview as neutral rules of evidence merely because they are embedded in a dominant methodology.
+
+> **Presuppositional Non-Capitulation Principle:** BWM will not grant a competing worldview's metaphysical or methodological exclusions as worldview-neutral premises. Competing models should be compared with their governing assumptions exposed, their interpretations distinguished from observations, and their respective explanatory burdens made visible.
+
+This principle addresses a recurring dialectical structure without imputing motives to individual critics. A methodology can first restrict admissible explanation to natural causes, material utility, or mechanistic categories and then evaluate a biblical model as though those restrictions were neutral features of the evidence itself. If BWM accepts that framing before comparison begins, it has already conceded part of the question under dispute.
+
+Non-capitulation does not exempt BWM from criticism or permit it to invoke revelation as an all-purpose answer. The requirement is symmetrical. BWM must identify its own governing commitments, distinguish them from direct observations, expose auxiliary hypotheses to severe tests, retain genuine anomalies, and state what would count against a proposed explanation. Competing models should be asked to do the same.
+
+The comparison is therefore not between an allegedly presuppositionless reading of nature and a presuppositional biblical reading. It is between explanatory frameworks whose observations, assumptions, boundary conditions, inferential rules, and metaphysical commitments should be made as explicit as practicable.
+
 ## Programme structure
 
 Several of the research programmes referenced from this site (see [research programmes](research-programmes.md)) organize their own claims in explicitly Lakatosian terms: a **hard core** of central commitments, a **protective belt** of auxiliary hypotheses that can be revised without abandoning the core, and **severe tests** meant to discriminate between competing accounts rather than merely illustrate a preferred one. These terms are defined individually in the [glossary](sources.md).
