@@ -17,6 +17,20 @@ BWM therefore recognizes a broader **Creational Purpose Principle**:
 
 The principle includes an aesthetic-revelatory dimension, but is not exhausted by aesthetics. Creation is something to behold with wonder and awe, cultivate and steward, investigate as an intelligible order, interpret within God's revelation, and inhabit in creaturely communion with the Creator. These purposes are mutually reinforcing rather than competing design requirements.
 
+### Experiential Correspondence Principle
+
+The revealed purpose claim has a corresponding experiential side. Beauty, awe, wonder, sublimity, and an apprehension of transcendence are recurring features of collective human experience when people encounter the natural world. Interpretations of those experiences vary across persons, cultures, and worldviews, but the phenomenon itself should not be collapsed into any one interpretation before comparison begins.
+
+> **Experiential Correspondence Principle:** where Scripture identifies intended human responses to creation and substantially corresponding responses recur in collective human experience, that correspondence is legitimate evidence in comparative worldview analysis. It does not independently prove the biblical interpretation, but neither should it be excluded merely because the evidence includes subjective or first-person experience.
+
+BWM therefore distinguishes three levels:
+
+1. **Phenomenon:** humans report experiences such as beauty, awe, wonder, sublimity, curiosity, creaturely smallness, and apparent transcendence in encounters with creation.
+2. **Interpretation:** naturalistic, psychological, evolutionary, theological, aesthetic, and other frameworks offer competing accounts of why those experiences occur and what, if anything, they disclose.
+3. **Worldview fit:** the comparative question is how expected the phenomenon is under each framework and how well each accounts for both the experience and the world that occasions it.
+
+This correspondence should be weighted rather than absolutized. Neural, psychological, evolutionary, or cultural accounts may explain aspects of the human response and should be considered on their merits. Identifying a mechanism or correlate of awe does not by itself decide the separate question of why reality is structured so that rational observers repeatedly encounter it as awe-worthy, nor does the experience of transcendence by itself establish that every interpretation of transcendence is true.
+
 ### Naturalistic Pragmatism Constraint Rejection
 
 BWM does not accept **naturalistic pragmatism** as the default or exhaustive measure of creational purpose. Material economy, survival utility, reproductive advantage, and minimum mechanistic sufficiency can be legitimate questions within their proper domains, but they do not define the complete objective function of creation.
