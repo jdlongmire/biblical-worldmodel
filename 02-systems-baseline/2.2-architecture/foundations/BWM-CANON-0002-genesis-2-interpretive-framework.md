@@ -32,13 +32,23 @@ Genesis 1 supplies the broad creation-week sequence. Genesis 2 narrows the narra
 
 The canonical synthesis therefore gives priority to reading the two chapters together.
 
-## 2. Genesis 2:4 as transition and focus
+## 2. Genesis 2:4, the `toledot`, and narrative chronology
 
 Genesis 2:4 introduces the first `toledot` formula in Genesis: "These are the generations of the heavens and the earth when they were created."
 
-BWM treats Genesis 2:4 as a literary transition from the broad creation account to a more focused account concerning the terrestrial human setting, Adam, Eden, divine command, the naming episode, Eve, and marriage.
+BWM accepts the `toledot` formula as a major structural marker and treats Genesis 2:4 as the forward literary heading for the new narrative unit. The unit traces what became of the created heavens and earth through the human setting, Eden, divine command, marriage, Fall, exile, and early human history.
 
-This literary narrowing explains why Genesis 2 selects and expands some events without repeating the entire six-day sequence.
+This forward literary function does not entail a forward-only event chronology. A section may advance the book's literary structure while supplying antecedent information required to establish the actors, setting, and conditions of the history it narrates. Genesis itself does this elsewhere: a `toledot` may introduce a new subject or line of history and then state antecedent facts already known or presupposed.
+
+BWM therefore distinguishes:
+
+```text
+forward literary heading ≠ forward-only event chronology
+```
+
+Genesis 2:5–25 supplies previously unnarrated human-scale detail whose temporal location is already constrained by Genesis 1:26–31. The narrative then advances through the Fall and its consequences.
+
+Accordingly, BWM does not technically characterize Genesis 2 as merely a "Day Six close-up." That phrase may be useful as informal shorthand, but it understates the independent literary function of the `toledot` unit. The preferred formulation is **higher-resolution antecedent specification within a new forward-moving `toledot` unit**.
 
 ## 3. Relationship of Genesis 1 and Genesis 2
 
@@ -67,7 +77,7 @@ Genesis 2:7–25 supplies additional human-scale detail:
 - Adam recognizes her as corresponding to himself;
 - the text grounds the one-flesh marital union.
 
-BWM therefore reads Genesis 2 as increased resolution on the human portion of Day 6 rather than as a chronological restart after Genesis 1.
+BWM therefore reads Genesis 2:5–25 as higher-resolution antecedent specification of the human portion of Day 6 within the new forward-moving `toledot` unit, rather than as a chronological restart in which Adam and Eve are created after the completed creation week.
 
 ## 4. Canonical Day 6 synthesis
 
@@ -276,7 +286,9 @@ PFH may investigate models within that open interval, subject to Scripture and t
 
 ### Accepted canonical synthesis
 
-- Genesis 2:4–25 is complementary to Genesis 1 and supplies increased resolution on the human Day 6 events.
+- Genesis 2:4 begins a new, forward-moving `toledot` literary unit.
+- A forward literary heading does not require forward-only event chronology.
+- Genesis 2:5–25 supplies higher-resolution antecedent specification of human Day 6 events already temporally constrained by Genesis 1.
 - Genesis 2 does not establish a second contradictory creation order.
 - Genesis 1 controls the broader Day 5/Day 6 ordering when Genesis 2 focuses selectively on the human setting.
 - Adam is created functionally mature enough to perform the actions Scripture immediately attributes to him.
@@ -325,7 +337,8 @@ A meaningful defeater would need to establish, for example:
 1. that Genesis 2 textually requires a creation order irreconcilable with Genesis 1;
 2. that the human events of Genesis 2 are textually excluded from Day 6;
 3. that a required Genesis 2 event has a textually warranted minimum duration incompatible with an ordinary Day 6; or
-4. that the canonical synthesis depends on a grammatical claim shown to be impossible rather than merely disputed.
+4. that the canonical synthesis depends on a grammatical claim shown to be impossible rather than merely disputed; or
+5. that the `toledot` formula can be shown to require forward-only event chronology, rather than merely introducing the literary material that follows.
 
 A competing reconstruction does not by itself defeat this framework. The issue is comparative textual warrant.
 
@@ -356,7 +369,7 @@ Lower layers may expose explanatory burdens or motivate re-examination. They do 
 
 For concise citation within BWM:
 
-> **Genesis 2:4–25 is BWM's higher-resolution human account of the Day 6 creation history summarized in Genesis 1:26–31. It records Adam's formation, vocation, moral boundary, naming encounter, the creation and presentation of Eve, and the foundation of marriage. Genesis 1 supplies the broader creation order; Genesis 2 supplies human-scale detail. Adam is created functionally mature but remains capable of genuine learning. Day 6 culminates in the commissioning of male and female into the human vocation, after which real human history proceeds. Scripture does not specify the duration between that commissioning and the Fall.**
+> **Genesis 2:4 begins a new, forward-moving `toledot` unit concerning what became of the created heavens and earth. Within that unit, Genesis 2:5–25 supplies higher-resolution antecedent specification of the human events already located on Day 6 by Genesis 1:26–31: Adam's formation, vocation, moral boundary, naming encounter, the creation and presentation of Eve, and the foundation of marriage. Forward literary movement does not require forward-only event chronology. Adam is created functionally mature but remains capable of genuine learning. Day 6 culminates in the commissioning of male and female into the human vocation, after which the narrative advances through subsequent human history. Scripture does not specify the duration between that commissioning and the Fall.**
 
 ## 18. Provenance
 
