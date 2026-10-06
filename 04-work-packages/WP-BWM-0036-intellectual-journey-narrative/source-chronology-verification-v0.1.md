@@ -4,7 +4,7 @@
 
 The PCA's 26th General Assembly erected an Advisory Creation Study Committee to study Genesis 1–3 and the Westminster Standards phrase “in the space of six days,” and to provide non-binding advice and counsel. The final report states that committee members affirmed Genesis 1–3 as the inerrant Word of God and a coherent Mosaic account while remaining unable to reach unanimity on the nature and duration of the creation days. It treats Calendar Day, Day-Age, Framework, and Analogical Days as prominent interpretations represented in the PCA. The adopted recommendation affirmed diversity covered in the report as acceptable so long as the full historicity of the creation account was accepted.
 
-The narrative's claim that the PCA milestone showed serious interpretive space around the creation days while retaining a high doctrine of Scripture and the historical substance of Genesis is therefore supported in substance. The personal effect, “permission to question,” remains first-person testimony.
+The narrative's claim that the PCA milestone showed serious interpretive space around the creation days while retaining a high doctrine of Scripture and the historical substance of Genesis is therefore supported in substance. The PCA did **not** adopt old-earth creationism. The personal effect, “permission to question,” remains first-person testimony and should be distinguished explicitly from the denomination's formal action.
 
 ### Sources
 
@@ -62,3 +62,53 @@ Retain Ken Ham and Hugh Ross as recognizable public-facing poles in the author's
 3. Locate earliest dated DFM, Methodological Designism, and BWM formulations.
 4. Verify professional chronology from an authoritative CV/bio only if dates become narratively important.
 5. Verify primary writings for each intellectual exemplar where the narrative attributes a substantive idea rather than merely reporting personal influence.
+
+
+## Long-horizon biographical scope
+
+Author clarification, 2026-10-05: the intellectual journey spans roughly thirty-five years. The current digital corpus is therefore uneven evidence. Dense documentation beginning in 2024–2025 must not be treated as the origin of the journey or used to infer that earlier stages were brief.
+
+Disposition:
+- Early and middle phases may be narrated from first-person recollection where no contemporary artifact is available.
+- Do not manufacture dates to create documentary precision.
+- Where a dated artifact exists, describe it as an attestation or documentary lower bound unless it demonstrably establishes first use or origin.
+- Absence from the digital corpus is not evidence that an idea, position, or transition did not exist earlier.
+
+## oddXian recent-phase attestations
+
+The Substack-derived archive in `jdlongmire/oddxian-apologetics/articles/` materially extends the documented history behind the November 2025 repository initialization.
+
+### 2024-12-08 — "What I Have Come to Realize"
+
+Path: `articles/theology/what-i-have-come-to-realize.md`
+
+Documents questioning/wrestling, evidence, mind behind the cosmos, and Logos as ground of logic. Treat as an attestation of themes already present by this date, not their origin.
+
+### 2025-01-02 — "Why I am an Unapologetic Biblical Christian"
+
+Path: `articles/theology/why-i-am-an-unapologetic-biblical-christian.md`
+
+Explicitly distinguishes science from naturalistic assumptions and uses the term "methodological designism." This establishes that designist methodological language predates the late-2025 LPI formalization.
+
+### 2025-01-25 — "Whether You're Young Earth, Old Earth... Four Non-Negotiables"
+
+Path: `articles/biblical-studies/whether-youre-young-earth-old-earth.md`
+
+Documents a timeline-tolerant origins posture while identifying divine fiat, divine intervention, Scriptural interpretive priority, and imago Dei as non-negotiable. It also warns that a framework which merely permits these commitments rather than requiring them has "already capitulated."
+
+Disposition: this is a strong conceptual precursor to the later presuppositional-capitulation formulation, but it does not establish the later exact term or its origin.
+
+### Late 2025 — experimental model-development phase
+
+The oddxian-apologetics Git history documents LPI, hydrotectonic modeling, explicit gap analysis, "NOT READY" assessments, revision of mechanisms under criticism, separation of systems metaphor from physical mechanism, falsification criteria, Lakatosian analysis, Scientific/Christian Designism, and supernatural initial-state versus ordinary-operation distinctions.
+
+Disposition: use this history to show genuine iteration, including failed or weakened auxiliaries. Do not portray LPI as DFM under an earlier name. Continuity and correction both matter.
+
+## Revised chronology rule
+
+The current chronology should be represented in two evidential layers:
+
+1. **Long autobiographical horizon, roughly thirty-five years:** fundamentalist formation; professional maturation; PCA-related permission to reconsider; extended old-earth/ANE/harmonization period; growing concern over interpretive direction; eventual reassessment and return toward recent creation.
+2. **High-resolution documentary horizon, especially 2024 onward:** Logos/designist themes; explicit methodological designism; timeline-tolerant but supernaturalist origins criteria; LPI experiments; gap tracking and falsification; Lakatosian programme governance; initialization/operation distinction; DFM, Methodological Designism, and BWM formalization.
+
+The second layer documents and sharpens portions of the first. It does not define its temporal boundaries.
