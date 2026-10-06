@@ -19,7 +19,7 @@ Models have boundaries. They have assumptions. They have inputs, initial states,
 
 Those habits of thought did not immediately become an origins methodology. They accumulated.
 
-A major theological milestone came when I encountered the PCA's formal treatment of the creation question. Here was my own conservative Reformed tradition allowing serious interpretive space around the creation days while retaining a high doctrine of Scripture and the historical substance of Genesis. That mattered. It showed me that reconsidering my inherited interpretation did not itself require abandoning biblical authority.
+A major theological milestone came when I encountered the PCA's formal treatment of the creation question. The denomination's Creation Study Committee had documented Calendar Day, Day-Age, Framework, and Analogical Day interpretations among men who nevertheless jointly affirmed Genesis 1–3 as the inerrant Word of God and a coherent historical account. The General Assembly ultimately affirmed that the diversity covered by the report could exist within the church so long as the full historicity of the creation account was maintained. That mattered to me. My own conservative Reformed tradition had made room for serious disagreement about the nature and duration of the creation days without making biblical authority negotiable. It gave me permission to ask whether my inherited interpretation was correct without treating the question itself as unbelief.
 
 So I began asking harder questions.
 
@@ -41,7 +41,7 @@ The external reconstruction rarely did.
 
 That forced a question I had not originally set out to ask: what was actually regulating my interpretation?
 
-I eventually coined a term for what I saw happening in myself: **presuppositional capitulation**.
+I eventually came to call what I saw happening in myself **presuppositional capitulation**.
 
 By that I mean the progressive, often individually plausible, accommodation of one's systematic commitments to the governing assumptions of another worldview until those assumptions acquire functional authority over the original system.
 
@@ -53,7 +53,7 @@ When Scripture and an external historical reconstruction appear to conflict, whi
 
 That question changed the journey.
 
-I increasingly found the creation debate presented through two recognizable camps. Ken Ham represented a familiar young-earth package: ordinary creation days, recent creation, global Flood, and resistance to deep-time reconstruction. Hugh Ross represented a serious old-earth alternative: an ancient cosmos and earth combined with special creation and a strong claim to biblical fidelity.
+I increasingly found my own creation debate gravitating around two highly visible public poles, though I knew they did not exhaust the available positions. Ken Ham represented a familiar young-earth package: ordinary creation days, recent creation, global Flood, and resistance to deep-time reconstruction. Hugh Ross represented a serious old-earth alternative: an ancient cosmos and earth combined with special creation and a strong claim to biblical fidelity.
 
 I could see things I wanted to retain from both conversations. I shared major biblical conclusions associated with young creation, yet I did not want to inherit every scientific auxiliary or apologetic argument commonly attached to YEC. I wanted serious engagement with empirical evidence, yet I was no longer prepared to grant the conventional deep-time reconstruction the status of neutral observation.
 
