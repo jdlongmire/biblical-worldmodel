@@ -19,6 +19,9 @@ def summarize_vcf(lines):
         if len(fields) < 10:
             skipped["malformed"] += 1
             continue
+        if fields[6] != "PASS":
+            skipped["not_pass"] += 1
+            continue
         ref, alt = fields[3], fields[4]
         if len(ref) != 1 or len(alt) != 1 or ref not in "ACGT" or alt not in "ACGT":
             skipped["non_biallelic_snp"] += 1
