@@ -35,6 +35,8 @@ This register is the repository front-door index for governed BWM work. Individu
 | [WP-BWM-0033](WP-BWM-0033-day6-dfm-reconciliation/README.md) | Reconcile Day 6 artifacts with DFM phased deployment and PFH runtime boundary | Implemented on feature branch; review pending | WP-BWM-0018 + WP-BWM-0025 + DFM WP-022 |
 | [WP-BWM-0034](WP-BWM-0034-initialization-age-essay/README.md) | Public essay on initialization, functional maturity, retrodictive age, and the YEC/OEC degree claim | Implemented on feature branch; review pending | WP-BWM-0009 + WP-BWM-0011 + WP-BWM-0028 + WP-BWM-0033 + DFM interface |
 
+| [WP-BWM-0035](WP-BWM-0035-antediluvian-human-diversity/README.md) | Antediluvian human diversity: creationist models, archaic genomics, Flood bottleneck and fossil chronology | Proposed / research initiated | WP-BWM-0009 + WP-BWM-0014 + Flood interface |
+
 ## Register rules
 
 - Work-package UIDs must be checked against the live directory and semantically equivalent open work before allocation.
