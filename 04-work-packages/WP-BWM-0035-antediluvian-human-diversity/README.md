@@ -82,3 +82,11 @@ These are starting sources, not an exhaustive review. Verify each primary public
 - [Comparative appraisal protocol](model-comparison.md): source-verification queue, scoring criteria and adverse tests.
 
 These are preliminary research artifacts. No demographic simulation has yet been run and no model has been accepted.
+
+## Executable founder-genomics pilot
+
+- [Pilot execution guide](PILOT-README.md)
+- [Founder-pedigree synthetic notebook](notebooks/02-founder-reconstruction.ipynb)
+- [Reusable model](src/founder_pilot.py) and [unit tests](tests/test_founder_pilot.py)
+
+This is a synthetic single-locus allele-retention sensitivity exercise. It is **not** an empirical reconstruction of Noah's family, a genome-wide fit, or a verified Flood-bottleneck result. Execute tests and expand to linked haplotypes and time-dependent processes before inference.
