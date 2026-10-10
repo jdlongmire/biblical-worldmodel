@@ -19,5 +19,10 @@ class TestVCFAudit(unittest.TestCase):
         self.assertEqual(x["sites"],0)
         self.assertEqual(x["skipped"]["non_biallelic_snp"],1)
         self.assertEqual(x["skipped"]["no_called_diploid_genotypes"],1)
+    def test_filter_exclusion(self):
+        line="1\\t12\\t.\\tA\\tG\\t.\\tLowQual\\t.\\tGT\\t0/1\\n"
+        x=summarize_vcf([line])
+        self.assertEqual(x["sites"],0)
+        self.assertEqual(x["skipped"]["not_pass"],1)
     def test_no_samples(self):
         self.assertEqual(summarize_vcf([])["observed_heterozygosity"],None)
