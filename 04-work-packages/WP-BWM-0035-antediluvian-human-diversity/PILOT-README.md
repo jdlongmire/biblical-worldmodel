@@ -22,3 +22,10 @@ Open `notebooks/02-founder-reconstruction.ipynb` in Jupyter, and run from this d
 - `RATE-SENSITIVITY-PLAN.md`: preregistered extension criteria.
 
 A matching local implementation passed seven tests on 2026-10-10. The committed module was not imported into that local run; direct clean-checkout execution and Jupyter execution are still required. The linked-marker notebook has not been committed. These synthetic parameters are not historical estimates.
+
+## Empirical calibration gate
+
+- [Pre-registered empirical calibration protocol](EMPIRICAL-CALIBRATION-PROTOCOL.md) lists accession verification, data quality, holdouts, model discriminators and stop conditions.
+- `src/vcf_audit.py` and `tests/test_vcf_audit.py` add a minimal, transparent diploid biallelic VCF allele-count audit. This is a demonstration parser, not a substitute for established genomics QC pipelines. It does not process ancient-DNA genotype likelihoods, callable masks, phasing uncertainty, multi-allelic records or compressed VCFs.
+
+**No human genome datasets have been fetched, and no empirical genomic fit has been run.** The new code and tests have been committed but not executed from a clean checkout. The draft PR remains unmerged pending verification.
