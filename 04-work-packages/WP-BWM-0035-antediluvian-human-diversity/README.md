@@ -74,3 +74,11 @@ These are starting sources, not an exhaustive review. Verify each primary public
 - Flood-boundary alternatives compared without assuming the conclusion.
 - Pre-registered discriminators and falsifiers, including results adverse to M2/M3.
 - Reviewable synthesis separating biblical warrant, empirical observation, and model inference.
+
+## Research artifacts (2026-10-10)
+
+- [Primary ancient-DNA evidence ledger](evidence-ledger.md): publisher-hosted primary research and inferential boundaries.
+- [Founder-bottleneck feasibility baseline](model-feasibility.md): analytical limits, neutral retention calculation and simulation specification.
+- [Comparative appraisal protocol](model-comparison.md): source-verification queue, scoring criteria and adverse tests.
+
+These are preliminary research artifacts. No demographic simulation has yet been run and no model has been accepted.
