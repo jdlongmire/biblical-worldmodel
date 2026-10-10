@@ -29,3 +29,10 @@ A matching local implementation passed seven tests on 2026-10-10. The committed 
 - `src/vcf_audit.py` and `tests/test_vcf_audit.py` add a minimal, transparent diploid biallelic VCF allele-count audit. This is a demonstration parser, not a substitute for established genomics QC pipelines. It does not process ancient-DNA genotype likelihoods, callable masks, phasing uncertainty, multi-allelic records or compressed VCFs.
 
 **No human genome datasets have been fetched, and no empirical genomic fit has been run.** The new code and tests have been committed but not executed from a clean checkout. The draft PR remains unmerged pending verification.
+
+## First empirical reference selection
+
+- [1000 Genomes 30x GRCh38 dataset selection](DATASET-SELECTION-1000G-30X.md) documents source provenance, candidate chromosome 22 phased VCF, sample pedigree metadata, analysis gates and exclusions.
+- `scripts/verify_igsr_input.py` records SHA-256, compressed size, sample count and VCF header excerpt for a locally staged file. It does not download datasets or perform variant quality control.
+
+Network access to the IGSR FTP server was unavailable in this session, so the candidate URLs, checksums and empirical genotype statistics are not yet independently verified. **No empirical genomic data have been analyzed.**
