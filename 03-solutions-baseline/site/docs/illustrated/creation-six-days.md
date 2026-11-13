@@ -51,5 +51,9 @@ The lights provide a reliable framework for measuring time, marking seasons, and
 
 The pairing is the point of the spread. Light is *provided* on Day 1 and its governors are *appointed* on Day 4; the sequence distinguishes the gift from the instruments later assigned to rule it. Within the Biblical WorldModel, **functional maturity** - a world created already working, rather than assembled by slow accretion - is the interpretive proposal that reads this sequence as deliberate. That proposal is labelled as interpretation in the book's editorial record, not presented as something the text states in so many words. Proposed mechanisms for the light of Day 1 are hypotheses, and are marked as such wherever they appear.
 
+## Go deeper - the day plates
+
+Three days of this spread also have their own stand-alone plates, with fuller panels and an interpretive status panel on each: Day 1 (Plate I), Day 4 (Plate IV), and Day 6 (Plate VI). See [The Creation Day Plates](creation-day-plates.md).
+
 !!! note "Status of this spread"
     Both plates are concept prototypes. The text lettered into them is artwork, not verified typesetting; the copies shown here are web-resolution, not print masters. Scripture wording, references, and claims are checked against the book's editorial gates before the spread is treated as final. The record for each plate - provenance, dimensions, claim status, and gate state - is filed openly at [BWM-IL-001](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/001-creation-of-the-world.md) and [BWM-IL-002](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/002-day-1-and-day-4.md).
