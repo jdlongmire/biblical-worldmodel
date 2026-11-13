@@ -1,8 +1,10 @@
-# Production specification, draft 0.1
+# Production specification, v0.2
+
+v0.2 (2026-11-13): trim ruled by JD - 12 x 9 in landscape. Draft 0.1 explored 14 x 11 in landscape and 12 x 12 in square; both are superseded by this ruling.
 
 ## Page system
 
-Preferred experimental trim: 14 × 11 inches landscape; alternate 12 × 12 inches square. At 300 pixels/inch, a 14 × 11 page is 4200 × 3300 pixels before bleed. Two-page spread trim is 28 × 11 inches. Printer-specific bleed and safe area are **TBD**; provisional bleed 0.125 inch, provisional outside safe area 0.375 inch, and larger inner safe area 0.625 inch. Do not place continuous critical text across the binding.
+Trim: 12 x 9 inches landscape. At 300 pixels/inch, a 12 x 9 page is 3600 x 2700 pixels before bleed. Two-page spread trim is 24 x 9 inches (7200 x 2700 pixels), for spread material. Printer-specific bleed and safe area are **TBD**; provisional bleed 0.125 inch (a full-bleed page file is then 3675 x 2775 pixels), provisional outside safe area 0.375 inch, and larger inner safe area 0.625 inch at a spread gutter. On single plates, keep critical content at least 0.375 inch from every edge. Do not place continuous critical text across the binding.
 
 ## Type hierarchy
 
