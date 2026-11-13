@@ -32,6 +32,7 @@ An image alone is never the record. The front matter is what makes a plate finda
 | BWM-IL-003 | Day 1 - Light and Order (Plate I) | - | Day-plate sub-series, Day 1 | Gen. 1:1-5; John 1:4 | [image](003-day-1-light-and-order.jpg) / [record](003-day-1-light-and-order.md) | Concept prototype - supplied, unreviewed, not print-ready |
 | BWM-IL-004 | Day 4 - The Heavens Appointed (Plate IV) | - | Day-plate sub-series, Day 4 | Gen. 1:14-19; Ps. 19:1 | [image](004-day-4-the-heavens-appointed.jpg) / [record](004-day-4-the-heavens-appointed.md) | Concept prototype - supplied, unreviewed, not print-ready |
 | BWM-IL-005 | Day 6 - The Procession and Naming (Plate VI) | - | Day-plate sub-series, Day 6 | Gen. 1:24-31; 2:7-25 | [image](005-day-6-the-procession-and-naming.jpg) / [record](005-day-6-the-procession-and-naming.md) | Concept prototype - supplied, unreviewed, not print-ready; lettering defects in one panel, recorded in its companion record |
+| BWM-IL-006 | Day 1 - Light and Order (landscape candidate) | - | Day-plate sub-series, Day 1 (landscape candidate) | Gen. 1:1-5; John 1:4; Rev. 21:23; 22:5 | [image](006-day-1-light-and-order-landscape.jpg) / [record](006-day-1-light-and-order-landscape.md) | Concept prototype - generated candidate, unreviewed, not print-ready; one-word repair disclosed in its companion record |
 
 ## How the plates group
 
@@ -39,7 +40,7 @@ BWM-IL-001 and BWM-IL-002 are not two separate entries. Together they form the t
 
 ## The day-plate sub-series
 
-BWM-IL-003, 004, and 005 begin a second grouping: **day plates**, one plate per creation day under the header "Creation: The Six Days", numbered with Roman numerals on the plates themselves (Plate I, IV, VI). Each is a stand-alone deep treatment of its day - biblical account, key elements, theological significance, a Designed Functional Maturity panel, and an interpretive status panel that labels what is directly stated and what is model. They expand days also covered by Spread 001; they are not pages of that spread, and no book page is printed on them. Register day plates in day order after the spread plates. State at filing: Plates I (Day 1), IV (Day 4), and VI (Day 6) received; Plates II (Day 2), III (Day 3), and V (Day 5) outstanding.
+BWM-IL-003, 004, and 005 begin a second grouping: **day plates**, one plate per creation day under the header "Creation: The Six Days", numbered with Roman numerals on the plates themselves (Plate I, IV, VI). Each is a stand-alone deep treatment of its day - biblical account, key elements, theological significance, a Designed Functional Maturity panel, and an interpretive status panel that labels what is directly stated and what is model. They expand days also covered by Spread 001; they are not pages of that spread, and no book page is printed on them. Register day plates in day order after the spread plates. State at filing: Plates I (Day 1), IV (Day 4), and VI (Day 6) received; Plates II (Day 2), III (Day 3), and V (Day 5) outstanding. BWM-IL-006 opens a parallel line of landscape candidates under the adopted style guide and ruled trim: generated in-session at JD's direction, beginning with a Day 1 candidate; landscape candidates are registered in this same table and do not displace the supplied portrait concepts.
 
 ## Adding a plate
 

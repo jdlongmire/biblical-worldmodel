@@ -36,5 +36,15 @@ God brings the animals and birds to Adam; Adam names them, and no suitable helpe
 
 > "And God saw everything that He had made, and behold, it was very good." - Genesis 1:31
 
+## Landscape candidate - Day 1: Light and Order
+
+![Day One - Light and Order, landscape candidate: divine light breaking over the waters, the ordering of the first day, the terrestrial day cycle, and the Revelation bookend](assets/006-day-1-light-and-order-landscape.jpg)
+
+*Landscape candidate (record [BWM-IL-006](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/006-day-1-light-and-order-landscape.md)) - Genesis 1:1-5.*
+
+The first candidate plate in the ruled landscape format, produced under the adopted plate style guide. It treats the same day as Plate I above, recomposed as a landscape page: the account, the ordering strip, the terrestrial day cycle, and, at the author's direction, the theological arc of the light itself. God is the source of the first light, before any luminary exists; the sun is a created instrument, appointed on Day Four to govern a cycle it did not create; and the pattern closes at the end of Scripture, where the New Creation has no need of sun or moon, "for the glory of God gives it light" (Rev. 21:23), and "the Lord God will be their light" (Rev. 22:5). The plate's status panel keeps the distinction the author's own writing keeps: Revelation establishes the category, not a shared mechanism. No plate number appears on it, per the author's ruling. One word in its theological panel was misspelled in the generation and was repaired before filing; the repair is disclosed in full in the plate's record.
+
+> "In him was life, and the life was the light of men." - John 1:4 (ESV)
+
 !!! note "Status of these plates"
     All three are concept prototypes at web resolution, with review gates pending; none is print-ready. By the author's ruling, plate numbers will not appear on the plate artwork itself: the PLATE I, IV, and VI headers on these concept plates are rebuild items, and numbering lives in the records and captions. Two further filing findings are recorded openly in the plates' records. Plate VI, as supplied, carries lettering errors in one small panel - a three-item list numbered 1, 1, 1, and two malformed words in its summary of Genesis 1:28 - and a corrected plate or a typeset rebuild is required before it can advance. Plates IV and VI print the research programme's internal work-package codes in their interpretive status panels; whether a rebuilt plate keeps, expands, or moves those references is an open editorial decision, recorded in the register.
