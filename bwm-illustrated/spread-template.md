@@ -1,5 +1,7 @@
 # Two-page entry template and acceptance criteria
 
+**Status:** Retained as the template of record for Spread 001 (BWM-IL-001 / 002). For new production, the single-page plate template (`plate-template.md`) supersedes this spread-first template, per JD's adoption of the plate style guide on 2026-11-13.
+
 ## Metadata
 
 Entry ID; title; part; author/editor; revision; claim status; source repositories; illustration status.
