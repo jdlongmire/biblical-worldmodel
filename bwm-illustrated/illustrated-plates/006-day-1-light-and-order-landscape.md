@@ -29,12 +29,12 @@ scripture:
 asset_file: 006-day-1-light-and-order-landscape.jpg
 asset_format: JPEG
 asset_dimensions_px: "1920 x 1280"
-asset_bytes: 963166
-asset_sha256: 1c162dbccccd9a0d73ad7670b4cd61e99c3ce8a84ac11eb384ab926215ef5c3a
+asset_bytes: 963359
+asset_sha256: 501666514cf8ad6526f946cffb71d70a066f40b4ada21d7184f04e0081813f61
 provenance: "Generated in-session on 2026-11-13 at JD's request, as the first plate attempt under the adopted plate style guide and the ruled 12 x 9 in landscape format; JD directed the Day One subject and the light-source framing, and approved filing the repaired plate as a candidate on 2026-11-13. The filed image is a repaired derivative of the raw generation: see the repair disclosure in the record notes. The unrepaired generation is retained outside the repository (SHA-256 e4330190518d7da7d08d42d9156ca70a123400f28e6221c0fd771ddaf37fd0d0)."
 print_status: "Not print-ready. The generation is 1920 x 1280 px (3:2); the ruled trim is 12 x 9 in landscape (4:3) at 3600 x 2700 px for a print master, so a production version is a recomposition at master resolution, not an upscale. Embedded lettering is part of the artwork, not editable typesetting."
 claim_status: "The plate carries its own interpretive status compartment: the creation of light at God's word, its separation, the naming of Day and Night, and the first day are marked Directly Stated in Scripture (class T); the nature of the Day One light and its relationship to the Day Four governors are marked Interpretive Model (DFM) (class M). The Revelation bookend is presented, in the plate's own words, as a category, not a mechanism."
-qa_findings: "Full-plate read plus magnified crop audit on filing. The Genesis 1:3-5 quotation and the John 1:4 footer read word-exact; the central scene shows no sun, moon, or stars; no plate number appears anywhere. The raw generation carried one lettering defect, 'canorical' for 'canonical' in the theological significance compartment, repaired as disclosed in the record notes and verified by crop readback and by a pixel comparison showing no change outside the patched word. This is a filing audit, not a review-gate pass."
+qa_findings: "Full-plate read plus magnified crop audit on filing. The Genesis 1:3-5 quotation and the John 1:4 footer read word-exact; the central scene shows no sun, moon, or stars; no plate number appears anywhere. The raw generation carried one lettering defect, 'canorical' for 'canonical' in the theological significance compartment, repaired as disclosed in the record notes and verified by crop readback and by a pixel comparison showing no change outside the worked zone. This is a filing audit, not a review-gate pass."
 review_gates:
   scripture_checked: pending
   theological_review: pending
@@ -65,7 +65,7 @@ Header: "The Biblical World Model / Creation: The Six Days / Genesis 1:1-5" - no
 
 ## Record notes
 
-- **Repair disclosure (2026-11-13):** the raw generation printed "canorical" for "canonical" in the theological significance compartment. At JD's direction the single word was repaired in place programmatically: the word was erased and reset in a matched serif bold face at the original width and baseline, using pixel-map measurement of the surrounding glyphs. The repair was verified by magnified crop readback and by a pixel comparison confirming zero change outside the patched word's box. The unrepaired generation is retained outside the repository; its SHA-256 is recorded in the provenance field above. Two earlier patch attempts failed verification and were discarded; only the verified repair is filed here.
+- **Repair disclosure (2026-11-13):** the raw generation printed "canorical" for "canonical" in the theological significance compartment. At JD's direction the word was repaired in place. A first repair reset the word in a computer serif face; JD judged that the reset lettering did not match the plate's own style, and it was superseded. The repair as filed rebuilds the word from the plate's own glyphs: the letter n was transplanted from the word's own first n (native pixels, measured by pixel map), and the following letters were re-laid from their own original slices, so every letterform on the plate is the generation's own. The repair was verified by magnified crop readback against the neighbouring text and by a pixel comparison confirming zero change outside the worked zone. The unrepaired generation is retained outside the repository; its SHA-256 is recorded in the provenance field above.
 - **Format:** landscape is the ruled production format; this candidate's 3:2 generation aspect still differs from the trim's 4:3 and its resolution is concept-grade, so it stands as a composition and content candidate, not a production master.
 - **Relation to BWM-IL-003:** same day, same subject, different format line. The supplied portrait plate and this generated landscape candidate coexist until JD rules on the landscape production set.
 
