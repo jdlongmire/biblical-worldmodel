@@ -6,7 +6,7 @@
 
 ## Editorial proposition
 
-Use two-page illustrated encyclopedia spreads to explain biblical history, world domains, and BWM's research programme. Each spread combines a large hand-colored technical plate, numbered callouts, concise prose, Scripture references, and an epistemic-status panel.
+Use illustrated plates to explain biblical history, world domains, and BWM's research programme: individual landscape pages in current production (plate style guide adopted 2026-11-13), and two-page encyclopedia spreads in the first published iteration. Each combines a large hand-colored plate, numbered callouts, concise prose, Scripture references, and an epistemic-status panel.
 
 ## Contents
 
@@ -17,6 +17,9 @@ Use two-page illustrated encyclopedia spreads to explain biblical history, world
 - [Prototype: Garden of Eden](entries/002-garden-of-eden.md)
 - [Prototype: The Flood](entries/003-the-flood.md)
 - [Production specification](production-specification.md)
+- [Plate style guide](plate-style-guide.md)
+- [Single-page plate template](plate-template.md)
+- [Plate production checklist](plate-production-checklist.md)
 - [Illustrated plates - index and register](illustrated-plates/README.md)
 - [Asset register](assets/README.md)
 - [Prototype artwork provenance](assets/prototype-001-provenance.md)
