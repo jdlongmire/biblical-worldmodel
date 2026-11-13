@@ -5,6 +5,7 @@ kind: illustrated-plate
 series: BWM Illustrated
 plate_series: "Creation: The Six Days - day plates"
 plate_numeral: "I"
+numbering_on_plate: "Printed on the supplied plate (PLATE I). JD ruled 2026-11-13 that plate numbers are not to appear on the plate; omission is a rebuild item, and numbering is carried by this record, the register, and captions."
 day: 1
 status: concept-prototype - supplied, unreviewed, not print-ready
 version: 0.1
@@ -66,5 +67,6 @@ Header: "Creation: The Six Days / Plate I / Genesis 1:1-5". Title: "Day 1 - Ligh
 
 - The day plates are a second format alongside the Spread 001 pages: portrait 2:3 at 1024 x 1536, each carrying a biblical account, key elements, theological significance, a DFM panel, and an explicit interpretive status panel. The format strengthens the claim-class discipline the spread template requires; the plates label model content as model content themselves.
 - No book page is printed on the day plates; pagination for this sub-series is undecided and is not inferred here.
+- **Plate numbering (JD ruling, 2026-11-13):** plate numbers are not to appear on the plate artwork. This plate as supplied prints "PLATE I" in its header; a corrected plate is to omit it. The numeral is retained in this record and the register for identification only.
 
 Human-Curated, AI-Enabled (HCAE)
