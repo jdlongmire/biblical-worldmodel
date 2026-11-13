@@ -26,6 +26,7 @@ An image alone is never the record. The front matter is what makes a plate finda
 
 | ID | Plate | Book page | Entry / spread | Scripture | Files | Status |
 |---|---|---|---|---|---|---|
+| BWM-IL-000 | Cover - The Biblical World Model: An Illustrated Atlas of Creation, History, and Reality | Front cover | None - book cover, also the sub-site hero image | None | [image](000-cover.jpg) / [record](000-cover.md) | Concept prototype - supplied, unreviewed, not print-ready |
 | BWM-IL-001 | The Creation of the World - The Six Days of Genesis 1 | 24 | Entry 001, Spread 001 left (overview) | Gen. 1:1 to 2:3; Ex. 20:11 | [image](001-creation-of-the-world.jpg) / [record](001-creation-of-the-world.md) | Concept prototype - supplied, unreviewed, not print-ready |
 | BWM-IL-002 | Day 1 - Light and Order / Day 4 - The Heavenly Lights | 25 | Entry 001, Spread 001 right (detail) | Gen. 1:3-5; 1:14-19; Ps. 19:1; 104:19 | [image](002-day-1-and-day-4.jpg) / [record](002-day-1-and-day-4.md) | Concept prototype - supplied, unreviewed, not print-ready |
 
@@ -48,5 +49,6 @@ BWM-IL-001 and BWM-IL-002 are not two separate entries. Together they form the t
 - **Chapter scheme:** BWM-IL-002 reads "Chapter 1"; the provisional contents are organised by parts only. Awaiting JD's ruling.
 - **Orientation:** both plates are portrait; the creative direction and production specification describe a landscape or near-square trim. Awaiting JD's ruling.
 - **Asset register:** ../assets/README.md still describes Prototype 001 as "not yet committed" and proposes `assets/prototypes/` as its home. Filing this folder supersedes that proposal; the register should be updated to point here.
+- **Cover framework line:** the BWM-IL-000 cover names six terms - Creation, Humanity, The Flood, Nations, Redemption, The World to Come - against the provisional contents' six parts on a different scheme. Whether the cover terms become the part structure awaits JD's ruling.
 
 Human-Curated, AI-Enabled (HCAE)
