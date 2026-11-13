@@ -44,8 +44,9 @@ These apply whichever route is chosen, and they are stated here so the book's st
 | Item | State |
 |---|---|
 | Book concept, editorial charter, creative direction | Written, v0.1, in the repository |
-| Cover | Concept artwork received; flat print master outstanding |
-| Spread 001 - Creation: The Six Days | Concept plates published on this site; review gates pending |
+| Cover | Restarted 13 Nov 2026: new landscape cover in preparation; first-round concept archived |
+| Day plates - production line (begun with Day One) | Candidate published on this site; review gates pending |
+| First concepts - cover mock, Spread 001, portrait day plates | Archived 13 Nov 2026 (site archive page and repository archive) |
 | Spreads 002-003 - Garden of Eden; The Flood | Editorial prototypes written; plates outstanding |
 | Trim and layout | Ruled 13 Nov 2026: 12 x 9 in landscape; individual page plates |
 | Plate style guide | Adopted 13 Nov 2026 with the author's amendments; new plates to be produced to it |

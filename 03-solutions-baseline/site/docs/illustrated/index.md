@@ -1,26 +1,29 @@
 ---
-description: The Biblical World Model - An Illustrated Atlas of Creation, History, and Reality. The first iteration of the BWM Illustrated coffee-table book, published spread by spread as a Pages sub-site.
+description: The Biblical World Model - An Illustrated Atlas of Creation, History, and Reality. The BWM Illustrated coffee-table book, produced plate by plate in landscape format and published as a Pages sub-site.
 ---
 
 # The Illustrated Atlas
 
 **The Biblical World Model: An Illustrated Atlas of Creation, History, and Reality**
 
-![Book cover - The Biblical World Model: An Illustrated Atlas of Creation, History, and Reality](assets/cover.jpg)
+![Day One - Light and Order, the first production plate of the restarted atlas: divine light breaking over the waters](assets/006-day-1-light-and-order-landscape.jpg)
 
-This sub-site is the first iteration of *BWM Illustrated*, a coffee-table book in the making. Each entry of the book is a two-page illustrated spread: a large hand-coloured plate, numbered callouts, concise prose, Scripture references, and a note on what the text states, what is inferred, and what remains a proposal. The book is being built in the open, one spread at a time, and this site is where each spread is first published.
+*Day One - Light and Order, the first plate of the production line. Record [BWM-IL-006](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/006-day-1-light-and-order-landscape.md).*
 
-!!! note "Status - concept prototype"
-    The atlas is in preproduction. The cover and the first spread are concept artwork: the wording lettered into the plates is part of the artwork, not finished typesetting, and every plate passes editorial review gates (Scripture checked, theological review, visual accuracy, print proof) before it counts as final. Statuses are stated on each spread page rather than smoothed over.
+This sub-site is the home of *BWM Illustrated*, a coffee-table book in the making. The book is built from individual landscape plates - a large hand-coloured plate, concise prose panels, Scripture references, and a statement of what the text states, what is inferred, and what remains a proposal - and this site is where each plate is first published.
+
+!!! note "Status - production restarted 13 November 2026"
+    The atlas's first round of concept artwork (a cover mock, a two-page spread, and three portrait day plates) was archived on 13 November 2026 and production restarted from the beginning in the ruled format: 12 x 9 in landscape plates under the book's adopted style guide, no plate numbers on the artwork. The archived concepts are kept openly at [First Concepts (Archived)](first-concepts.md). Every production plate passes editorial review gates (Scripture checked, theological review, visual accuracy, print proof) before it counts as final.
 
 ## Start reading
 
-- [Spread 001 - Creation: The Six Days of Genesis 1](creation-six-days.md) - the overview plate and its companion: Day 1, light provided, set against Day 4, the heavenly lights appointed to govern.
-- [The Creation Day Plates](creation-day-plates.md) - stand-alone plates for Days 1, 4, and 6, one plate per day, each with its own interpretive status panel. Plates for Days 2, 3, and 5 are outstanding.
+- [The Creation Day Plates](creation-day-plates.md) - the production line, beginning with Day One: Light and Order. The new book cover is in preparation and will be published here first.
+- [First Concepts (Archived)](first-concepts.md) - the first round of concept artwork, kept as the record of how the book's visual language was worked out.
+- [Building the Book](building-the-book.md) - the production routes from this site to the printed book, and the gates each one requires.
 
 ## The arc of the book
 
-The cover names the framework the atlas will trace:
+The atlas traces the arc its cover names:
 
 - **Creation** - the world made ordered, functional, and good.
 - **Humanity** - man in the image of God, placed, tasked, and fallen.
@@ -31,15 +34,14 @@ The cover names the framework the atlas will trace:
 
 ## Contents so far
 
-| Spread | Title | Book pages | State |
-|---|---|---|---|
-| 001 | Creation: The Six Days of Genesis 1 | 24-25 | Concept plates published here |
-| Day plates | Creation: The Six Days, Plates I-VI | - | Plates I, IV, and VI published here; II, III, and V outstanding |
-| 002 | The Garden of Eden | - | Editorial prototype written; plates not yet filed |
-| 003 | The Flood | - | Editorial prototype written; plates not yet filed |
+| Item | Title | State |
+|---|---|---|
+| Cover | The Biblical World Model | In preparation - first filing of the restarted production |
+| Plate (Day 1) | Creation: The Six Days - Day One, Light and Order | Candidate published here; review gates pending |
+| Archive | First Concepts (cover mock, Spread 001, portrait day plates I, IV, VI) | Archived 13 November 2026 |
 
 ## From this site to the book
 
 Nothing on this site is print-ready, and that is deliberate. The site is the workshop and the first public form; the printed book is built from print masters made afterwards: artwork without baked-in lettering, editable typesetting, and resolution matched to the final trim. The production routes and the gates each one requires are set out in [Building the Book](building-the-book.md).
 
-The working record behind the pictures - editorial charter, creative direction, spread template, production specification, and the front-matter record for every filed plate - is kept in the open in the [biblical-worldmodel repository](https://github.com/jdlongmire/biblical-worldmodel/tree/main/bwm-illustrated), with the plate register at [illustrated-plates](https://github.com/jdlongmire/biblical-worldmodel/tree/main/bwm-illustrated/illustrated-plates).
+The working record behind the pictures - editorial charter, creative direction, production specification, plate style guide, and the front-matter record for every filed plate - is kept in the open in the [biblical-worldmodel repository](https://github.com/jdlongmire/biblical-worldmodel/tree/main/bwm-illustrated), with the plate register at [illustrated-plates](https://github.com/jdlongmire/biblical-worldmodel/tree/main/bwm-illustrated/illustrated-plates) and the first concepts in its [archive](https://github.com/jdlongmire/biblical-worldmodel/tree/main/bwm-illustrated/archive/first-concepts).
