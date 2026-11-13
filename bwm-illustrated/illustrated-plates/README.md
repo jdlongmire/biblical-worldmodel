@@ -58,5 +58,6 @@ BWM-IL-003, 004, and 005 begin a second grouping: **day plates**, one plate per 
 - **Asset register:** ../assets/README.md still describes Prototype 001 as "not yet committed" and proposes `assets/prototypes/` as its home. Filing this folder supersedes that proposal; the register should be updated to point here.
 - **Cover framework line:** the BWM-IL-000 cover names six terms - Creation, Humanity, The Flood, Nations, Redemption, The World to Come - against the provisional contents' six parts on a different scheme. Whether the cover terms become the part structure awaits JD's ruling.
 - **Internal references on public plates:** BWM-IL-004 and BWM-IL-005 print programme work-package codes (WP-022, WP-028, WP-029) in their interpretive status panels. Whether a rebuilt plate retains them, expands them to plain language, or moves them to the companion record awaits JD's ruling.
+- **Plate numbers on the artwork (RULED 2026-11-13):** JD ruled that plate numbers are not to appear on the plate. The day plates as supplied print PLATE I, IV, and VI in their headers; corrected plates are to omit the printed numeral, and numbering is carried by the records, this register, and captions. Rebuild item for BWM-IL-003, 004, and 005.
 
 Human-Curated, AI-Enabled (HCAE)
