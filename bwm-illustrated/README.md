@@ -2,7 +2,7 @@
 
 **Working title:** *The Biblical World Model: An Illustrated Atlas of Creation, History, and Reality*
 
-**Status:** Concept / preproduction. This folder develops an oversized, illustrated coffee-table book based on the Biblical WorldModel (BWM). It is an editorial and visual prototype, not a new source of canonical scientific or theological claims.
+**Status:** Concept / preproduction. Production restarted on 2026-11-13 in the ruled landscape format, starting with the book cover; the first round of concept plates (BWM-IL-000 to 005) is archived under `archive/first-concepts/`, and BWM-IL-006 (Day One, landscape) is the first entry of the restarted register. This folder develops an oversized, illustrated coffee-table book based on the Biblical WorldModel (BWM). It is an editorial and visual prototype, not a new source of canonical scientific or theological claims.
 
 ## Editorial proposition
 
@@ -21,6 +21,7 @@ Use illustrated plates to explain biblical history, world domains, and BWM's res
 - [Single-page plate template](plate-template.md)
 - [Plate production checklist](plate-production-checklist.md)
 - [Illustrated plates - index and register](illustrated-plates/README.md)
+- [Archive - first concepts (BWM-IL-000 to 005)](archive/first-concepts/README.md)
 - [Asset register](assets/README.md)
 - [Prototype artwork provenance](assets/prototype-001-provenance.md)
 
