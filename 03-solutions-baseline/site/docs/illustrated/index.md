@@ -16,6 +16,7 @@ This sub-site is the first iteration of *BWM Illustrated*, a coffee-table book i
 ## Start reading
 
 - [Spread 001 - Creation: The Six Days of Genesis 1](creation-six-days.md) - the overview plate and its companion: Day 1, light provided, set against Day 4, the heavenly lights appointed to govern.
+- [The Creation Day Plates](creation-day-plates.md) - stand-alone plates for Days 1, 4, and 6, one plate per day, each with its own interpretive status panel. Plates for Days 2, 3, and 5 are outstanding.
 
 ## The arc of the book
 
@@ -33,6 +34,7 @@ The cover names the framework the atlas will trace:
 | Spread | Title | Book pages | State |
 |---|---|---|---|
 | 001 | Creation: The Six Days of Genesis 1 | 24-25 | Concept plates published here |
+| Day plates | Creation: The Six Days, Plates I-VI | - | Plates I, IV, and VI published here; II, III, and V outstanding |
 | 002 | The Garden of Eden | - | Editorial prototype written; plates not yet filed |
 | 003 | The Flood | - | Editorial prototype written; plates not yet filed |
 
