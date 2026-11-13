@@ -17,6 +17,7 @@ Use two-page illustrated encyclopedia spreads to explain biblical history, world
 - [Prototype: Garden of Eden](entries/002-garden-of-eden.md)
 - [Prototype: The Flood](entries/003-the-flood.md)
 - [Production specification](production-specification.md)
+- [Illustrated plates - index and register](illustrated-plates/README.md)
 - [Asset register](assets/README.md)
 - [Prototype artwork provenance](assets/prototype-001-provenance.md)
 
