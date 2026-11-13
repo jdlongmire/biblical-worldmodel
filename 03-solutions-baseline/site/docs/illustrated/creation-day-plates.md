@@ -18,6 +18,16 @@ The first candidate plate in the ruled landscape format, produced under the adop
 
 > "In him was life, and the life was the light of men." - John 1:4 (ESV)
 
-!!! note "Status of this plate"
-    A concept candidate at web resolution, with review gates pending; not print-ready. It is the author's approved style benchmark for the production line. One word in its theological panel was misspelled in the generation and was repaired from the plate's own letterforms before filing; the repair is disclosed in full in the plate's record.
+## Landscape candidate - Day 2: The Expanse
+
+![Day Two - The Expanse: the vaulted expanse over the sea, the waters separated above and below](assets/008-day-2-the-expanse-landscape.jpg)
+
+*Landscape candidate (record [BWM-IL-008](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/008-day-2-the-expanse-landscape.md)) - Genesis 1:6-8.*
+
+The second plate of the production line, on the Day One pattern: the account of the expanse, its key elements, the ordering of the second day, the structure of the expanse (waters above, Heaven, waters below), a Designed Functional Maturity panel, and an interpretive status panel. The theological panel carries the light arc forward: these heavens stand under the light God gave on Day One, before sun or moon, and the heaven of the renewed creation needs no sun (Rev. 21:23; 22:5). One word in its theological panel was garbled in the generation and was repaired from the preceding generation's rendering of the same word; the repair is disclosed in full in the plate's record.
+
+> "Praise him, you highest heavens, and you waters above the heavens!" - Psalm 148:4 (ESV)
+
+!!! note "Status of these plates"
+    Concept candidates at web resolution, with review gates pending; not print-ready. The Day One plate is the author's approved style benchmark for the production line. One word in each plate's theological panel was defective in its generation and was repaired from plate-family letterforms before filing; both repairs are disclosed in full in the plates' records.
 

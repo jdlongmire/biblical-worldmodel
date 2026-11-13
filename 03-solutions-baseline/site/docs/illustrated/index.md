@@ -38,6 +38,7 @@ The atlas traces the arc its cover names:
 |---|---|---|
 | Cover | The Biblical World Model | Candidate published here - first filing of the restarted production |
 | Plate (Day 1) | Creation: The Six Days - Day One, Light and Order | Candidate published here; review gates pending |
+| Plate (Day 2) | Creation: The Six Days - Day Two, The Expanse | Candidate published here; review gates pending |
 | Archive | First Concepts (cover mock, Spread 001, portrait day plates I, IV, VI) | Archived 13 November 2026 |
 
 ## From this site to the book
