@@ -29,6 +29,7 @@ An image alone is never the record. The front matter is what makes a plate finda
 | ID | Plate | Entry | Scripture | Files | Status |
 |---|---|---|---|---|---|
 | BWM-IL-006 | Day 1 - Light and Order (landscape candidate) | Entry 001 (subject area) | Gen. 1:1-5; John 1:4; Rev. 21:23; 22:5 | [image](006-day-1-light-and-order-landscape.jpg) / [record](006-day-1-light-and-order-landscape.md) | Concept prototype - generated candidate, JD-approved as the style benchmark for the landscape line, unreviewed, not print-ready; one-word glyph repair disclosed in its companion record |
+| BWM-IL-007 | Cover - The Biblical World Model (landscape) | Front cover | - | [image](007-cover-landscape.jpg) / [record](007-cover-landscape.md) | Concept prototype - generated candidate, first filing of the restarted production, unreviewed, not print-ready |
 
 ## Adding a plate
 
@@ -44,7 +45,7 @@ An image alone is never the record. The front matter is what makes a plate finda
 - **Orientation and trim (RULED 2026-11-13):** book trim is 12 x 9 in landscape; the production unit is the individual landscape page plate under the adopted plate style guide (`../plate-style-guide.md`). Page raster 3600 x 2700 px at 300 ppi for a print master.
 - **Plate numbers on the artwork (RULED 2026-11-13):** plate numbers do not appear on plate artwork; numbering is carried by the records, this register, and captions.
 - **Plate style guide (ADOPTED 2026-11-13):** adopted with JD's two amendments (landscape 12 x 9 pages; no plate numbers on plates), implemented in `../plate-style-guide.md`, `../plate-template.md`, and `../plate-production-checklist.md`. BWM-IL-006 is the JD-approved exemplar of the adopted style for the production line.
-- **Restart (2026-11-13):** production restarted from the beginning, starting with the book cover; the new cover is in preparation as the next filing. The editorial questions raised by the archived concepts (part names, chapter scheme, cover arc against the provisional contents) lapse with the restart and will be settled afresh in the new production contents.
+- **Restart (2026-11-13):** production restarted from the beginning, starting with the book cover, filed as BWM-IL-007. The editorial questions raised by the archived concepts (part names, chapter scheme, cover arc against the provisional contents) lapse with the restart and will be settled afresh in the new production contents; the six-term arc itself is carried into the new cover by design.
 - **Archived aesthetic reference (closed by the restart):** the style guide's approved Day 6 raster was never received into this repository; the question is closed with the archiving of the first concepts, the landscape line taking BWM-IL-006 as its reference.
 
 Human-Curated, AI-Enabled (HCAE)

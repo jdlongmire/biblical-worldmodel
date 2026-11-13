@@ -6,9 +6,9 @@ description: The Biblical World Model - An Illustrated Atlas of Creation, Histor
 
 **The Biblical World Model: An Illustrated Atlas of Creation, History, and Reality**
 
-![Day One - Light and Order, the first production plate of the restarted atlas: divine light breaking over the waters](assets/006-day-1-light-and-order-landscape.jpg)
+![The cover of the restarted atlas - The Biblical World Model: An Illustrated Atlas of Creation, History, and Reality, with the six medallions of its arc](assets/007-cover-landscape.jpg)
 
-*Day One - Light and Order, the first plate of the production line. Record [BWM-IL-006](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/006-day-1-light-and-order-landscape.md).*
+*The cover of the restarted atlas, the first filing of the new production. Record [BWM-IL-007](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/007-cover-landscape.md). The first plate of the line, Day One - Light and Order ([BWM-IL-006](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/006-day-1-light-and-order-landscape.md)), is on the day plates page.*
 
 This sub-site is the home of *BWM Illustrated*, a coffee-table book in the making. The book is built from individual landscape plates - a large hand-coloured plate, concise prose panels, Scripture references, and a statement of what the text states, what is inferred, and what remains a proposal - and this site is where each plate is first published.
 
@@ -17,7 +17,7 @@ This sub-site is the home of *BWM Illustrated*, a coffee-table book in the makin
 
 ## Start reading
 
-- [The Creation Day Plates](creation-day-plates.md) - the production line, beginning with Day One: Light and Order. The new book cover is in preparation and will be published here first.
+- [The Creation Day Plates](creation-day-plates.md) - the production line, beginning with Day One: Light and Order.
 - [First Concepts (Archived)](first-concepts.md) - the first round of concept artwork, kept as the record of how the book's visual language was worked out.
 - [Building the Book](building-the-book.md) - the production routes from this site to the printed book, and the gates each one requires.
 
@@ -36,7 +36,7 @@ The atlas traces the arc its cover names:
 
 | Item | Title | State |
 |---|---|---|
-| Cover | The Biblical World Model | In preparation - first filing of the restarted production |
+| Cover | The Biblical World Model | Candidate published here - first filing of the restarted production |
 | Plate (Day 1) | Creation: The Six Days - Day One, Light and Order | Candidate published here; review gates pending |
 | Archive | First Concepts (cover mock, Spread 001, portrait day plates I, IV, VI) | Archived 13 November 2026 |
 
