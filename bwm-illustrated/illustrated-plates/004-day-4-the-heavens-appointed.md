@@ -5,6 +5,7 @@ kind: illustrated-plate
 series: BWM Illustrated
 plate_series: "Creation: The Six Days - day plates"
 plate_numeral: "IV"
+numbering_on_plate: "Printed on the supplied plate (PLATE IV). JD ruled 2026-11-13 that plate numbers are not to appear on the plate; omission is a rebuild item, and numbering is carried by this record, the register, and captions."
 day: 4
 status: concept-prototype - supplied, unreviewed, not print-ready
 version: 0.1
@@ -64,5 +65,6 @@ Header: "Creation: The Six Days / Plate IV / Genesis 1:14-19". Title: "Day 4 - T
 
 - **Internal references printed on the plate:** the Interpretive Status panel cites "(WP-029, WP-028)" - programme work-package codes a general reader cannot resolve from the plate. Recorded as an editorial decision for JD: retain as a traceability pointer, expand to plain language, or move to the companion record when the plate is rebuilt for print. The plate is filed exactly as supplied; nothing on it has been altered.
 - The approx. 13.8 billion year figure belongs to the DFM hypothesis panel, not to the biblical account panel; the site page for these plates presents it under the same label the plate itself uses.
+- **Plate numbering (JD ruling, 2026-11-13):** plate numbers are not to appear on the plate artwork. This plate as supplied prints "PLATE IV" in its header; a corrected plate is to omit it. The numeral is retained in this record and the register for identification only.
 
 Human-Curated, AI-Enabled (HCAE)
