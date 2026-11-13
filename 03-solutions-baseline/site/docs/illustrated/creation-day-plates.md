@@ -28,6 +28,16 @@ The second plate of the production line, on the Day One pattern: the account of 
 
 > "Praise him, you highest heavens, and you waters above the heavens!" - Psalm 148:4 (ESV)
 
+## Landscape candidate - Day 3: The Dry Land and the Seas
+
+![Day Three - The Dry Land and the Seas: one Pangea-type landmass ringed by the gathered sea, with large inland freshwater seas and lakes, vegetation and fruit trees on the shore](assets/009-day-3-the-dry-land-and-seas-landscape.jpg)
+
+*Landscape candidate (record [BWM-IL-009](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/009-day-3-the-dry-land-and-seas-landscape.md)) - Genesis 1:9-13.*
+
+The third plate of the production line, on the Day One pattern: the waters gathered into one place, the dry land appearing and named Earth, the gathered waters named Seas, and the earth sprouting vegetation, each kind bearing its own seed. The central view follows the text's own geography, at the author's direction: one single Pangea-type landmass ringed by the gathered sea, carrying large freshwater seas and broad lakes. This plate is a disclosed hybrid, built at the author's direction after six generations produced no single flawless render: the plate body is the first generation, whose landmass and compartments were clean as rendered; its account column interior is a later generation's word-perfect rendering, transplanted in native pixels; and the running header's reference was completed with the header's own digit. The full construction history is disclosed in the plate's record.
+
+> "The sea is his, for he made it, and his hands formed the dry land." - Psalm 95:5 (ESV)
+
 !!! note "Status of these plates"
-    Concept candidates at web resolution, with review gates pending; not print-ready. The Day One plate is the author's approved style benchmark for the production line. One word in each plate's theological panel was defective in its generation and was repaired from plate-family letterforms before filing; both repairs are disclosed in full in the plates' records.
+    Concept candidates at web resolution, with review gates pending; not print-ready. The Day One plate is the author's approved style benchmark for the production line. Lettering defects found in generation were repaired from plate-family letterforms, or, for Day Three, by the disclosed hybrid construction described above; all repairs and construction steps are disclosed in full in the plates' records.
 
