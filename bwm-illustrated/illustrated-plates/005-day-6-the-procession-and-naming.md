@@ -5,6 +5,7 @@ kind: illustrated-plate
 series: BWM Illustrated
 plate_series: "Creation: The Six Days - day plates"
 plate_numeral: "VI"
+numbering_on_plate: "Printed on the supplied plate (PLATE VI). JD ruled 2026-11-13 that plate numbers are not to appear on the plate; omission is a rebuild item, and numbering is carried by this record, the register, and captions."
 day: 6
 status: concept-prototype - supplied, unreviewed, not print-ready - lettering defects recorded
 version: 0.1
@@ -69,5 +70,6 @@ Header: "Creation: The Six Days / Plate VI / Genesis 2:18-23" (the plate's conte
 - **Lettering defects:** see qa_findings. They sit in a small summary panel and do not affect the plate's account, themes, or timeline; they do bar the plate from any final or print status until repaired, and the sub-site page discloses them in its status note.
 - **Internal references printed on the plate:** the Interpretive Status panel cites "(WP-022, WP-028, WP-029)". Same editorial decision as BWM-IL-004, recorded there; the two plates should be treated alike when rebuilt.
 - **Header citation vs range:** the header cites Genesis 2:18-23, the naming account; the plate as a whole treats Genesis 1:24 to 2:25. Recorded as printed.
+- **Plate numbering (JD ruling, 2026-11-13):** plate numbers are not to appear on the plate artwork. This plate as supplied prints "PLATE VI" in its header; a corrected plate is to omit it, in the same rebuild that repairs the lettering defects. The numeral is retained in this record and the register for identification only.
 
 Human-Curated, AI-Enabled (HCAE)
