@@ -36,8 +36,8 @@ Publish serially on this site; freeze each spread only when its review gates pas
 These apply whichever route is chosen, and they are stated here so the book's status is never oversold:
 
 1. **Review gates per spread** - Scripture quotations and references checked, theological review, scientific and historical review where the plate makes such claims, and a visual accuracy check. On the record today, both filed plates are at gate zero: concept prototypes, unreviewed.
-2. **Print masters** - artwork separated from lettering: art-only images plus editable typesetting, at 300 ppi at final trim. The plates on this site are web-resolution copies with the lettering baked in, and the cover as supplied is a rendered book mock rather than flat cover art. None of it is a print master yet.
-3. **Open production decisions** - final trim and orientation (the early specification explores landscape and near-square formats; the first plates are portrait, and the ruling will shape every later plate), the part structure of the book, and printer selection, from which bleed, safe areas, and colour proofing follow.
+2. **Print masters** - artwork separated from lettering: art-only images plus editable typesetting, at 300 ppi at the ruled trim (3600 x 2700 px per page before bleed). The plates on this site are web-resolution copies with the lettering baked in, and the cover as supplied is a rendered book mock rather than flat cover art. None of it is a print master yet.
+3. **Production decisions** - trim and orientation are ruled: **12 x 9 in landscape** (13 November 2026), with individual landscape page plates as the production format under the book's adopted plate style guide; the portrait plates published so far are concepts to be recomposed, not cropped. Still open: the part structure of the book, and printer selection, from which bleed, safe areas, and colour proofing follow.
 
 ## Where production stands
 
@@ -47,6 +47,8 @@ These apply whichever route is chosen, and they are stated here so the book's st
 | Cover | Concept artwork received; flat print master outstanding |
 | Spread 001 - Creation: The Six Days | Concept plates published on this site; review gates pending |
 | Spreads 002-003 - Garden of Eden; The Flood | Editorial prototypes written; plates outstanding |
-| Print masters, trim ruling, printer | Outstanding |
+| Trim and layout | Ruled 13 Nov 2026: 12 x 9 in landscape; individual page plates |
+| Plate style guide | Adopted 13 Nov 2026 with the author's amendments; new plates to be produced to it |
+| Print masters, printer | Outstanding |
 
 This page will be updated as items move. The full working record is in the [biblical-worldmodel repository](https://github.com/jdlongmire/biblical-worldmodel/tree/main/bwm-illustrated).
