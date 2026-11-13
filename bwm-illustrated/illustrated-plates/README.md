@@ -30,6 +30,7 @@ An image alone is never the record. The front matter is what makes a plate finda
 |---|---|---|---|---|---|
 | BWM-IL-006 | Day 1 - Light and Order (landscape candidate) | Entry 001 (subject area) | Gen. 1:1-5; John 1:4; Rev. 21:23; 22:5 | [image](006-day-1-light-and-order-landscape.jpg) / [record](006-day-1-light-and-order-landscape.md) | Concept prototype - generated candidate, JD-approved as the style benchmark for the landscape line, unreviewed, not print-ready; one-word glyph repair disclosed in its companion record |
 | BWM-IL-007 | Cover - The Biblical World Model (landscape) | Front cover | - | [image](007-cover-landscape.jpg) / [record](007-cover-landscape.md) | Concept prototype - generated candidate, first filing of the restarted production, unreviewed, not print-ready |
+| BWM-IL-008 | Day 2 - The Expanse (landscape) | Entry 001 (subject area) | Gen. 1:6-8; Ps. 148:4; Rev. 21:23; 22:5 | [image](008-day-2-the-expanse-landscape.jpg) / [record](008-day-2-the-expanse-landscape.md) | Concept prototype - generated candidate, unreviewed, not print-ready; one-word glyph repair disclosed in its companion record |
 
 ## Adding a plate
 
