@@ -38,6 +38,16 @@ The third plate of the production line, on the Day One pattern: the waters gathe
 
 > "The sea is his, for he made it, and his hands formed the dry land." - Psalm 95:5 (ESV)
 
+## Landscape candidate - Day 4: The Heavens Appointed
+
+![Day Four - The Heavens Appointed: the sun over the sea in daylight on the left, the moon and stars in a deep night sky on the right, the heavens appointed as governors of time](assets/010-day-4-the-heavens-appointed-landscape.jpg)
+
+*Landscape candidate (record [BWM-IL-010](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/010-day-4-the-heavens-appointed-landscape.md)) - Genesis 1:14-19.*
+
+The fourth plate of the production line. This plate was supplied by the author and is filed as supplied. It carries the fullest Day Four structure in the series: the six appointed functions of the lights, the Unfolding Heavens strip presenting the asynchronous deployment model under its own title, the two temporal domains side by side (about one day; about 13.8 billion years), and the theological significance, Designed Functional Maturity, and interpretive status panels. Its biblical account column is abridged with ellipses, where the earlier plates carry the day text in full; the plate is otherwise letter-clean as audited, and the full audit is recorded in its record.
+
+> "The heavens declare the glory of God, and the sky above proclaims his handiwork." - Psalm 19:1 (ESV)
+
 !!! note "Status of these plates"
-    Concept candidates at web resolution, with review gates pending; not print-ready. The Day One plate is the author's approved style benchmark for the production line. Lettering defects found in generation were repaired from plate-family letterforms, or, for Day Three, by the disclosed hybrid construction described above; all repairs and construction steps are disclosed in full in the plates' records.
+    Concept candidates at web resolution, with review gates pending; not print-ready. The Day One plate is the author's approved style benchmark for the production line. Lettering defects found in generation were repaired from plate-family letterforms, or, for Day Three, by the disclosed hybrid construction described above; all repairs and construction steps are disclosed in full in the plates' records. The Day Four plate was supplied by the author and filed as supplied.
 
