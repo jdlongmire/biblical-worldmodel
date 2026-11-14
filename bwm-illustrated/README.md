@@ -20,6 +20,8 @@ Use illustrated plates to explain biblical history, world domains, and BWM's res
 - [Plate style guide](plate-style-guide.md)
 - [Single-page plate template](plate-template.md)
 - [Plate production checklist](plate-production-checklist.md)
+- [plate-qa-process.md](plate-qa-process.md) - the gated QA process governing plate production (adopted 2026-11-14)
+- [plate-audit-checklist.md](plate-audit-checklist.md) - per-plate audit checklist template
 - [Illustrated plates - index and register](illustrated-plates/README.md)
 - [Archive - first concepts (BWM-IL-000 to 005)](archive/first-concepts/README.md)
 - [Asset register](assets/README.md)

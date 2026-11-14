@@ -1,5 +1,12 @@
 # Plate production checklist
 
+> **QA gates govern this checklist.** Production on every plate follows the
+> gated QA process in [plate-qa-process.md](plate-qa-process.md) (roll budget,
+> full zone audit before presentation, native-glyph repairs only, two-instrument
+> coordinates, attempt caps, final-file verification), and each plate's audit is
+> logged on the [plate audit checklist](plate-audit-checklist.md). Where this
+> checklist and the QA process differ, the QA process governs.
+
 One checklist per plate, worked in order. The companion record in `illustrated-plates/` is where completion is evidenced; this file is the reusable procedure. Style authority: `plate-style-guide.md`. Format authority: `plate-template.md` and `production-specification.md`.
 
 ## 1. Brief
