@@ -15,6 +15,32 @@ This sub-site is the home of *BWM Illustrated*, a coffee-table book in the makin
 !!! note "Status - production restarted 13 November 2026"
     The atlas's first round of concept artwork (a cover mock, a two-page spread, and three portrait day plates) was archived on 13 November 2026 and production restarted from the beginning in the ruled format: 12 x 9 in landscape plates under the book's adopted style guide, no plate numbers on the artwork. The archived concepts are kept openly at [First Concepts (Archived)](first-concepts.md). Every production plate passes editorial review gates (Scripture checked, theological review, visual accuracy, print proof) before it counts as final.
 
+The plates of this atlas tell one story. The meta-narrative of
+Scripture runs in the six movements the cover names: Creation,
+Humanity, The Flood, Nations, Redemption, and The World to Come.
+The covenant is the backbone of that story: purposed in eternity,
+instituted at the fall, and carried through history to its
+fulfilment in Christ. Every plate keeps the same discipline,
+wherever it stands in the arc: what Scripture states, what the
+evidence shows, and what the model infers are kept distinct on the
+plate itself.
+
+Where the plates stand so far:
+
+- Creation: the six day plates, Earth Systems, and Life Systems,
+  including Creation Kinds. The Timergence plate stands in this
+  line as a guard at the level of explanation, testing how origins
+  may legitimately be explained.
+- Humanity, and the turn to Redemption: the Fall and Covenant line
+  opens at the seam of the story. The Fall closes the account of
+  man placed, tasked, and fallen; the Lapsarian Covenant opens the
+  covenant story at Genesis 3:15, where the eternal covenant of
+  grace enters time.
+- Redemption: The Covenants of God, the front plate of the atlas,
+  states the covenant backbone of this movement up front, and the
+  covenant plates gather here as the line grows.
+- The Flood, Nations, and The World to Come await their plates.
+
 ## Start reading
 
 - [The Creation Day Plates](creation-day-plates.md) - the production line, beginning with Day One: Light and Order.
