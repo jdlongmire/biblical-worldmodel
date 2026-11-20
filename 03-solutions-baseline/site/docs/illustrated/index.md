@@ -67,9 +67,9 @@ The atlas traces the arc its cover names:
 | Plate (Day 2) | Creation: The Six Days - Day Two, The Expanse | Candidate published here; review gates pending |
 | Plate (Day 3) | Creation: The Six Days - Day Three, The Dry Land and the Seas | Candidate published here; review gates pending |
 | Plate (Earth Systems) | Creation: Earth Systems - Radiogenic Heat Budget and Radiometric Decay | Candidate published here; review gates pending |
-| Plate (Life Systems) | Creation: Life Systems - Creation Kinds | Filed (PR, pending merge) |
-| Plate (Life Systems) | Creation: Life Systems - Time Is Not a Mechanism | Filed (PR, pending merge) |
-| Plate (Fall and Covenant) | Creation, Fall, and Redemption - The Fall and the Lapsarian Covenant | Filed (PR, pending merge) |
+| Plate (Life Systems) | Creation: Life Systems - Creation Kinds | Candidate published here; review gates pending |
+| Plate (Life Systems) | Creation: Life Systems - Time Is Not a Mechanism | Candidate published here; review gates pending |
+| Plate (Fall and Covenant) | Creation, Fall, and Redemption - The Fall and the Lapsarian Covenant | Candidate published here; review gates pending |
 | Plate (Day 4) | Creation: The Six Days - Day Four, The Heavens Appointed | Candidate published here; review gates pending |
 | Archive | First Concepts (cover mock, Spread 001, portrait day plates I, IV, VI) | Archived 13 November 2026 |
 
