@@ -26,5 +26,22 @@ as a design grouping at about the family level, with inherent
 diversification potential inside a biblical time framework, is
 the interpretive model.
 
+## Design vs. "Timergence"
+
+![Design vs. Timergence: the design explanation (a pocket watch and gear drawings) set against "timergence" (dice and an hourglass over a barren landscape), with the bacterial flagellum and its motor at the centre and the inference panel below](assets/019-design-vs-timergence-landscape.jpg)
+
+*Plate (record [BWM-IL-019](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/019-design-vs-timergence-landscape.md)) - no Scripture reference is cited on the plate.*
+
+The second Life Systems plate, supplied by the author and filed as
+supplied. It frames the origins question as a contest of
+explanations: did life's complex, purposeful features come from a
+Mind (design), or from blind processes given enough time
+("timergence")? Its centrepiece is the bacterial flagellum,
+labelled a natural molecular motor, and its conclusion panel states
+the design inference in terms of uniform experience: when we see
+complex, functional, information-rich systems - like a motor, a
+code, or a cell's machinery - the reasonable inference is design by
+a mind, not mindless processes plus time.
+
 !!! note "Status of these plates"
     Concept candidates at web resolution, with review gates pending; not print-ready. This plate was supplied by the author and filed as supplied; its filing audit is recorded in its record.
