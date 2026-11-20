@@ -26,22 +26,25 @@ as a design grouping at about the family level, with inherent
 diversification potential inside a biblical time framework, is
 the interpretive model.
 
-## Design vs. "Timergence"
+## Time Is Not a Mechanism
 
-![Design vs. Timergence: the design explanation (a pocket watch and gear drawings) set against "timergence" (dice and an hourglass over a barren landscape), with the bacterial flagellum and its motor at the centre and the inference panel below](assets/019-design-vs-timergence-landscape.jpg)
+![Time Is Not a Mechanism: the Timergence Question - an hourglass and gears under the banner, with panels defining timergence, distinguishing time from a causal mechanism, listing the timergence claims, putting key questions to five origins domains, and closing with the evidence test and its takeaway, Possibility is not demonstration](assets/019-time-is-not-a-mechanism-landscape.jpg)
 
-*Plate (record [BWM-IL-019](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/019-design-vs-timergence-landscape.md)) - no Scripture reference is cited on the plate.*
+*Plate (record [BWM-IL-019](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/019-time-is-not-a-mechanism-landscape.md)) - no Scripture reference is cited on the plate.*
 
 The second Life Systems plate, supplied by the author and filed as
-supplied. It frames the origins question as a contest of
-explanations: did life's complex, purposeful features come from a
-Mind (design), or from blind processes given enough time
-("timergence")? Its centrepiece is the bacterial flagellum,
-labelled a natural molecular motor, and its conclusion panel states
-the design inference in terms of uniform experience: when we see
-complex, functional, information-rich systems - like a motor, a
-code, or a cell's machinery - the reasonable inference is design by
-a mind, not mindless processes plus time.
+supplied. It replaces the Design vs. "Timergence" plate originally
+filed under this number, at the author's direction before that
+filing merged. The plate defines the author's coined term:
+timergence is the critique of appeals to sufficient time, chance,
+trials, complexity, emergence, or multiple universes that assume an
+origin event is plausible without demonstrating causally sufficient
+mechanisms. Time, the plate argues, is a dimension of sequence and
+duration; by itself it does not create, organize, or generate new
+information. What an origins claim needs is a causal mechanism,
+shown sufficient to its outcome - the standard its three-step
+evidence test applies, and its key takeaway states in one line:
+possibility is not demonstration.
 
 !!! note "Status of these plates"
     Concept candidates at web resolution, with review gates pending; not print-ready. This plate was supplied by the author and filed as supplied; its filing audit is recorded in its record.
