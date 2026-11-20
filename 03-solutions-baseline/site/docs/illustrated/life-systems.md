@@ -26,5 +26,25 @@ as a design grouping at about the family level, with inherent
 diversification potential inside a biblical time framework, is
 the interpretive model.
 
+## Time Is Not a Mechanism
+
+![Time Is Not a Mechanism: the Timergence Question - an hourglass and gears under the banner, with panels defining timergence, distinguishing time from a causal mechanism, listing the timergence claims, putting key questions to five origins domains, and closing with the evidence test and its takeaway, Possibility is not demonstration](assets/019-time-is-not-a-mechanism-landscape.jpg)
+
+*Plate (record [BWM-IL-019](https://github.com/jdlongmire/biblical-worldmodel/blob/main/bwm-illustrated/illustrated-plates/019-time-is-not-a-mechanism-landscape.md)) - no Scripture reference is cited on the plate.*
+
+The second Life Systems plate, supplied by the author and filed as
+supplied. It replaces the Design vs. "Timergence" plate originally
+filed under this number, at the author's direction before that
+filing merged. The plate defines the author's coined term:
+timergence is the critique of appeals to sufficient time, chance,
+trials, complexity, emergence, or multiple universes that assume an
+origin event is plausible without demonstrating causally sufficient
+mechanisms. Time, the plate argues, is a dimension of sequence and
+duration; by itself it does not create, organize, or generate new
+information. What an origins claim needs is a causal mechanism,
+shown sufficient to its outcome - the standard its three-step
+evidence test applies, and its key takeaway states in one line:
+possibility is not demonstration.
+
 !!! note "Status of these plates"
     Concept candidates at web resolution, with review gates pending; not print-ready. This plate was supplied by the author and filed as supplied; its filing audit is recorded in its record.
